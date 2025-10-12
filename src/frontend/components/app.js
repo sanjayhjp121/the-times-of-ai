@@ -274,7 +274,7 @@ export class NewsApp {
             const audioTimestamp = Date.now();
             const editionInfo = `
                 <div class="edition-left">
-                    <a href="https://github.com/sanjayhjp121/ai-newspaper" target="_blank" rel="noopener noreferrer" class="how-it-works-link">
+                    <a href="https://github.com/sanjayhjp121/the-times-of-ai" target="_blank" rel="noopener noreferrer" class="how-it-works-link">
                         How was this news generated?
                     </a>
                     <span class="articles-count">${totalArticles} featured articles</span>

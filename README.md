@@ -4,7 +4,7 @@ AI-powered news aggregation platform that curates the latest AI and technology n
 
 ## 🚀 Live Demo
 
-**[https://sanjayhjp121.github.io/ai-newspaper](https://sanjayhjp121.github.io/ai-newspaper)**
+**[https://sanjayhjp121.github.io/the-times-of-ai](https://sanjayhjp121.github.io/the-times-of-ai)**
 
 ## How It Works
 
@@ -26,7 +26,7 @@ AI-powered news aggregation platform that curates the latest AI and technology n
 
 ```bash
 # Clone and setup
-git clone https://github.com/sanjayhjp121/ai-newspaper.git
+git clone https://github.com/sanjayhjp121/the-times-of-ai.git
 cd ai-newspaper
 
 # Install dependencies
