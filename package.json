@@ -1,0 +1,75 @@
+{
+  "name": "the-times-of-ai",
+  "version": "2.0.0",
+  "description": "🚀 Serverless AI-curated daily news aggregation platform - The Times of AI powered by GitHub Actions + Pages",
+  "main": "src/frontend/index.html",
+  "homepage": "https://sanjayhjp121.github.io/ai-newspaper",
+  "scripts": {
+    "dev": "python3 -m http.server 8000 --directory src/frontend",
+    "collect": "cd src/backend/collectors && python collect_news.py",
+    "generate-api": "python src/backend/api/generate_api.py",
+    "build": "npm run collect && npm run generate-api",
+    "start": "npm run build && npm run dev",
+    "monitor": "python serverless/monitor.py --url https://sanjayhjp121.github.io/ai-newspaper",
+    "monitor-json": "python serverless/monitor.py --url https://sanjayhjp121.github.io/ai-newspaper --json",
+    "health": "npm run monitor",
+    "deploy": "echo 'Deployment is automatic via GitHub Actions. Push to main branch or manually trigger workflow.'",
+    "install-backend": "cd src/backend && pip install -r requirements.txt",
+    "workflow-status": "gh run list --workflow=collect-news.yml --limit=5",
+    "workflow-logs": "gh run view --log",
+    "trigger-workflow": "gh workflow run collect-news.yml",
+    "debug-workflow": "gh workflow run collect-news.yml -f debug=true",
+    "test": "./scripts/test_architecture.sh",
+    "test-full": "./scripts/test_architecture.sh -t full",
+    "test-dry-run": "./scripts/test_architecture.sh -t dry-run",
+    "test-quick": "./scripts/test_architecture.sh -t quick",
+    "test-local": "python scripts/test_local_architecture.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjayhjp121/ai-newspaper.git"
+  },
+  "keywords": [
+    "serverless",
+    "news",
+    "ai",
+    "aggregation", 
+    "github-actions",
+    "github-pages",
+    "automation",
+    "rss",
+    "static-site",
+    "cdn"
+  ],
+  "author": "Siddanth Emani",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0",
+    "python": ">=3.11.0"
+  },
+  "architecture": {
+    "type": "serverless",
+    "backend": "github-actions",
+    "frontend": "github-pages",
+    "api": "static-json",
+    "cdn": "cloudflare",
+    "cost": "$0/month"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "optionalDependencies": {
+    "typescript": "^4.9.0",
+    "@types/node": "^18.0.0"
+  },
+  "serverless": {
+    "provider": "github",
+    "runtime": "python3.11",
+    "schedule": "rate(4 hours)",
+    "memory": "default",
+    "timeout": "15m",
+    "environment": {
+      "PYTHONUNBUFFERED": "1"
+    }
+  }
+}
