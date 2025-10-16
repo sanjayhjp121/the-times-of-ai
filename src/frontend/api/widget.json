@@ -1,16 +1,140 @@
 {
-  "updated": "2025-10-16T16:31:36.657419+00:00",
+  "updated": "2025-10-16T20:27:25.183091+00:00",
   "top_stories": [
     {
-      "article_id": "f996b33b047977f10b528c571d9f71c0",
-      "title": "Nscale inks massive AI infrastructure deal with Microsoft",
+      "article_id": "4fad51ad7ae6be850615e3c9775688fa",
+      "title": "Pinterest adds controls to let you  limit the amount of ‘AI slop’ in your feed",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/10/15/nscale-inks-massive-ai-infrastructure-deal-with-microsoft/",
-      "published_date": "2025-10-15T16:01:11+00:00",
+      "url": "https://techcrunch.com/2025/10/16/pinterest-adds-controls-to-let-you-limit-the-amount-of-ai-slop-in-your-feed/",
+      "published_date": "2025-10-16T15:15:50+00:00",
       "category": "Industry",
-      "description": "Nscale plans to deploy the chips over the next few years to three data centers in Europe and a fourth in the U.S.",
-      "author": "Rebecca Szkutak",
-      "content": "Nscale plans to deploy the chips over the next few years to three data centers in Europe and a fourth in the U.S.",
+      "description": "Pinterest is rolling out new controls that let users limit how much AI-generated content appears in their feeds. The company is also making its AI content labels more visible.",
+      "author": "Sarah Perez",
+      "content": "Pinterest is rolling out new controls that let users limit how much AI-generated content appears in their feeds. The company is also making its AI content labels more visible.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.92,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-16T20:27:25.138765+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.752,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-16T20:27:25.138768+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "c1c4cc55a0a2f4f404ca53b8b6e79423",
+      "title": "NVIDIA Blackwell Leads on SemiAnalysis InferenceMAX v1 Benchmarks",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-leads-on-new-semianalysis-inferencemax-benchmarks/",
+      "published_date": "2025-10-16T17:33:19+00:00",
+      "category": "Industry",
+      "description": "SemiAnalysis recently launched InferenceMAX v1, a new open source initiative that provides a comprehensive methodology to evaluate inference hardware...",
+      "author": "Farshad Ghodsian",
+      "content": "SemiAnalysis recently launched InferenceMAX v1, a new open source initiative that provides a comprehensive methodology to evaluate inference hardware...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-16T20:27:25.139430+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-16T20:27:25.139433+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "16d88dcd487eb2e49aaf081f4817b935",
+      "title": "How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/",
+      "published_date": "2025-10-14T16:33:57+00:00",
+      "category": "Industry",
+      "description": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
+      "author": "Srikanta Prasad, Utkarsh Arora, Raghav Tanaji, Nitin Surya, Gokulakrishnan Gopalakrishnan, Akhilesh Deepak Gotmare,",
+      "content": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -48,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-16T16:31:36.609359+00:00"
+        "consensus_timestamp": "2025-10-16T20:27:25.137596+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-16T16:31:36.609362+00:00"
+        "timestamp": "2025-10-16T20:27:25.137599+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "bf67890ac5813704f4ca9739622163e2",
-      "title": "NVIDIA, Partners Drive Next-Gen Efficient Gigawatt AI Factories in Buildup for Vera Rubin",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/gigawatt-ai-factories-ocp-vera-rubin/",
-      "published_date": "2025-10-13T15:00:05+00:00",
+      "article_id": "6c5ce7f40f1dc457b0014b4d71b60669",
+      "title": "Introducing CodeMender: an AI agent for code security",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+      "published_date": "2025-10-06T12:59:18+00:00",
       "category": "Industry",
-      "description": "At the OCP Global Summit, NVIDIA is offering a glimpse into the future of gigawatt AI factories. NVIDIA will unveil specs of the NVIDIA Vera Rubin NVL144 MGX-generation open architecture rack servers, which more than 50 MGX partners are gearing up for along with ecosystem support for NVIDIA Kyber, which connects 576 Rubin Ultra GPUs, Read Article",
-      "author": "Harry Petty",
-      "content": "At the OCP Global Summit, NVIDIA is offering a glimpse into the future of gigawatt AI factories. NVIDIA will unveil specs of the NVIDIA Vera Rubin NVL144 MGX-generation open architecture rack servers, which more than 50 MGX partners are gearing up for along with ecosystem support for NVIDIA Kyber, which connects 576 Rubin Ultra GPUs, Read Article",
+      "description": "CodeMender helps patch critical software vulnerabilities, and rewrites and secures existing code.",
+      "author": "",
+      "content": "CodeMender helps patch critical software vulnerabilities, and rewrites and secures existing code.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "novelty_score": 0.85,
+        "impact_score": 0.9,
+        "overall_score": 0.9025000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-16T16:31:36.608753+00:00"
+        "consensus_timestamp": "2025-10-16T20:27:25.140438+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,82 +245,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-16T16:31:36.608755+00:00"
+        "timestamp": "2025-10-16T20:27:25.140441+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "772af17ba8f1d0b2817eefefa4501008",
-      "title": "Enable Gang Scheduling and Workload Prioritization in Ray with NVIDIA KAI Scheduler",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/enable-gang-scheduling-and-workload-prioritization-in-ray-with-nvidia-kai-scheduler/",
-      "published_date": "2025-10-03T14:22:41+00:00",
+      "article_id": "3889f9bdcac05a35da77c50fdcd65b7c",
+      "title": "Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/live-dgx-spark-delivery/",
+      "published_date": "2025-10-14T00:31:39+00:00",
       "category": "Industry",
-      "description": "NVIDIA KAI Scheduler is now natively integrated with KubeRay, bringing the same scheduling engine that powers high‑demand and high-scale environments in...",
-      "author": "Ekin Karabulut",
-      "content": "NVIDIA KAI Scheduler is now natively integrated with KubeRay, bringing the same scheduling engine that powers high‑demand and high-scale environments in...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-16T16:31:36.610673+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-16T16:31:36.610676+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d9f777f4d94a5382603c175d182dcdb1",
-      "title": "Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/",
-      "published_date": "2025-10-06T18:03:45+00:00",
-      "category": "Industry",
-      "description": "Imagine a platform where every developer can unlock the full spectrum of AI: text, images, audio, and video. This OpenAI DevDay, Azure AI Foundry is making that vision real. With today’s launch of OpenAI GPT-image-1-mini, GPT-realtime-mini, and GPT-audio-mini, plus major safety upgrades to GPT-5, you now have the ultimate toolkit to create, experiment, and scale multimodal solutions. The post Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution appeared first on Microsoft...",
-      "author": "Steve Sweetman and Naomi Moneypenny",
-      "content": "Imagine a platform where every developer can unlock the full spectrum of AI: text, images, audio, and video. This OpenAI DevDay, Azure AI Foundry is making that vision real. With today’s launch of OpenAI GPT-image-1-mini, GPT-realtime-mini, and GPT-audio-mini, plus major safety upgrades to GPT-5, you now have the ultimate toolkit to create, experiment, and scale multimodal solutions. The post Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution appeared first on Microsoft...",
+      "description": "The next AI revolution starts where rockets launch. NVIDIA DGX Spark’s first stop: Starbase, Texas. NVIDIA founder and CEO Jensen Huang arrived at the SpaceX facility — amid towering engines and gleaming steel — to hand-deliver the company’s just-launched DGX Spark to Elon Musk. Huang arrived walking past rows of engineers who waved and grinned. Read Article",
+      "author": "NVIDIA Newsroom",
+      "content": "The next AI revolution starts where rockets launch. NVIDIA DGX Spark’s first stop: Starbase, Texas. NVIDIA founder and CEO Jensen Huang arrived at the SpaceX facility — amid towering engines and gleaming steel — to hand-deliver the company’s just-launched DGX Spark to Elon Musk. Huang arrived walking past rows of engineers who waved and grinned. Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -231,83 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.92,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-16T16:31:36.606755+00:00"
+        "consensus_timestamp": "2025-10-16T20:27:25.138405+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.752,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-16T16:31:36.606758+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c6a653d5c71e5fdadc1a0181a7571c85",
-      "title": "Building the 800 VDC Ecosystem for Efficient, Scalable AI Factories",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-the-800-vdc-ecosystem-for-efficient-scalable-ai-factories/",
-      "published_date": "2025-10-13T15:00:00+00:00",
-      "category": "Industry",
-      "description": "For decades, traditional data centers have been vast halls of servers with power and cooling as secondary considerations. The rise of generative AI has changed...",
-      "author": "Neeraj Srivastava",
-      "content": "For decades, traditional data centers have been vast halls of servers with power and cooling as secondary considerations. The rise of generative AI has changed...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-16T16:31:36.610226+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-16T16:31:36.610230+00:00"
+        "timestamp": "2025-10-16T20:27:25.138408+00:00"
       },
       "article_type": "article"
     }
