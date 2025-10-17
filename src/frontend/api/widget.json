@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-17T16:30:00.816853+00:00",
+  "updated": "2025-10-17T20:27:18.299065+00:00",
   "top_stories": [
     {
       "article_id": "769bdc893a2a17ede0142662c77e0eda",
@@ -12,12 +12,12 @@
       "author": "Ivan Mehta",
       "content": "Starting in the coming months, parents will be able to turn off chats with AI characters entirely for teens. This action won't block access to the Meta AI chatbot -- the company's general-purpose AI chatbot -- which will only discuss age-appropriate content.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,103 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.770470+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.247879+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.770473+00:00"
+        "timestamp": "2025-10-17T20:27:18.247882+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "6fa5e4747bbb03e85c73f2d63b31db01",
-      "title": "Scala development in Amazon SageMaker Studio with Almond kernel",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scala-development-in-amazon-sagemaker-studio-with-almond-kernel/",
-      "published_date": "2025-10-15T16:35:01+00:00",
+      "article_id": "d60334dfbb0ae9fec7b43e76889bf3dc",
+      "title": "Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/",
+      "published_date": "2025-10-14T12:30:27+00:00",
       "category": "Industry",
-      "description": "This post provides a comprehensive guide on integrating the Almond kernel into SageMaker Studio, offering a solution for Scala development within the platform.",
-      "author": "Varun Rajan",
-      "content": "This post provides a comprehensive guide on integrating the Almond kernel into SageMaker Studio, offering a solution for Scala development within the platform.",
+      "description": "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide. By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Deloitte and Core42, to Read Article",
+      "author": "Asad Ansari",
+      "content": "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide. By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Deloitte and Core42, to Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.99,
-        "overall_score": 0.933,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.769488+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-17T16:30:00.769491+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2e29845a3d0c2e4600679496ef2e9a9a",
-      "title": "Building smarter AI agents: AgentCore long-term memory deep dive",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-smarter-ai-agents-agentcore-long-term-memory-deep-dive/",
-      "published_date": "2025-10-15T18:22:57+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore how Amazon Bedrock AgentCore Memory transforms raw conversational data into persistent, actionable knowledge through sophisticated extraction, consolidation, and retrieval mechanisms that mirror human cognitive processes. The system tackles the complex challenge of building AI agents that don't just store conversations but extract meaningful insights, merge related information across time, and maintain coherent memory stores that enable truly context-aware interactions.",
-      "author": "Akarsha Sehwag",
-      "content": "In this post, we explore how Amazon Bedrock AgentCore Memory transforms raw conversational data into persistent, actionable knowledge through sophisticated extraction, consolidation, and retrieval mechanisms that mirror human cognitive processes. The system tackles the complex challenge of building AI agents that don't just store conversations but extract meaningful insights, merge related information across time, and maintain coherent memory stores that enable truly context-aware interactions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.9035,
+        "overall_score": 0.931,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -169,40 +107,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.769399+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.247151+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.769402+00:00"
+        "timestamp": "2025-10-17T20:27:18.247154+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "16d88dcd487eb2e49aaf081f4817b935",
-      "title": "How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/",
-      "published_date": "2025-10-14T16:33:57+00:00",
+      "article_id": "29151bdb7f8f7a254f0f8c5b420c241e",
+      "title": "TSMC’s Q3 Earnings Mark the Start of 2nm Chip Production",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/deep-tech/tsmcs-q3-earnings-mark-the-start-of-2nm-chip-production/",
+      "published_date": "2025-10-16T10:58:46+00:00",
       "category": "Industry",
-      "description": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
-      "author": "Srikanta Prasad, Utkarsh Arora, Raghav Tanaji, Nitin Surya, Gokulakrishnan Gopalakrishnan, Akhilesh Deepak Gotmare,",
-      "content": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
+      "description": "The company confirmed that 2nm production (N2) will begin this quarter, with the N2P node and A16 process scheduled for 2026. The post TSMC’s Q3 Earnings Mark the Start of 2nm Chip Production appeared first on Analytics India Magazine.",
+      "author": "Sanjana Gupta",
+      "content": "The company confirmed that 2nm production (N2) will begin this quarter, with the N2P node and A16 process scheduled for 2026. The post TSMC’s Q3 Earnings Mark the Start of 2nm Chip Production appeared first on Analytics India Magazine.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9035,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -230,42 +168,104 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.769576+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.250562+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.769578+00:00"
+        "timestamp": "2025-10-17T20:27:18.250564+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f16a444163223cf64ccc111e658e6e61",
-      "title": "Plex Coffee delivers fast service and personal connections with ChatGPT Business",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/plex-coffee",
-      "published_date": "2025-10-15T00:00:00+00:00",
+      "article_id": "6c5ce7f40f1dc457b0014b4d71b60669",
+      "title": "Introducing CodeMender: an AI agent for code security",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+      "published_date": "2025-10-06T12:59:18+00:00",
       "category": "Industry",
-      "description": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
+      "description": "CodeMender helps patch critical software vulnerabilities, and rewrites and secures existing code.",
       "author": "",
-      "content": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
+      "content": "CodeMender helps patch critical software vulnerabilities, and rewrites and secures existing code.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-17T20:27:18.249278+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-17T20:27:18.249281+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "222e7f2b41b7f09f6dd7aabe9e273ed9",
+      "title": "CyberArk Named Leader in 2025 Gartner Magic Quadrant for PAM",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/cyberark-named-leader-in-2025-gartner-magic-quadrant-for-pam/",
+      "published_date": "2025-10-17T12:30:00+00:00",
+      "category": "Industry",
+      "description": "CyberArk (NASDAQ: CYBR), the global leader in identity security, today announced it has been named a Leader in the 2025 Gartner® Magic Quadrant™ for Privileged Access Management1. Recognized as a Leader for the seventh consecutive time, CyberArk is positioned furthest in Completeness of Vision which, from the company’s standpoint, reflects CyberArk’s commitment to defining... The post CyberArk Named Leader in 2025 Gartner Magic Quadrant for PAM first appeared on AI-Tech Park.",
+      "author": "Business Wire",
+      "content": "CyberArk (NASDAQ: CYBR), the global leader in identity security, today announced it has been named a Leader in the 2025 Gartner® Magic Quadrant™ for Privileged Access Management1. Recognized as a Leader for the seventh consecutive time, CyberArk is positioned furthest in Completeness of Vision which, from the company’s standpoint, reflects CyberArk’s commitment to defining... The post CyberArk Named Leader in 2025 Gartner Magic Quadrant for PAM first appeared on AI-Tech Park.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.95,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.768240+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.249588+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.77,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.768243+00:00"
+        "timestamp": "2025-10-17T20:27:18.249591+00:00"
       },
       "article_type": "article"
     }

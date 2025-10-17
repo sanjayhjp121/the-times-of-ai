@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-17T16:30:00.813712+00:00",
+  "generated_at": "2025-10-17T20:27:18.296169+00:00",
   "articles": [
     {
       "article_id": "769bdc893a2a17ede0142662c77e0eda",
@@ -12,12 +12,12 @@
       "author": "Ivan Mehta",
       "content": "Starting in the coming months, parents will be able to turn off chats with AI characters entirely for teens. This action won't block access to the Meta AI chatbot -- the company's general-purpose AI chatbot -- which will only discuss age-appropriate content.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,103 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.770470+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.247879+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.770473+00:00"
+        "timestamp": "2025-10-17T20:27:18.247882+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "6fa5e4747bbb03e85c73f2d63b31db01",
-      "title": "Scala development in Amazon SageMaker Studio with Almond kernel",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scala-development-in-amazon-sagemaker-studio-with-almond-kernel/",
-      "published_date": "2025-10-15T16:35:01+00:00",
+      "article_id": "d60334dfbb0ae9fec7b43e76889bf3dc",
+      "title": "Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/",
+      "published_date": "2025-10-14T12:30:27+00:00",
       "category": "Industry",
-      "description": "This post provides a comprehensive guide on integrating the Almond kernel into SageMaker Studio, offering a solution for Scala development within the platform.",
-      "author": "Varun Rajan",
-      "content": "This post provides a comprehensive guide on integrating the Almond kernel into SageMaker Studio, offering a solution for Scala development within the platform.",
+      "description": "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide. By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Deloitte and Core42, to Read Article",
+      "author": "Asad Ansari",
+      "content": "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide. By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Deloitte and Core42, to Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.99,
-        "overall_score": 0.933,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.769488+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-17T16:30:00.769491+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2e29845a3d0c2e4600679496ef2e9a9a",
-      "title": "Building smarter AI agents: AgentCore long-term memory deep dive",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-smarter-ai-agents-agentcore-long-term-memory-deep-dive/",
-      "published_date": "2025-10-15T18:22:57+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore how Amazon Bedrock AgentCore Memory transforms raw conversational data into persistent, actionable knowledge through sophisticated extraction, consolidation, and retrieval mechanisms that mirror human cognitive processes. The system tackles the complex challenge of building AI agents that don't just store conversations but extract meaningful insights, merge related information across time, and maintain coherent memory stores that enable truly context-aware interactions.",
-      "author": "Akarsha Sehwag",
-      "content": "In this post, we explore how Amazon Bedrock AgentCore Memory transforms raw conversational data into persistent, actionable knowledge through sophisticated extraction, consolidation, and retrieval mechanisms that mirror human cognitive processes. The system tackles the complex challenge of building AI agents that don't just store conversations but extract meaningful insights, merge related information across time, and maintain coherent memory stores that enable truly context-aware interactions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.9035,
+        "overall_score": 0.931,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -169,40 +107,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.769399+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.247151+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.769402+00:00"
+        "timestamp": "2025-10-17T20:27:18.247154+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "16d88dcd487eb2e49aaf081f4817b935",
-      "title": "How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/",
-      "published_date": "2025-10-14T16:33:57+00:00",
+      "article_id": "29151bdb7f8f7a254f0f8c5b420c241e",
+      "title": "TSMC’s Q3 Earnings Mark the Start of 2nm Chip Production",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/deep-tech/tsmcs-q3-earnings-mark-the-start-of-2nm-chip-production/",
+      "published_date": "2025-10-16T10:58:46+00:00",
       "category": "Industry",
-      "description": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
-      "author": "Srikanta Prasad, Utkarsh Arora, Raghav Tanaji, Nitin Surya, Gokulakrishnan Gopalakrishnan, Akhilesh Deepak Gotmare,",
-      "content": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
+      "description": "The company confirmed that 2nm production (N2) will begin this quarter, with the N2P node and A16 process scheduled for 2026. The post TSMC’s Q3 Earnings Mark the Start of 2nm Chip Production appeared first on Analytics India Magazine.",
+      "author": "Sanjana Gupta",
+      "content": "The company confirmed that 2nm production (N2) will begin this quarter, with the N2P node and A16 process scheduled for 2026. The post TSMC’s Q3 Earnings Mark the Start of 2nm Chip Production appeared first on Analytics India Magazine.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9035,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -230,35 +168,283 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.769576+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.250562+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.769578+00:00"
+        "timestamp": "2025-10-17T20:27:18.250564+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f16a444163223cf64ccc111e658e6e61",
-      "title": "Plex Coffee delivers fast service and personal connections with ChatGPT Business",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/plex-coffee",
-      "published_date": "2025-10-15T00:00:00+00:00",
+      "article_id": "6c5ce7f40f1dc457b0014b4d71b60669",
+      "title": "Introducing CodeMender: an AI agent for code security",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+      "published_date": "2025-10-06T12:59:18+00:00",
       "category": "Industry",
-      "description": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
+      "description": "CodeMender helps patch critical software vulnerabilities, and rewrites and secures existing code.",
       "author": "",
-      "content": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
+      "content": "CodeMender helps patch critical software vulnerabilities, and rewrites and secures existing code.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-17T20:27:18.249278+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-17T20:27:18.249281+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "222e7f2b41b7f09f6dd7aabe9e273ed9",
+      "title": "CyberArk Named Leader in 2025 Gartner Magic Quadrant for PAM",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/cyberark-named-leader-in-2025-gartner-magic-quadrant-for-pam/",
+      "published_date": "2025-10-17T12:30:00+00:00",
+      "category": "Industry",
+      "description": "CyberArk (NASDAQ: CYBR), the global leader in identity security, today announced it has been named a Leader in the 2025 Gartner® Magic Quadrant™ for Privileged Access Management1. Recognized as a Leader for the seventh consecutive time, CyberArk is positioned furthest in Completeness of Vision which, from the company’s standpoint, reflects CyberArk’s commitment to defining... The post CyberArk Named Leader in 2025 Gartner Magic Quadrant for PAM first appeared on AI-Tech Park.",
+      "author": "Business Wire",
+      "content": "CyberArk (NASDAQ: CYBR), the global leader in identity security, today announced it has been named a Leader in the 2025 Gartner® Magic Quadrant™ for Privileged Access Management1. Recognized as a Leader for the seventh consecutive time, CyberArk is positioned furthest in Completeness of Vision which, from the company’s standpoint, reflects CyberArk’s commitment to defining... The post CyberArk Named Leader in 2025 Gartner Magic Quadrant for PAM first appeared on AI-Tech Park.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-17T20:27:18.249588+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-17T20:27:18.249591+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "233ec0a69a1ab7dc63cc66ea16e5f74b",
+      "title": "Google DeepMind and Yale Unveil 27B-Parameter AI Model That Identifies New Cancer Therapy Pathway",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-news-updates/google-deepmind-and-yale-unveil-27b-parameter-ai-model-that-identifies-new-cancer-therapy-pathway/",
+      "published_date": "2025-10-17T04:04:31+00:00",
+      "category": "Industry",
+      "description": "This foundation model has not only decoded cellular language but has also generated and experimentally validated a new hypothesis for cancer treatment. The post Google DeepMind and Yale Unveil 27B-Parameter AI Model That Identifies New Cancer Therapy Pathway appeared first on Analytics India Magazine.",
+      "author": "Merin Susan John",
+      "content": "This foundation model has not only decoded cellular language but has also generated and experimentally validated a new hypothesis for cancer treatment. The post Google DeepMind and Yale Unveil 27B-Parameter AI Model That Identifies New Cancer Therapy Pathway appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-17T20:27:18.250261+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-17T20:27:18.250264+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6faae7ab4285978e029e69d5941dc183",
+      "title": "Connect Amazon Quick Suite to enterprise apps and agents with MCP",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-quick-suite-to-enterprise-apps-and-agents-with-mcp/",
+      "published_date": "2025-10-13T17:21:02+00:00",
+      "category": "Industry",
+      "description": "In this post, we explore how Amazon Quick Suite's Model Context Protocol (MCP) client enables secure, standardized connections to enterprise applications and AI agents, eliminating the need for complex custom integrations. You'll discover how to set up MCP Actions integrations with popular enterprise tools like Atlassian Jira and Confluence, AWS Knowledge MCP Server, and Amazon Bedrock AgentCore Gateway to create a collaborative environment where people and AI agents can seamlessly work...",
+      "author": "Abhinav Jawadekar",
+      "content": "In this post, we explore how Amazon Quick Suite's Model Context Protocol (MCP) client enables secure, standardized connections to enterprise applications and AI agents, eliminating the need for complex custom integrations. You'll discover how to set up MCP Actions integrations with popular enterprise tools like Atlassian Jira and Confluence, AWS Knowledge MCP Server, and Amazon Bedrock AgentCore Gateway to create a collaborative environment where people and AI agents can seamlessly work...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9099999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-17T20:27:18.246836+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-17T20:27:18.246839+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d7d345d645463c6521e60483539bc744",
+      "title": "Digital version of Veteran Card launched for quicker and easier access to support",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/digital-version-of-veteran-card-launched-for-quicker-and-easier-access-to-support",
+      "published_date": "2025-10-16T23:01:00+00:00",
+      "category": "Government",
+      "description": "Veterans can now apply for and download a secure digital version of the HM Armed Forces Veteran Card via the GOV.UK One Login app.",
+      "author": "",
+      "content": "Veterans can now apply for and download a secure digital version of the HM Armed Forces Veteran Card via the GOV.UK One Login app.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -296,7 +482,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.768240+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.244526+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,20 +493,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.768243+00:00"
+        "timestamp": "2025-10-17T20:27:18.244529+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bc25c46b02c092888c6a944d9b35b520",
-      "title": "Growing impact and scale with ChatGPT",
+      "article_id": "ed3c5c0c42e198323a9c978dc50d55e9",
+      "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
       "source": "openai_blog",
-      "url": "https://openai.com/index/hibob",
-      "published_date": "2025-10-08T08:00:00+00:00",
+      "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
+      "published_date": "2025-10-13T06:00:00+00:00",
       "category": "Industry",
-      "description": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
+      "description": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
       "author": "",
-      "content": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
+      "content": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -358,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.768515+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.245321+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,20 +555,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.768518+00:00"
+        "timestamp": "2025-10-17T20:27:18.245324+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "900b10fb805004ee337e643cd586103b",
-      "title": "Leveling up as a developer: The soft skills that define global engineering leadership",
-      "source": "dataconomy",
-      "url": "https://dataconomy.com/2025/10/17/leveling-up-as-a-developer-the-soft-skills-that-define-global-engineering-leadership/",
-      "published_date": "2025-10-17T15:29:47+00:00",
+      "article_id": "728ce8b1075ccee0f8ba75443d650493",
+      "title": "Bittensor (TAO) Price Prediction: 2025, 2026, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/bittensor-tao-price-prediction",
+      "published_date": "2025-10-17T14:16:28+00:00",
       "category": "Industry",
-      "description": "Every developer begins the same way, solving problems one pull request at a time. The early years of a software career are shaped by syntax, frameworks, and clean architecture. But over time, as the problems grow larger and the systems more interconnected, something subtle happens: technical mastery stops being enough. Having built and led engineering […]",
-      "author": "Kerem Gülen",
-      "content": "Every developer begins the same way, solving problems one pull request at a time. The early years of a software career are shaped by syntax, frameworks, and clean architecture. But over time, as the problems grow larger and the systems more interconnected, something subtle happens: technical mastery stops being enough. Having built and led engineering […]",
+      "description": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling confident about this TAO price prediction? You can trade Bittensor on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Bittensor (TAO) is a …...",
+      "author": "Ishan Jain",
+      "content": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling confident about this TAO price prediction? You can trade Bittensor on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Bittensor (TAO) is a …...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -420,7 +606,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.773582+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.250794+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,26 +617,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.773584+00:00"
+        "timestamp": "2025-10-17T20:27:18.250797+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c9f14444511f89c7d677ccfdd2dae2b7",
-      "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-amd-strategic-partnership",
-      "published_date": "2025-10-06T06:00:00+00:00",
-      "category": "Industry",
-      "description": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-10-17T20:22:51.537303+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "author": "",
-      "content": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -482,7 +668,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.768700+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.244263+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,20 +679,206 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.768703+00:00"
+        "timestamp": "2025-10-17T20:27:18.244267+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "844272adb269bb4c9e73ef2be6bcbdbe",
-      "title": "NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency",
+      "article_id": "907f3e6caf7115e6a6aa2976bcf48cf1",
+      "title": "Iterative fine-tuning on Amazon Bedrock for strategic model improvement",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/iterative-fine-tuning-on-amazon-bedrock-for-strategic-model-improvement/",
+      "published_date": "2025-10-16T23:11:28+00:00",
+      "category": "Industry",
+      "description": "Organizations often face challenges when implementing single-shot fine-tuning approaches for their generative AI models. The single-shot fine-tuning method involves selecting training data, configuring hyperparameters, and hoping the results meet expectations without the ability to make incremental adjustments. Single-shot fine-tuning frequently leads to suboptimal results and requires starting the entire process from scratch when improvements are […]",
+      "author": "Yanyan Zhang",
+      "content": "Organizations often face challenges when implementing single-shot fine-tuning approaches for their generative AI models. The single-shot fine-tuning method involves selecting training data, configuring hyperparameters, and hoping the results meet expectations without the ability to make incremental adjustments. Single-shot fine-tuning frequently leads to suboptimal results and requires starting the entire process from scratch when improvements are […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-17T20:27:18.246257+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-17T20:27:18.246260+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "40fb1d29d7efb5604e4bde3b6ef2aa98",
+      "title": "Configure and verify a distributed training cluster with AWS Deep Learning Containers on Amazon EKS",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/configure-and-verify-a-distributed-training-cluster-with-aws-deep-learning-containers-on-amazon-eks/",
+      "published_date": "2025-10-15T16:39:19+00:00",
+      "category": "Industry",
+      "description": "Misconfiguration issues in distributed training with Amazon EKS can be prevented following a systematic approach to launch required components and verify their proper configuration. This post walks through the steps to set up and verify an EKS cluster for training large models using DLCs.",
+      "author": "Meryem Ozcelik",
+      "content": "Misconfiguration issues in distributed training with Amazon EKS can be prevented following a systematic approach to launch required components and verify their proper configuration. This post walks through the steps to set up and verify an EKS cluster for training large models using DLCs.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-17T20:27:18.246479+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-17T20:27:18.246481+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "16d88dcd487eb2e49aaf081f4817b935",
+      "title": "How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/",
+      "published_date": "2025-10-14T16:33:57+00:00",
+      "category": "Industry",
+      "description": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
+      "author": "Srikanta Prasad, Utkarsh Arora, Raghav Tanaji, Nitin Surya, Gokulakrishnan Gopalakrishnan, Akhilesh Deepak Gotmare,",
+      "content": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-17T20:27:18.246611+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-17T20:27:18.246614+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2635da71e9c9bdf0ec6f097390330f3c",
+      "title": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/blackwell-inferencemax-benchmark-results/",
-      "published_date": "2025-10-09T23:22:25+00:00",
+      "url": "https://blogs.nvidia.com/blog/open-source-ai-week/",
+      "published_date": "2025-10-17T17:29:33+00:00",
       "category": "Industry",
-      "description": "NVIDIA Blackwell swept the new SemiAnalysis InferenceMAX v1 benchmarks, delivering the highest performance and best overall efficiency. InferenceMax v1 is the first independent benchmark to measure total cost of compute across diverse models and real-world scenarios. Best return on investment: NVIDIA GB200 NVL72 delivers unmatched AI factory economics — a $5 million investment generates $75 Read Article",
-      "author": "Dion Harris",
-      "content": "NVIDIA Blackwell swept the new SemiAnalysis InferenceMAX v1 benchmarks, delivering the highest performance and best overall efficiency. InferenceMax v1 is the first independent benchmark to measure total cost of compute across diverse models and real-world scenarios. Best return on investment: NVIDIA GB200 NVL72 delivers unmatched AI factory economics — a $5 million investment generates $75 Read Article",
+      "description": "Open Source AI Week kicks off on Monday with a series of hackathons, workshops and meetups spotlighting the latest advances in AI, machine learning and open-source innovation. The event brings together leading organizations, researchers and open-source communities to share knowledge, collaborate on tools and explore how openness accelerates AI development. NVIDIA continues to expand access Read Article",
+      "author": "Anish Maddipoti",
+      "content": "Open Source AI Week kicks off on Monday with a series of hackathons, workshops and meetups spotlighting the latest advances in AI, machine learning and open-source innovation. The event brings together leading organizations, researchers and open-source communities to share knowledge, collaborate on tools and explore how openness accelerates AI development. NVIDIA continues to expand access Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -544,7 +916,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.770164+00:00"
+        "consensus_timestamp": "2025-10-17T20:27:18.247017+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,379 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-17T16:30:00.770167+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "233ec0a69a1ab7dc63cc66ea16e5f74b",
-      "title": "Google DeepMind and Yale Unveil 27B-Parameter AI Model That Identifies New Cancer Therapy Pathway",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-news-updates/google-deepmind-and-yale-unveil-27b-parameter-ai-model-that-identifies-new-cancer-therapy-pathway/",
-      "published_date": "2025-10-17T04:04:31+00:00",
-      "category": "Industry",
-      "description": "This foundation model has not only decoded cellular language but has also generated and experimentally validated a new hypothesis for cancer treatment. The post Google DeepMind and Yale Unveil 27B-Parameter AI Model That Identifies New Cancer Therapy Pathway appeared first on Analytics India Magazine.",
-      "author": "Merin Susan John",
-      "content": "This foundation model has not only decoded cellular language but has also generated and experimentally validated a new hypothesis for cancer treatment. The post Google DeepMind and Yale Unveil 27B-Parameter AI Model That Identifies New Cancer Therapy Pathway appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.773066+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-17T16:30:00.773069+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3e785b3b8b7f7b101593d2750deb68bc",
-      "title": "Beyond vibes: How to properly select the right LLM for the right task",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/",
-      "published_date": "2025-10-17T16:09:22+00:00",
-      "category": "Industry",
-      "description": "In this post, we discuss an approach that can guide you to build comprehensive and empirically driven evaluations that can help you make better decisions when selecting the right model for your task.",
-      "author": "Claudio Mazzoni",
-      "content": "In this post, we discuss an approach that can guide you to build comprehensive and empirically driven evaluations that can help you make better decisions when selecting the right model for your task.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.769165+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-17T16:30:00.769168+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "19b7edfad83e118d926f6e4da49abd76",
-      "title": "Optimizing document AI and structured outputs by fine-tuning Amazon Nova Models and on-demand inference",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-document-ai-and-structured-outputs-by-fine-tuning-amazon-nova-models-and-on-demand-inference/",
-      "published_date": "2025-10-16T18:32:55+00:00",
-      "category": "Industry",
-      "description": "This post provides a comprehensive hands-on guide to fine-tune Amazon Nova Lite for document processing tasks, with a focus on tax form data extraction. Using our open-source GitHub repository code sample, we demonstrate the complete workflow from data preparation to model deployment.",
-      "author": "Sharon Li",
-      "content": "This post provides a comprehensive hands-on guide to fine-tune Amazon Nova Lite for document processing tasks, with a focus on tax form data extraction. Using our open-source GitHub repository code sample, we demonstrate the complete workflow from data preparation to model deployment.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.845,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.769307+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-17T16:30:00.769310+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0698d2d1f3fc0724cd71f94aef98c12a",
-      "title": "Transforming the physical world with AI: the next frontier in intelligent automation",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/transforming-the-physical-world-with-ai-the-next-frontier-in-intelligent-automation/",
-      "published_date": "2025-10-13T22:21:26+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore how Physical AI represents the next frontier in intelligent automation, where artificial intelligence transcends digital boundaries to perceive, understand, and manipulate the tangible world around us.",
-      "author": "Sri Elaprolu, Alla Simoneau, Paul Amadeo, and Randi Larson",
-      "content": "In this post, we explore how Physical AI represents the next frontier in intelligent automation, where artificial intelligence transcends digital boundaries to perceive, understand, and manipulate the tangible world around us.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.845,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.769620+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-17T16:30:00.769622+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ed3c5c0c42e198323a9c978dc50d55e9",
-      "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
-      "published_date": "2025-10-13T06:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
-      "author": "",
-      "content": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.768380+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-17T16:30:00.768382+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "813cd69bf515de46dd81a2a6ab4cbbf5",
-      "title": "Improve Variant Calling Accuracy with NVIDIA Parabricks",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/improve-variant-calling-accuracy-with-nvidia-parabricks/",
-      "published_date": "2025-10-14T13:00:00+00:00",
-      "category": "Industry",
-      "description": "Built for data scientists and bioinformaticians, NVIDIA Parabricks is a scalable genomics software suite for secondary analysis. Providing GPU-accelerated...",
-      "author": "TJ Chen",
-      "content": "Built for data scientists and bioinformaticians, NVIDIA Parabricks is a scalable genomics software suite for secondary analysis. Providing GPU-accelerated...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-17T16:30:00.771365+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-17T16:30:00.771368+00:00"
+        "timestamp": "2025-10-17T20:27:18.247019+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 180.89646005630493,
+    "processing_time": 192.90197038650513,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 136,
+      "total_processed": 141,
       "candidates": {
-        "headlines": 16,
-        "articles": 120,
+        "headlines": 19,
+        "articles": 122,
         "research_papers": 0
       },
       "selected": {
