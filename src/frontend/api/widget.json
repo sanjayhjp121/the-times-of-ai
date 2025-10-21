@@ -1,23 +1,23 @@
 {
-  "updated": "2025-10-21T01:43:25.844324+00:00",
+  "updated": "2025-10-21T04:29:00.160757+00:00",
   "top_stories": [
     {
-      "article_id": "f5a7404065d11e3bdf4be09cc855026f",
-      "title": "NIH launches consortium to reduce risk of stillbirth in the U.S.",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-consortium-reduce-risk-stillbirth-us",
-      "published_date": "2025-10-21T01:38:59.808902+00:00",
-      "category": "Government",
-      "description": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
-      "author": "",
-      "content": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
+      "article_id": "c89dc29a91490809195ecd5a98328e00",
+      "title": "The man betting everything on AI and Bill Belichick",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/10/20/the-man-betting-everything-on-ai-and-bill-belichick/",
+      "published_date": "2025-10-20T08:10:52+00:00",
+      "category": "Industry",
+      "description": "UNC Chancellor Lee Roberts is making big bets on AI and Bill Belichick, and he sounds like a Silicon Valley CEO while doing it.",
+      "author": "Connie Loizos",
+      "content": "UNC Chancellor Lee Roberts is making big bets on AI and Bill Belichick, and he sounds like a Silicon Valley CEO while doing it.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,41 +44,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.799015+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.117659+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-21T04:29:00.117662+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "40fb1d29d7efb5604e4bde3b6ef2aa98",
+      "title": "Configure and verify a distributed training cluster with AWS Deep Learning Containers on Amazon EKS",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/configure-and-verify-a-distributed-training-cluster-with-aws-deep-learning-containers-on-amazon-eks/",
+      "published_date": "2025-10-15T16:39:19+00:00",
+      "category": "Industry",
+      "description": "Misconfiguration issues in distributed training with Amazon EKS can be prevented following a systematic approach to launch required components and verify their proper configuration. This post walks through the steps to set up and verify an EKS cluster for training large models using DLCs.",
+      "author": "Meryem Ozcelik",
+      "content": "Misconfiguration issues in distributed training with Amazon EKS can be prevented following a systematic approach to launch required components and verify their proper configuration. This post walks through the steps to set up and verify an EKS cluster for training large models using DLCs.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-21T04:29:00.116133+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.799018+00:00"
+        "timestamp": "2025-10-21T04:29:00.116136+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "67844a148aab01baebc2662fa13195a6",
-      "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/discover/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/",
-      "published_date": "2025-10-16T12:00:00+00:00",
+      "article_id": "60a9155431720e2f3d4a3a9412b14976",
+      "title": "Build a Log Analysis Multi-Agent Self-Corrective RAG System with NVIDIA Nemotron",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/build-a-log-analysis-multi-agent-self-corrective-rag-system-with-nvidia-nemotron/",
+      "published_date": "2025-10-10T16:00:00+00:00",
       "category": "Industry",
-      "description": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models.",
-      "author": "",
-      "content": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models.",
+      "description": "Logs are the lifeblood of modern systems. But as applications scale, logs often grow into endless walls of text—noisy, repetitive, and overwhelming. Hunting...",
+      "author": "Prashant Bhende",
+      "content": "Logs are the lifeblood of modern systems. But as applications scale, logs often grow into endless walls of text—noisy, repetitive, and overwhelming. Hunting...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.931,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.803779+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.118611+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.803782+00:00"
+        "timestamp": "2025-10-21T04:29:00.118614+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3d5d97c607f04f617db887d25124b087",
+      "title": "Expert Council on Well-Being and AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/expert-council-on-well-being-and-ai",
+      "published_date": "2025-10-14T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
+      "author": "",
+      "content": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-21T04:29:00.115018+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-21T04:29:00.115022+00:00"
       },
       "article_type": "article"
     },
@@ -130,7 +254,7 @@
       "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
-      "published_date": "2025-10-21T01:38:59.808466+00:00",
+      "published_date": "2025-10-21T04:24:52.896286+00:00",
       "category": "Government",
       "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "author": "",
@@ -172,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.798906+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.114042+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.798910+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1e708b1cb3a655ad27ea3fa21fd96eb6",
-      "title": "Building Digital UK to be integrated with the Department for Science, Innovation and Technology",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/building-digital-uk-to-be-integrated-with-the-department-for-science-innovation-and-technology",
-      "published_date": "2025-10-13T09:39:03+00:00",
-      "category": "Government",
-      "description": "Building Digital UK will be integrated into the Department for Science, Innovation and Technology on 1 November 2025.",
-      "author": "",
-      "content": "Building Digital UK will be integrated into the Department for Science, Innovation and Technology on 1 November 2025.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.799545+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-21T01:43:25.799548+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3d5d97c607f04f617db887d25124b087",
-      "title": "Expert Council on Well-Being and AI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/expert-council-on-well-being-and-ai",
-      "published_date": "2025-10-14T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
-      "author": "",
-      "content": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.799829+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-21T01:43:25.799832+00:00"
+        "timestamp": "2025-10-21T04:29:00.114046+00:00"
       },
       "article_type": "article"
     }

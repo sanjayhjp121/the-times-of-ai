@@ -1,23 +1,23 @@
 {
-  "generated_at": "2025-10-21T01:43:25.841375+00:00",
+  "generated_at": "2025-10-21T04:29:00.157746+00:00",
   "articles": [
     {
-      "article_id": "f5a7404065d11e3bdf4be09cc855026f",
-      "title": "NIH launches consortium to reduce risk of stillbirth in the U.S.",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-consortium-reduce-risk-stillbirth-us",
-      "published_date": "2025-10-21T01:38:59.808902+00:00",
-      "category": "Government",
-      "description": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
-      "author": "",
-      "content": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
+      "article_id": "c89dc29a91490809195ecd5a98328e00",
+      "title": "The man betting everything on AI and Bill Belichick",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/10/20/the-man-betting-everything-on-ai-and-bill-belichick/",
+      "published_date": "2025-10-20T08:10:52+00:00",
+      "category": "Industry",
+      "description": "UNC Chancellor Lee Roberts is making big bets on AI and Bill Belichick, and he sounds like a Silicon Valley CEO while doing it.",
+      "author": "Connie Loizos",
+      "content": "UNC Chancellor Lee Roberts is making big bets on AI and Bill Belichick, and he sounds like a Silicon Valley CEO while doing it.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,41 +44,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.799015+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.117659+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-21T04:29:00.117662+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "40fb1d29d7efb5604e4bde3b6ef2aa98",
+      "title": "Configure and verify a distributed training cluster with AWS Deep Learning Containers on Amazon EKS",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/configure-and-verify-a-distributed-training-cluster-with-aws-deep-learning-containers-on-amazon-eks/",
+      "published_date": "2025-10-15T16:39:19+00:00",
+      "category": "Industry",
+      "description": "Misconfiguration issues in distributed training with Amazon EKS can be prevented following a systematic approach to launch required components and verify their proper configuration. This post walks through the steps to set up and verify an EKS cluster for training large models using DLCs.",
+      "author": "Meryem Ozcelik",
+      "content": "Misconfiguration issues in distributed training with Amazon EKS can be prevented following a systematic approach to launch required components and verify their proper configuration. This post walks through the steps to set up and verify an EKS cluster for training large models using DLCs.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-21T04:29:00.116133+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.799018+00:00"
+        "timestamp": "2025-10-21T04:29:00.116136+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "67844a148aab01baebc2662fa13195a6",
-      "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/discover/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/",
-      "published_date": "2025-10-16T12:00:00+00:00",
+      "article_id": "60a9155431720e2f3d4a3a9412b14976",
+      "title": "Build a Log Analysis Multi-Agent Self-Corrective RAG System with NVIDIA Nemotron",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/build-a-log-analysis-multi-agent-self-corrective-rag-system-with-nvidia-nemotron/",
+      "published_date": "2025-10-10T16:00:00+00:00",
       "category": "Industry",
-      "description": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models.",
-      "author": "",
-      "content": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models.",
+      "description": "Logs are the lifeblood of modern systems. But as applications scale, logs often grow into endless walls of text—noisy, repetitive, and overwhelming. Hunting...",
+      "author": "Prashant Bhende",
+      "content": "Logs are the lifeblood of modern systems. But as applications scale, logs often grow into endless walls of text—noisy, repetitive, and overwhelming. Hunting...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.931,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.803779+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.118611+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.803782+00:00"
+        "timestamp": "2025-10-21T04:29:00.118614+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3d5d97c607f04f617db887d25124b087",
+      "title": "Expert Council on Well-Being and AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/expert-council-on-well-being-and-ai",
+      "published_date": "2025-10-14T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
+      "author": "",
+      "content": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-21T04:29:00.115018+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-21T04:29:00.115022+00:00"
       },
       "article_type": "article"
     },
@@ -130,7 +254,7 @@
       "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
-      "published_date": "2025-10-21T01:38:59.808466+00:00",
+      "published_date": "2025-10-21T04:24:52.896286+00:00",
       "category": "Government",
       "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "author": "",
@@ -172,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.798906+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.114042+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,88 +307,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.798910+00:00"
+        "timestamp": "2025-10-21T04:29:00.114046+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1e708b1cb3a655ad27ea3fa21fd96eb6",
-      "title": "Building Digital UK to be integrated with the Department for Science, Innovation and Technology",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/building-digital-uk-to-be-integrated-with-the-department-for-science-innovation-and-technology",
-      "published_date": "2025-10-13T09:39:03+00:00",
-      "category": "Government",
-      "description": "Building Digital UK will be integrated into the Department for Science, Innovation and Technology on 1 November 2025.",
-      "author": "",
-      "content": "Building Digital UK will be integrated into the Department for Science, Innovation and Technology on 1 November 2025.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.799545+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-21T01:43:25.799548+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3d5d97c607f04f617db887d25124b087",
-      "title": "Expert Council on Well-Being and AI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/expert-council-on-well-being-and-ai",
-      "published_date": "2025-10-14T10:00:00+00:00",
+      "article_id": "9ca329a8c92433d4386f3c8a5d59d321",
+      "title": "Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/",
+      "published_date": "2025-10-17T21:44:07+00:00",
       "category": "Industry",
-      "description": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
-      "author": "",
-      "content": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
+      "description": "The video was posted Friday on the Senate Republicans' X account. According to X’s policies, the platform prohibits “deceptively shar[ing] synthetic or manipulated media that are likely to cause harm.” Harmful content includes media that could “mislead people” or “cause significant confusion on public issues.”",
+      "author": "Rebecca Bellan",
+      "content": "The video was posted Friday on the Senate Republicans' X account. According to X’s policies, the platform prohibits “deceptively shar[ing] synthetic or manipulated media that are likely to cause harm.” Harmful content includes media that could “mislead people” or “cause significant confusion on public issues.”",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -296,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.799829+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.117926+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,20 +369,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.799832+00:00"
+        "timestamp": "2025-10-21T04:29:00.117929+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0695fa170198a596ce891be45520caf3",
-      "title": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
+      "article_id": "27222f61b46300375b98d231f072f3a7",
+      "title": "How Starcloud Is Bringing Data Centers to Outer Space",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-6g-telecommunications/",
-      "published_date": "2025-10-08T17:50:51+00:00",
+      "url": "https://blogs.nvidia.com/blog/starcloud/",
+      "published_date": "2025-10-15T13:00:55+00:00",
       "category": "Industry",
-      "description": "Telecommunication networks are critical infrastructure for every nation, underpinning the global flow of communications and data across billions of smartphones and connected devices. The next generation of these networks, known as 6G, will for the first time be built to support AI traffic — and can be powered by AI from the ground up. The Read Article",
-      "author": "Kanika Atri",
-      "content": "Telecommunication networks are critical infrastructure for every nation, underpinning the global flow of communications and data across billions of smartphones and connected devices. The next generation of these networks, known as 6G, will for the first time be built to support AI traffic — and can be powered by AI from the ground up. The Read Article",
+      "description": "The NVIDIA Inception startup projects that space-based data centers will offer 10x lower energy costs and reduce the need for energy consumption on Earth.",
+      "author": "Angie Lee",
+      "content": "The NVIDIA Inception startup projects that space-based data centers will offer 10x lower energy costs and reduce the need for energy consumption on Earth.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -358,7 +420,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.802019+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.116843+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,26 +431,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.802022+00:00"
+        "timestamp": "2025-10-21T04:29:00.116846+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "651d17e6a88bce283f59f17006e13fc6",
-      "title": "These 7 Indian Voice AI Startups are Getting Loud",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-trends/these-7-indian-voice-ai-startups-are-getting-loud/",
-      "published_date": "2025-10-18T03:30:00+00:00",
+      "article_id": "8631d51664658d13a942ae6538be14bc",
+      "title": "Amazon and Carnegie Mellon University launch strategic AI Innovation Hub",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/news/amazon-and-carnegie-mellon-university-launch-strategic-ai-innovation-hub",
+      "published_date": "2025-10-15T12:59:00+00:00",
       "category": "Industry",
-      "description": "These startups are shaking up customer interactions and enterprise automation through advanced voice technologies. The post These 7 Indian Voice AI Startups are Getting Loud appeared first on Analytics India Magazine.",
-      "author": "Smruthi Nadig",
-      "content": "These startups are shaking up customer interactions and enterprise automation through advanced voice technologies. The post These 7 Indian Voice AI Startups are Getting Loud appeared first on Analytics India Magazine.",
+      "description": "The collaboration will advance research in generative AI, robotics, natural language processing and cloud computing while fostering innovation in foundational and emerging technologies.",
+      "author": "",
+      "content": "The collaboration will advance research in generative AI, robotics, natural language processing and cloud computing while fostering innovation in foundational and emerging technologies.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.885,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -416,221 +478,97 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.804700+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.119016+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-21T04:29:00.119019+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d899ba9a8d7bd6101eab10aa88a8d815",
+      "title": "Sora 2 now available in Azure AI Foundry",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/",
+      "published_date": "2025-10-15T18:00:00+00:00",
+      "category": "Industry",
+      "description": "Turning imagination into reality has never been more possible—or more powerful—than it is today. With OpenAI’s Sora 2 now in public preview in Azure AI Foundry, organizations of all sizes can harness this advanced multimodal video generation model to accelerate innovation, drive engagement, and transform how ideas become compelling visual stories. The post Sora 2 now available in Azure AI Foundry appeared first on Microsoft Azure Blog.",
+      "author": "Steve Sweetman and Naomi Moneypenny",
+      "content": "Turning imagination into reality has never been more possible—or more powerful—than it is today. With OpenAI’s Sora 2 now in public preview in Azure AI Foundry, organizations of all sizes can harness this advanced multimodal video generation model to accelerate innovation, drive engagement, and transform how ideas become compelling visual stories. The post Sora 2 now available in Azure AI Foundry appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-21T04:29:00.115389+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.804703+00:00"
+        "timestamp": "2025-10-21T04:29:00.115392+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "40fb1d29d7efb5604e4bde3b6ef2aa98",
-      "title": "Configure and verify a distributed training cluster with AWS Deep Learning Containers on Amazon EKS",
+      "article_id": "19b7edfad83e118d926f6e4da49abd76",
+      "title": "Optimizing document AI and structured outputs by fine-tuning Amazon Nova Models and on-demand inference",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/configure-and-verify-a-distributed-training-cluster-with-aws-deep-learning-containers-on-amazon-eks/",
-      "published_date": "2025-10-15T16:39:19+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-document-ai-and-structured-outputs-by-fine-tuning-amazon-nova-models-and-on-demand-inference/",
+      "published_date": "2025-10-16T18:32:55+00:00",
       "category": "Industry",
-      "description": "Misconfiguration issues in distributed training with Amazon EKS can be prevented following a systematic approach to launch required components and verify their proper configuration. This post walks through the steps to set up and verify an EKS cluster for training large models using DLCs.",
-      "author": "Meryem Ozcelik",
-      "content": "Misconfiguration issues in distributed training with Amazon EKS can be prevented following a systematic approach to launch required components and verify their proper configuration. This post walks through the steps to set up and verify an EKS cluster for training large models using DLCs.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.800911+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-21T01:43:25.800914+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4760caec14df4e37957caa5c2c5d5c2e",
-      "title": "Make agents a reality with Amazon Bedrock AgentCore: Now generally available",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/",
-      "published_date": "2025-10-13T14:10:44+00:00",
-      "category": "Industry",
-      "description": "Learn why customers choose AgentCore to build secure, reliable AI solutions using their choice of frameworks and models for production workloads.",
-      "author": "Swami Sivasubramanian",
-      "content": "Learn why customers choose AgentCore to build secure, reliable AI solutions using their choice of frameworks and models for production workloads.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.801239+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-21T01:43:25.801242+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9ca329a8c92433d4386f3c8a5d59d321",
-      "title": "Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/",
-      "published_date": "2025-10-17T21:44:07+00:00",
-      "category": "Industry",
-      "description": "The video was posted Friday on the Senate Republicans' X account. According to X’s policies, the platform prohibits “deceptively shar[ing] synthetic or manipulated media that are likely to cause harm.” Harmful content includes media that could “mislead people” or “cause significant confusion on public issues.”",
-      "author": "Rebecca Bellan",
-      "content": "The video was posted Friday on the Senate Republicans' X account. According to X’s policies, the platform prohibits “deceptively shar[ing] synthetic or manipulated media that are likely to cause harm.” Harmful content includes media that could “mislead people” or “cause significant confusion on public issues.”",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.802666+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-21T01:43:25.802668+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "67381f5f35d42bb738a5ec324f9a03f4",
-      "title": "​​Speech-to-Retrieval (S2R): A new approach to voice search",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/",
-      "published_date": "2025-10-07T15:22:00+00:00",
-      "category": "Industry",
-      "description": "Machine Intelligence",
-      "author": "",
-      "content": "Machine Intelligence",
+      "description": "This post provides a comprehensive hands-on guide to fine-tune Amazon Nova Lite for document processing tasks, with a focus on tax form data extraction. Using our open-source GitHub repository code sample, we demonstrate the complete workflow from data preparation to model deployment.",
+      "author": "Sharon Li",
+      "content": "This post provides a comprehensive hands-on guide to fine-tune Amazon Nova Lite for document processing tasks, with a focus on tax form data extraction. Using our open-source GitHub repository code sample, we demonstrate the complete workflow from data preparation to model deployment.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -665,103 +603,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.803651+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.115980+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.803654+00:00"
+        "timestamp": "2025-10-21T04:29:00.115983+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dd7ec55335312687fa69e827631074cd",
-      "title": "How AI Is Unlocking Level 4 Autonomous Driving",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/level-4-autonomous-driving-ai/",
-      "published_date": "2025-10-20T15:00:51+00:00",
+      "article_id": "16d88dcd487eb2e49aaf081f4817b935",
+      "title": "How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/",
+      "published_date": "2025-10-14T16:33:57+00:00",
       "category": "Industry",
-      "description": "When the Society of Automotive Engineers established its framework for vehicle autonomy in 2014, it created the industry-standard roadmap for self-driving technology. The levels of automation progress from level 1 (driver assistance) to level 2 (partial automation), level 3 (conditional automation), level 4 (high automation) and level 5 (full automation). Predicting when each level would Read Article",
-      "author": "Marco Pavone",
-      "content": "When the Society of Automotive Engineers established its framework for vehicle autonomy in 2014, it created the industry-standard roadmap for self-driving technology. The levels of automation progress from level 1 (driver assistance) to level 2 (partial automation), level 3 (conditional automation), level 4 (high automation) and level 5 (full automation). Predicting when each level would Read Article",
+      "description": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
+      "author": "Srikanta Prasad, Utkarsh Arora, Raghav Tanaji, Nitin Surya, Gokulakrishnan Gopalakrishnan, Akhilesh Deepak Gotmare,",
+      "content": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.801469+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-21T01:43:25.801472+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d60334dfbb0ae9fec7b43e76889bf3dc",
-      "title": "Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/",
-      "published_date": "2025-10-14T12:30:27+00:00",
-      "category": "Industry",
-      "description": "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide. By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Deloitte and Core42, to Read Article",
-      "author": "Asad Ansari",
-      "content": "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide. By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Deloitte and Core42, to Read Article",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -792,7 +668,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.801658+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.116267+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,20 +679,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.801661+00:00"
+        "timestamp": "2025-10-21T04:29:00.116270+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9cd338b12e2dc76c72299db9a3087c8b",
-      "title": "Enabling Scalable AI-Driven Molecular Dynamics Simulations",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/enabling-scalable-ai-driven-molecular-dynamics-simulations/",
-      "published_date": "2025-10-20T16:30:00+00:00",
+      "article_id": "0695fa170198a596ce891be45520caf3",
+      "title": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-6g-telecommunications/",
+      "published_date": "2025-10-08T17:50:51+00:00",
       "category": "Industry",
-      "description": "Molecular dynamics (MD) simulations are a powerful tool in computational chemistry and materials science, and they’re essential for studying chemical...",
-      "author": "Justin S. Smith",
-      "content": "Molecular dynamics (MD) simulations are a powerful tool in computational chemistry and materials science, and they’re essential for studying chemical...",
+      "description": "Telecommunication networks are critical infrastructure for every nation, underpinning the global flow of communications and data across billions of smartphones and connected devices. The next generation of these networks, known as 6G, will for the first time be built to support AI traffic — and can be powered by AI from the ground up. The Read Article",
+      "author": "Kanika Atri",
+      "content": "Telecommunication networks are critical infrastructure for every nation, underpinning the global flow of communications and data across billions of smartphones and connected devices. The next generation of these networks, known as 6G, will for the first time be built to support AI traffic — and can be powered by AI from the ground up. The Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -854,7 +730,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.802943+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.117215+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,27 +741,151 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.802945+00:00"
+        "timestamp": "2025-10-21T04:29:00.117218+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "35f1d0a3e2e7c161f9a093ed67d75604",
-      "title": "Unlock Faster, Smarter Edge Models with 7x Gen AI Performance on NVIDIA Jetson AGX Thor",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/unlock-faster-smarter-edge-models-with-7x-gen-ai-performance-on-nvidia-jetson-agx-thor/",
-      "published_date": "2025-10-15T18:25:01+00:00",
+      "article_id": "5d80957deb5c743a83fd569701080085",
+      "title": "Customizing text content moderation with Amazon Nova",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/customizing-text-content-moderation-with-amazon-nova/",
+      "published_date": "2025-10-09T21:47:08+00:00",
       "category": "Industry",
-      "description": "A defining strength of the NVIDIA software ecosystem is its commitment to continuous optimization. In August, NVIDIA Jetson AGX Thor launched, with up to a 5x...",
-      "author": "Suhas Hariharapura Sheshadri",
-      "content": "A defining strength of the NVIDIA software ecosystem is its commitment to continuous optimization. In August, NVIDIA Jetson AGX Thor launched, with up to a 5x...",
+      "description": "In this post, we introduce Amazon Nova customization for text content moderation through Amazon SageMaker AI, enabling organizations to fine-tune models for their specific moderation needs. The evaluation across three benchmarks shows that customized Nova models achieve an average improvement of 7.3% in F1 scores compared to the baseline Nova Lite, with individual improvements ranging from 4.2% to 9.2% across different content moderation tasks.",
+      "author": "Yooju Shin",
+      "content": "In this post, we introduce Amazon Nova customization for text content moderation through Amazon SageMaker AI, enabling organizations to fine-tune models for their specific moderation needs. The evaluation across three benchmarks shows that customized Nova models achieve an average improvement of 7.3% in F1 scores compared to the baseline Nova Lite, with individual improvements ranging from 4.2% to 9.2% across different content moderation tasks.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.845,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-21T04:29:00.116575+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-21T04:29:00.116578+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2857c3eb0231d57237b09f415ddc2c83",
+      "title": "Research: Cyber Governance Code of Practice - evaluation survey",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/cyber-governance-code-of-practice-evaluation-survey",
+      "published_date": "2025-10-07T15:58:39+00:00",
+      "category": "Government",
+      "description": "A survey tracking uptake and feedback on the Cyber Governance Code of Practice.",
+      "author": "",
+      "content": "A survey tracking uptake and feedback on the Cyber Governance Code of Practice.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.6,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-21T04:29:00.114850+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-21T04:29:00.114853+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b4951a0022a4eb1632c9c4952cc26e9c",
+      "title": "Principal Financial Group accelerates build, test, and deployment of Amazon Lex V2 bots through automation",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-accelerates-build-test-and-deployment-of-amazon-lex-v2-bots-through-automation/",
+      "published_date": "2025-10-17T16:13:18+00:00",
+      "category": "Industry",
+      "description": "In the post Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight, we discussed the overall Principal Virtual Assistant solution using Genesys Cloud, Amazon Lex V2, multiple AWS services, and a custom reporting and analytics solution using Amazon QuickSight.",
+      "author": "Mulay Ahmed and Caroline Lima-Lane",
+      "content": "In the post Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight, we discussed the overall Principal Virtual Assistant solution using Genesys Cloud, Amazon Lex V2, multiple AWS services, and a custom reporting and analytics solution using Amazon QuickSight.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -916,7 +916,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-21T01:43:25.803103+00:00"
+        "consensus_timestamp": "2025-10-21T04:29:00.115753+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-21T01:43:25.803107+00:00"
+        "timestamp": "2025-10-21T04:29:00.115756+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 184.97184801101685,
+    "processing_time": 174.38533759117126,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,9 +953,9 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 138,
+      "total_processed": 137,
       "candidates": {
-        "headlines": 12,
+        "headlines": 11,
         "articles": 126,
         "research_papers": 0
       },
