@@ -1,22 +1,22 @@
 {
-  "updated": "2025-10-22T08:35:18.333715+00:00",
+  "updated": "2025-10-22T12:48:34.184194+00:00",
   "top_stories": [
     {
-      "article_id": "f238e9a049a0cf08959c5da141cf438a",
-      "title": "Amazon launches $68 million AI PhD Fellowship program",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program",
-      "published_date": "2025-10-21T13:00:00+00:00",
+      "article_id": "0441305e87e5eeda37f1f98674dc4e90",
+      "title": "Sources: Multimodal AI startup Fal AI already raised at $4B+ valuation",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/",
+      "published_date": "2025-10-21T20:12:41+00:00",
       "category": "Industry",
-      "description": "Initiative will fund over 100 doctoral students researching machine learning, computer vision, and natural-language processing at nine universities.",
-      "author": "Staff writer",
-      "content": "Initiative will fund over 100 doctoral students researching machine learning, computer vision, and natural-language processing at nine universities.",
+      "description": "Fal provides developers with over 600 image, video, audio, and 3D models, it says, and boasts that its cloud has thousands of Nvidia H100 and H200 GPUs and is fine-tuned for speedy inference.",
+      "author": "Marina Temkin",
+      "content": "Fal provides developers with over 600 image, video, audio, and 3D models, it says, and boasts that its cloud has thousands of Nvidia H100 and H200 GPUs and is fine-tuned for speedy inference.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-22T08:35:18.285944+00:00"
+        "consensus_timestamp": "2025-10-22T12:48:34.135434+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-22T08:35:18.285947+00:00"
+        "timestamp": "2025-10-22T12:48:34.135437+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "60a9155431720e2f3d4a3a9412b14976",
-      "title": "Build a Log Analysis Multi-Agent Self-Corrective RAG System with NVIDIA Nemotron",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/build-a-log-analysis-multi-agent-self-corrective-rag-system-with-nvidia-nemotron/",
-      "published_date": "2025-10-10T16:00:00+00:00",
+      "article_id": "907f3e6caf7115e6a6aa2976bcf48cf1",
+      "title": "Iterative fine-tuning on Amazon Bedrock for strategic model improvement",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/iterative-fine-tuning-on-amazon-bedrock-for-strategic-model-improvement/",
+      "published_date": "2025-10-16T23:11:28+00:00",
       "category": "Industry",
-      "description": "Logs are the lifeblood of modern systems. But as applications scale, logs often grow into endless walls of text—noisy, repetitive, and overwhelming. Hunting...",
-      "author": "Prashant Bhende",
-      "content": "Logs are the lifeblood of modern systems. But as applications scale, logs often grow into endless walls of text—noisy, repetitive, and overwhelming. Hunting...",
+      "description": "Organizations often face challenges when implementing single-shot fine-tuning approaches for their generative AI models. The single-shot fine-tuning method involves selecting training data, configuring hyperparameters, and hoping the results meet expectations without the ability to make incremental adjustments. Single-shot fine-tuning frequently leads to suboptimal results and requires starting the entire process from scratch when improvements are […]",
+      "author": "Yanyan Zhang",
+      "content": "Organizations often face challenges when implementing single-shot fine-tuning approaches for their generative AI models. The single-shot fine-tuning method involves selecting training data, configuring hyperparameters, and hoping the results meet expectations without the ability to make incremental adjustments. Single-shot fine-tuning frequently leads to suboptimal results and requires starting the entire process from scratch when improvements are […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "overall_score": 0.931,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -107,103 +107,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-22T08:35:18.285508+00:00"
+        "consensus_timestamp": "2025-10-22T12:48:34.134034+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-22T08:35:18.285511+00:00"
+        "timestamp": "2025-10-22T12:48:34.134036+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2e29845a3d0c2e4600679496ef2e9a9a",
-      "title": "Building smarter AI agents: AgentCore long-term memory deep dive",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-smarter-ai-agents-agentcore-long-term-memory-deep-dive/",
-      "published_date": "2025-10-15T18:22:57+00:00",
+      "article_id": "be8d094b206035f2022f94623d1033e5",
+      "title": "From Assistant to Adversary: Exploiting Agentic AI Developer Tools",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/from-assistant-to-adversary-exploiting-agentic-ai-developer-tools/",
+      "published_date": "2025-10-09T16:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we explore how Amazon Bedrock AgentCore Memory transforms raw conversational data into persistent, actionable knowledge through sophisticated extraction, consolidation, and retrieval mechanisms that mirror human cognitive processes. The system tackles the complex challenge of building AI agents that don't just store conversations but extract meaningful insights, merge related information across time, and maintain coherent memory stores that enable truly context-aware interactions.",
-      "author": "Akarsha Sehwag",
-      "content": "In this post, we explore how Amazon Bedrock AgentCore Memory transforms raw conversational data into persistent, actionable knowledge through sophisticated extraction, consolidation, and retrieval mechanisms that mirror human cognitive processes. The system tackles the complex challenge of building AI agents that don't just store conversations but extract meaningful insights, merge related information across time, and maintain coherent memory stores that enable truly context-aware interactions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-22T08:35:18.282806+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-22T08:35:18.282808+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f5b3fd823bdc3750990220c4e6baccd8",
-      "title": "NVIDIA, TSMC Produce First Blackwell Wafer in the US, Boosting Domestic AI Chip Manufacturing",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-news-updates/nvidia-tsmc-produce-first-blackwell-wafer-in-the-us-boosting-domestic-ai-chip-manufacturing/",
-      "published_date": "2025-10-18T16:51:10+00:00",
-      "category": "Industry",
-      "description": "The Blackwell wafer is the base material for semiconductors and will undergo layering, patterning, etching, and dicing before becoming NVIDIA’s AI chip. The post NVIDIA, TSMC Produce First Blackwell Wafer in the US, Boosting Domestic AI Chip Manufacturing appeared first on Analytics India Magazine.",
-      "author": "Siddharth Jindal",
-      "content": "The Blackwell wafer is the base material for semiconductors and will undergo layering, patterning, etching, and dicing before becoming NVIDIA’s AI chip. The post NVIDIA, TSMC Produce First Blackwell Wafer in the US, Boosting Domestic AI Chip Manufacturing appeared first on Analytics India Magazine.",
+      "description": "Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...",
+      "author": "Becca Lynch",
+      "content": "Developers are increasingly turning to AI-enabled tools for coding, including Cursor, OpenAI Codex, Claude Code, and GitHub Copilot. While these automation...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -230,41 +168,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-22T08:35:18.287492+00:00"
+        "consensus_timestamp": "2025-10-22T12:48:34.136773+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-22T08:35:18.287495+00:00"
+        "timestamp": "2025-10-22T12:48:34.136776+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ed3c5c0c42e198323a9c978dc50d55e9",
-      "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
-      "published_date": "2025-10-13T06:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-10-22T12:44:33.093347+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "author": "",
-      "content": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -293,21 +231,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-22T08:35:18.281734+00:00"
+        "consensus_timestamp": "2025-10-22T12:48:34.132043+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-22T08:35:18.281738+00:00"
+        "timestamp": "2025-10-22T12:48:34.132047+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8aee7831de1948e605c902b7296e38db",
+      "title": "Operating an orbital space object: rules and regulations",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/guidance/operating-an-orbital-space-object-rules-and-regulations",
+      "published_date": "2025-10-21T16:03:03+00:00",
+      "category": "Government",
+      "description": "Regulations you must comply with when operating an orbital space object. For example, a satellite.",
+      "author": "",
+      "content": "Regulations you must comply with when operating an orbital space object. For example, a satellite.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-22T12:48:34.132450+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-22T12:48:34.132453+00:00"
       },
       "article_type": "article"
     }
