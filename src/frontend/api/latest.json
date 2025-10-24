@@ -1,147 +1,23 @@
 {
-  "generated_at": "2025-10-24T04:28:56.626888+00:00",
+  "generated_at": "2025-10-24T08:32:29.825317+00:00",
   "articles": [
     {
-      "article_id": "f5a7404065d11e3bdf4be09cc855026f",
-      "title": "NIH launches consortium to reduce risk of stillbirth in the U.S.",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-consortium-reduce-risk-stillbirth-us",
-      "published_date": "2025-10-24T04:25:13.007684+00:00",
-      "category": "Government",
-      "description": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
-      "author": "",
-      "content": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
+      "article_id": "c66a5d17355358965b2220892b390436",
+      "title": "Tensormesh raises $4.5M to squeeze more inference out of AI server loads",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/10/23/tensormesh-raises-4-5m-to-squeeze-more-inference-out-of-ai-server-loads/",
+      "published_date": "2025-10-23T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Tensormesh uses an expanded form of KV caching to make inference loads as much as 10 times more efficient.",
+      "author": "Russell Brandom",
+      "content": "Tensormesh uses an expanded form of KV caching to make inference loads as much as 10 times more efficient.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.583184+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.583192+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "e76947dff06bb2e6e517f673f21218ce",
-      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
-      "published_date": "2025-10-24T04:25:13.007518+00:00",
-      "category": "Government",
-      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
-      "author": "",
-      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.95,
-        "overall_score": 0.9125000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.583032+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.583038+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d609b35f7f25064d7e3c618f82e98aea",
-      "title": "Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/metagenomi-generates-millions-of-novel-enzymes-cost-effectively-using-aws-inferentia/",
-      "published_date": "2025-10-22T13:53:20+00:00",
-      "category": "Industry",
-      "description": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
-      "author": "Audra Devoto, Owen Janson, Adam Perry, Christopher Brown",
-      "content": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.585240+00:00"
+        "consensus_timestamp": "2025-10-24T08:32:29.780459+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +59,646 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-24T04:28:56.585243+00:00"
+        "timestamp": "2025-10-24T08:32:29.780462+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "816780178f8f22821ab147c1b9c10072",
+      "title": "Serverless deployment for your Amazon SageMaker Canvas models",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/serverless-deployment-for-your-amazon-sagemaker-canvas-models/",
+      "published_date": "2025-10-21T19:03:19+00:00",
+      "category": "Industry",
+      "description": "In this post, we walk through how to take an ML model built in SageMaker Canvas and deploy it using SageMaker Serverless Inference, helping you go from model creation to production-ready predictions quickly and efficiently without managing any infrastructure. This solution demonstrates a complete workflow from adding your trained model to the SageMaker Model Registry through creating serverless endpoint configurations and deploying endpoints that automatically scale based on demand .",
+      "author": "Nadhya Polanco",
+      "content": "In this post, we walk through how to take an ML model built in SageMaker Canvas and deploy it using SageMaker Serverless Inference, helping you go from model creation to production-ready predictions quickly and efficiently without managing any infrastructure. This solution demonstrates a complete workflow from adding your trained model to the SageMaker Model Registry through creating serverless endpoint configurations and deploying endpoints that automatically scale based on demand .",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.779156+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.779158+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f238e9a049a0cf08959c5da141cf438a",
-      "title": "Amazon launches $68 million AI PhD Fellowship program",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program",
-      "published_date": "2025-10-21T13:00:00+00:00",
-      "category": "Industry",
-      "description": "Initiative will fund over 100 doctoral students researching machine learning, computer vision, and natural-language processing at nine universities.",
-      "author": "Staff writer",
-      "content": "Initiative will fund over 100 doctoral students researching machine learning, computer vision, and natural-language processing at nine universities.",
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-10-24T08:28:19.377269+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "author": "",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.777101+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.777105+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "727aa8d274c4257abb1995d194d180ca",
+      "title": "Transparency data: DSIT: workforce management information, September 2025",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/dsit-workforce-management-information-september-2025",
+      "published_date": "2025-10-21T12:36:35+00:00",
+      "category": "Government",
+      "description": "Reports on departmental staff numbers and costs.",
+      "author": "",
+      "content": "Reports on departmental staff numbers and costs.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
         "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.777956+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.777959+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5743e6c028180039a1cd3b86a4ae6fbe",
+      "title": "Stability AI, Electronic Arts to Develop Games Using Generative AI",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-news-updates/stability-ai-electronic-arts-to-develop-games-using-generative-ai/",
+      "published_date": "2025-10-24T08:26:06+00:00",
+      "category": "Industry",
+      "description": "The company wants to empower developers and designers to explore the possibilities with AI in game development. The post Stability AI, Electronic Arts to Develop Games Using Generative AI appeared first on Analytics India Magazine.",
+      "author": "Ankush Das",
+      "content": "The company wants to empower developers and designers to explore the possibilities with AI in game development. The post Stability AI, Electronic Arts to Develop Games Using Generative AI appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.782912+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.782914+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ce4bb36f3de8ed4d6cc3a24de0f07da4",
+      "title": "Generate Gremlin queries using Amazon Bedrock models",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/generate-gremlin-queries-using-amazon-bedrock-models/",
+      "published_date": "2025-10-23T20:57:29+00:00",
+      "category": "Industry",
+      "description": "In this post, we explore an innovative approach that converts natural language to Gremlin queries using Amazon Bedrock models such as Amazon Nova Pro, helping business analysts and data scientists access graph databases without requiring deep technical expertise. The methodology involves three key steps: extracting graph knowledge, structuring the graph similar to text-to-SQL processing, and generating executable Gremlin queries through an iterative refinement process that achieved 74.17%...",
+      "author": "Rachel Hanspal",
+      "content": "In this post, we explore an innovative approach that converts natural language to Gremlin queries using Amazon Bedrock models such as Amazon Nova Pro, helping business analysts and data scientists access graph databases without requiring deep technical expertise. The methodology involves three key steps: extracting graph knowledge, structuring the graph similar to text-to-SQL processing, and generating executable Gremlin queries through an iterative refinement process that achieved 74.17%...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.778887+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.778890+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4d356c0ed5315fecf0d67ed4760836dd",
+      "title": "Train an LLM on NVIDIA Blackwell with Unsloth—and Scale for Production",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/train-an-llm-on-an-nvidia-blackwell-desktop-with-unsloth-and-scale-it/",
+      "published_date": "2025-10-23T17:51:24+00:00",
+      "category": "Industry",
+      "description": "Fine-tuning and reinforcement learning (RL) for large language models (LLMs) require advanced expertise and complex workflows, making them out of reach for...",
+      "author": "Paul Abruzzo",
+      "content": "Fine-tuning and reinforcement learning (RL) for large language models (LLMs) require advanced expertise and complex workflows, making them out of reach for...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.781138+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.781141+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "820ab3140625221917dc583e40694438",
+      "title": "Scaling Large MoE Models with Wide Expert Parallelism on NVL72 Rack Scale Systems",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/scaling-large-moe-models-with-wide-expert-parallelism-on-nvl72-rack-scale-systems/",
+      "published_date": "2025-10-20T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...",
+      "author": "Eduardo Alvarez",
+      "content": "Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.781455+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.781457+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "92d33e4191e45b977b2223f0e40a8c58",
+      "title": "Accelerated and Distributed UPF for the Era of Agentic AI and 6G",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerated-and-distributed-upf-for-the-era-of-agentic-ai-and-6g/",
+      "published_date": "2025-10-15T18:06:57+00:00",
+      "category": "Industry",
+      "description": "The telecommunications industry is innovating rapidly toward 6G for both AI-native Radio Access Networks (AI-RAN) and AI-Core. The distributed User Plane...",
+      "author": "Yuyong Zhang",
+      "content": "The telecommunications industry is innovating rapidly toward 6G for both AI-native Radio Access Networks (AI-RAN) and AI-Core. The distributed User Plane...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.781587+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.781590+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cff5e0dd9c97bc430145d9c502da8714",
+      "title": "Demystifying AI agents",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/demystifying-agents",
+      "published_date": "2025-10-16T18:04:56+00:00",
+      "category": "Industry",
+      "description": "Amazon vice president and distinguished engineer Marc Brooker explains how agentic systems work under the hood — and how AWS’s new AgentCore framework implements their essential components.",
+      "author": "Marc Brooker",
+      "content": "Amazon vice president and distinguished engineer Marc Brooker explains how agentic systems work under the hood — and how AWS’s new AgentCore framework implements their essential components.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.782324+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.782327+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "944e330f0e5ab57268bcd80ea0da66d5",
+      "title": "Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/",
+      "published_date": "2025-10-14T18:00:00+00:00",
+      "category": "Industry",
+      "description": "Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs The post Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation appeared first on Microsoft Azure Blog.",
+      "author": "Brett Tanzer",
+      "content": "Oracle Database@Azure adds new AI-ready features, expands to 33 regions, and launches new partner and migration programs The post Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.778746+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.778750+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6425f15426e202418693b2a9a141aa3f",
+      "title": "Introducing Veo 3.1 and advanced creative capabilities",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/discover/blog/introducing-veo-3-1-and-advanced-creative-capabilities/",
+      "published_date": "2025-10-15T16:01:08+00:00",
+      "category": "Industry",
+      "description": "We’re rolling out significant updates to Veo that give people even more creative control.",
+      "author": "",
+      "content": "We’re rolling out significant updates to Veo that give people even more creative control.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -231,654 +727,34 @@
           }
         },
         "score": 0.92,
-        "confidence": 0.96,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.588433+00:00"
+        "consensus_timestamp": "2025-10-24T08:32:29.782186+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.752,
-        "combined_confidence": 0.776,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.588436+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ca97dc8066bd3aac22c15c940630a319",
-      "title": "Advances in science set to transform treatments for people living with dementia",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/advances-in-science-set-to-transform-treatments-for-people-living-with-dementia",
-      "published_date": "2025-10-23T23:01:01+00:00",
-      "category": "Government",
-      "description": "From blood tests to AI, new ways to diagnose dementia sooner and treat it faster set to be unlocked by new research challenge.",
-      "author": "",
-      "content": "From blood tests to AI, new ways to diagnose dementia sooner and treat it faster set to be unlocked by new research challenge.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.583408+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.583411+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8aee7831de1948e605c902b7296e38db",
-      "title": "Operating an orbital space object: rules and regulations",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/guidance/operating-an-orbital-space-object-rules-and-regulations",
-      "published_date": "2025-10-21T16:03:03+00:00",
-      "category": "Government",
-      "description": "Regulations you must comply with when operating an orbital space object. For example, a satellite.",
-      "author": "",
-      "content": "Regulations you must comply with when operating an orbital space object. For example, a satellite.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.583795+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.583798+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f3acd7c31ce9309b1a08484357e394e4",
-      "title": "Google Earth AI: Unlocking geospatial insights with foundation models and cross-modal reasoning",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/google-earth-ai-unlocking-geospatial-insights-with-foundation-models-and-cross-modal-reasoning/",
-      "published_date": "2025-10-23T08:08:00+00:00",
-      "category": "Industry",
-      "description": "Climate & Sustainability",
-      "author": "",
-      "content": "Climate & Sustainability",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.588340+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-24T04:28:56.588342+00:00"
+        "timestamp": "2025-10-24T08:32:29.782189+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3889f9bdcac05a35da77c50fdcd65b7c",
-      "title": "Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/live-dgx-spark-delivery/",
-      "published_date": "2025-10-14T00:31:39+00:00",
-      "category": "Industry",
-      "description": "The future of AI took flight at Starbase, Texas — where NVIDIA CEO Jensen Huang hand-delivered the first DGX Spark to Elon Musk, chief engineer at SpaceX. Amid towering engines and gleaming steel, Huang walked past rows of engineers who waved and grinned. Moments later, Musk appeared in the cafeteria, greeting staff, opening donuts and Read Article",
-      "author": "NVIDIA Newsroom",
-      "content": "The future of AI took flight at Starbase, Texas — where NVIDIA CEO Jensen Huang hand-delivered the first DGX Spark to Elon Musk, chief engineer at SpaceX. Amid towering engines and gleaming steel, Huang walked past rows of engineers who waved and grinned. Moments later, Musk appeared in the cafeteria, greeting staff, opening donuts and Read Article",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.85,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.586319+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.586322+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "27222f61b46300375b98d231f072f3a7",
-      "title": "How Starcloud Is Bringing Data Centers to Outer Space",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/starcloud/",
-      "published_date": "2025-10-15T13:00:55+00:00",
-      "category": "Industry",
-      "description": "The NVIDIA Inception startup projects that space-based data centers will offer 10x lower energy costs and reduce the need for energy consumption on Earth.",
-      "author": "Angie Lee",
-      "content": "The NVIDIA Inception startup projects that space-based data centers will offer 10x lower energy costs and reduce the need for energy consumption on Earth.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.586181+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.586184+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d60334dfbb0ae9fec7b43e76889bf3dc",
-      "title": "Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/",
-      "published_date": "2025-10-14T12:30:27+00:00",
-      "category": "Industry",
-      "description": "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide. By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Deloitte and Core42, to Read Article",
-      "author": "Asad Ansari",
-      "content": "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide. By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Deloitte and Core42, to Read Article",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.586228+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.586231+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1f22c2aba95e13e37e0fed56bd0d838b",
-      "title": "How to prompt Veo 3.1",
-      "source": "replicate_blog",
-      "url": "https://replicate.com/blog/veo-3-1",
-      "published_date": "2025-10-16T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Google's Veo 3.1 brings powerful new video generation capabilities including reference images, first/last frame control, and enhanced image-to-video. Here's everything you need to know.",
-      "author": "",
-      "content": "Google's Veo 3.1 brings powerful new video generation capabilities including reference images, first/last frame control, and enhanced image-to-video. Here's everything you need to know.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.587279+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.587282+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1ae1986fe5f264426865455690b80737",
-      "title": "Bring Your Circuits to CUDA-Q Using QGEAR",
-      "source": "nvidia_developer",
-      "url": "https://github.com/gzquse/qgear-lightning",
-      "published_date": "2025-10-23T16:55:33+00:00",
-      "category": "Industry",
-      "description": "Download NERSC’s QGEAR project to easily import Qiskit circuits into GPU-accelerated CUDA-Q kernels.",
-      "author": "Shara Tibken",
-      "content": "Download NERSC’s QGEAR project to easily import Qiskit circuits into GPU-accelerated CUDA-Q kernels.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.587417+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.587420+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c1c4cc55a0a2f4f404ca53b8b6e79423",
-      "title": "NVIDIA Blackwell Leads on SemiAnalysis InferenceMAX v1 Benchmarks",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-leads-on-new-semianalysis-inferencemax-benchmarks/",
-      "published_date": "2025-10-13T17:33:19+00:00",
-      "category": "Industry",
-      "description": "SemiAnalysis recently launched InferenceMAX v1, a new open source initiative that provides a comprehensive methodology to evaluate inference hardware...",
-      "author": "Farshad Ghodsian",
-      "content": "SemiAnalysis recently launched InferenceMAX v1, a new open source initiative that provides a comprehensive methodology to evaluate inference hardware...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.588021+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.588024+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fe9ebe25907c8a413fab2c9634789fb1",
-      "title": "NIH establishes nation's first dedicated organoid development center to reduce reliance on animal modeling",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-establishes-nations-first-dedicated-organoid-development-center-reduce-reliance-animal-modeling",
-      "published_date": "2025-10-24T04:25:13.007309+00:00",
-      "category": "Government",
-      "description": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
-      "author": "",
-      "content": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.582570+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-24T04:28:56.582574+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0b15503bfdb7e8a999319e9a746a372f",
-      "title": "Build scalable creative solutions for product teams with Amazon Bedrock",
+      "article_id": "3e785b3b8b7f7b101593d2750deb68bc",
+      "title": "Beyond vibes: How to properly select the right LLM for the right task",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-scalable-creative-solutions-for-product-teams-with-amazon-bedrock/",
-      "published_date": "2025-10-22T23:02:04+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/",
+      "published_date": "2025-10-17T16:09:22+00:00",
       "category": "Industry",
-      "description": "In this post, we explore how product teams can leverage Amazon Bedrock and AWS services to transform their creative workflows through generative AI, enabling rapid content iteration across multiple formats while maintaining brand consistency and compliance. The solution demonstrates how teams can deploy a scalable generative AI application that accelerates everything from product descriptions and marketing copy to visual concepts and video content, significantly reducing time to market while...",
-      "author": "Kenneth Walsh",
-      "content": "In this post, we explore how product teams can leverage Amazon Bedrock and AWS services to transform their creative workflows through generative AI, enabling rapid content iteration across multiple formats while maintaining brand consistency and compliance. The solution demonstrates how teams can deploy a scalable generative AI application that accelerates everything from product descriptions and marketing copy to visual concepts and video content, significantly reducing time to market while...",
+      "description": "In this post, we discuss an approach that can guide you to build comprehensive and empirically driven evaluations that can help you make better decisions when selecting the right model for your task.",
+      "author": "Claudio Mazzoni",
+      "content": "In this post, we discuss an approach that can guide you to build comprehensive and empirically driven evaluations that can help you make better decisions when selecting the right model for your task.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -916,7 +792,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-24T04:28:56.585082+00:00"
+        "consensus_timestamp": "2025-10-24T08:32:29.779335+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +803,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-24T04:28:56.585086+00:00"
+        "timestamp": "2025-10-24T08:32:29.779338+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "12a8ff18c2dee1d74d373ae179402bf4",
+      "title": "Dubai Islamic Bank Partners with HCLTech to Drive AI Adoption in Islamic Finance",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-news-updates/dubai-islamic-bank-partners-with-hcltech-to-drive-ai-adoption-in-islamic-finance/",
+      "published_date": "2025-10-23T10:39:06+00:00",
+      "category": "Industry",
+      "description": "The strategic collaboration aims to embed responsible AI across DIB’s operations, enhancing customer experiences, decision-making and compliance while aligning with Shariah principles. The post Dubai Islamic Bank Partners with HCLTech to Drive AI Adoption in Islamic Finance appeared first on Analytics India Magazine.",
+      "author": "C P Balasubramanyam",
+      "content": "The strategic collaboration aims to embed responsible AI across DIB’s operations, enhancing customer experiences, decision-making and compliance while aligning with Shariah principles. The post Dubai Islamic Bank Partners with HCLTech to Drive AI Adoption in Islamic Finance appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8375,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.783404+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.783406+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fe9ebe25907c8a413fab2c9634789fb1",
+      "title": "NIH establishes nation's first dedicated organoid development center to reduce reliance on animal modeling",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-establishes-nations-first-dedicated-organoid-development-center-reduce-reliance-animal-modeling",
+      "published_date": "2025-10-24T08:28:19.377121+00:00",
+      "category": "Government",
+      "description": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
+      "author": "",
+      "content": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-24T08:32:29.776985+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-24T08:32:29.776989+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 160.5866777896881,
+    "processing_time": 173.09340167045593,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 131,
+      "total_processed": 140,
       "candidates": {
-        "headlines": 17,
-        "articles": 114,
+        "headlines": 18,
+        "articles": 122,
         "research_papers": 0
       },
       "selected": {
