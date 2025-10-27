@@ -1,23 +1,85 @@
 {
-  "updated": "2025-10-27T16:32:48.255974+00:00",
+  "updated": "2025-10-27T20:25:36.234244+00:00",
   "top_stories": [
     {
       "article_id": "f5a7404065d11e3bdf4be09cc855026f",
       "title": "NIH launches consortium to reduce risk of stillbirth in the U.S.",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-launches-consortium-reduce-risk-stillbirth-us",
-      "published_date": "2025-10-27T16:28:11.039384+00:00",
+      "published_date": "2025-10-27T20:21:24.323217+00:00",
       "category": "Government",
       "description": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
       "author": "",
       "content": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
         "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-27T20:25:36.196870+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-27T20:25:36.196873+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "c0a9181a2c0da38fb485e1989a2fcd95",
+      "title": "Unlocking Tensor Core Performance with Floating Point Emulation in cuBLAS",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-with-floating-point-emulation-in-cublas/",
+      "published_date": "2025-10-24T16:21:14+00:00",
+      "category": "Industry",
+      "description": "NVIDIA CUDA-X math libraries provide the fundamental numerical building blocks that enable developers to deploy accelerated applications across multiple...",
+      "author": "Cole Brower",
+      "content": "NVIDIA CUDA-X math libraries provide the fundamental numerical building blocks that enable developers to deploy accelerated applications across multiple...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-27T16:32:48.218785+00:00"
+        "consensus_timestamp": "2025-10-27T20:25:36.201319+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,212 +121,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-27T16:32:48.218788+00:00"
+        "timestamp": "2025-10-27T20:25:36.201322+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "3e785b3b8b7f7b101593d2750deb68bc",
-      "title": "Beyond vibes: How to properly select the right LLM for the right task",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/",
-      "published_date": "2025-10-17T16:09:22+00:00",
+      "article_id": "3889f9bdcac05a35da77c50fdcd65b7c",
+      "title": "Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/live-dgx-spark-delivery/",
+      "published_date": "2025-10-14T00:31:39+00:00",
       "category": "Industry",
-      "description": "In this post, we discuss an approach that can guide you to build comprehensive and empirically driven evaluations that can help you make better decisions when selecting the right model for your task.",
-      "author": "Claudio Mazzoni",
-      "content": "In this post, we discuss an approach that can guide you to build comprehensive and empirically driven evaluations that can help you make better decisions when selecting the right model for your task.",
+      "description": "The future of AI took flight at Starbase, Texas — where NVIDIA CEO Jensen Huang hand-delivered the first DGX Spark to Elon Musk, chief engineer at SpaceX. Amid towering engines and gleaming steel, Huang walked past rows of engineers who waved and grinned. Moments later, Musk appeared in the cafeteria, greeting staff, opening donuts and Read Article",
+      "author": "NVIDIA Newsroom",
+      "content": "The future of AI took flight at Starbase, Texas — where NVIDIA CEO Jensen Huang hand-delivered the first DGX Spark to Elon Musk, chief engineer at SpaceX. Amid towering engines and gleaming steel, Huang walked past rows of engineers who waved and grinned. Moments later, Musk appeared in the cafeteria, greeting staff, opening donuts and Read Article",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.915,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-27T20:25:36.200232+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-27T20:25:36.200234+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b542b4c81ee3ba8c9148d66a5dc703fc",
+      "title": "Beyond pilots: A proven framework for scaling AI to production",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-pilots-a-proven-framework-for-scaling-ai-to-production/",
+      "published_date": "2025-10-24T14:42:41+00:00",
+      "category": "Industry",
+      "description": "In this post, we explore the Five V's Framework—a field-tested methodology that has helped 65% of AWS Generative AI Innovation Center customer projects successfully transition from concept to production, with some launching in just 45 days. The framework provides a structured approach through Value, Visualize, Validate, Verify, and Venture phases, shifting focus from \"What can AI do?\" to \"What do we need AI to do?\" while ensuring solutions deliver measurable business outcomes and sustainable...",
+      "author": "Sri Elaprolu, Sabine Khan, Diego Socolinsky, Andrea Jimenez Fernandez, and Randi Larson",
+      "content": "In this post, we explore the Five V's Framework—a field-tested methodology that has helped 65% of AWS Generative AI Innovation Center customer projects successfully transition from concept to production, with some launching in just 45 days. The framework provides a structured approach through Value, Visualize, Validate, Verify, and Venture phases, shifting focus from \"What can AI do?\" to \"What do we need AI to do?\" while ensuring solutions deliver measurable business outcomes and sustainable...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.85,
         "impact_score": 0.95,
         "overall_score": 0.9125000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-27T16:32:48.220727+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-27T16:32:48.220730+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b656a05825bff704acc91f37abcd840c",
-      "title": "From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/",
-      "published_date": "2025-10-16T15:00:00+00:00",
-      "category": "Industry",
-      "description": "We are excited to announce the general availability of Azure Storage Discovery. The post From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available appeared first on Microsoft Azure Blog.",
-      "author": "Maneesh Sah",
-      "content": "We are excited to announce the general availability of Azure Storage Discovery. The post From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9159999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-27T16:32:48.220055+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-27T16:32:48.220057+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e76947dff06bb2e6e517f673f21218ce",
-      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
-      "published_date": "2025-10-27T16:28:11.039258+00:00",
-      "category": "Government",
-      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
-      "author": "",
-      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-27T16:32:48.218698+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-27T16:32:48.218702+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "582620b72be8c04d5dd812d7ca226095",
-      "title": "Reliance to Invest $15 Billion to Build AI Data Centres",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-news-updates/reliance-to-invest-15-billion-to-build-ai-data-centres/",
-      "published_date": "2025-10-27T10:40:41+00:00",
-      "category": "Industry",
-      "description": "Morgan Stanley estimates that the AI vertical would be valued at $30 billion by 2027. The post Reliance to Invest $15 Billion to Build AI Data Centres appeared first on Analytics India Magazine.",
-      "author": "Merin Susan John",
-      "content": "Morgan Stanley estimates that the AI vertical would be valued at $30 billion by 2027. The post Reliance to Invest $15 Billion to Build AI Data Centres appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -293,21 +231,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-27T16:32:48.224643+00:00"
+        "consensus_timestamp": "2025-10-27T20:25:36.198793+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-27T16:32:48.224646+00:00"
+        "timestamp": "2025-10-27T20:25:36.198795+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d510b816a3d6ce2c31605e25169b796e",
+      "title": "Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+      "published_date": "2025-10-22T16:00:00+00:00",
+      "category": "Industry",
+      "description": "We’re proud that Microsoft has once again been named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure. The post Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure appeared first on Microsoft Azure Blog.",
+      "author": "Dean Paron",
+      "content": "We’re proud that Microsoft has once again been named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure. The post Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-27T20:25:36.198421+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-27T20:25:36.198424+00:00"
       },
       "article_type": "article"
     }
