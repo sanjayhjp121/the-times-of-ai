@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-30T08:32:01.647415+00:00",
+  "updated": "2025-10-30T12:47:21.223164+00:00",
   "top_stories": [
     {
       "article_id": "46bf1490b42b9e7b65dc2239b79219f6",
@@ -11,192 +11,6 @@
       "description": "With a market cap of $5 trillion, Nvidia is now worth more than the aggregated stock markets of all countries, apart from the United States, China, and Japan.",
       "author": "Ivan Mehta",
       "content": "With a market cap of $5 trillion, Nvidia is now worth more than the aggregated stock markets of all countries, apart from the United States, China, and Japan.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.598151+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.598154+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "820ab3140625221917dc583e40694438",
-      "title": "Scaling Large MoE Models with Wide Expert Parallelism on NVL72 Rack Scale Systems",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/scaling-large-moe-models-with-wide-expert-parallelism-on-nvl72-rack-scale-systems/",
-      "published_date": "2025-10-20T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...",
-      "author": "Eduardo Alvarez",
-      "content": "Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.599514+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.599517+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d609b35f7f25064d7e3c618f82e98aea",
-      "title": "Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/metagenomi-generates-millions-of-novel-enzymes-cost-effectively-using-aws-inferentia/",
-      "published_date": "2025-10-22T13:53:20+00:00",
-      "category": "Industry",
-      "description": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
-      "author": "Audra Devoto, Owen Janson, Adam Perry, Christopher Brown",
-      "content": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.596689+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.596692+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "69df8e22b809e16df48ed6d455547e14",
-      "title": "Research: International Scientific Report on the Safety of Advanced AI: interim report",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai",
-      "published_date": "2025-10-22T09:08:02+00:00",
-      "category": "Government",
-      "description": "An interim report on the science of advanced Artificial Intelligence (AI) safety.",
-      "author": "",
-      "content": "An interim report on the science of advanced Artificial Intelligence (AI) safety.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -234,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.595183+00:00"
+        "consensus_timestamp": "2025-10-30T12:47:21.177372+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +59,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-30T08:32:01.595186+00:00"
+        "timestamp": "2025-10-30T12:47:21.177374+00:00"
       },
-      "article_type": "article"
+      "article_type": "headline"
     },
     {
-      "article_id": "e76947dff06bb2e6e517f673f21218ce",
-      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
-      "published_date": "2025-10-30T08:27:59.433497+00:00",
-      "category": "Government",
-      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "article_id": "0eed93507d9f00a9c79091f529c2ca29",
+      "title": "Introducing gpt-oss-safeguard",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+      "published_date": "2025-10-29T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
       "author": "",
-      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "content": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
+        "novelty_score": 0.95,
+        "impact_score": 0.99,
+        "overall_score": 0.9455,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -296,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.594489+00:00"
+        "consensus_timestamp": "2025-10-30T12:47:21.174637+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +121,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-30T08:32:01.594493+00:00"
+        "timestamp": "2025-10-30T12:47:21.174640+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "75f51c69813bbfc437c5ecbe2a0e8f0f",
+      "title": "Strengthening ChatGPT’s responses in sensitive conversations",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
+      "published_date": "2025-10-27T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
+      "author": "",
+      "content": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.174946+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.174948+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f238e9a049a0cf08959c5da141cf438a",
+      "title": "Amazon launches $68 million AI PhD Fellowship program",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program",
+      "published_date": "2025-10-21T13:00:00+00:00",
+      "category": "Industry",
+      "description": "Initiative will fund over 100 doctoral students researching machine learning, computer vision, and natural-language processing at nine universities.",
+      "author": "Staff writer",
+      "content": "Initiative will fund over 100 doctoral students researching machine learning, computer vision, and natural-language processing at nine universities.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.179084+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.179087+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d609b35f7f25064d7e3c618f82e98aea",
+      "title": "Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/metagenomi-generates-millions-of-novel-enzymes-cost-effectively-using-aws-inferentia/",
+      "published_date": "2025-10-22T13:53:20+00:00",
+      "category": "Industry",
+      "description": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
+      "author": "Audra Devoto, Owen Janson, Adam Perry, Christopher Brown",
+      "content": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.175964+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.175967+00:00"
       },
       "article_type": "article"
     }

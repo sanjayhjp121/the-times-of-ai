@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-30T08:32:01.644383+00:00",
+  "generated_at": "2025-10-30T12:47:21.220327+00:00",
   "articles": [
     {
       "article_id": "46bf1490b42b9e7b65dc2239b79219f6",
@@ -11,192 +11,6 @@
       "description": "With a market cap of $5 trillion, Nvidia is now worth more than the aggregated stock markets of all countries, apart from the United States, China, and Japan.",
       "author": "Ivan Mehta",
       "content": "With a market cap of $5 trillion, Nvidia is now worth more than the aggregated stock markets of all countries, apart from the United States, China, and Japan.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.598151+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.598154+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "820ab3140625221917dc583e40694438",
-      "title": "Scaling Large MoE Models with Wide Expert Parallelism on NVL72 Rack Scale Systems",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/scaling-large-moe-models-with-wide-expert-parallelism-on-nvl72-rack-scale-systems/",
-      "published_date": "2025-10-20T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...",
-      "author": "Eduardo Alvarez",
-      "content": "Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.599514+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.599517+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d609b35f7f25064d7e3c618f82e98aea",
-      "title": "Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/metagenomi-generates-millions-of-novel-enzymes-cost-effectively-using-aws-inferentia/",
-      "published_date": "2025-10-22T13:53:20+00:00",
-      "category": "Industry",
-      "description": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
-      "author": "Audra Devoto, Owen Janson, Adam Perry, Christopher Brown",
-      "content": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.596689+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.596692+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "69df8e22b809e16df48ed6d455547e14",
-      "title": "Research: International Scientific Report on the Safety of Advanced AI: interim report",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai",
-      "published_date": "2025-10-22T09:08:02+00:00",
-      "category": "Government",
-      "description": "An interim report on the science of advanced Artificial Intelligence (AI) safety.",
-      "author": "",
-      "content": "An interim report on the science of advanced Artificial Intelligence (AI) safety.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -234,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.595183+00:00"
+        "consensus_timestamp": "2025-10-30T12:47:21.177372+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,274 +59,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-30T08:32:01.595186+00:00"
+        "timestamp": "2025-10-30T12:47:21.177374+00:00"
       },
-      "article_type": "article"
+      "article_type": "headline"
     },
     {
-      "article_id": "e76947dff06bb2e6e517f673f21218ce",
-      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
-      "published_date": "2025-10-30T08:27:59.433497+00:00",
-      "category": "Government",
-      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
-      "author": "",
-      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.594489+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.594493+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "907f3e6caf7115e6a6aa2976bcf48cf1",
-      "title": "Iterative fine-tuning on Amazon Bedrock for strategic model improvement",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/iterative-fine-tuning-on-amazon-bedrock-for-strategic-model-improvement/",
-      "published_date": "2025-10-16T23:11:28+00:00",
-      "category": "Industry",
-      "description": "Organizations often face challenges when implementing single-shot fine-tuning approaches for their generative AI models. The single-shot fine-tuning method involves selecting training data, configuring hyperparameters, and hoping the results meet expectations without the ability to make incremental adjustments. Single-shot fine-tuning frequently leads to suboptimal results and requires starting the entire process from scratch when improvements are […]",
-      "author": "Yanyan Zhang",
-      "content": "Organizations often face challenges when implementing single-shot fine-tuning approaches for their generative AI models. The single-shot fine-tuning method involves selecting training data, configuring hyperparameters, and hoping the results meet expectations without the ability to make incremental adjustments. Single-shot fine-tuning frequently leads to suboptimal results and requires starting the entire process from scratch when improvements are […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.597048+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.597051+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ddbf2d9bb474a03f10a7894627a683dc",
-      "title": "Microsoft’s 900 Million AI Users Push Revenue to $77.7 Billion",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-news-updates/microsofts-900-million-ai-users-push-revenue-to-77-7-billion/",
-      "published_date": "2025-10-30T04:35:06+00:00",
-      "category": "Industry",
-      "description": "Intelligent Cloud revenue rose 28% to $30.9 billion, led by Azure and other cloud services, which grew 40% in constant currency. The post Microsoft’s 900 Million AI Users Push Revenue to $77.7 Billion appeared first on Analytics India Magazine.",
-      "author": "Siddharth Jindal",
-      "content": "Intelligent Cloud revenue rose 28% to $30.9 billion, led by Azure and other cloud services, which grew 40% in constant currency. The post Microsoft’s 900 Million AI Users Push Revenue to $77.7 Billion appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.600774+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.600777+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d19ccaf854f2bdf1b20b02f44d25d4dd",
-      "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
+      "article_id": "0eed93507d9f00a9c79091f529c2ca29",
+      "title": "Introducing gpt-oss-safeguard",
       "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-chatgpt-atlas",
-      "published_date": "2025-10-21T00:00:00+00:00",
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+      "published_date": "2025-10-29T00:00:00+00:00",
       "category": "Industry",
-      "description": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
+      "description": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
       "author": "",
-      "content": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
+      "content": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.95,
+        "impact_score": 0.99,
+        "overall_score": 0.9455,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.174637+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.174640+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "75f51c69813bbfc437c5ecbe2a0e8f0f",
+      "title": "Strengthening ChatGPT’s responses in sensitive conversations",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
+      "published_date": "2025-10-27T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
+      "author": "",
+      "content": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.174946+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.174948+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f238e9a049a0cf08959c5da141cf438a",
+      "title": "Amazon launches $68 million AI PhD Fellowship program",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program",
+      "published_date": "2025-10-21T13:00:00+00:00",
+      "category": "Industry",
+      "description": "Initiative will fund over 100 doctoral students researching machine learning, computer vision, and natural-language processing at nine universities.",
+      "author": "Staff writer",
+      "content": "Initiative will fund over 100 doctoral students researching machine learning, computer vision, and natural-language processing at nine universities.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.85,
         "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.596173+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.596176+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fe4790c96623995acf13cd6383b4c331",
-      "title": "NVIDIA and General Atomics Advance Commercial Fusion Energy",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-general-atomics-fusion/",
-      "published_date": "2025-10-28T18:00:45+00:00",
-      "category": "Industry",
-      "description": "The race to bottle a star now runs on AI. NVIDIA, General Atomics and a team of international partners have built a high-fidelity, AI-enabled digital twin for a fusion reactor with interactive performance, with technical support from San Diego Supercomputer Center at UC San Diego School of Computing, Information and Data Sciences, the Argonne Leadership Read Article",
-      "author": "Chris Porter",
-      "content": "The race to bottle a star now runs on AI. NVIDIA, General Atomics and a team of international partners have built a high-fidelity, AI-enabled digital twin for a fusion reactor with interactive performance, with technical support from San Diego Supercomputer Center at UC San Diego School of Computing, Information and Data Sciences, the Argonne Leadership Read Article",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "overall_score": 0.9125000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -544,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.597427+00:00"
+        "consensus_timestamp": "2025-10-30T12:47:21.179084+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-30T08:32:01.597430+00:00"
+        "timestamp": "2025-10-30T12:47:21.179087+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d609b35f7f25064d7e3c618f82e98aea",
+      "title": "Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/metagenomi-generates-millions-of-novel-enzymes-cost-effectively-using-aws-inferentia/",
+      "published_date": "2025-10-22T13:53:20+00:00",
+      "category": "Industry",
+      "description": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
+      "author": "Audra Devoto, Owen Janson, Adam Perry, Christopher Brown",
+      "content": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.175964+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.175967+00:00"
       },
       "article_type": "article"
     },
@@ -571,11 +323,11 @@
       "content": "Climate & Sustainability",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -606,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.599715+00:00"
+        "consensus_timestamp": "2025-10-30T12:47:21.178953+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,20 +369,206 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-30T08:32:01.599718+00:00"
+        "timestamp": "2025-10-30T12:47:21.178955+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b881249b5554e7d309a4c6473bc5a762",
-      "title": "Addendum to GPT-5 System Card: Sensitive conversations",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/gpt-5-system-card-sensitive-conversations",
-      "published_date": "2025-10-27T10:00:00+00:00",
-      "category": "Industry",
-      "description": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
+      "article_id": "69df8e22b809e16df48ed6d455547e14",
+      "title": "Research: International Scientific Report on the Safety of Advanced AI: interim report",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/international-scientific-report-on-the-safety-of-advanced-ai",
+      "published_date": "2025-10-22T09:08:02+00:00",
+      "category": "Government",
+      "description": "An interim report on the science of advanced Artificial Intelligence (AI) safety.",
       "author": "",
-      "content": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
+      "content": "An interim report on the science of advanced Artificial Intelligence (AI) safety.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.174501+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.174505+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8a037bbf556f8e1b3da7ae354cfed9e2",
+      "title": "Responsible AI design in healthcare and life sciences",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-design-in-healthcare-and-life-sciences/",
+      "published_date": "2025-10-24T17:25:39+00:00",
+      "category": "Industry",
+      "description": "In this post, we explore the critical design considerations for building responsible AI systems in healthcare and life sciences, focusing on establishing governance mechanisms, transparency artifacts, and security measures that ensure safe and effective generative AI applications. The discussion covers essential policies for mitigating risks like confabulation and bias while promoting trust, accountability, and patient safety throughout the AI development lifecycle.",
+      "author": "Tonny Ouma",
+      "content": "In this post, we explore the critical design considerations for building responsible AI systems in healthcare and life sciences, focusing on establishing governance mechanisms, transparency artifacts, and security measures that ensure safe and effective generative AI applications. The discussion covers essential policies for mitigating risks like confabulation and bias while promoting trust, accountability, and patient safety throughout the AI development lifecycle.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.85,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.175653+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.175656+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d19ccaf854f2bdf1b20b02f44d25d4dd",
+      "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-chatgpt-atlas",
+      "published_date": "2025-10-21T00:00:00+00:00",
+      "category": "Industry",
+      "description": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
+      "author": "",
+      "content": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.86,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.175380+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.175382+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b4951a0022a4eb1632c9c4952cc26e9c",
+      "title": "Principal Financial Group accelerates build, test, and deployment of Amazon Lex V2 bots through automation",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-accelerates-build-test-and-deployment-of-amazon-lex-v2-bots-through-automation/",
+      "published_date": "2025-10-17T16:13:18+00:00",
+      "category": "Industry",
+      "description": "In the post Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight, we discussed the overall Principal Virtual Assistant solution using Genesys Cloud, Amazon Lex V2, multiple AWS services, and a custom reporting and analytics solution using Amazon QuickSight.",
+      "author": "Mulay Ahmed and Caroline Lima-Lane",
+      "content": "In the post Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight, we discussed the overall Principal Virtual Assistant solution using Genesys Cloud, Amazon Lex V2, multiple AWS services, and a custom reporting and analytics solution using Amazon QuickSight.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -665,10 +603,258 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.176214+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.176218+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "19b7edfad83e118d926f6e4da49abd76",
+      "title": "Optimizing document AI and structured outputs by fine-tuning Amazon Nova Models and on-demand inference",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-document-ai-and-structured-outputs-by-fine-tuning-amazon-nova-models-and-on-demand-inference/",
+      "published_date": "2025-10-16T18:32:55+00:00",
+      "category": "Industry",
+      "description": "This post provides a comprehensive hands-on guide to fine-tune Amazon Nova Lite for document processing tasks, with a focus on tax form data extraction. Using our open-source GitHub repository code sample, we demonstrate the complete workflow from data preparation to model deployment.",
+      "author": "Sharon Li",
+      "content": "This post provides a comprehensive hands-on guide to fine-tune Amazon Nova Lite for document processing tasks, with a focus on tax form data extraction. Using our open-source GitHub repository code sample, we demonstrate the complete workflow from data preparation to model deployment.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.176439+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.176442+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f6c5d8df643293ec7842a4493bc931d4",
+      "title": "Built to benefit everyone",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/built-to-benefit-everyone",
+      "published_date": "2025-10-28T06:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
+      "author": "",
+      "content": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.174769+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.174772+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "db1aa8026be44f692b7491e984f19170",
+      "title": "Introducing Chronos-2: From univariate to universal forecasting",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/introducing-chronos-2-from-univariate-to-universal-forecasting",
+      "published_date": "2025-10-20T13:53:19+00:00",
+      "category": "Industry",
+      "description": "In-context learning enables a model that can solve forecasting tasks with an arbitrary number of dimensions in a zero-shot manner.",
+      "author": "Abdul Fatir Ansari",
+      "content": "In-context learning enables a model that can solve forecasting tasks with an arbitrary number of dimensions in a zero-shot manner.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.595711+00:00"
+        "consensus_timestamp": "2025-10-30T12:47:21.179128+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-10-30T12:47:21.179130+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c17025a90bf2289ef5a0842e936fd60b",
+      "title": "NVIDIA ACE Adds Open Source Qwen3 SLM for On-Device Deployment in PC Games",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-ace-adds-open-source-qwen3-slm-for-on-device-deployment-in-pc-games/",
+      "published_date": "2025-10-21T17:00:00+00:00",
+      "category": "Industry",
+      "description": "To help create real-time, dynamic NPC game characters, NVIDIA ACE now supports the open source Qwen3-8B small language model (SLM) for on-device...",
+      "author": "Ike Nnoli",
+      "content": "To help create real-time, dynamic NPC game characters, NVIDIA ACE now supports the open source Qwen3-8B small language model (SLM) for on-device...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-10-30T12:47:21.178647+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,88 +865,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-30T08:32:01.595714+00:00"
+        "timestamp": "2025-10-30T12:47:21.178650+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0d4e5d797422d9cc87278b1f03d2bc9b",
-      "title": "Work smarter with your company knowledge in ChatGPT",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-company-knowledge",
-      "published_date": "2025-10-23T00:00:00+00:00",
+      "article_id": "820ab3140625221917dc583e40694438",
+      "title": "Scaling Large MoE Models with Wide Expert Parallelism on NVL72 Rack Scale Systems",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/scaling-large-moe-models-with-wide-expert-parallelism-on-nvl72-rack-scale-systems/",
+      "published_date": "2025-10-20T16:00:00+00:00",
       "category": "Industry",
-      "description": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.",
-      "author": "",
-      "content": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.",
+      "description": "Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...",
+      "author": "Eduardo Alvarez",
+      "content": "Modern AI workloads have moved well beyond single-GPU inference serving. Model parallelism, which efficiently splits computation across many GPUs, is now the...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.75,
         "impact_score": 0.95,
         "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.595990+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.595992+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "08da4665ca6a2200e0f74b94cb1f9789",
-      "title": "Netarx Named Hot Company in AI Cybersecurity by CDM",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/netarx-named-hot-company-in-ai-cybersecurity-by-cdm/",
-      "published_date": "2025-10-29T15:15:00+00:00",
-      "category": "Industry",
-      "description": "Recognition highlights Netarx’s leadership in real-time, AI-driven protection against deepfakes and social engineering threats Netarx, a leader in digital trust and enterprise security, today announced it has been named “Hot Company in AI-Powered Cybersecurity Solutions” by Cyber Defense Magazine (CDM), the industry’s leading electronic information security publication. The award recognizes... The post Netarx Named Hot Company in AI Cybersecurity by CDM first appeared on AI-Tech Park.",
-      "author": "PR Newswire",
-      "content": "Recognition highlights Netarx’s leadership in real-time, AI-driven protection against deepfakes and social engineering threats Netarx, a leader in digital trust and enterprise security, today announced it has been named “Hot Company in AI-Powered Cybersecurity Solutions” by Cyber Defense Magazine (CDM), the industry’s leading electronic information security publication. The award recognizes... The post Netarx Named Hot Company in AI Cybersecurity by CDM first appeared on AI-Tech Park.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -788,146 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.92,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.600252+00:00"
+        "consensus_timestamp": "2025-10-30T12:47:21.178780+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-10-30T08:32:01.600256+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fe9ebe25907c8a413fab2c9634789fb1",
-      "title": "NIH establishes nation's first dedicated organoid development center to reduce reliance on animal modeling",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-establishes-nations-first-dedicated-organoid-development-center-reduce-reliance-animal-modeling",
-      "published_date": "2025-10-30T08:27:59.433010+00:00",
-      "category": "Government",
-      "description": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
-      "author": "",
-      "content": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.594363+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.594370+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5331233b5db06bdd211db03584849749",
-      "title": "OpenAI to expand into UK Data hosting after major growth deal",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/openai-to-expand-into-uk-data-hosting-after-major-growth-deal",
-      "published_date": "2025-10-23T10:36:30+00:00",
-      "category": "Government",
-      "description": "British businesses are set to benefit from a new deal between the Ministry of Justice and global tech leader OpenAI to supercharge UK AI adoption.",
-      "author": "",
-      "content": "British businesses are set to benefit from a new deal between the Ministry of Justice and global tech leader OpenAI to supercharge UK AI adoption.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-10-30T08:32:01.594995+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-10-30T08:32:01.594998+00:00"
+        "timestamp": "2025-10-30T12:47:21.178782+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 171.11326956748962,
+    "processing_time": 168.62579679489136,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 137,
+      "total_processed": 131,
       "candidates": {
-        "headlines": 19,
-        "articles": 118,
+        "headlines": 18,
+        "articles": 113,
         "research_papers": 0
       },
       "selected": {
