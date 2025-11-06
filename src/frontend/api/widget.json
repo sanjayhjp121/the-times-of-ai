@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-06T12:47:27.585307+00:00",
+  "updated": "2025-11-06T16:33:18.855218+00:00",
   "top_stories": [
     {
       "article_id": "6b251b59ce7eabd329293d8759ad337f",
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-06T12:47:27.537542+00:00"
+        "consensus_timestamp": "2025-11-06T16:33:18.807207+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,88 +59,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-06T12:47:27.537545+00:00"
+        "timestamp": "2025-11-06T16:33:18.807210+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "543395315aaea8410ae2ea74c39969a0",
-      "title": "Clario streamlines clinical trial software configurations using Amazon Bedrock",
+      "article_id": "b3c397606ba4de1ee2279ad7564fe8dd",
+      "title": "How Amazon Search increased ML training twofold using AWS Batch for Amazon SageMaker Training jobs",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/clario-streamlines-clinical-trial-software-configurations-using-amazon-bedrock/",
-      "published_date": "2025-10-31T15:49:09+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-increased-ml-training-twofold-using-aws-batch-for-amazon-sagemaker-training-jobs/",
+      "published_date": "2025-11-05T17:15:35+00:00",
       "category": "Industry",
-      "description": "This post builds upon our previous post discussing how Clario developed an AI solution powered by Amazon Bedrock to accelerate clinical trials. Since then, Clario has further enhanced their AI capabilities, focusing on innovative solutions that streamline the generation of software configurations and artifacts for clinical trials while delivering high-quality clinical evidence.",
-      "author": "Kim Nguyen, Shyam Banuprakash,",
-      "content": "This post builds upon our previous post discussing how Clario developed an AI solution powered by Amazon Bedrock to accelerate clinical trials. Since then, Clario has further enhanced their AI capabilities, focusing on innovative solutions that streamline the generation of software configurations and artifacts for clinical trials while delivering high-quality clinical evidence.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.9079999999999999,
-        "confidence_mean": 0.99
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-06T12:47:27.536075+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-06T12:47:27.536078+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e552fa524c0f80ff7161d232b11025d9",
-      "title": "How Artificial Intelligence is Powering Next-Gen Cybersecurity",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/how-artificial-intelligence-is-powering-next-gen-cybersecurity/",
-      "published_date": "2025-11-06T12:00:00+00:00",
-      "category": "Industry",
-      "description": "AI is transforming cybersecurity from reactive to predictive. Explore how algorithms now defend digital borders. The breach was seconds away. Ransomware was about to encrypt terabytes of essential information in the network of a manufacturing company with a global presence. Then–silence. A machine learning-based detection system has detected an anomaly... The post How Artificial Intelligence is Powering Next-Gen Cybersecurity first appeared on AI-Tech Park.",
-      "author": "AI TechPark",
-      "content": "AI is transforming cybersecurity from reactive to predictive. Explore how algorithms now defend digital borders. The breach was seconds away. Ransomware was about to encrypt terabytes of essential information in the network of a manufacturing company with a global presence. Then–silence. A machine learning-based detection system has detected an anomaly... The post How Artificial Intelligence is Powering Next-Gen Cybersecurity first appeared on AI-Tech Park.",
+      "description": "In this post, we show you how Amazon Search optimized GPU instance utilization by leveraging AWS Batch for SageMaker Training jobs. This managed solution enabled us to orchestrate machine learning (ML) training workloads on GPU-accelerated instance families like P5, P4, and others. We will also provide a step-by-step walkthrough of the use case implementation.",
+      "author": "Mona Mona",
+      "content": "In this post, we show you how Amazon Search optimized GPU instance utilization by leveraging AWS Batch for SageMaker Training jobs. This managed solution enabled us to orchestrate machine learning (ML) training workloads on GPU-accelerated instance families like P5, P4, and others. We will also provide a step-by-step walkthrough of the use case implementation.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.85,
-        "impact_score": 0.9,
-        "overall_score": 0.9025000000000001,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -169,40 +107,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.92,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-06T12:47:27.539125+00:00"
+        "consensus_timestamp": "2025-11-06T16:33:18.805413+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.752,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-06T12:47:27.539129+00:00"
+        "timestamp": "2025-11-06T16:33:18.805416+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d589947ffe5ea95300193d4c49d606d8",
-      "title": "Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/scaling-physical-ai-omniverse/",
-      "published_date": "2025-10-29T13:00:30+00:00",
-      "category": "Industry",
-      "description": "Physical AI models — which power robots, autonomous vehicles and other intelligent machines — must be safe, generalized for dynamic scenarios and capable of perceiving, reasoning and operating in real time.",
-      "author": "Katie Washabaugh",
-      "content": "Physical AI models — which power robots, autonomous vehicles and other intelligent machines — must be safe, generalized for dynamic scenarios and capable of perceiving, reasoning and operating in real time.",
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-11-06T16:29:06.898589+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "author": "",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -231,21 +169,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-06T12:47:27.536759+00:00"
+        "consensus_timestamp": "2025-11-06T16:33:18.803410+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-06T12:47:27.536762+00:00"
+        "timestamp": "2025-11-06T16:33:18.803414+00:00"
       },
       "article_type": "article"
     },
@@ -296,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-06T12:47:27.537076+00:00"
+        "consensus_timestamp": "2025-11-06T16:33:18.806746+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-06T12:47:27.537079+00:00"
+        "timestamp": "2025-11-06T16:33:18.806749+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "16cb5baf90447de84f691b04f00408af",
+      "title": "Amazon announces the 2026 Amazon Nova AI Challenge: Trusted software agents",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/nova-ai-challenge/amazon-announces-the-2026-amazon-nova-ai-challenge-trusted-software-agents",
+      "published_date": "2025-10-31T13:00:00+00:00",
+      "category": "Industry",
+      "description": "Challenge pushes teams to demonstrate measurable gains in secure-coding performance while building AI agents that advance real-world utility and reliability at scale.",
+      "author": "Staff writer",
+      "content": "Challenge pushes teams to demonstrate measurable gains in secure-coding performance while building AI agents that advance real-world utility and reliability at scale.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-06T16:33:18.808812+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-06T16:33:18.808815+00:00"
       },
       "article_type": "article"
     }
