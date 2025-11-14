@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-11-14T04:30:58.618503+00:00",
+  "generated_at": "2025-11-14T08:33:07.614566+00:00",
   "articles": [
     {
-      "article_id": "f5a7404065d11e3bdf4be09cc855026f",
-      "title": "NIH launches consortium to reduce risk of stillbirth in the U.S.",
+      "article_id": "c2e72078bb699e8eefca22c02a0d1380",
+      "title": "NIH launches landmark project on whole-person health and function",
       "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-consortium-reduce-risk-stillbirth-us",
-      "published_date": "2025-11-14T04:26:44.379284+00:00",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-landmark-project-whole-person-health-function",
+      "published_date": "2025-11-14T08:29:02.533249+00:00",
       "category": "Government",
-      "description": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
+      "description": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
       "author": "",
-      "content": "More than 60% of the nearly 24,000 stillbirth cases annually remain unexplained.",
+      "content": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.565171+00:00"
+        "consensus_timestamp": "2025-11-14T08:33:07.566114+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,268 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-14T04:30:58.565178+00:00"
+        "timestamp": "2025-11-14T08:33:07.566118+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "3f075a3bb97ce87f8b4611cd568f6a88",
-      "title": "How Philips Is scaling AI literacy across 70,000 employees",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/philips",
-      "published_date": "2025-11-13T00:00:00+00:00",
+      "article_id": "1b1799673972bfe9306a00f95aca9364",
+      "title": "Build reliable AI systems with Automated Reasoning on Amazon Bedrock – Part 1",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-systems-with-automated-reasoning-on-amazon-bedrock-part-1/",
+      "published_date": "2025-10-31T21:44:24+00:00",
       "category": "Industry",
-      "description": "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide.",
+      "description": "Enterprises in regulated industries often need mathematical certainty that every AI response complies with established policies and domain knowledge. Regulated industries can’t use traditional quality assurance methods that test only a statistical sample of AI outputs and make probabilistic assertions about compliance. When we launched Automated Reasoning checks in Amazon Bedrock Guardrails in preview at […]",
+      "author": "Adewale Akinfaderin",
+      "content": "Enterprises in regulated industries often need mathematical certainty that every AI response complies with established policies and domain knowledge. Regulated industries can’t use traditional quality assurance methods that test only a statistical sample of AI outputs and make probabilistic assertions about compliance. When we launched Automated Reasoning checks in Amazon Bedrock Guardrails in preview at […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-14T08:33:07.569069+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-14T08:33:07.569072+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2a610a377830ff4908295992f100a7f3",
+      "title": "How Clario automates clinical research analysis using generative AI on AWS",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/",
+      "published_date": "2025-11-10T18:13:47+00:00",
+      "category": "Industry",
+      "description": "In this post, we demonstrate how Clario has used Amazon Bedrock and other AWS services to build an AI-powered solution that automates and improves the analysis of COA interviews.",
+      "author": "Alex Boudreau, Cuong Lai",
+      "content": "In this post, we demonstrate how Clario has used Amazon Bedrock and other AWS services to build an AI-powered solution that automates and improves the analysis of COA interviews.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-14T08:33:07.568697+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-14T08:33:07.568700+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "1b5c2988cec42d452ac41c9b62f292fc",
+      "title": "Accelerating Large-Scale Mixture-of-Experts Training in PyTorch",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-large-scale-mixture-of-experts-training-in-pytorch/",
+      "published_date": "2025-11-06T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....",
+      "author": "Hemil Desai",
+      "content": "Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-14T08:33:07.572140+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-14T08:33:07.572143+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "33e5c2023aaec71a9b4ef194418f942f",
+      "title": "AI Growth Zones to create thousands of jobs and unlock up to £100 billion in investment, as new site confirmed for North Wales",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/ai-growth-zones-to-create-thousands-of-jobs-and-unlock-up-to-100-billion-in-investment-as-new-site-confirmed-for-north-wales",
+      "published_date": "2025-11-13T00:00:00+00:00",
+      "category": "Government",
+      "description": "North Wales in line for more than 3,400 new jobs through newly announced AI Growth Zone, as the Prime Minister and Technology Secretary set out plans to ensure sites deliver for working people.",
       "author": "",
-      "content": "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide.",
+      "content": "North Wales in line for more than 3,400 new jobs through newly announced AI Growth Zone, as the Prime Minister and Technology Secretary set out plans to ensure sites deliver for working people.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-14T08:33:07.566420+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-14T08:33:07.566423+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6e6a70251fb3d3eee35b9c0a23a2df2e",
+      "title": "Amazon launches private AI bug bounty to strengthen Nova models",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/news/amazon-launches-private-ai-bug-bounty-to-strengthen-nova-models",
+      "published_date": "2025-11-11T17:20:35+00:00",
+      "category": "Industry",
+      "description": "Partnering with professional security researchers and the academic community to build safer, more robust AI.",
+      "author": "Staff writer",
+      "content": "Partnering with professional security researchers and the academic community to build safer, more robust AI.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -110,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.566323+00:00"
+        "consensus_timestamp": "2025-11-14T08:33:07.572562+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,330 +369,144 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-14T04:30:58.566326+00:00"
+        "timestamp": "2025-11-14T08:33:07.572565+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2d6dae114a4b62fada9f1ac9b071013c",
-      "title": "GeForce NOW Enlists ‘Call of Duty: Black Ops 7’ for the Cloud",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-black-ops-7/",
-      "published_date": "2025-11-13T14:00:50+00:00",
-      "category": "Industry",
-      "description": "Chaos has entered the chat. It’s GFN Thursday, and things are getting intense with the launch of Call of Duty: Black Ops 7, streaming at launch this week on GeForce NOW. Dive straight into the chaos across devices — underpowered laptops, Macs, and Steam Decks. Power up the week with 12 new games to stream Read Article",
-      "author": "GeForce NOW Community",
-      "content": "Chaos has entered the chat. It’s GFN Thursday, and things are getting intense with the launch of Call of Duty: Black Ops 7, streaming at launch this week on GeForce NOW. Dive straight into the chaos across devices — underpowered laptops, Macs, and Steam Decks. Power up the week with 12 new games to stream Read Article",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.568069+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-14T04:30:58.568075+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4a0e3d536ddef974ed70c6d4ba894603",
-      "title": "AI Marketing Startup RAD Intel Secures Nasdaq Ticker $RADI — $50M+ Raised, 4,900% Valuation Growth in Four Years",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/money/rad-widget",
-      "published_date": "2025-11-13T15:22:40+00:00",
-      "category": "Industry",
-      "description": "The post AI Marketing Startup RAD Intel Secures Nasdaq Ticker $RADI — $50M+ Raised, 4,900% Valuation Growth in Four Years by Benzinga Contributors appeared first on Benzinga. Visit Benzinga to get more great content like this. Benzinga Money is a reader-supported publication. We may earn a commission from the advertisers associated with this article. Read our Advertiser Discloser. The $633 Billion Digital Marketing Industry Is Broken — RAD Intel Is Fixing It Fortune 1000 brands waste billions...",
-      "author": "Benzinga Contributors",
-      "content": "The post AI Marketing Startup RAD Intel Secures Nasdaq Ticker $RADI — $50M+ Raised, 4,900% Valuation Growth in Four Years by Benzinga Contributors appeared first on Benzinga. Visit Benzinga to get more great content like this. Benzinga Money is a reader-supported publication. We may earn a commission from the advertisers associated with this article. Read our Advertiser Discloser. The $633 Billion Digital Marketing Industry Is Broken — RAD Intel Is Fixing It Fortune 1000 brands waste billions...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.8,
-        "overall_score": 0.88,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.571686+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-14T04:30:58.571689+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fe9ebe25907c8a413fab2c9634789fb1",
-      "title": "NIH establishes nation's first dedicated organoid development center to reduce reliance on animal modeling",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-establishes-nations-first-dedicated-organoid-development-center-reduce-reliance-animal-modeling",
-      "published_date": "2025-11-14T04:26:44.378956+00:00",
-      "category": "Government",
-      "description": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
-      "author": "",
-      "content": "The Standardized Organoid Modeling Center aims to produce standardized protocols for organoid research, addressing reproducibility challenges.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.564915+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-14T04:30:58.564919+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ac1e1c768fd259129c32ab750b028035",
-      "title": "Guidance: AI Research Resource",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ai-research-resource",
-      "published_date": "2025-11-07T11:11:50+00:00",
-      "category": "Government",
-      "description": "The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to researchers, academia, and industry.",
-      "author": "",
-      "content": "The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to researchers, academia, and industry.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.566227+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-14T04:30:58.566230+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ed0e3a1cad92678b524478ff5142bf5d",
-      "title": "Introducing structured output for Custom Model Import in Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-structured-output-for-custom-model-import-in-amazon-bedrock/",
-      "published_date": "2025-11-07T18:53:55+00:00",
-      "category": "Industry",
-      "description": "Today, we are excited to announce the addition of structured output to Custom Model Import. Structured output constrains a model's generation process in real time so that every token it produces conforms to a schema you define. Rather than relying on prompt-engineering tricks or brittle post-processing scripts, you can now generate structured outputs directly at inference time.",
-      "author": "Manoj Selvakumar",
-      "content": "Today, we are excited to announce the addition of structured output to Custom Model Import. Structured output constrains a model's generation process in real time so that every token it produces conforms to a schema you define. Rather than relying on prompt-engineering tricks or brittle post-processing scripts, you can now generate structured outputs directly at inference time.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.567574+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-14T04:30:58.567577+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "54ab9a85a9ed12106e6a41a7d71c4bbf",
-      "title": "Achieve CUTLASS C++ Performance with Python APIs Using CuTe DSL",
+      "article_id": "4f02bdaa8a1e21084f5ab9782ac0b520",
+      "title": "R²D²: Perception-Guided Task & Motion Planning for Long-Horizon Manipulation",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/achieve-cutlass-c-performance-with-python-apis-using-cute-dsl/",
-      "published_date": "2025-11-13T20:30:00+00:00",
+      "url": "https://developer.nvidia.com/blog/r2d2-perception-guided-task-amp-motion-planning-for-long-horizon-manipulation/",
+      "published_date": "2025-11-04T17:00:00+00:00",
       "category": "Industry",
-      "description": "CuTe, a core component of CUTLASS 3.x, provides a unified algebra for describing data layouts and thread mappings, and abstracts complex memory access patterns...",
-      "author": "Brandon Sun",
-      "content": "CuTe, a core component of CUTLASS 3.x, provides a unified algebra for describing data layouts and thread mappings, and abstracts complex memory access patterns...",
+      "description": "Traditional task and motion planning (TAMP) systems for robot manipulation use cases operate on static models that often fail in new environments. Integrating...",
+      "author": "Raffaello Bonghi",
+      "content": "Traditional task and motion planning (TAMP) systems for robot manipulation use cases operate on static models that often fail in new environments. Integrating...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.96,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-14T08:33:07.572283+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.776,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-14T08:33:07.572286+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "695cc56022ae9ae887b77700ab1e7551",
+      "title": "Zetaris Appoints Michael Hay as Chief Technology Officer",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/zetaris-appoints-michael-hay-as-chief-technology-officer/",
+      "published_date": "2025-11-14T08:15:02+00:00",
+      "category": "Industry",
+      "description": "Seasoned Technology Leader to Drive Global Product Innovation and Go-to-Market Strategy for Modern Lakehouse for AI Platform Zetaris, the Modern Lakehouse for AI company, today announced the appointment of Michael Hay as Chief Technology Officer. In this role, Mr. Hay will oversee product research and development, lead market-facing CTO activities,... The post Zetaris Appoints Michael Hay as Chief Technology Officer first appeared on AI-Tech Park.",
+      "author": "Zetaris",
+      "content": "Seasoned Technology Leader to Drive Global Product Innovation and Go-to-Market Strategy for Modern Lakehouse for AI Platform Zetaris, the Modern Lakehouse for AI company, today announced the appointment of Michael Hay as Chief Technology Officer. In this role, Mr. Hay will oversee product research and development, lead market-facing CTO activities,... The post Zetaris Appoints Michael Hay as Chief Technology Officer first appeared on AI-Tech Park.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-14T08:33:07.572703+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-14T08:33:07.572706+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8fb832ccc8abfd644815279c00998131",
+      "title": "AWS and OpenAI announce multi-year strategic partnership",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/aws-and-openai-partnership",
+      "published_date": "2025-11-03T06:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.",
+      "author": "",
+      "content": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -482,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.569392+00:00"
+        "consensus_timestamp": "2025-11-14T08:33:07.568147+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,7 +555,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-14T04:30:58.569395+00:00"
+        "timestamp": "2025-11-14T08:33:07.568150+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4c69142322044b71532c6cc5fbf76079",
+      "title": "Resiliency in the cloud—empowered by shared responsibility and Azure Essentials",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/",
+      "published_date": "2025-10-31T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Empowering organizations to shape the future of cloud with resilient, always-on solutions. The post Resiliency in the cloud—empowered by shared responsibility and Azure Essentials appeared first on Microsoft Azure Blog.",
+      "author": "Cyril Belikoff and Molina Sharma",
+      "content": "Empowering organizations to shape the future of cloud with resilient, always-on solutions. The post Resiliency in the cloud—empowered by shared responsibility and Azure Essentials appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-14T08:33:07.568424+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-14T08:33:07.568428+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2163af037633371046f1cdd65cbf4c1d",
+      "title": "1 million business customers putting AI to work",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/1-million-businesses-putting-ai-to-work",
+      "published_date": "2025-11-05T05:00:00+00:00",
+      "category": "Industry",
+      "description": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work.",
+      "author": "",
+      "content": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-14T08:33:07.568009+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-14T08:33:07.568012+00:00"
       },
       "article_type": "article"
     },
@@ -541,34 +727,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.566873+00:00"
+        "consensus_timestamp": "2025-11-14T08:33:07.567808+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-14T04:30:58.566876+00:00"
+        "timestamp": "2025-11-14T08:33:07.567811+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6e6a70251fb3d3eee35b9c0a23a2df2e",
-      "title": "Amazon launches private AI bug bounty to strengthen Nova models",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/news/amazon-launches-private-ai-bug-bounty-to-strengthen-nova-models",
-      "published_date": "2025-11-11T17:20:35+00:00",
+      "article_id": "c75bd527c8b08543ec0c71d0b871fa2e",
+      "title": "Introducing Amazon Bedrock cross-Region inference for Claude Sonnet 4.5 and Haiku 4.5 in Japan and Australia",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-cross-region-inference-for-claude-sonnet-4-5-and-haiku-4-5-in-japan-and-australia/",
+      "published_date": "2025-10-31T14:45:37+00:00",
       "category": "Industry",
-      "description": "Partnering with professional security researchers and the academic community to build safer, more robust AI.",
-      "author": "Staff writer",
-      "content": "Partnering with professional security researchers and the academic community to build safer, more robust AI.",
+      "description": "こんにちは, G’day. The recent launch of Anthropic’s Claude Sonnet 4.5 and Claude Haiku 4.5, now available on Amazon Bedrock, marks a significant leap forward in generative AI models. These state-of-the-art models excel at complex agentic tasks, coding, and enterprise workloads, offering enhanced capabilities to developers. Along with the new models, we are thrilled to announce that […]",
+      "author": "Derrick Choo",
+      "content": "こんにちは, G’day. The recent launch of Anthropic’s Claude Sonnet 4.5 and Claude Haiku 4.5, now available on Amazon Bedrock, marks a significant leap forward in generative AI models. These state-of-the-art models excel at complex agentic tasks, coding, and enterprise workloads, offering enhanced capabilities to developers. Along with the new models, we are thrilled to announce that […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -606,7 +792,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.570492+00:00"
+        "consensus_timestamp": "2025-11-14T08:33:07.569240+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,27 +803,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-14T04:30:58.570495+00:00"
+        "timestamp": "2025-11-14T08:33:07.569243+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3c89b2f42c95363f7398ec4e50cb0f5e",
-      "title": "SOUTHWORKS Celebrated by Microsoft for Gaming and Azure AI Innovation",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/southworks-celebrated-by-microsoft-for-gaming-and-azure-ai-innovation/",
-      "published_date": "2025-11-13T13:06:40+00:00",
+      "article_id": "23f79824f38996c122902a3c05ccf8fb",
+      "title": "Separating natural forests from other tree cover with AI for deforestation-free supply chains",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/",
+      "published_date": "2025-11-13T19:04:07+00:00",
       "category": "Industry",
-      "description": "SOUTHWORKS, a leading software engineering company renowned for delivering high-quality solutions at speed and scale, today announced it has won the 2025 Microsoft Partner of the Year Gaming Award and has been named a finalist of the program’s Innovate with Azure AI Platform Award. The company was honored among a... The post SOUTHWORKS Celebrated by Microsoft for Gaming and Azure AI Innovation first appeared on AI-Tech Park.",
-      "author": "SOUTHWORKS",
-      "content": "SOUTHWORKS, a leading software engineering company renowned for delivering high-quality solutions at speed and scale, today announced it has won the 2025 Microsoft Partner of the Year Gaming Award and has been named a finalist of the program’s Innovate with Azure AI Platform Award. The company was honored among a... The post SOUTHWORKS Celebrated by Microsoft for Gaming and Azure AI Innovation first appeared on AI-Tech Park.",
+      "description": "Climate & Sustainability",
+      "author": "",
+      "content": "Climate & Sustainability",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.86,
-        "confidence_mean": 0.95
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -668,7 +854,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.571043+00:00"
+        "consensus_timestamp": "2025-11-14T08:33:07.572422+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,213 +865,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-14T04:30:58.571046+00:00"
+        "timestamp": "2025-11-14T08:33:07.572425+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f6273e678a3e801c2f365a43dedaaf34",
-      "title": "A new view of supply chain emissions",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/a-new-view-of-supply-chain-emissions",
-      "published_date": "2025-11-07T00:32:37+00:00",
-      "category": "Industry",
-      "description": "A new approach to reducing carbon emissions reveals previously hidden emission “hotspots” within value chains, helping organizations make more detailed and dynamic decisions about their future carbon footprints.",
-      "author": "Nina Domingo",
-      "content": "A new approach to reducing carbon emissions reveals previously hidden emission “hotspots” within value chains, helping organizations make more detailed and dynamic decisions about their future carbon footprints.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.85,
-        "overall_score": 0.86,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.570539+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-14T04:30:58.570542+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fb1bf3c5336e4f27d1e3b683cd3b9c77",
-      "title": "PhonePe, OpenAI Partner to Bring ChatGPT to Millions of Indian Users",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-news-updates/phonepe-openai-partner-to-bring-chatgpt-to-millions-of-indian-users/",
-      "published_date": "2025-11-13T10:59:32+00:00",
-      "category": "Industry",
-      "description": "The partnership will allow PhonePe users to explore ChatGPT’s capabilities directly within the PhonePe app ecosystem, including the Indus Appstore. The post PhonePe, OpenAI Partner to Bring ChatGPT to Millions of Indian Users appeared first on Analytics India Magazine.",
-      "author": "Siddharth Jindal",
-      "content": "The partnership will allow PhonePe users to explore ChatGPT’s capabilities directly within the PhonePe app ecosystem, including the Indus Appstore. The post PhonePe, OpenAI Partner to Bring ChatGPT to Millions of Indian Users appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.8,
-        "overall_score": 0.83,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.571329+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-14T04:30:58.571332+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4edc443bcec4def623b90d849c5d5f29",
-      "title": "AI Coding Startup Cursor Raises $2.3 Bn, Reaches $29.3 Bn Valuation",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-news-updates/ai-coding-startup-cursor-raises-2-3-bn-reaches-29-3-bn-valuation/",
-      "published_date": "2025-11-13T15:17:13+00:00",
-      "category": "Industry",
-      "description": "The round includes participation from existing investors Accel, Thrive, Andreessen Horowitz, and DST, while Coatue, NVIDIA, and Google have joined as new backers. The post AI Coding Startup Cursor Raises $2.3 Bn, Reaches $29.3 Bn Valuation appeared first on Analytics India Magazine.",
-      "author": "Siddharth Jindal",
-      "content": "The round includes participation from existing investors Accel, Thrive, Andreessen Horowitz, and DST, while Coatue, NVIDIA, and Google have joined as new backers. The post AI Coding Startup Cursor Raises $2.3 Bn, Reaches $29.3 Bn Valuation appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.571193+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-14T04:30:58.571196+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2163af037633371046f1cdd65cbf4c1d",
-      "title": "1 million business customers putting AI to work",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/1-million-businesses-putting-ai-to-work",
-      "published_date": "2025-11-05T05:00:00+00:00",
-      "category": "Industry",
-      "description": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work.",
+      "article_id": "f19fd8f5b09ba2d1bc501ecd37abac6f",
+      "title": "New law to tackle AI child abuse images at source as reports more than double",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/new-law-to-tackle-ai-child-abuse-images-at-source-as-reports-more-than-double",
+      "published_date": "2025-11-12T00:01:00+00:00",
+      "category": "Government",
+      "description": "New legislation sees government work with AI industry and child protection organisations to ensure AI models cannot be misused to create synthetic child sexual abuse images.",
       "author": "",
-      "content": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work.",
+      "content": "New legislation sees government work with AI industry and child protection organisations to ensure AI models cannot be misused to create synthetic child sexual abuse images.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.7,
         "impact_score": 0.95,
         "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
+        "score": 0.85,
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-14T04:30:58.567063+00:00"
+        "consensus_timestamp": "2025-11-14T08:33:07.566655+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.71,
         "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-14T04:30:58.567066+00:00"
+        "timestamp": "2025-11-14T08:33:07.566657+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 182.5518934726715,
+    "processing_time": 172.69892358779907,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 150,
+      "total_processed": 141,
       "candidates": {
-        "headlines": 17,
-        "articles": 133,
+        "headlines": 16,
+        "articles": 125,
         "research_papers": 0
       },
       "selected": {
