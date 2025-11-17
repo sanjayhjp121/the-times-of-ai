@@ -1,147 +1,23 @@
 {
-  "updated": "2025-11-16T20:26:14.276600+00:00",
+  "updated": "2025-11-17T01:47:30.628856+00:00",
   "top_stories": [
     {
-      "article_id": "e9bc36802c3079889b5fb1f12c4eda53",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "published_date": "2025-11-14T22:06:57+00:00",
-      "category": "Industry",
-      "description": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
-      "author": "Kyle Wiggers, Cody Corrall, Kate Park, Alyssa Stringer",
-      "content": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "article_id": "c2e72078bb699e8eefca22c02a0d1380",
+      "title": "NIH launches landmark project on whole-person health and function",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-landmark-project-whole-person-health-function",
+      "published_date": "2025-11-17T01:43:32.249427+00:00",
+      "category": "Government",
+      "description": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
+      "author": "",
+      "content": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-16T20:26:14.240335+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-16T20:26:14.240358+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "c3f95e989a6686e4ce9b6d44e7c54850",
-      "title": "UK to advance targeted science cooperation with China",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/uk-to-advance-targeted-science-cooperation-with-china",
-      "published_date": "2025-11-11T00:00:00+00:00",
-      "category": "Government",
-      "description": "UK Science Minister Lord Vallance leads UK delegation of senior figures to China, opening up science opportunities that both countries can benefit from.",
-      "author": "",
-      "content": "UK Science Minister Lord Vallance leads UK delegation of senior figures to China, opening up science opportunities that both countries can benefit from.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-16T20:26:14.237870+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-16T20:26:14.237873+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8751af028cec4a20b4c0e3bc0f1bd2e5",
-      "title": "Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/",
-      "published_date": "2025-11-11T21:32:31+00:00",
-      "category": "Industry",
-      "description": "In this post, we demonstrate how you can use the A2A protocol for AI agents built with different frameworks to collaborate seamlessly. You'll learn how to deploy A2A servers on AgentCore Runtime, configure agent discovery and authentication, and build a real-world multi-agent system for incident response. We'll cover the complete A2A request lifecycle, from agent card discovery to task delegation, showing how standardized protocols eliminate the complexity of multi-agent coordination.",
-      "author": "Madhur Prashant",
-      "content": "In this post, we demonstrate how you can use the A2A protocol for AI agents built with different frameworks to collaborate seamlessly. You'll learn how to deploy A2A servers on AgentCore Runtime, configure agent discovery and authentication, and build a real-world multi-agent system for incident response. We'll cover the complete A2A request lifecycle, from agent card discovery to task delegation, showing how standardized protocols eliminate the complexity of multi-agent coordination.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-16T20:26:14.239242+00:00"
+        "consensus_timestamp": "2025-11-17T01:47:30.591948+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +59,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-16T20:26:14.239245+00:00"
+        "timestamp": "2025-11-17T01:47:30.591959+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "74159c1573adefeb18d6cfad2312cabd",
+      "title": "Court rules that OpenAI violated German copyright law; orders it to pay damages",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/11/12/court-rules-that-openai-violated-german-copyright-law-ordered-it-to-pay-damages/",
+      "published_date": "2025-11-12T19:18:59+00:00",
+      "category": "Industry",
+      "description": "A German court ruled that OpenAI’s ChatGPT violated the nation’s copyright laws by training its language models on licensed musical work without permission.",
+      "author": "Dominic-Madori Davis",
+      "content": "A German court ruled that OpenAI’s ChatGPT violated the nation’s copyright laws by training its language models on licensed musical work without permission.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-17T01:47:30.597314+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-17T01:47:30.597317+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1b5c2988cec42d452ac41c9b62f292fc",
-      "title": "Accelerating Large-Scale Mixture-of-Experts Training in PyTorch",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/accelerating-large-scale-mixture-of-experts-training-in-pytorch/",
-      "published_date": "2025-11-06T17:00:00+00:00",
-      "category": "Industry",
-      "description": "Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....",
-      "author": "Hemil Desai",
-      "content": "Training massive mixture-of-experts (MoE) models has long been the domain of a few advanced users with deep infrastructure and distributed-systems expertise....",
+      "article_id": "97ba46b2eedfcaa10c475046e5004fc9",
+      "title": "Tough new laws to strengthen the UK's defences against cyber attacks on NHS, transport and energy",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/tough-new-laws-to-strengthen-the-uks-defences-against-cyber-attacks-on-nhs-transport-and-energy",
+      "published_date": "2025-11-12T00:00:00+00:00",
+      "category": "Government",
+      "description": "Proposed new laws will strengthen cyber defences for essential public services like healthcare, drinking water providers, transport and energy.",
+      "author": "",
+      "content": "Proposed new laws will strengthen cyber defences for essential public services like healthcare, drinking water providers, transport and energy.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-17T01:47:30.593826+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-17T01:47:30.593834+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6a378925373f7715a1b75305d152817b",
+      "title": "NVIDIA Founder and CEO Jensen Huang and Chief Scientist Bill Dally Awarded Prestigious Queen Elizabeth Prize for Engineering",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-founder-and-ceo-jensen-huang-and-chief-scientist-bill-dally-awarded-prestigious-queen-elizabeth-prize-for-engineering/",
+      "published_date": "2025-11-06T12:40:19+00:00",
+      "category": "Industry",
+      "description": "NVIDIA founder and CEO Jensen Huang and chief scientist Bill Dally were honored this week in the U.K. for their foundational work in AI and machine learning. They were among the seven recipients of the 2025 Queen Elizabeth Prize for Engineering, recognized for their contributions to modern machine learning. Presented by His Majesty King Charles Read Article",
+      "author": "Sobia Khan",
+      "content": "NVIDIA founder and CEO Jensen Huang and chief scientist Bill Dally were honored this week in the U.K. for their foundational work in AI and machine learning. They were among the seven recipients of the 2025 Queen Elizabeth Prize for Engineering, recognized for their contributions to modern machine learning. Presented by His Majesty King Charles Read Article",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-16T20:26:14.241779+00:00"
+        "consensus_timestamp": "2025-11-17T01:47:30.596305+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-16T20:26:14.241782+00:00"
+        "timestamp": "2025-11-17T01:47:30.596307+00:00"
       },
       "article_type": "article"
     },
@@ -262,9 +262,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.881,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-16T20:26:14.238202+00:00"
+        "consensus_timestamp": "2025-11-17T01:47:30.594419+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-16T20:26:14.238205+00:00"
+        "timestamp": "2025-11-17T01:47:30.594422+00:00"
       },
       "article_type": "article"
     }
