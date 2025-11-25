@@ -1,23 +1,23 @@
 {
-  "updated": "2025-11-25T16:34:07.767638+00:00",
+  "updated": "2025-11-25T20:29:29.332779+00:00",
   "top_stories": [
     {
-      "article_id": "7f7ed0e6217f935748bb77a7d66f7fb2",
-      "title": "AWS is spending $50B to build AI infrastructure for the US government",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/11/24/aws-is-spending-50b-build-ai-infrastructure-for-the-us-government/",
-      "published_date": "2025-11-24T19:10:41+00:00",
-      "category": "Industry",
-      "description": "AWS has been working with the U.S. government since 2011 and is now building AI infrastructure specifically for the entity.",
-      "author": "Rebecca Szkutak",
-      "content": "AWS has been working with the U.S. government since 2011 and is now building AI infrastructure specifically for the entity.",
+      "article_id": "ecd428aa0aea150f18ae0e98e0648d9c",
+      "title": "NIH launches $50M Autism Data Science Initiative to unlock causes and improve outcomes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-fifty-million-autism-data-science-initiative-unlock-causes-improve-outcomes",
+      "published_date": "2025-11-25T20:25:27.760859+00:00",
+      "category": "Government",
+      "description": "Funded projects will drive discoveries across biology, environment, and autism services.",
+      "author": "",
+      "content": "Funded projects will drive discoveries across biology, environment, and autism services.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-25T16:34:07.728793+00:00"
+        "consensus_timestamp": "2025-11-25T20:29:29.289172+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-25T16:34:07.728796+00:00"
+        "timestamp": "2025-11-25T20:29:29.289176+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "e0a3d28f037fbe066f96f364872c7503",
-      "title": "Intuit and OpenAI join forces on new AI-powered experiences",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/intuit-partnership",
-      "published_date": "2025-11-18T05:00:00+00:00",
+      "article_id": "ffff2418f5c2fac8f41b392a58f11ccd",
+      "title": "Making fairness in LLMs observable, quantifiable, and governable",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/making-fairness-in-llms-observable-quantifiable-and-governable",
+      "published_date": "2025-11-20T15:23:51+00:00",
       "category": "Industry",
-      "description": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools.",
+      "description": "A new evaluation pipeline called FiSCo uncovers hidden biases and offers an assessment framework that evolves alongside language models.",
+      "author": "Weijie Xu",
+      "content": "A new evaluation pipeline called FiSCo uncovers hidden biases and offers an assessment framework that evolves alongside language models.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.99,
+        "overall_score": 0.9305000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-25T20:29:29.294286+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-25T20:29:29.294289+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "855f1c5a6aa95a36166fbe193d7271af",
+      "title": "GPT-5 and the future of mathematical discovery",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gpt-5-mathematical-discovery",
+      "published_date": "2025-11-24T00:00:00+00:00",
+      "category": "Industry",
+      "description": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
       "author": "",
-      "content": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools.",
+      "content": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -107,103 +169,103 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-25T16:34:07.726319+00:00"
+        "consensus_timestamp": "2025-11-25T20:29:29.290110+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-25T20:29:29.290115+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f094701d5d1c2a32426e7a46b12a4c14",
+      "title": "NVIDIA Blackwell Architecture Sweeps MLPerf Training v5.1 Benchmarks",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-architecture-sweeps-mlperf-training-v5-1-benchmarks/",
+      "published_date": "2025-11-13T00:08:00+00:00",
+      "category": "Industry",
+      "description": "The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest round of...",
+      "author": "Ashraf Eassa",
+      "content": "The NVIDIA Blackwell architecture powered the fastest time to train across every MLPerf Training v5.1 benchmark, marking a clean sweep in the latest round of...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9035,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-25T20:29:29.294048+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-25T16:34:07.726321+00:00"
+        "timestamp": "2025-11-25T20:29:29.294051+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c7808591e3f1238dcbad551c62b96023",
-      "title": "Streamline AI operations with the Multi-Provider Generative AI Gateway reference architecture",
+      "article_id": "90ff8b6b08d4b5e0651dda8bc76628ff",
+      "title": "Warner Bros. Discovery achieves 60% cost savings and faster ML inference with AWS Graviton",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/streamline-ai-operations-with-the-multi-provider-generative-ai-gateway-reference-architecture/",
-      "published_date": "2025-11-21T20:34:56+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/warner-bros-discovery-achieves-60-cost-savings-and-faster-ml-inference-with-aws-graviton/",
+      "published_date": "2025-11-25T17:26:48+00:00",
       "category": "Industry",
-      "description": "In this post, we introduce the Multi-Provider Generative AI Gateway reference architecture, which provides guidance for deploying LiteLLM into an AWS environment to streamline the management and governance of production generative AI workloads across multiple model providers. This centralized gateway solution addresses common enterprise challenges including provider fragmentation, decentralized governance, operational complexity, and cost management by offering a unified interface that supports...",
-      "author": "Dan Ferguson",
-      "content": "In this post, we introduce the Multi-Provider Generative AI Gateway reference architecture, which provides guidance for deploying LiteLLM into an AWS environment to streamline the management and governance of production generative AI workloads across multiple model providers. This centralized gateway solution addresses common enterprise challenges including provider fragmentation, decentralized governance, operational complexity, and cost management by offering a unified interface that supports...",
+      "description": "Warner Bros. Discovery (WBD) is a leading global media and entertainment company that creates and distributes the world’s most differentiated and complete portfolio of content and brands across television, film and streaming. In this post, we describe the scale of our offerings, artificial intelligence (AI)/machine learning (ML) inference infrastructure requirements for our real time recommender systems, and how we used AWS Graviton-based Amazon SageMaker AI instances for our ML inference...",
+      "author": "Nukul Sharma, Karthik Dasani",
+      "content": "Warner Bros. Discovery (WBD) is a leading global media and entertainment company that creates and distributes the world’s most differentiated and complete portfolio of content and brands across television, film and streaming. In this post, we describe the scale of our offerings, artificial intelligence (AI)/machine learning (ML) inference infrastructure requirements for our real time recommender systems, and how we used AWS Graviton-based Amazon SageMaker AI instances for our ML inference...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.85,
         "impact_score": 0.95,
         "overall_score": 0.9125000000000001,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-25T16:34:07.727084+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-25T16:34:07.727087+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4441e9a034558f7debb30b73639dc3f4",
-      "title": "Azure at Microsoft Ignite 2025: All the intelligent cloud news explained",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/",
-      "published_date": "2025-11-18T16:00:00+00:00",
-      "category": "Industry",
-      "description": "This week at Microsoft Ignite 2025, Azure introduces solutions that address your technology strategy questions with innovations designed for this very inflection point. The post Azure at Microsoft Ignite 2025: All the intelligent cloud news explained appeared first on Microsoft Azure Blog.",
-      "author": "Jessica Hawk",
-      "content": "This week at Microsoft Ignite 2025, Azure introduces solutions that address your technology strategy questions with innovations designed for this very inflection point. The post Azure at Microsoft Ignite 2025: All the intelligent cloud news explained appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-25T16:34:07.726625+00:00"
+        "consensus_timestamp": "2025-11-25T20:29:29.291187+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-25T16:34:07.726628+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "247a8d3479c5f4e9a3b953c60832ff13",
-      "title": "How Rufus scales conversational shopping experiences to millions of Amazon customers with Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-rufus-scales-conversational-shopping-experiences-to-millions-of-amazon-customers-with-amazon-bedrock/",
-      "published_date": "2025-11-20T18:13:39+00:00",
-      "category": "Industry",
-      "description": "Our team at Amazon builds Rufus, an AI-powered shopping assistant which delivers intelligent, conversational experiences to delight our customers. More than 250 million customers have used Rufus this year. Monthly users are up 140% YoY and interactions are up 210% YoY. Additionally, customers that use Rufus during a shopping journey are 60% more likely to […]",
-      "author": "James Park",
-      "content": "Our team at Amazon builds Rufus, an AI-powered shopping assistant which delivers intelligent, conversational experiences to delight our customers. More than 250 million customers have used Rufus this year. Monthly users are up 140% YoY and interactions are up 210% YoY. Additionally, customers that use Rufus during a shopping journey are 60% more likely to […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-25T16:34:07.727312+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-25T16:34:07.727315+00:00"
+        "timestamp": "2025-11-25T20:29:29.291190+00:00"
       },
       "article_type": "article"
     }
