@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-30T12:44:18.437880+00:00",
+  "generated_at": "2025-11-30T16:29:23.062634+00:00",
   "articles": [
     {
       "article_id": "2940dd563d7024753510d62e1067e11e",
@@ -14,10 +14,10 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,165 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.410133+00:00"
+        "consensus_timestamp": "2025-11-30T16:29:23.037696+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T12:44:18.410136+00:00"
+        "timestamp": "2025-11-30T16:29:23.037699+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "855f1c5a6aa95a36166fbe193d7271af",
-      "title": "GPT-5 and the future of mathematical discovery",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/gpt-5-mathematical-discovery",
-      "published_date": "2025-11-24T00:00:00+00:00",
+      "article_id": "3919bffddfdf58dafb4c88f21cb34d4e",
+      "title": "Introducing bidirectional streaming for real-time inference on Amazon SageMaker AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/",
+      "published_date": "2025-11-25T19:09:59+00:00",
       "category": "Industry",
-      "description": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
-      "author": "",
-      "content": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
+      "description": "We're introducing bidirectional streaming for Amazon SageMaker AI Inference, which transforms inference from a transactional exchange into a continuous conversation. This post shows you how to build and deploy a container with bidirectional streaming capability to a SageMaker AI endpoint. We also demonstrate how you can bring your own container or use our partner Deepgram's pre-built models and containers on SageMaker AI to enable bi-directional streaming feature for real-time inference.",
+      "author": "Lingran Xia",
+      "content": "We're introducing bidirectional streaming for Amazon SageMaker AI Inference, which transforms inference from a transactional exchange into a continuous conversation. This post shows you how to build and deploy a container with bidirectional streaming capability to a SageMaker AI endpoint. We also demonstrate how you can bring your own container or use our partner Deepgram's pre-built models and containers on SageMaker AI to enable bi-directional streaming feature for real-time inference.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.85,
         "impact_score": 0.98,
         "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.407745+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T12:44:18.407748+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e9bc36802c3079889b5fb1f12c4eda53",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "published_date": "2025-11-26T19:33:39+00:00",
-      "category": "Industry",
-      "description": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
-      "author": "Kyle Wiggers, Cody Corrall, Kate Park, Alyssa Stringer",
-      "content": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.410485+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T12:44:18.410488+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d200fc4699f7068043aabe660086c53c",
-      "title": "India’s New Courtroom Menace: Judgments That Never Existed",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-features/indias-new-courtroom-menace-judgments-that-never-existed/",
-      "published_date": "2025-11-28T04:49:02+00:00",
-      "category": "Industry",
-      "description": "AI-hallucinated citations are pushing judges, lawyers and tribunals to tighten verification before fiction becomes legal fact. The post India’s New Courtroom Menace: Judgments That Never Existed appeared first on Analytics India Magazine.",
-      "author": "C P Balasubramanyam",
-      "content": "AI-hallucinated citations are pushing judges, lawyers and tribunals to tighten verification before fiction becomes legal fact. The post India’s New Courtroom Menace: Judgments That Never Existed appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -234,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.412573+00:00"
+        "consensus_timestamp": "2025-11-30T16:29:23.036729+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T12:44:18.412576+00:00"
+        "timestamp": "2025-11-30T16:29:23.036732+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bf0fe30c4eaee753707690e73ca457b1",
-      "title": "Transparency data: AI for Science Strategy Expert Group: terms of reference",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ai-for-science-strategy-expert-group-terms-of-reference",
-      "published_date": "2025-11-27T10:34:06+00:00",
-      "category": "Government",
-      "description": "Terms of reference for AI for Science Strategy Expert Group.",
-      "author": "",
-      "content": "Terms of reference for AI for Science Strategy Expert Group.",
+      "article_id": "4441e9a034558f7debb30b73639dc3f4",
+      "title": "Azure at Microsoft Ignite 2025: All the intelligent cloud news explained",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/",
+      "published_date": "2025-11-18T16:00:00+00:00",
+      "category": "Industry",
+      "description": "This week at Microsoft Ignite 2025, Azure introduces solutions that address your technology strategy questions with innovations designed for this very inflection point. The post Azure at Microsoft Ignite 2025: All the intelligent cloud news explained appeared first on Microsoft Azure Blog.",
+      "author": "Jessica Hawk",
+      "content": "This week at Microsoft Ignite 2025, Azure introduces solutions that address your technology strategy questions with innovations designed for this very inflection point. The post Azure at Microsoft Ignite 2025: All the intelligent cloud news explained appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.407012+00:00"
+        "consensus_timestamp": "2025-11-30T16:29:23.035842+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,27 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T12:44:18.407015+00:00"
+        "timestamp": "2025-11-30T16:29:23.035845+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2ef06d8e72e10456a87a720436cc1696",
-      "title": "Warner Music signs deal with AI music startup Suno, settles lawsuit",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/11/25/warner-music-signs-deal-with-ai-music-startup-suno-settles-lawsuit/",
-      "published_date": "2025-11-25T19:57:31+00:00",
+      "article_id": "855f1c5a6aa95a36166fbe193d7271af",
+      "title": "GPT-5 and the future of mathematical discovery",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gpt-5-mathematical-discovery",
+      "published_date": "2025-11-24T00:00:00+00:00",
       "category": "Industry",
-      "description": "WMG says artists and songwriters will have full control over whether and how their names, images, likenesses, voices, and compositions are used in new AI-generated music.",
-      "author": "Aisha Malik",
-      "content": "WMG says artists and songwriters will have full control over whether and how their names, images, likenesses, voices, and compositions are used in new AI-generated music.",
+      "description": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
+      "author": "",
+      "content": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -355,226 +231,40 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.98,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.410772+00:00"
+        "consensus_timestamp": "2025-11-30T16:29:23.035169+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T12:44:18.410775+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9cfd7c8d7132e4556a32ae9bd15cd4d5",
-      "title": "From Government to Gaming, AI Is ‘Strengthening Korea’s Digital Foundation,’ NVIDIA Leader Says at AI Day Seoul",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-day-seoul/",
-      "published_date": "2025-11-26T17:00:32+00:00",
-      "category": "Industry",
-      "description": "Last week, more than 1,000 attendees joined NVIDIA AI Day Seoul to learn about sovereign AI — including breakout sessions on agentic and physical AI, hands-on workshops and a startup reception for members of the NVIDIA Inception program, all offering insights into the current and future landscape of the AI ecosystem in Korea.",
-      "author": "Solee Moon",
-      "content": "Last week, more than 1,000 attendees joined NVIDIA AI Day Seoul to learn about sovereign AI — including breakout sessions on agentic and physical AI, hands-on workshops and a startup reception for members of the NVIDIA Inception program, all offering insights into the current and future landscape of the AI ecosystem in Korea.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.409492+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T12:44:18.409495+00:00"
+        "timestamp": "2025-11-30T16:29:23.035171+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bbb3fc121c2270f1e0462cb9885f86f5",
-      "title": "Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/",
-      "published_date": "2025-11-18T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Today, I’m thrilled to announce the next generation of Microsoft’s databases: SQL Server 2025, Azure Document DB, Azure Horizon DB, and Fabric Databases, each redesigned to meet the demands of AI. The post Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate appeared first on Microsoft Azure Blog.",
-      "author": "Arun Ulagaratchagan",
-      "content": "Today, I’m thrilled to announce the next generation of Microsoft’s databases: SQL Server 2025, Azure Document DB, Azure Horizon DB, and Fabric Databases, each redesigned to meet the demands of AI. The post Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate appeared first on Microsoft Azure Blog.",
+      "article_id": "0d18a398fade9ce83b1920f9a38feb08",
+      "title": "Budget backs technology firms to start-up, scale-up and stay in Britain to drive growth and national renewal",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/budget-backs-technology-firms-to-start-up-scale-up-and-stay-in-britain-to-drive-growth-and-national-renewal",
+      "published_date": "2025-11-27T00:00:00+00:00",
+      "category": "Government",
+      "description": "Government sets out bold measures to support British science and technology companies to start-up, scale-up and stay in the UK.",
+      "author": "",
+      "content": "Government sets out bold measures to support British science and technology companies to start-up, scale-up and stay in the UK.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.408392+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T12:44:18.408395+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5d4f885d57bfec8faa5073d44e1d25c9",
-      "title": "Early experiments in accelerating science with GPT-5",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/accelerating-science-gpt-5",
-      "published_date": "2025-11-20T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover new insights, and reshape the pace of discovery.",
-      "author": "",
-      "content": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science. Explore how AI and researchers collaborate to generate proofs, uncover new insights, and reshape the pace of discovery.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.407889+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T12:44:18.407891+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c84ad81d5ab40e81e2964eda3e9fd3ea",
-      "title": "Practical implementation considerations to close the AI value gap",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/practical-implementation-considerations-to-close-the-ai-value-gap/",
-      "published_date": "2025-11-25T20:19:50+00:00",
-      "category": "Industry",
-      "description": "The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.",
-      "author": "Bhargs Srivathsan",
-      "content": "The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -606,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.409175+00:00"
+        "consensus_timestamp": "2025-11-30T16:29:23.034570+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,20 +307,268 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T12:44:18.409178+00:00"
+        "timestamp": "2025-11-30T16:29:23.034573+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e1860ded3ec61da68c8b9f09a9f8bbb2",
-      "title": "OpenAI-Mixpanel Breach Raises Questions Over Vendor Security",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/global-tech/openai-mixpanel-breach-raises-questions-over-vendor-security/",
-      "published_date": "2025-11-28T12:30:00+00:00",
+      "article_id": "53c1127486e848d3ef7d776912af171e",
+      "title": "How Scania is accelerating work with AI across its global workforce",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/scania",
+      "published_date": "2025-11-19T00:00:00+00:00",
       "category": "Industry",
-      "description": "The exposed data included names provided on API accounts, email addresses associated with those accounts, approximate location data derived from browser information and operating system. The post OpenAI-Mixpanel Breach Raises Questions Over Vendor Security appeared first on Analytics India Magazine.",
-      "author": "Supreeth Koundinya",
-      "content": "The exposed data included names provided on API accounts, email addresses associated with those accounts, approximate location data derived from browser information and operating system. The post OpenAI-Mixpanel Breach Raises Questions Over Vendor Security appeared first on Analytics India Magazine.",
+      "description": "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.",
+      "author": "",
+      "content": "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T16:29:23.035524+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T16:29:23.035527+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b24c0a4cab33d30119593c1a46042a1b",
+      "title": "Enhanced performance for Amazon Bedrock Custom Model Import",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enhanced-performance-for-amazon-bedrock-custom-model-import/",
+      "published_date": "2025-11-26T16:46:01+00:00",
+      "category": "Industry",
+      "description": "You can now achieve significant performance improvements when using Amazon Bedrock Custom Model Import, with reduced end-to-end latency, faster time-to-first-token, and improved throughput through advanced PyTorch compilation and CUDA graph optimizations. With Amazon Bedrock Custom Model Import you can to bring your own foundation models to Amazon Bedrock for deployment and inference at scale. In this post, we introduce how to use the improvements in Amazon Bedrock Custom Model Import.",
+      "author": "Nick McCarthy",
+      "content": "You can now achieve significant performance improvements when using Amazon Bedrock Custom Model Import, with reduced end-to-end latency, faster time-to-first-token, and improved throughput through advanced PyTorch compilation and CUDA graph optimizations. With Amazon Bedrock Custom Model Import you can to bring your own foundation models to Amazon Bedrock for deployment and inference at scale. In this post, we introduce how to use the improvements in Amazon Bedrock Custom Model Import.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T16:29:23.036546+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T16:29:23.036549+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e9bc36802c3079889b5fb1f12c4eda53",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "published_date": "2025-11-26T19:33:39+00:00",
+      "category": "Industry",
+      "description": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "author": "Kyle Wiggers, Cody Corrall, Kate Park, Alyssa Stringer",
+      "content": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T16:29:23.038095+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T16:29:23.038097+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-11-30T16:25:36.825629+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "author": "",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T16:29:23.034145+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T16:29:23.034152+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6da23e4e2d19a5e13b4df399dd52e75c",
+      "title": "Mixpanel security incident: what OpenAI users need to know",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/mixpanel-incident",
+      "published_date": "2025-11-26T19:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+      "author": "",
+      "content": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -668,7 +606,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.412352+00:00"
+        "consensus_timestamp": "2025-11-30T16:29:23.034986+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,26 +617,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T12:44:18.412354+00:00"
+        "timestamp": "2025-11-30T16:29:23.034989+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3987dca8b8644b9927deece2c2b54bf6",
-      "title": "Apply fine-grained access control with Bedrock AgentCore Gateway interceptors",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/",
-      "published_date": "2025-11-26T22:28:29+00:00",
+      "article_id": "d0805e9fb796a5c484dc339d41e4e8d8",
+      "title": "Announcing Azure Copilot agents and AI infrastructure innovations",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/",
+      "published_date": "2025-11-18T16:00:00+00:00",
       "category": "Industry",
-      "description": "We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.",
-      "author": "Dhawalkumar Patel",
-      "content": "We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.",
+      "description": "Learn about the new AI features and products In Azure announced at Microsoft Ignite 2025 to help modernize your cloud infrastructure. The post Announcing Azure Copilot agents and AI infrastructure innovations appeared first on Microsoft Azure Blog.",
+      "author": "Jeremy Winter",
+      "content": "Learn about the new AI features and products In Azure announced at Microsoft Ignite 2025 to help modernize your cloud infrastructure. The post Announcing Azure Copilot agents and AI infrastructure innovations appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "overall_score": 0.8350000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -726,104 +664,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.408724+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-11-30T12:44:18.408727+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "54ff4e0a7b61df350244b325c3353630",
-      "title": "Google teams up with Accel to hunt for India’s next AI breakouts",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/",
-      "published_date": "2025-11-25T00:30:00+00:00",
-      "category": "Industry",
-      "description": "Google and Accel will jointly invest up to $2 million in each startup through their new partnership.",
-      "author": "Jagmeet Singh",
-      "content": "Google and Accel will jointly invest up to $2 million in each startup through their new partnership.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
+        "score": 0.8,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.410908+00:00"
+        "consensus_timestamp": "2025-11-30T16:29:23.035936+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T12:44:18.410911+00:00"
+        "timestamp": "2025-11-30T16:29:23.035938+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9c4446effdf59d5384aeab0bfc23c9f5",
-      "title": "Pioneering AI Co-Scientists for Fusion Research and Cancer Treatment",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/pioneering-ai-co-scientists-for-fusion-research-and-cancer-treatment/",
-      "published_date": "2025-11-17T22:30:00+00:00",
+      "article_id": "7d78fcb550f7bf1deed9c41784b0dc57",
+      "title": "How Condé Nast accelerated contract processing and rights analysis with Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-accelerated-contract-processing-and-rights-analysis-with-amazon-bedrock/",
+      "published_date": "2025-11-26T21:37:27+00:00",
       "category": "Industry",
-      "description": "AI is reshaping scientific research and innovation. Scientists can leverage AI to generate, summarize, combine, and analyze scientific data. AI models can find...",
-      "author": "Geetika Gupta",
-      "content": "AI is reshaping scientific research and innovation. Scientists can leverage AI to generate, summarize, combine, and analyze scientific data. AI models can find...",
+      "description": "In this post, we explore how Condé Nast used Amazon Bedrock and Anthropic’s Claude to accelerate their contract processing and rights analysis workstreams. The company’s extensive portfolio, spanning multiple brands and geographies, required managing an increasingly complex web of contracts, rights, and licensing agreements.",
+      "author": "Bob Boiko, Christopher Donnellan, Sarat Tatavarthi",
+      "content": "In this post, we explore how Condé Nast used Amazon Bedrock and Anthropic’s Claude to accelerate their contract processing and rights analysis workstreams. The company’s extensive portfolio, spanning multiple brands and geographies, required managing an increasingly complex web of contracts, rights, and licensing agreements.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.8,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -850,41 +726,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.411578+00:00"
+        "consensus_timestamp": "2025-11-30T16:29:23.036259+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T12:44:18.411581+00:00"
+        "timestamp": "2025-11-30T16:29:23.036262+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7739f0fa259149c675e326eae301b95a",
-      "title": "Notice: Sovereign AI Open Call: Autonomous Labs",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/sovereign-ai-open-call-autonomous-labs",
-      "published_date": "2025-11-24T00:00:00+00:00",
-      "category": "Government",
-      "description": "This is a preliminary market engagement for autonomous labs capabilities in the UK.",
-      "author": "",
-      "content": "This is a preliminary market engagement for autonomous labs capabilities in the UK.",
+      "article_id": "ea7a4e90d5d7ec1dc698566e5cf0477e",
+      "title": "How Amazon uses AI agents to anticipate and counter cyber threats",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/how-amazon-uses-ai-agents-to-anticipate-and-counter-cyber-threats",
+      "published_date": "2025-11-24T14:00:00+00:00",
+      "category": "Industry",
+      "description": "Amazon's competitive-agent architecture creates a continuous improvement cycle that develops security protections at machine speed, reducing what typically takes weeks down to hours.",
+      "author": "Daniel Weiss",
+      "content": "Amazon's competitive-agent architecture creates a continuous improvement cycle that develops security protections at machine speed, reducing what typically takes weeks down to hours.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T16:29:23.039316+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T16:29:23.039319+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "deecf29b74425fab34cc4478265cbeaa",
+      "title": "Decoding India’s New Labour Codes",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-features/decoding-indias-new-labour-codes/",
+      "published_date": "2025-11-30T03:30:00+00:00",
+      "category": "Industry",
+      "description": "The new labour codes realign wages, tighten compliance, expand social security, and reshape hiring and layoff norms. The post Decoding India’s New Labour Codes appeared first on Analytics India Magazine.",
+      "author": "Supreeth Koundinya",
+      "content": "The new labour codes realign wages, tighten compliance, expand social security, and reshape hiring and layoff norms. The post Decoding India’s New Labour Codes appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -912,22 +850,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-11-30T12:44:18.407479+00:00"
+        "consensus_timestamp": "2025-11-30T16:29:23.039850+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-11-30T12:44:18.407482+00:00"
+        "timestamp": "2025-11-30T16:29:23.039853+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8b7a825d7cbf70eee3937eeab2e6e895",
+      "title": "HyperPod now supports Multi-Instance GPU to maximize GPU utilization for generative AI tasks",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/hyperpod-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-generative-ai-tasks/",
+      "published_date": "2025-11-25T16:10:39+00:00",
+      "category": "Industry",
+      "description": "In this post, we explore how Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU (MIG) technology, enabling you to partition powerful GPUs into multiple isolated instances for running concurrent workloads like inference, research, and interactive development. By maximizing GPU utilization and reducing wasted resources, MIG helps organizations optimize costs while maintaining performance isolation and predictable quality of service across diverse machine learning tasks.",
+      "author": "Aman Shanbhag",
+      "content": "In this post, we explore how Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU (MIG) technology, enabling you to partition powerful GPUs into multiple isolated instances for running concurrent workloads like inference, research, and interactive development. By maximizing GPU utilization and reducing wasted resources, MIG helps organizations optimize costs while maintaining performance isolation and predictable quality of service across diverse machine learning tasks.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.85,
+        "overall_score": 0.8275,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-11-30T16:29:23.036867+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-11-30T16:29:23.036869+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 160.50881791114807,
+    "processing_time": 161.45299792289734,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,9 +953,9 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 131,
+      "total_processed": 129,
       "candidates": {
-        "headlines": 5,
+        "headlines": 3,
         "articles": 126,
         "research_papers": 0
       },
