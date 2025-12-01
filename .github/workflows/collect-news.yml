@@ -213,6 +213,11 @@ jobs:
     needs: ai-processing
     if: success() && (needs.ai-processing.outputs.has_articles == 'true' || github.event.inputs.force_refresh == 'true') && github.event.inputs.skip_deploy != 'true'
     
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
