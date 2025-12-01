@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-12-01T02:04:34.577057+00:00",
+  "generated_at": "2025-12-01T04:55:49.096572+00:00",
   "articles": [
     {
       "article_id": "c2e72078bb699e8eefca22c02a0d1380",
       "title": "NIH launches landmark project on whole-person health and function",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-launches-landmark-project-whole-person-health-function",
-      "published_date": "2025-12-01T02:00:43.902171+00:00",
+      "published_date": "2025-12-01T04:51:53.163897+00:00",
       "category": "Government",
       "description": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
       "author": "",
       "content": "Approach involves looking at the whole person—not just separate organs or body systems—and considering multiple factors that promote health.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "relevance_score": 0.8,
+        "quality_score": 0.75,
+        "novelty_score": 0.6,
+        "impact_score": 0.8,
+        "overall_score": 0.7375,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,165 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
+        "score": 0.7,
+        "confidence": 0.7,
+        "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.546432+00:00"
+        "consensus_timestamp": "2025-12-01T04:55:49.066105+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.62,
+        "combined_confidence": 0.62,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-01T02:04:34.546436+00:00"
+        "timestamp": "2025-12-01T04:55:49.066110+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "5e143aced1b77a9d60f58466f0c7582f",
-      "title": "University of California Los Angeles delivers an immersive theater experience with AWS generative AI services",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/university-of-california-los-angeles-delivers-an-immersive-theater-experience-with-aws-generative-ai-services/",
-      "published_date": "2025-11-26T21:20:45+00:00",
+      "article_id": "5de8e4a84eef96f10417e6ae8fc1ce78",
+      "title": "GPT-5.1-Codex-Max System Card",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+      "published_date": "2025-11-19T00:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we will walk through the performance constraints and design choices by OARC and REMAP teams at UCLA, including how AWS serverless infrastructure, AWS Managed Services, and generative AI services supported the rapid design and deployment of our solution. We will also describe our use of Amazon SageMaker AI and how it can be used reliably in immersive live experiences.",
-      "author": "Aditya Singh",
-      "content": "In this post, we will walk through the performance constraints and design choices by OARC and REMAP teams at UCLA, including how AWS serverless infrastructure, AWS Managed Services, and generative AI services supported the rapid design and deployment of our solution. We will also describe our use of Amazon SageMaker AI and how it can be used reliably in immersive live experiences.",
+      "description": "This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
+      "author": "",
+      "content": "This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.925,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.548725+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-01T02:04:34.548728+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e1860ded3ec61da68c8b9f09a9f8bbb2",
-      "title": "OpenAI-Mixpanel Breach Raises Questions Over Vendor Security",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/global-tech/openai-mixpanel-breach-raises-questions-over-vendor-security/",
-      "published_date": "2025-11-28T12:30:00+00:00",
-      "category": "Industry",
-      "description": "The exposed data included names provided on API accounts, email addresses associated with those accounts, approximate location data derived from browser information and operating system. The post OpenAI-Mixpanel Breach Raises Questions Over Vendor Security appeared first on Analytics India Magazine.",
-      "author": "Supreeth Koundinya",
-      "content": "The exposed data included names provided on API accounts, email addresses associated with those accounts, approximate location data derived from browser information and operating system. The post OpenAI-Mixpanel Breach Raises Questions Over Vendor Security appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.552103+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-01T02:04:34.552113+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "acd423ad2fcda3e7e4c53e9f9b42cac3",
-      "title": "Physical AI in practice: Technical foundations that fuel human-machine interactions",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/physical-ai-in-practice-technical-foundations-that-fuel-human-machine-interactions/",
-      "published_date": "2025-11-25T17:00:25+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore the complete development lifecycle of physical AI—from data collection and model training to edge deployment—and examine how these intelligent systems learn to understand, reason, and interact with the physical world through continuous feedback loops. We illustrate this workflow through Diligent Robotics' Moxi, a mobile manipulation robot that has completed over 1.2 million deliveries in hospitals, saving nearly 600,000 hours for clinical staff while transforming...",
-      "author": "Sri Elaprolu, Alla Simoneau, Paul Amadeo, and Laura Kulowski",
-      "content": "In this post, we explore the complete development lifecycle of physical AI—from data collection and model training to edge deployment—and examine how these intelligent systems learn to understand, reason, and interact with the physical world through continuous feedback loops. We illustrate this workflow through Diligent Robotics' Moxi, a mobile manipulation robot that has completed over 1.2 million deliveries in hospitals, saving nearly 600,000 hours for clinical staff while transforming...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9099999999999999,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -231,40 +107,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.549174+00:00"
+        "consensus_timestamp": "2025-12-01T04:55:49.067620+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-01T02:04:34.549177+00:00"
+        "timestamp": "2025-12-01T04:55:49.067624+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0f5b603744e35f985767337bfd753a0b",
-      "title": "Why Data Governance Has Become India’s New AI Imperative",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-features/why-data-governance-has-become-indias-new-ai-imperative/",
-      "published_date": "2025-11-28T06:30:00+00:00",
+      "article_id": "4bfdff99c60807157b9b5f7684abdecd",
+      "title": "Making GPU Clusters More Efficient with NVIDIA Data Center Monitoring Tools",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/making-gpu-clusters-more-efficient-with-nvidia-data-center-monitoring/",
+      "published_date": "2025-11-25T21:00:00+00:00",
       "category": "Industry",
-      "description": "Data governance takes centre stage as AI becomes critical for deployment across businesses. The post Why Data Governance Has Become India’s New AI Imperative appeared first on Analytics India Magazine.",
-      "author": "Ankush Das",
-      "content": "Data governance takes centre stage as AI becomes critical for deployment across businesses. The post Why Data Governance Has Become India’s New AI Imperative appeared first on Analytics India Magazine.",
+      "description": "High-performance computing (HPC) customers continue to scale rapidly, with generative AI, large language models (LLMs), computer vision, and other uses leading...",
+      "author": "Sachin Lakharia",
+      "content": "High-performance computing (HPC) customers continue to scale rapidly, with generative AI, large language models (LLMs), computer vision, and other uses leading...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.552243+00:00"
+        "consensus_timestamp": "2025-12-01T04:55:49.071627+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-01T02:04:34.552246+00:00"
+        "timestamp": "2025-12-01T04:55:49.071630+00:00"
       },
       "article_type": "article"
     },
@@ -358,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.547538+00:00"
+        "consensus_timestamp": "2025-12-01T04:55:49.067214+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-01T02:04:34.547541+00:00"
+        "timestamp": "2025-12-01T04:55:49.067220+00:00"
       },
       "article_type": "article"
     },
@@ -389,130 +265,6 @@
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.546808+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-01T02:04:34.546811+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9cfd7c8d7132e4556a32ae9bd15cd4d5",
-      "title": "From Government to Gaming, AI Is ‘Strengthening Korea’s Digital Foundation,’ NVIDIA Leader Says at AI Day Seoul",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-day-seoul/",
-      "published_date": "2025-11-26T17:00:32+00:00",
-      "category": "Industry",
-      "description": "Last week, more than 1,000 attendees joined NVIDIA AI Day Seoul to learn about sovereign AI — including breakout sessions on agentic and physical AI, hands-on workshops and a startup reception for members of the NVIDIA Inception program, all offering insights into the current and future landscape of the AI ecosystem in Korea.",
-      "author": "Solee Moon",
-      "content": "Last week, more than 1,000 attendees joined NVIDIA AI Day Seoul to learn about sovereign AI — including breakout sessions on agentic and physical AI, hands-on workshops and a startup reception for members of the NVIDIA Inception program, all offering insights into the current and future landscape of the AI ecosystem in Korea.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.549430+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-01T02:04:34.549433+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c84ad81d5ab40e81e2964eda3e9fd3ea",
-      "title": "Practical implementation considerations to close the AI value gap",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/practical-implementation-considerations-to-close-the-ai-value-gap/",
-      "published_date": "2025-11-25T20:19:50+00:00",
-      "category": "Industry",
-      "description": "The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.",
-      "author": "Bhargs Srivathsan",
-      "content": "The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -544,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.549041+00:00"
+        "consensus_timestamp": "2025-12-01T04:55:49.066459+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,20 +307,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-01T02:04:34.549043+00:00"
+        "timestamp": "2025-12-01T04:55:49.066463+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3987dca8b8644b9927deece2c2b54bf6",
-      "title": "Apply fine-grained access control with Bedrock AgentCore Gateway interceptors",
+      "article_id": "8b7a825d7cbf70eee3937eeab2e6e895",
+      "title": "HyperPod now supports Multi-Instance GPU to maximize GPU utilization for generative AI tasks",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/",
-      "published_date": "2025-11-26T22:28:29+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/hyperpod-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-generative-ai-tasks/",
+      "published_date": "2025-11-25T16:10:39+00:00",
       "category": "Industry",
-      "description": "We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.",
-      "author": "Dhawalkumar Patel",
-      "content": "We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.",
+      "description": "In this post, we explore how Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU (MIG) technology, enabling you to partition powerful GPUs into multiple isolated instances for running concurrent workloads like inference, research, and interactive development. By maximizing GPU utilization and reducing wasted resources, MIG helps organizations optimize costs while maintaining performance isolation and predictable quality of service across diverse machine learning tasks.",
+      "author": "Aman Shanbhag",
+      "content": "In this post, we explore how Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU (MIG) technology, enabling you to partition powerful GPUs into multiple isolated instances for running concurrent workloads like inference, research, and interactive development. By maximizing GPU utilization and reducing wasted resources, MIG helps organizations optimize costs while maintaining performance isolation and predictable quality of service across diverse machine learning tasks.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-01T04:55:49.069027+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-01T04:55:49.069029+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e76947dff06bb2e6e517f673f21218ce",
+      "title": "Repeated head impacts cause early neuron loss and inflammation in young athletes",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/repeated-head-impacts-cause-early-neuron-loss-inflammation-young-athletes",
+      "published_date": "2025-12-01T04:51:53.163824+00:00",
+      "category": "Government",
+      "description": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
+      "author": "",
+      "content": "NIH-funded study reveals brain changes long before chronic traumatic encephalopathy (CTE) develops.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -606,7 +420,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.548594+00:00"
+        "consensus_timestamp": "2025-12-01T04:55:49.066049+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,193 +431,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-01T02:04:34.548597+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bbb3fc121c2270f1e0462cb9885f86f5",
-      "title": "Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/",
-      "published_date": "2025-11-18T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Today, I’m thrilled to announce the next generation of Microsoft’s databases: SQL Server 2025, Azure Document DB, Azure Horizon DB, and Fabric Databases, each redesigned to meet the demands of AI. The post Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate appeared first on Microsoft Azure Blog.",
-      "author": "Arun Ulagaratchagan",
-      "content": "Today, I’m thrilled to announce the next generation of Microsoft’s databases: SQL Server 2025, Azure Document DB, Azure Horizon DB, and Fabric Databases, each redesigned to meet the demands of AI. The post Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.548268+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-01T02:04:34.548271+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b54ad8e5f41e6eb7f949fc73e4bc910f",
-      "title": "NVIDIA NVQLink Architecture Integrates Accelerated Computing with Quantum Processors",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-nvqlink-architecture-integrates-accelerated-computing-with-quantum-processors/",
-      "published_date": "2025-11-17T22:31:00+00:00",
-      "category": "Industry",
-      "description": "Quantum computing is entering an era where progress will be driven by the integration of accelerated computing with quantum processors. The hardware that...",
-      "author": "Shane Caldwell",
-      "content": "Quantum computing is entering an era where progress will be driven by the integration of accelerated computing with quantum processors. The hardware that...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.551313+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-01T02:04:34.551316+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "aa0611c7c89e1a233bf8c67748761d20",
-      "title": "Lexar Unveils Industry’s First AI Storage Core for Next‑Gen Edge AI Devices",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/lexar-unveils-industrys-first-ai-storage-core-for-next%e2%80%91gen-edge-ai-devices/",
-      "published_date": "2025-11-28T07:30:35+00:00",
-      "category": "Industry",
-      "description": "As AI computing moves rapidly from the cloud to the edge, devices such as AI PCs, intelligent vehicles, and robotics face mounting storage challenges: real-time multimodal data throughput, extreme random I/O workloads, environmental reliability requirements, and barriers to moving systems and data across devices. Traditional storage methods can no longer... The post Lexar Unveils Industry’s First AI Storage Core for Next‑Gen Edge AI Devices first appeared on AI-Tech Park.",
-      "author": "PR Newswire",
-      "content": "As AI computing moves rapidly from the cloud to the edge, devices such as AI PCs, intelligent vehicles, and robotics face mounting storage challenges: real-time multimodal data throughput, extreme random I/O workloads, environmental reliability requirements, and barriers to moving systems and data across devices. Traditional storage methods can no longer... The post Lexar Unveils Industry’s First AI Storage Core for Next‑Gen Edge AI Devices first appeared on AI-Tech Park.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.551920+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-01T02:04:34.551923+00:00"
+        "timestamp": "2025-12-01T04:55:49.066054+00:00"
       },
       "article_type": "article"
     },
@@ -812,7 +440,7 @@
       "title": "Acupuncture treatment improves disabling effects of chronic low back pain in older adults",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/acupuncture-treatment-improves-disabling-effects-chronic-low-back-pain-older-adults",
-      "published_date": "2025-12-01T02:00:43.902319+00:00",
+      "published_date": "2025-12-01T04:51:53.164036+00:00",
       "category": "Government",
       "description": "NIH-funded study supports acupuncture needling as a safe and effective pain treatment for this group.",
       "author": "",
@@ -820,9 +448,71 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.7,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.82,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-01T04:55:49.066162+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-01T04:55:49.066165+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ca8dc3517d14cbe9833f5f19011a45f9",
+      "title": "People across UK to benefit from easier access to local services as councils get digital boost",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/people-across-uk-to-benefit-from-easier-access-to-local-services-as-councils-get-digital-boost",
+      "published_date": "2025-11-22T00:00:00+00:00",
+      "category": "Government",
+      "description": "A new government unit, GDS Local, has launched to help councils across the UK make everyday services – from managing council tax to accessing local support – easier, faster, and more accessible for residents.",
+      "author": "",
+      "content": "A new government unit, GDS Local, has launched to help councils across the UK make everyday services – from managing council tax to accessing local support – easier, faster, and more accessible for residents.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -854,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.546513+00:00"
+        "consensus_timestamp": "2025-12-01T04:55:49.066978+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,27 +555,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-01T02:04:34.546521+00:00"
+        "timestamp": "2025-12-01T04:55:49.066981+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d12ca8d61f99ab9ac4645f5e4872daa1",
-      "title": "ChatGPT’s voice mode is no longer a separate interface",
+      "article_id": "6ad7e9aace3a180c4723cdfbd1367f64",
+      "title": "How OpenAI and Google see AI changing go-to-market strategies",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/",
-      "published_date": "2025-11-25T20:04:52+00:00",
+      "url": "https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/",
+      "published_date": "2025-11-28T16:00:00+00:00",
       "category": "Industry",
-      "description": "ChatGPT now lets you use voice and text in the same screen, making conversations feel more natural as responses and visuals appear in real time.",
-      "author": "Sarah Perez",
-      "content": "ChatGPT now lets you use voice and text in the same screen, making conversations feel more natural as responses and visuals appear in real time.",
+      "description": "AI is changing how investors and startups bring their products to market. Three experts offered their insights at TechCrunch Disrupt.",
+      "author": "Tim De Chant",
+      "content": "AI is changing how investors and startups bring their products to market. Three experts offered their insights at TechCrunch Disrupt.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.7,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.82,
-        "confidence_mean": 0.8
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-01T04:55:49.070827+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-01T04:55:49.070830+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "96a86d09fcaa943e26f108f48879bfc4",
+      "title": "Model Quantization: Concepts, Methods, and Why It Matters",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/model-quantization-concepts-methods-and-why-it-matters/",
+      "published_date": "2025-11-24T19:23:48+00:00",
+      "category": "Industry",
+      "description": "AI models are becoming increasingly complex, often exceeding the capabilities of available hardware. Quantization has emerged as a crucial technique to address...",
+      "author": "Ruixiang Wang",
+      "content": "AI models are becoming increasingly complex, often exceeding the capabilities of available hardware. Quantization has emerged as a crucial technique to address...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -913,21 +665,269 @@
           }
         },
         "score": 0.85,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-01T02:04:34.550687+00:00"
+        "consensus_timestamp": "2025-12-01T04:55:49.071780+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.71,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-01T02:04:34.550690+00:00"
+        "timestamp": "2025-12-01T04:55:49.071783+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ea7a4e90d5d7ec1dc698566e5cf0477e",
+      "title": "How Amazon uses AI agents to anticipate and counter cyber threats",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/how-amazon-uses-ai-agents-to-anticipate-and-counter-cyber-threats",
+      "published_date": "2025-11-24T14:00:00+00:00",
+      "category": "Industry",
+      "description": "Amazon's competitive-agent architecture creates a continuous improvement cycle that develops security protections at machine speed, reducing what typically takes weeks down to hours.",
+      "author": "Daniel Weiss",
+      "content": "Amazon's competitive-agent architecture creates a continuous improvement cycle that develops security protections at machine speed, reducing what typically takes weeks down to hours.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8375,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-01T04:55:49.072234+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-01T04:55:49.072237+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4431857231f19c84ada0937dfe0ec324",
+      "title": "AI Redefining Compliance Verification for India’s Gig Economy",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-features/ai-redefining-compliance-verification-for-indias-gig-economy/",
+      "published_date": "2025-11-28T09:47:24+00:00",
+      "category": "Industry",
+      "description": "For many Indian companies, hiring entry-level staff is simpler than paying for AI tools for employee background checks. The post AI Redefining Compliance Verification for India’s Gig Economy appeared first on Analytics India Magazine.",
+      "author": "Merin Susan John",
+      "content": "For many Indian companies, hiring entry-level staff is simpler than paying for AI tools for employee background checks. The post AI Redefining Compliance Verification for India’s Gig Economy appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8375,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.82,
+        "confidence": 0.88,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-01T04:55:49.072833+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.692,
+        "combined_confidence": 0.728,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-01T04:55:49.072836+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "446b70214018a596d743f977abe24a87",
+      "title": "This Thanksgiving’s real drama may be Michael Burry versus Nvidia",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/",
+      "published_date": "2025-11-27T19:32:21+00:00",
+      "category": "Industry",
+      "description": "Is Burry the canary in the coal mine, warning of a collapse that's inevitable? Or could his fame, his track record, his now unrestricted voice, and a fast-growing audience trigger the very implosion he's predicting?",
+      "author": "Connie Loizos",
+      "content": "Is Burry the canary in the coal mine, warning of a collapse that's inevitable? Or could his fame, his track record, his now unrestricted voice, and a fast-growing audience trigger the very implosion he's predicting?",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.8,
+        "overall_score": 0.8550000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-01T04:55:49.070925+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-01T04:55:49.070928+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "21c46f2eac72e8869f4bfa9969d7fedc",
+      "title": "Citalid launches TPRM module",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/citalid-launches-tprm-module/",
+      "published_date": "2025-11-28T09:15:00+00:00",
+      "category": "Industry",
+      "description": "New capability combines Cyber Threat Intelligence, AI, and quantitative modeling to remove blindspots induced by traditional TPRM approaches. Citalid, a leading cyber risk quantification (CRQ) platform announces the launch of its Third Party Risk Management (TPRM) module. The new module enables CISOs, Risk Managers, and Procurement teams to visualize, prioritize, and act on supplier-related cyber risks using data-driven threat intelligence. A... The post Citalid launches TPRM module first...",
+      "author": "PR Newswire",
+      "content": "New capability combines Cyber Threat Intelligence, AI, and quantitative modeling to remove blindspots induced by traditional TPRM approaches. Citalid, a leading cyber risk quantification (CRQ) platform announces the launch of its Third Party Risk Management (TPRM) module. The new module enables CISOs, Risk Managers, and Procurement teams to visualize, prioritize, and act on supplier-related cyber risks using data-driven threat intelligence. A... The post Citalid launches TPRM module first...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.85
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-01T04:55:49.072373+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-01T04:55:49.072376+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 161.67050743103027,
+    "processing_time": 163.40335130691528,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 128,
+      "total_processed": 129,
       "candidates": {
-        "headlines": 4,
-        "articles": 124,
+        "headlines": 2,
+        "articles": 127,
         "research_papers": 0
       },
       "selected": {
