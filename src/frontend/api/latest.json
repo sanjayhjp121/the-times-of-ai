@@ -1,22 +1,84 @@
 {
-  "generated_at": "2025-12-22T16:33:47.470510+00:00",
+  "generated_at": "2025-12-22T20:30:00.598972+00:00",
   "articles": [
     {
-      "article_id": "e9dd3578ef256e4a573026fbec8958ba",
-      "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
-      "published_date": "2025-12-20T18:20:34+00:00",
+      "article_id": "8ccac6718f469f1af9bfb59340e7f0ba",
+      "title": "Tencent Cloud Launches EdgeOne Pages Official Version",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/tencent-cloud-launches-edgeone-pages-official-version/",
+      "published_date": "2025-12-22T09:00:00+00:00",
       "category": "Industry",
-      "description": "The bill will require large AI developers to publish information about their safety protocols and report safety incidents to the state within 72 hours.",
-      "author": "Anthony Ha",
-      "content": "The bill will require large AI developers to publish information about their safety protocols and report safety incidents to the state within 72 hours.",
+      "description": "Official release follows successful beta with 150,000 users, empowering developers to build and deploy full-stack web applications in minutes Tencent Cloud today announced the official launch of its EdgeOne Pages, a pioneering edge-native, full-stack development platform. This launch marks a significant enhancement to Tencent Cloud’s end-to-end AI development and deployment... The post Tencent Cloud Launches EdgeOne Pages Official Version first appeared on AI-Tech Park.",
+      "author": "PR Newswire",
+      "content": "Official release follows successful beta with 150,000 users, empowering developers to build and deploy full-stack web applications in minutes Tencent Cloud today announced the official launch of its EdgeOne Pages, a pioneering edge-native, full-stack development platform. This launch marks a significant enhancement to Tencent Cloud’s end-to-end AI development and deployment... The post Tencent Cloud Launches EdgeOne Pages Official Version first appeared on AI-Tech Park.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "relevance_score": 0.8,
+        "quality_score": 0.8,
+        "novelty_score": 0.6,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "overall_score": 0.77,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-22T20:30:00.568572+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-22T20:30:00.568575+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "dc9ff80fae3054773eb442d2762b6720",
+      "title": "Migrate Apache Spark Workloads to GPUs at Scale on Amazon EMR with Project Aether",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/migrate-apache-spark-workloads-to-gpus-at-scale-on-amazon-emr-with-project-aether/",
+      "published_date": "2025-12-17T19:00:00+00:00",
+      "category": "Industry",
+      "description": "Data is the fuel of modern business, but relying on older CPU-based Apache Spark pipelines introduces a heavy toll. They’re inherently slow, require large...",
+      "author": "Navin Kumar",
+      "content": "Data is the fuel of modern business, but relying on older CPU-based Apache Spark pipelines introduces a heavy toll. They’re inherently slow, require large...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,344 +107,34 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.9,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.436724+00:00"
+        "consensus_timestamp": "2025-12-22T20:30:00.567290+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-22T16:33:47.436727+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "fa738cf046f6ec593890acfa8476314b",
-      "title": "Evaluating chain-of-thought monitorability",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-      "published_date": "2025-12-18T12:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
-      "author": "",
-      "content": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.434426+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-22T16:33:47.434429+00:00"
+        "timestamp": "2025-12-22T20:30:00.567293+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e827edef3aee766bb712739ef562cd54",
-      "title": "Deepening our collaboration with the U.S. Department of Energy",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/us-department-of-energy-collaboration",
-      "published_date": "2025-12-18T11:00:00+00:00",
+      "article_id": "db1028958b7d728191002d54987d6287",
+      "title": "3 Ways NVIDIA Is Powering the Industrial Revolution",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/gpu-cuda-scaling-laws-industrial-revolution/",
+      "published_date": "2025-12-10T18:35:05+00:00",
       "category": "Industry",
-      "description": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.",
-      "author": "",
-      "content": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.434621+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-22T16:33:47.434624+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ae00dc0025a9cb61d032338938ea5e0a",
-      "title": "BBVA and OpenAI collaborate to transform global banking",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/bbva-collaboration-expansion",
-      "published_date": "2025-12-12T00:00:00+00:00",
-      "category": "Industry",
-      "description": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
-      "author": "",
-      "content": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.435015+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-22T16:33:47.435019+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "76672596837b0c7bf1b6831588c235cb",
-      "title": "AI Factories, Physical AI, and Advances in Models, Agents, and Infrastructure That Shaped 2025",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/ai-factories-physical-ai-and-advances-in-models-agents-and-infrastructure-that-shaped-2025/",
-      "published_date": "2025-12-16T17:30:00+00:00",
-      "category": "Industry",
-      "description": "2025 was another milestone year for developers and researchers working with NVIDIA technologies. Progress in data center power and compute design, AI...",
-      "author": "Michelle Horton",
-      "content": "2025 was another milestone year for developers and researchers working with NVIDIA technologies. Progress in data center power and compute design, AI...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.437849+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-22T16:33:47.437851+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7cbdb6dfb6301b21bc88443d35a60ce3",
-      "title": "WWE Superstars visit pediatric research participants at NIH Clinical Center and The Children’s Inn",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/wwe-superstars-visit-pediatric-research-participants-nih-clinical-center-childrens-inn",
-      "published_date": "2025-12-22T16:29:20.534937+00:00",
-      "category": "Government",
-      "description": "Children participating in clinical trials received a huge surprise.",
-      "author": "",
-      "content": "Children participating in clinical trials received a huge surprise.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.433327+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-22T16:33:47.433331+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "45b177b84844a227b704ca76ce8b21d0",
-      "title": "Deepening our partnership with the UK AI Security Institute",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
-      "published_date": "2025-12-11T00:06:40+00:00",
-      "category": "Industry",
-      "description": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
-      "author": "",
-      "content": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
+      "description": "The NVIDIA accelerated computing platform is leading supercomputing benchmarks once dominated by CPUs, enabling AI, science, business and computing efficiency worldwide. Moore’s Law has run its course, and parallel processing is the way forward. With this evolution, NVIDIA GPU platforms are now uniquely positioned to deliver on the three scaling laws — pretraining, post-training and Read Article",
+      "author": "Dion Harris",
+      "content": "The NVIDIA accelerated computing platform is leading supercomputing benchmarks once dominated by CPUs, enabling AI, science, business and computing efficiency worldwide. Moore’s Law has run its course, and parallel processing is the way forward. With this evolution, NVIDIA GPU platforms are now uniquely positioned to deliver on the three scaling laws — pretraining, post-training and Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -416,11 +168,135 @@
             "enhancement_suggestions": []
           }
         },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-22T20:30:00.566377+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-22T20:30:00.566380+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fa738cf046f6ec593890acfa8476314b",
+      "title": "Evaluating chain-of-thought monitorability",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "published_date": "2025-12-18T12:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
+      "author": "",
+      "content": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-22T20:30:00.563733+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-22T20:30:00.563736+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8b625068e582e717e8de94fee064f995",
+      "title": "Okta Names Rob Bernshteyn and Paul Sagan to Board of Directors",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/okta-names-rob-bernshteyn-and-paul-sagan-to-board-of-directors/",
+      "published_date": "2025-12-22T08:30:00+00:00",
+      "category": "Industry",
+      "description": "Okta, Inc. (Nasdaq: OKTA), the leading independent identity partner, today announced the appointment of Rob Bernshteyn and Paul Sagan to the Company’s board of directors, effective December 19, 2025. “Rob and Paul bring a wealth of operational experience across SaaS, cybersecurity, and AI that will help drive Okta’s next phase... The post Okta Names Rob Bernshteyn and Paul Sagan to Board of Directors first appeared on AI-Tech Park.",
+      "author": "Business Wire",
+      "content": "Okta, Inc. (Nasdaq: OKTA), the leading independent identity partner, today announced the appointment of Rob Bernshteyn and Paul Sagan to the Company’s board of directors, effective December 19, 2025. “Rob and Paul bring a wealth of operational experience across SaaS, cybersecurity, and AI that will help drive Okta’s next phase... The post Okta Names Rob Bernshteyn and Paul Sagan to Board of Directors first appeared on AI-Tech Park.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
         "score": 0.95,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.438570+00:00"
+        "consensus_timestamp": "2025-12-22T20:30:00.568662+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,89 +307,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-22T16:33:47.438573+00:00"
+        "timestamp": "2025-12-22T20:30:00.568665+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0560c965cf6bbc44ea94250c8b8f84d5",
-      "title": "Transparency data: AI Energy Council meetings minutes",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ai-energy-council-meetings-minutes",
-      "published_date": "2025-12-18T09:33:01+00:00",
-      "category": "Government",
-      "description": "Minutes of the meetings for the AI Energy Council.",
-      "author": "",
-      "content": "Minutes of the meetings for the AI Energy Council.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.434044+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-22T16:33:47.434049+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "73dca51035da32742c4d8e5442a02eb1",
-      "title": "Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/",
-      "published_date": "2025-12-17T17:00:00+00:00",
+      "article_id": "391a19bbd174dd2131f223bc7660fea9",
+      "title": "[Exclusive] Two LLMs will be launched by February: IndiaAI Mission CEO",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-startups/exclusive-two-llms-will-be-launched-by-february-indiaai-mission-ceo/",
+      "published_date": "2025-12-22T07:52:23+00:00",
       "category": "Industry",
-      "description": "Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup....",
-      "author": "Wonsik Han",
-      "content": "Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup....",
+      "description": "In an exclusive interview with AIM, IndiaAI Mission CEO said Sarvam AI and BharatGen will launch models early next year. The post [Exclusive] Two LLMs will be launched by February: IndiaAI Mission CEO appeared first on Analytics India Magazine.",
+      "author": "Pallavi Chakravorty",
+      "content": "In an exclusive interview with AIM, IndiaAI Mission CEO said Sarvam AI and BharatGen will launch models early next year. The post [Exclusive] Two LLMs will be launched by February: IndiaAI Mission CEO appeared first on Analytics India Magazine.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -544,7 +358,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.437583+00:00"
+        "consensus_timestamp": "2025-12-22T20:30:00.569028+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,7 +369,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-22T16:33:47.437586+00:00"
+        "timestamp": "2025-12-22T20:30:00.569031+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "26ee347c438536dc7678187c6f05d3e1",
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "published_date": "2025-12-22T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
+      "author": "",
+      "content": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-22T20:30:00.563641+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-22T20:30:00.563644+00:00"
       },
       "article_type": "article"
     },
@@ -603,41 +479,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.437092+00:00"
+        "consensus_timestamp": "2025-12-22T20:30:00.566912+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-22T16:33:47.437095+00:00"
+        "timestamp": "2025-12-22T20:30:00.566915+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "59c3533cb8de68464d2120c5cc07ea6c",
-      "title": "Vibe-coding startup Lovable raises $330M at a $6.6B valuation",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/",
-      "published_date": "2025-12-18T14:26:36+00:00",
+      "article_id": "bb25b4f4a9f5619c30cdd6aa8926b172",
+      "title": "Gemini 3 Flash: frontier intelligence built for speed",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+      "published_date": "2025-12-17T11:58:17+00:00",
       "category": "Industry",
-      "description": "Lovable has seen its valuation more than triple just five months after the company's last funding round in July.",
-      "author": "Rebecca Szkutak",
-      "content": "Lovable has seen its valuation more than triple just five months after the company's last funding round in July.",
+      "description": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+      "author": "",
+      "content": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.8,
+        "overall_score": 0.8550000000000001,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -668,7 +544,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.437402+00:00"
+        "consensus_timestamp": "2025-12-22T20:30:00.568159+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,150 +555,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-22T16:33:47.437405+00:00"
+        "timestamp": "2025-12-22T20:30:00.568163+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4a0e63cde42790176576efc80dafd76a",
-      "title": "How to Scale Fast Fourier Transforms to Exascale on Modern NVIDIA GPU Architectures",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-scale-fast-fourier-transforms-to-exascale-on-modern-nvidia-gpu-architectures/",
-      "published_date": "2025-12-12T18:00:00+00:00",
+      "article_id": "20d655f7276fe7bd837695701ee0a9b6",
+      "title": "Cheers to AI: ADAM Robot Bartender Makes Drinks at Vegas Golden Knights Game",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/adam-robot-vegas-golden-knights-thor/",
+      "published_date": "2025-12-12T16:00:04+00:00",
       "category": "Industry",
-      "description": "Fast Fourier Transforms (FFTs) are widely used across scientific computing, from molecular dynamics and signal processing to computational fluid dynamics (CFD),...",
-      "author": "Zan Xu",
-      "content": "Fast Fourier Transforms (FFTs) are widely used across scientific computing, from molecular dynamics and signal processing to computational fluid dynamics (CFD),...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.438259+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-22T16:33:47.438262+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "55721432a66db54b165a61363e2728d4",
-      "title": "How a PC Company Became an AI Infrastructure Powerhouse?",
-      "source": "analytics_india_magazine",
-      "url": "https://analyticsindiamag.com/ai-highlights/how-a-pc-company-became-an-ai-infrastructure-powerhouse/",
-      "published_date": "2025-12-19T10:26:11+00:00",
-      "category": "Industry",
-      "description": "“47% of non-PC revenue reflects a shift toward infrastructure, solutions, and services, categories that now power growth.” The post How a PC Company Became an AI Infrastructure Powerhouse? appeared first on Analytics India Magazine.",
-      "author": "Shalini Mondal",
-      "content": "“47% of non-PC revenue reflects a shift toward infrastructure, solutions, and services, categories that now power growth.” The post How a PC Company Became an AI Infrastructure Powerhouse? appeared first on Analytics India Magazine.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.439757+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-22T16:33:47.439759+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c38db9415480b22f9807b21152ac52ba",
-      "title": "Securing Smart Speakers for Home Health Care: NIST Offers New Guidelines",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2025/12/securing-smart-speakers-home-health-care-nist-offers-new-guidelines",
-      "published_date": "2025-12-17T12:00:00+00:00",
-      "category": "Government",
-      "description": "Cybersecurity and privacy risks can threaten patient confidentiality.",
-      "author": "Sarah Henderson",
-      "content": "Cybersecurity and privacy risks can threaten patient confidentiality.",
+      "description": "In Las Vegas’s T-Mobile Arena, fans of the Golden Knights are getting more than just hockey — they’re getting a taste of the future. ADAM, a robot developed with NVIDIA Isaac libraries, is pouring drinks and turning heads in one of the NHL’s most exciting venues. ADAM, short for Automated Dual Arm Mixologist, was developed Read Article",
+      "author": "Scott Martin",
+      "content": "In Las Vegas’s T-Mobile Arena, fans of the Golden Knights are getting more than just hockey — they’re getting a taste of the future. ADAM, a robot developed with NVIDIA Isaac libraries, is pouring drinks and turning heads in one of the NHL’s most exciting venues. ADAM, short for Automated Dual Arm Mixologist, was developed Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-22T20:30:00.566157+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-22T20:30:00.566161+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5663ceb5b96a3e4a983af7fdfebfac53",
+      "title": "Evaluating AI’s ability to perform scientific research tasks",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/frontierscience",
+      "published_date": "2025-12-16T09:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
+      "author": "",
+      "content": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-22T20:30:00.564103+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-22T20:30:00.564105+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e9dd3578ef256e4a573026fbec8958ba",
+      "title": "New York governor Kathy Hochul signs RAISE Act to regulate AI safety",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
+      "published_date": "2025-12-20T18:20:34+00:00",
+      "category": "Industry",
+      "description": "The bill will require large AI developers to publish information about their safety protocols and report safety incidents to the state within 72 hours.",
+      "author": "Anthony Ha",
+      "content": "The bill will require large AI developers to publish information about their safety protocols and report safety incidents to the state within 72 hours.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -854,7 +730,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.433150+00:00"
+        "consensus_timestamp": "2025-12-22T20:30:00.566598+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,27 +741,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-22T16:33:47.433154+00:00"
+        "timestamp": "2025-12-22T20:30:00.566601+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "27d24fe0ed5b645e11edfc909474029e",
-      "title": "Developers can now submit apps to ChatGPT",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
-      "published_date": "2025-12-17T00:00:00+00:00",
+      "article_id": "5aef608baad659777ebaa744b0f91ca2",
+      "title": "Accelerating AI-Powered Chemistry and Materials Science Simulations with NVIDIA ALCHEMI Toolkit-Ops",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops/",
+      "published_date": "2025-12-19T17:00:00+00:00",
       "category": "Industry",
-      "description": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.",
-      "author": "",
-      "content": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.",
+      "description": "Machine learning interatomic potentials (MLIPs) are transforming the landscape of computational chemistry and materials science. MLIPs enable atomistic...",
+      "author": "Justin S. Smith",
+      "content": "Machine learning interatomic potentials (MLIPs) are transforming the landscape of computational chemistry and materials science. MLIPs enable atomistic...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-22T20:30:00.567197+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-22T20:30:00.567200+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "48815ad6786150d711c883171c4b22c2",
+      "title": "Simulate an Accurate Radio Environment Using NVIDIA Aerial Omniverse Digital Twin",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
+      "published_date": "2025-12-17T16:00:00+00:00",
+      "category": "Industry",
+      "description": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-level...",
+      "author": "Tommaso Balercia",
+      "content": "The development of 5G and 6G requires high-fidelity radio channel modeling, but the ecosystem is highly fragmented. Link-level simulators, network-level...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -916,7 +854,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-22T16:33:47.434808+00:00"
+        "consensus_timestamp": "2025-12-22T20:30:00.567473+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +865,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-22T16:33:47.434811+00:00"
+        "timestamp": "2025-12-22T20:30:00.567476+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6d6fdcb9a5c0c51fc7b83aa3116ebb68",
+      "title": "ChatGPT’s mobile app hits new milestone of $3B in consumer spending",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2025/12/18/chatgpts-mobile-app-hits-new-milestone-of-3b-in-consumer-spending/",
+      "published_date": "2025-12-18T19:50:02+00:00",
+      "category": "Industry",
+      "description": "ChatGPT has reached $3B in lifetime mobile consumer spending in just 31 months, faster than TikTok and major streaming apps.",
+      "author": "Sarah Perez",
+      "content": "ChatGPT has reached $3B in lifetime mobile consumer spending in just 31 months, faster than TikTok and major streaming apps.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-22T20:30:00.567089+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-22T20:30:00.567092+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 178.42355489730835,
+    "processing_time": 181.681458234787,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 140,
+      "total_processed": 137,
       "candidates": {
-        "headlines": 6,
-        "articles": 134,
+        "headlines": 5,
+        "articles": 132,
         "research_papers": 0
       },
       "selected": {
