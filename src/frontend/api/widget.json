@@ -1,22 +1,84 @@
 {
-  "updated": "2025-12-29T16:33:19.871056+00:00",
+  "updated": "2025-12-29T20:30:45.132982+00:00",
   "top_stories": [
     {
       "article_id": "ecd428aa0aea150f18ae0e98e0648d9c",
       "title": "NIH launches $50M Autism Data Science Initiative to unlock causes and improve outcomes",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-launches-fifty-million-autism-data-science-initiative-unlock-causes-improve-outcomes",
-      "published_date": "2025-12-29T16:28:57.797849+00:00",
+      "published_date": "2025-12-29T20:26:49.257204+00:00",
       "category": "Government",
       "description": "Funded projects will drive discoveries across biology, environment, and autism services.",
       "author": "",
       "content": "Funded projects will drive discoveries across biology, environment, and autism services.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.7,
         "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8400000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-29T20:30:45.096783+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-29T20:30:45.096786+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "b810e43da9c4351785bafd325c4898ce",
+      "title": "DagsHub now supports MLflow 3.x",
+      "source": "dagshub_blog",
+      "url": "https://dagshub.com/blog/dagshub-now-supports-mlflow-3-x/",
+      "published_date": "2025-12-23T10:09:11+00:00",
+      "category": "Industry",
+      "description": "We’ve shipped support for MLflow 3.x on DagsHub, so you can upgrade your MLflow client and keep using the same hosted tracking server that lives inside every DagsHub repo. No self-hosting, no extra infra, no “where did my artifacts go?” moments.",
+      "author": "Dean Pleban",
+      "content": "We’ve shipped support for MLflow 3.x on DagsHub, so you can upgrade your MLflow client and keep using the same hosted tracking server that lives inside every DagsHub repo. No self-hosting, no extra infra, no “where did my artifacts go?” moments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9225000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -45,72 +107,10 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-29T16:33:19.836134+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-29T16:33:19.836137+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "b810e43da9c4351785bafd325c4898ce",
-      "title": "DagsHub now supports MLflow 3.x",
-      "source": "dagshub_blog",
-      "url": "https://dagshub.com/blog/dagshub-now-supports-mlflow-3-x/",
-      "published_date": "2025-12-23T10:09:11+00:00",
-      "category": "Industry",
-      "description": "We’ve shipped support for MLflow 3.x on DagsHub, so you can upgrade your MLflow client and keep using the same hosted tracking server that lives inside every DagsHub repo. No self-hosting, no extra infra, no “where did my artifacts go?” moments.",
-      "author": "Dean Pleban",
-      "content": "We’ve shipped support for MLflow 3.x on DagsHub, so you can upgrade your MLflow client and keep using the same hosted tracking server that lives inside every DagsHub repo. No self-hosting, no extra infra, no “where did my artifacts go?” moments.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-29T16:33:19.841971+00:00"
+        "consensus_timestamp": "2025-12-29T20:30:45.101909+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,88 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-29T16:33:19.841974+00:00"
+        "timestamp": "2025-12-29T20:30:45.101912+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a37ab41a1d37a3c47cf431c6a183bae2",
-      "title": "How to Build Contract-First Agentic Decision Systems with PydanticAI for Risk-Aware, Policy-Compliant Enterprise AI",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2025/12/28/how-to-build-contract-first-agentic-decision-systems-with-pydanticai-for-risk-aware-policy-compliant-enterprise-ai/",
-      "published_date": "2025-12-29T06:04:26+00:00",
+      "article_id": "2c90344902ab3813b402071ac9192da5",
+      "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+      "published_date": "2025-12-16T10:14:24+00:00",
       "category": "Industry",
-      "description": "In this tutorial, we demonstrate how to design a contract-first agentic decision system using PydanticAI, treating structured schemas as non-negotiable governance contracts rather than optional output formats. We show how we define a strict decision model that encodes policy compliance, risk assessment, confidence calibration, and actionable next steps directly into the agent’s output schema. By […] The post How to Build Contract-First Agentic Decision Systems with PydanticAI for Risk-Aware,...",
-      "author": "Asif Razzaq",
-      "content": "In this tutorial, we demonstrate how to design a contract-first agentic decision system using PydanticAI, treating structured schemas as non-negotiable governance contracts rather than optional output formats. We show how we define a strict decision model that encodes policy compliance, risk assessment, confidence calibration, and actionable next steps directly into the agent’s output schema. By […] The post How to Build Contract-First Agentic Decision Systems with PydanticAI for Risk-Aware,...",
+      "description": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+      "author": "",
+      "content": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2025-12-29T16:33:19.842016+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2025-12-29T16:33:19.842019+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e0cc4ee268e4b1d62c96788629f9d73f",
-      "title": "NVIDIA CUDA-X Powers the New Sirius GPU Engine for DuckDB, Setting ClickBench Records",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-gpu-accelerated-sirius-achieves-record-setting-clickbench-record/",
-      "published_date": "2025-12-15T17:18:31+00:00",
-      "category": "Industry",
-      "description": "Sirius, an open-source GPU native SQL engine, achieved a new performance record on Clickbench—a widely used analytics benchmark. Developed by University of...",
-      "author": "Xiangyao Yu",
-      "content": "Sirius, an open-source GPU native SQL engine, achieved a new performance record on Clickbench—a widely used analytics benchmark. Developed by University of...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.99,
-        "overall_score": 0.9205000000000001,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9099999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -230,22 +168,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.95,
+        "score": 0.9,
+        "confidence": 0.92,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-29T16:33:19.840570+00:00"
+        "consensus_timestamp": "2025-12-29T20:30:45.101194+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.752,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-29T16:33:19.840572+00:00"
+        "timestamp": "2025-12-29T20:30:45.101197+00:00"
       },
       "article_type": "article"
     },
@@ -292,11 +230,73 @@
             "enhancement_suggestions": []
           }
         },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2025-12-29T20:30:45.097851+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2025-12-29T20:30:45.097854+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4c62101f94b9569a7ba78708e8fd1560",
+      "title": "Why the operating room is ripe for AI, according to Akara",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/podcast/why-the-operating-room-is-ripe-for-ai-according-to-akara/",
+      "published_date": "2025-12-24T16:47:41+00:00",
+      "category": "Industry",
+      "description": "There’s plenty of hype around AI and robots in healthcare, but the problem that’s actually costing hospitals money right now is operating room coordination. Two to four hours of OR time is lost every single day, not because of the surgeries themselves, but because of everything in between, from manual scheduling and coordination chaos to […]",
+      "author": "Russell Brandom, Theresa Loconsolo",
+      "content": "There’s plenty of hype around AI and robots in healthcare, but the problem that’s actually costing hospitals money right now is operating room coordination. Two to four hours of OR time is lost every single day, not because of the surgeries themselves, but because of everything in between, from manual scheduling and coordination chaos to […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
         "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2025-12-29T16:33:19.837274+00:00"
+        "consensus_timestamp": "2025-12-29T20:30:45.100191+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2025-12-29T16:33:19.837277+00:00"
+        "timestamp": "2025-12-29T20:30:45.100194+00:00"
       },
       "article_type": "article"
     }
