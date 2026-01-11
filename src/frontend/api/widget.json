@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-11T02:04:21.505502+00:00",
+  "updated": "2026-01-11T04:53:53.780429+00:00",
   "top_stories": [
     {
       "article_id": "b530f45faa5f3b46ebf0accec6a2e431",
@@ -44,41 +44,165 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.92,
+        "score": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-11T02:04:21.470240+00:00"
+        "consensus_timestamp": "2026-01-11T04:53:53.747532+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.752,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-11T02:04:21.470243+00:00"
+        "timestamp": "2026-01-11T04:53:53.747534+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "16b29878df8e51182df6f328c6abc0f7",
-      "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/netomi",
-      "published_date": "2026-01-08T13:00:00+00:00",
-      "category": "Industry",
-      "description": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
+      "article_id": "b9444b4537eebf9e3530ef6b439d63d5",
+      "title": "Faster treatments and support for health workers as AI tackles A&E bottlenecks",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/faster-treatments-and-support-for-health-workers-as-ai-tackles-ae-bottlenecks",
+      "published_date": "2025-12-28T22:30:00+00:00",
+      "category": "Government",
+      "description": "AI tool helping 50 NHS organisations predict A&E demand this winter, speeding up patient care as government delivers on building an NHS fit for the future.",
       "author": "",
-      "content": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
+      "content": "AI tool helping 50 NHS organisations predict A&E demand this winter, speeding up patient care as government delivers on building an NHS fit for the future.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.885,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-11T04:53:53.744341+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-11T04:53:53.744344+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "33229aedf924b4ea03837ed593f31dd0",
+      "title": "Scaling medical content review at Flo Health using Amazon Bedrock (Part 1)",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-using-amazon-bedrock-part-1/",
+      "published_date": "2026-01-08T18:25:01+00:00",
+      "category": "Industry",
+      "description": "This two-part series explores Flo Health's journey with generative AI for medical content verification. Part 1 examines our proof of concept (PoC), including the initial solution, capabilities, and early results. Part 2 covers focusing on scaling challenges and real-world implementation. Each article stands alone while collectively showing how AI transforms medical content management at scale.",
+      "author": "Liza Zinovyeva",
+      "content": "This two-part series explores Flo Health's journey with generative AI for medical content verification. Part 1 examines our proof of concept (PoC), including the initial solution, capabilities, and early results. Part 2 covers focusing on scaling challenges and real-world implementation. Each article stands alone while collectively showing how AI transforms medical content management at scale.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-11T04:53:53.745211+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-11T04:53:53.745214+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5c38a331fa0b35ebec6afb169067b259",
+      "title": "Reimagining LLM Memory: Using Context as Training Data Unlocks Models That Learn at Test-Time",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/reimagining-llm-memory-using-context-as-training-data-unlocks-models-that-learn-at-test-time/",
+      "published_date": "2026-01-09T16:58:31+00:00",
+      "category": "Industry",
+      "description": "We keep seeing LLMs with larger context windows in the news, along with promises that they can hold entire conversation histories, volumes of books, or multiple...",
+      "author": "Yu Sun",
+      "content": "We keep seeing LLMs with larger context windows in the news, along with promises that they can hold entire conversation histories, volumes of books, or multiple...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-11T02:04:21.467028+00:00"
+        "consensus_timestamp": "2026-01-11T04:53:53.746328+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-11T02:04:21.467031+00:00"
+        "timestamp": "2026-01-11T04:53:53.746331+00:00"
       },
       "article_type": "article"
     },
@@ -172,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-11T02:04:21.471016+00:00"
+        "consensus_timestamp": "2026-01-11T04:53:53.748213+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-11T02:04:21.471019+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dbf4ebaeb0fee84738c8530ee032af6a",
-      "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
-      "published_date": "2026-01-08T01:32:00+00:00",
-      "category": "Industry",
-      "description": "The settlements are among the first tied to lawsuits accusing AI companies of harming users.",
-      "author": "Connie Loizos",
-      "content": "The settlements are among the first tied to lawsuits accusing AI companies of harming users.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-11T02:04:21.468905+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-11T02:04:21.468908+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4fcc614d156b9721ecf3fd81c134cb44",
-      "title": "Building Autonomous Vehicles That Reason with NVIDIA Alpamayo",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-autonomous-vehicles-that-reason-with-nvidia-alpamayo/",
-      "published_date": "2026-01-05T21:49:24+00:00",
-      "category": "Industry",
-      "description": "Autonomous vehicle (AV) research is undergoing a rapid shift. The field is being reshaped by the emergence of reasoning-based vision–language–action (VLA)...",
-      "author": "Marco Pavone",
-      "content": "Autonomous vehicle (AV) research is undergoing a rapid shift. The field is being reshaped by the emergence of reasoning-based vision–language–action (VLA)...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-11T02:04:21.469787+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-11T02:04:21.469790+00:00"
+        "timestamp": "2026-01-11T04:53:53.748216+00:00"
       },
       "article_type": "article"
     }
