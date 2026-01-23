@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T04:49:24.560559+00:00",
+  "generated_at": "2026-01-23T08:37:51.779324+00:00",
   "articles": [
     {
       "article_id": "a9806ab0069aadbb71c3fcaa1e1c04c2",
@@ -45,41 +45,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.520653+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.737388+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.520656+00:00"
+        "timestamp": "2026-01-23T08:37:51.737391+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "a3f852e2d1bfe0aca8d650cfeef8d247",
-      "title": "Certification scheme for the UK digital identity and attributes trust framework",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/guidance/certification-scheme-for-the-uk-digital-identity-and-attributes-trust-framework",
-      "published_date": "2026-01-12T11:36:06+00:00",
-      "category": "Government",
-      "description": "Conformity assessment bodies must follow these processes and requirements when certifying services against the UK digital identity and attributes trust framework.",
-      "author": "",
-      "content": "Conformity assessment bodies must follow these processes and requirements when certifying services against the UK digital identity and attributes trust framework.",
+      "article_id": "058fc86077243cd5d746ee140da81b1c",
+      "title": "NVIDIA DLSS 4.5 Delivers Super Resolution Upgrades and New Dynamic Multi Frame Generation",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-dlss-4-5-delivers-super-resolution-upgrades-and-new-dynamic-multi-frame-generation/",
+      "published_date": "2026-01-14T14:00:00+00:00",
+      "category": "Industry",
+      "description": "NVIDIA DLSS 4 with Multi Frame Generation has become the fastest-adopted NVIDIA gaming technology ever. Over 250 games and apps use it to make real-time path...",
+      "author": "Ike Nnoli",
+      "content": "NVIDIA DLSS 4 with Multi Frame Generation has become the fastest-adopted NVIDIA gaming technology ever. Over 250 games and apps use it to make real-time path...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -106,22 +106,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.518056+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.738380+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.518058+00:00"
+        "timestamp": "2026-01-23T08:37:51.738385+00:00"
       },
       "article_type": "article"
     },
@@ -169,10 +169,72 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-23T08:37:51.737033+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-23T08:37:51.737036+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a3f852e2d1bfe0aca8d650cfeef8d247",
+      "title": "Certification scheme for the UK digital identity and attributes trust framework",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/guidance/certification-scheme-for-the-uk-digital-identity-and-attributes-trust-framework",
+      "published_date": "2026-01-12T11:36:06+00:00",
+      "category": "Government",
+      "description": "Conformity assessment bodies must follow these processes and requirements when certifying services against the UK digital identity and attributes trust framework.",
+      "author": "",
+      "content": "Conformity assessment bodies must follow these processes and requirements when certifying services against the UK digital identity and attributes trust framework.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.520343+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.734086+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.520346+00:00"
+        "timestamp": "2026-01-23T08:37:51.734089+00:00"
       },
       "article_type": "article"
     },
@@ -231,41 +293,227 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.522048+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.738856+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-23T08:37:51.738861+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d4e9b5bedfa82ba6d54e9d28701d8247",
+      "title": "90% of Salesforce’s Engineers Use Cursor Every Single Day",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-news-updates/90-of-salesforces-engineers-use-cursor-every-day/",
+      "published_date": "2026-01-22T10:58:37+00:00",
+      "category": "Industry",
+      "description": "Over 20,000 engineers within SaaS giant use Cursor to increase the PR velocity by over 30%. The post 90% of Salesforce’s Engineers Use Cursor Every Single Day appeared first on Analytics India Magazine.",
+      "author": "Supreeth Koundinya",
+      "content": "Over 20,000 engineers within SaaS giant use Cursor to increase the PR velocity by over 30%. The post 90% of Salesforce’s Engineers Use Cursor Every Single Day appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-23T08:37:51.740092+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
         "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.522051+00:00"
+        "timestamp": "2026-01-23T08:37:51.740095+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "058fc86077243cd5d746ee140da81b1c",
-      "title": "NVIDIA DLSS 4.5 Delivers Super Resolution Upgrades and New Dynamic Multi Frame Generation",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-dlss-4-5-delivers-super-resolution-upgrades-and-new-dynamic-multi-frame-generation/",
-      "published_date": "2026-01-14T14:00:00+00:00",
+      "article_id": "5409d5ba53bb4cc7a0f3e34e522738a5",
+      "title": "Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/",
+      "published_date": "2026-01-14T21:13:42+00:00",
       "category": "Industry",
-      "description": "NVIDIA DLSS 4 with Multi Frame Generation has become the fastest-adopted NVIDIA gaming technology ever. Over 250 games and apps use it to make real-time path...",
-      "author": "Ike Nnoli",
-      "content": "NVIDIA DLSS 4 with Multi Frame Generation has become the fastest-adopted NVIDIA gaming technology ever. Over 250 games and apps use it to make real-time path...",
+      "description": "This post explores how new serverless model customization capabilities, elastic training, checkpointless training, and serverless MLflow work together to accelerate your AI development from months to days.",
+      "author": "Ankur Mehrotra",
+      "content": "This post explores how new serverless model customization capabilities, elastic training, checkpointless training, and serverless MLflow work together to accelerate your AI development from months to days.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8699999999999999,
+        "confidence_mean": 0.85
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-23T08:37:51.736697+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-23T08:37:51.736700+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "10f74d6dc09d2488f0b082f729719660",
+      "title": "AI’s Copyright Reckoning: Can India Balance Creators And Code?",
+      "source": "analytics_india_magazine",
+      "url": "https://analyticsindiamag.com/ai-features/ais-copyright-reckoning-can-india-balance-creators-and-code/",
+      "published_date": "2026-01-23T03:37:55+00:00",
+      "category": "Industry",
+      "description": "From Hollywood studios to book publishers, copyright holders are pushing back against AI training. The post AI’s Copyright Reckoning: Can India Balance Creators And Code? appeared first on Analytics India Magazine.",
+      "author": "Pallavi Chakravorty",
+      "content": "From Hollywood studios to book publishers, copyright holders are pushing back against AI training. The post AI’s Copyright Reckoning: Can India Balance Creators And Code? appeared first on Analytics India Magazine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.8955,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-23T08:37:51.739754+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-23T08:37:51.739757+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "749ca13748010987782cca58768d91e7",
+      "title": "Multi-Agent Warehouse AI Command Layer Enables Operational Excellence and Supply Chain Intelligence",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/multi-agent-warehouse-ai-command-layer-enables-operational-excellence-and-supply-chain-intelligence/",
+      "published_date": "2026-01-09T14:00:00+00:00",
+      "category": "Industry",
+      "description": "Warehouses have never been more automated, more data-rich, or more operationally demanding than they are now—yet they still rely on systems that can’t keep...",
+      "author": "Tarik Hammadou",
+      "content": "Warehouses have never been more automated, more data-rich, or more operationally demanding than they are now—yet they still rely on systems that can’t keep...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,282 +541,34 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.98,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.521597+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.738518+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-23T04:49:24.521600+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c22adf4db77628ae35322120be4bf2fe",
-      "title": "How Palo Alto Networks enhanced device security infra log analysis with Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-palo-alto-networks-enhanced-device-security-infra-log-analysis-with-amazon-bedrock/",
-      "published_date": "2026-01-16T15:46:36+00:00",
-      "category": "Industry",
-      "description": "Palo Alto Networks’ Device Security team wanted to detect early warning signs of potential production issues to provide more time to SMEs to react to these emerging problems. They partnered with the AWS Generative AI Innovation Center (GenAIIC) to develop an automated log classification pipeline powered by Amazon Bedrock. In this post, we discuss how Amazon Bedrock, through Anthropic’ s Claude Haiku model, and Amazon Titan Text Embeddings work together to automatically classify and analyze log...",
-      "author": "Rizwan Mushtaq",
-      "content": "Palo Alto Networks’ Device Security team wanted to detect early warning signs of potential production issues to provide more time to SMEs to react to these emerging problems. They partnered with the AWS Generative AI Innovation Center (GenAIIC) to develop an automated log classification pipeline powered by Amazon Bedrock. In this post, we discuss how Amazon Bedrock, through Anthropic’ s Claude Haiku model, and Amazon Titan Text Embeddings work together to automatically classify and analyze log...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.519646+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-23T04:49:24.519649+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "749ca13748010987782cca58768d91e7",
-      "title": "Multi-Agent Warehouse AI Command Layer Enables Operational Excellence and Supply Chain Intelligence",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/multi-agent-warehouse-ai-command-layer-enables-operational-excellence-and-supply-chain-intelligence/",
-      "published_date": "2026-01-09T14:00:00+00:00",
-      "category": "Industry",
-      "description": "Warehouses have never been more automated, more data-rich, or more operationally demanding than they are now—yet they still rely on systems that can’t keep...",
-      "author": "Tarik Hammadou",
-      "content": "Warehouses have never been more automated, more data-rich, or more operationally demanding than they are now—yet they still rely on systems that can’t keep...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.521731+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.521734+00:00"
+        "timestamp": "2026-01-23T08:37:51.738521+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ef2aa56f6732daf44985a62b3e246b1e",
-      "title": "Customizing multiturn AI agents with reinforcement learning",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/customizing-multiturn-ai-agents-with-reinforcement-learning",
-      "published_date": "2026-01-13T21:50:01+00:00",
-      "category": "Industry",
-      "description": "Leveraging existing environment simulators and reward functions based on verifiable ground truth boosts task success rate, even with small models and small training datasets.",
-      "author": "Shreyas Subramanian",
-      "content": "Leveraging existing environment simulators and reward functions based on verifiable ground truth boosts task success rate, even with small models and small training datasets.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.522139+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-23T04:49:24.522142+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "626451e29bf1f67a6cba56d5c6cd78ce",
-      "title": "Horizon 1000: Advancing AI for primary healthcare",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/horizon-1000",
-      "published_date": "2026-01-20T21:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+      "article_id": "862e3535ff56dba1ed67460073ab3cdc",
+      "title": "Technology Secretary statement on xAI's Grok image generation and editing tool",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/technology-secretary-statement-on-xais-grok-image-generation-and-editing-tool",
+      "published_date": "2026-01-09T16:50:51+00:00",
+      "category": "Government",
+      "description": "Technology Secretary Liz Kendall calls for swift action after reports xAI's Grok tool continues to allow generation of intimate deepfake images.",
       "author": "",
-      "content": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.518418+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-23T04:49:24.518421+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "45d46b14fe46636e359078aaa3f60ded",
-      "title": "2026: This is AGI",
-      "source": "sequoia_ai",
-      "url": "https://sequoiacap.com/article/2026-this-is-agi/",
-      "published_date": "2026-01-14T17:30:21+00:00",
-      "category": "Startups",
-      "description": "The post 2026: This is AGI appeared first on Sequoia Capital.",
-      "author": "amoore",
-      "content": "The post 2026: This is AGI appeared first on Sequoia Capital.",
+      "content": "Technology Secretary Liz Kendall calls for swift action after reports xAI's Grok tool continues to allow generation of intimate deepfake images.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -602,146 +602,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.521820+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.734178+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.521822+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f891f1e41c5b3dea5825930123fe4b43",
-      "title": "Guidance: Software Security Code of Practice",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/software-security-code-of-practice",
-      "published_date": "2026-01-15T12:56:16+00:00",
-      "category": "Government",
-      "description": "This Code of Practice sets out expectations for the security and resilience of software.",
-      "author": "",
-      "content": "This Code of Practice sets out expectations for the security and resilience of software.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.517910+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-23T04:49:24.517914+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "862e3535ff56dba1ed67460073ab3cdc",
-      "title": "Technology Secretary statement on xAI's Grok image generation and editing tool",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/technology-secretary-statement-on-xais-grok-image-generation-and-editing-tool",
-      "published_date": "2026-01-09T16:50:51+00:00",
-      "category": "Government",
-      "description": "Technology Secretary Liz Kendall calls for swift action after reports xAI's Grok tool continues to allow generation of intimate deepfake images.",
-      "author": "",
-      "content": "Technology Secretary Liz Kendall calls for swift action after reports xAI's Grok tool continues to allow generation of intimate deepfake images.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.518104+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-23T04:49:24.518107+00:00"
+        "timestamp": "2026-01-23T08:37:51.734181+00:00"
       },
       "article_type": "article"
     },
@@ -789,21 +665,83 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.519425+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.736129+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.519428+00:00"
+        "timestamp": "2026-01-23T08:37:51.736132+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c22adf4db77628ae35322120be4bf2fe",
+      "title": "How Palo Alto Networks enhanced device security infra log analysis with Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-palo-alto-networks-enhanced-device-security-infra-log-analysis-with-amazon-bedrock/",
+      "published_date": "2026-01-16T15:46:36+00:00",
+      "category": "Industry",
+      "description": "Palo Alto Networks’ Device Security team wanted to detect early warning signs of potential production issues to provide more time to SMEs to react to these emerging problems. They partnered with the AWS Generative AI Innovation Center (GenAIIC) to develop an automated log classification pipeline powered by Amazon Bedrock. In this post, we discuss how Amazon Bedrock, through Anthropic’ s Claude Haiku model, and Amazon Titan Text Embeddings work together to automatically classify and analyze log...",
+      "author": "Rizwan Mushtaq",
+      "content": "Palo Alto Networks’ Device Security team wanted to detect early warning signs of potential production issues to provide more time to SMEs to react to these emerging problems. They partnered with the AWS Generative AI Innovation Center (GenAIIC) to develop an automated log classification pipeline powered by Amazon Bedrock. In this post, we discuss how Amazon Bedrock, through Anthropic’ s Claude Haiku model, and Amazon Titan Text Embeddings work together to automatically classify and analyze log...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-23T08:37:51.736312+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-23T08:37:51.736315+00:00"
       },
       "article_type": "article"
     },
@@ -851,34 +789,34 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.519824+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.736514+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.519827+00:00"
+        "timestamp": "2026-01-23T08:37:51.736517+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5409d5ba53bb4cc7a0f3e34e522738a5",
-      "title": "Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/",
-      "published_date": "2026-01-14T21:13:42+00:00",
+      "article_id": "06a74f55e927fd9acc3b82867771fc90",
+      "title": "NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award/",
+      "published_date": "2026-01-22T18:21:49+00:00",
       "category": "Industry",
-      "description": "This post explores how new serverless model customization capabilities, elastic training, checkpointless training, and serverless MLflow work together to accelerate your AI development from months to days.",
-      "author": "Ankur Mehrotra",
-      "content": "This post explores how new serverless model customization capabilities, elastic training, checkpointless training, and serverless MLflow work together to accelerate your AI development from months to days.",
+      "description": "AI-powered driver assistance technologies are becoming standard equipment, fundamentally changing how vehicle safety is assessed and validated. The recent recognition of the Mercedes-Benz CLA as Euro NCAP’s Best Performer of 2025 underscores this shift, as the vehicle combines traditional passive safety features with NVIDIA DRIVE AV software to achieve the highest overall safety score of Read Article",
+      "author": "Ali Kani",
+      "content": "AI-powered driver assistance technologies are becoming standard equipment, fundamentally changing how vehicle safety is assessed and validated. The recent recognition of the Mercedes-Benz CLA as Euro NCAP’s Best Performer of 2025 underscores this shift, as the vehicle combines traditional passive safety features with NVIDIA DRIVE AV software to achieve the highest overall safety score of Read Article",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -913,21 +851,83 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
+        "confidence": 0.7,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.520005+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.736895+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.62,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.520009+00:00"
+        "timestamp": "2026-01-23T08:37:51.736898+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "45d46b14fe46636e359078aaa3f60ded",
+      "title": "2026: This is AGI",
+      "source": "sequoia_ai",
+      "url": "https://sequoiacap.com/article/2026-this-is-agi/",
+      "published_date": "2026-01-14T17:30:21+00:00",
+      "category": "Startups",
+      "description": "The post 2026: This is AGI appeared first on Sequoia Capital.",
+      "author": "amoore",
+      "content": "The post 2026: This is AGI appeared first on Sequoia Capital.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-23T08:37:51.738610+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-23T08:37:51.738612+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 174.3406639099121,
+    "processing_time": 176.70105409622192,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 130,
+      "total_processed": 134,
       "candidates": {
-        "headlines": 12,
-        "articles": 118,
+        "headlines": 13,
+        "articles": 121,
         "research_papers": 0
       },
       "selected": {

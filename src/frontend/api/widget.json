@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-23T04:49:24.563566+00:00",
+  "updated": "2026-01-23T08:37:51.782358+00:00",
   "top_stories": [
     {
       "article_id": "a9806ab0069aadbb71c3fcaa1e1c04c2",
@@ -45,41 +45,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.520653+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.737388+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.520656+00:00"
+        "timestamp": "2026-01-23T08:37:51.737391+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "a3f852e2d1bfe0aca8d650cfeef8d247",
-      "title": "Certification scheme for the UK digital identity and attributes trust framework",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/guidance/certification-scheme-for-the-uk-digital-identity-and-attributes-trust-framework",
-      "published_date": "2026-01-12T11:36:06+00:00",
-      "category": "Government",
-      "description": "Conformity assessment bodies must follow these processes and requirements when certifying services against the UK digital identity and attributes trust framework.",
-      "author": "",
-      "content": "Conformity assessment bodies must follow these processes and requirements when certifying services against the UK digital identity and attributes trust framework.",
+      "article_id": "058fc86077243cd5d746ee140da81b1c",
+      "title": "NVIDIA DLSS 4.5 Delivers Super Resolution Upgrades and New Dynamic Multi Frame Generation",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-dlss-4-5-delivers-super-resolution-upgrades-and-new-dynamic-multi-frame-generation/",
+      "published_date": "2026-01-14T14:00:00+00:00",
+      "category": "Industry",
+      "description": "NVIDIA DLSS 4 with Multi Frame Generation has become the fastest-adopted NVIDIA gaming technology ever. Over 250 games and apps use it to make real-time path...",
+      "author": "Ike Nnoli",
+      "content": "NVIDIA DLSS 4 with Multi Frame Generation has become the fastest-adopted NVIDIA gaming technology ever. Over 250 games and apps use it to make real-time path...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -106,22 +106,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.518056+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.738380+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.518058+00:00"
+        "timestamp": "2026-01-23T08:37:51.738385+00:00"
       },
       "article_type": "article"
     },
@@ -169,10 +169,72 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-23T08:37:51.737033+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-23T08:37:51.737036+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a3f852e2d1bfe0aca8d650cfeef8d247",
+      "title": "Certification scheme for the UK digital identity and attributes trust framework",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/guidance/certification-scheme-for-the-uk-digital-identity-and-attributes-trust-framework",
+      "published_date": "2026-01-12T11:36:06+00:00",
+      "category": "Government",
+      "description": "Conformity assessment bodies must follow these processes and requirements when certifying services against the UK digital identity and attributes trust framework.",
+      "author": "",
+      "content": "Conformity assessment bodies must follow these processes and requirements when certifying services against the UK digital identity and attributes trust framework.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.520343+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.734086+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.520346+00:00"
+        "timestamp": "2026-01-23T08:37:51.734089+00:00"
       },
       "article_type": "article"
     },
@@ -231,83 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.522048+00:00"
+        "consensus_timestamp": "2026-01-23T08:37:51.738856+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-23T04:49:24.522051+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "058fc86077243cd5d746ee140da81b1c",
-      "title": "NVIDIA DLSS 4.5 Delivers Super Resolution Upgrades and New Dynamic Multi Frame Generation",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-dlss-4-5-delivers-super-resolution-upgrades-and-new-dynamic-multi-frame-generation/",
-      "published_date": "2026-01-14T14:00:00+00:00",
-      "category": "Industry",
-      "description": "NVIDIA DLSS 4 with Multi Frame Generation has become the fastest-adopted NVIDIA gaming technology ever. Over 250 games and apps use it to make real-time path...",
-      "author": "Ike Nnoli",
-      "content": "NVIDIA DLSS 4 with Multi Frame Generation has become the fastest-adopted NVIDIA gaming technology ever. Over 250 games and apps use it to make real-time path...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.8955,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-23T04:49:24.521597+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-23T04:49:24.521600+00:00"
+        "timestamp": "2026-01-23T08:37:51.738861+00:00"
       },
       "article_type": "article"
     }
