@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T02:02:58.147783+00:00",
+  "updated": "2026-01-27T04:54:15.648840+00:00",
   "top_stories": [
     {
       "article_id": "32d224229a80d5fb3a8e1f1ce3d693e1",
@@ -13,10 +13,72 @@
       "content": "More than 450 tech workers from companies like Google, Meta, OpenAI, Amazon, and Salesforce have signed a letter urging their CEOs to call the White House and demand ICE leave our cities.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
         "impact_score": 0.98,
-        "overall_score": 0.9435,
+        "overall_score": 0.8684999999999998,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-27T04:54:15.605761+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-27T04:54:15.605763+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "b9a89a036aed914eed70454a2fbeaee7",
+      "title": "How Higgsfield turns simple ideas into cinematic social videos",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/higgsfield",
+      "published_date": "2026-01-21T10:00:00+00:00",
+      "category": "Industry",
+      "description": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+      "author": "",
+      "content": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.99,
+        "overall_score": 0.933,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,83 +107,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-27T02:02:58.104261+00:00"
+        "consensus_timestamp": "2026-01-27T04:54:15.603421+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-27T02:02:58.104264+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "2e723bc48ce73df2fcda29849adca5d4",
-      "title": "Partnering with Sandstone: An AI-Native Platform for In-House Legal Teams",
-      "source": "sequoia_ai",
-      "url": "https://sequoiacap.com/article/partnering-with-sandstone-an-ai-native-platform-for-in-house-legal-teams/",
-      "published_date": "2026-01-13T14:30:08+00:00",
-      "category": "Startups",
-      "description": "The post Partnering with Sandstone: An AI-Native Platform for In-House Legal Teams appeared first on Sequoia Capital.",
-      "author": "nsunderland",
-      "content": "The post Partnering with Sandstone: An AI-Native Platform for In-House Legal Teams appeared first on Sequoia Capital.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9285000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-27T02:02:58.105185+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-27T02:02:58.105188+00:00"
+        "timestamp": "2026-01-27T04:54:15.603424+00:00"
       },
       "article_type": "article"
     },
@@ -172,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-27T02:02:58.102526+00:00"
+        "consensus_timestamp": "2026-01-27T04:54:15.603962+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,89 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-27T02:02:58.102529+00:00"
+        "timestamp": "2026-01-27T04:54:15.603965+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "fe7c480d1e745f44f5ae51cf6db8d3cb",
-      "title": "GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/01/23/github-releases-copilot-sdk-to-embed-its-agentic-runtime-in-any-app/",
-      "published_date": "2026-01-23T22:43:33+00:00",
+      "article_id": "6781bb21b5cc1d43033818b4664227b0",
+      "title": "Inside Praktika's conversational approach to language learning",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/praktika",
+      "published_date": "2026-01-22T05:00:00+00:00",
       "category": "Industry",
-      "description": "GitHub has opened up the internal agent runtime that powers GitHub Copilot CLI and exposed it as a programmable SDK. The GitHub Copilot-SDK, now in technical preview, lets you embed the same agentic execution loop into any application so the agent can plan, invoke tools, edit files, and run commands as part of your own […] The post GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App appeared first on MarkTechPost.",
-      "author": "Michal Sutter",
-      "content": "GitHub has opened up the internal agent runtime that powers GitHub Copilot CLI and exposed it as a programmable SDK. The GitHub Copilot-SDK, now in technical preview, lets you embed the same agentic execution loop into any application so the agent can plan, invoke tools, edit files, and run commands as part of your own […] The post GitHub Releases Copilot-SDK to Embed Its Agentic Runtime in Any App appeared first on MarkTechPost.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-27T02:02:58.106114+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-27T02:02:58.106117+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f1de37eab2a2436cf62a82c46b5f3d87",
-      "title": "Cambridge supercomputer set to get 6 times more powerful as government backs British AI innovation",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation",
-      "published_date": "2026-01-26T00:01:00+00:00",
-      "category": "Government",
-      "description": "£36 million government investment into AI supercomputer in Cambridge",
+      "description": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
       "author": "",
-      "content": "£36 million government investment into AI supercomputer in Cambridge",
+      "content": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9035,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +231,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-27T02:02:58.101196+00:00"
+        "consensus_timestamp": "2026-01-27T04:54:15.603326+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-27T02:02:58.101199+00:00"
+        "timestamp": "2026-01-27T04:54:15.603329+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d311ed861c97bceb286e79d81a3c81cd",
+      "title": "Build a serverless AI Gateway architecture with AWS AppSync Events",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-ai-gateway-architecture-with-aws-appsync-events/",
+      "published_date": "2026-01-26T17:20:27+00:00",
+      "category": "Industry",
+      "description": "In this post, we discuss how to use AppSync Events as the foundation of a capable, serverless, AI gateway architecture. We explore how it integrates with AWS services for comprehensive coverage of the capabilities offered in AI gateway architectures. Finally, we get you started on your journey with sample code you can launch in your account and begin building.",
+      "author": "Archie Cowan",
+      "content": "In this post, we discuss how to use AppSync Events as the foundation of a capable, serverless, AI gateway architecture. We explore how it integrates with AWS services for comprehensive coverage of the capabilities offered in AI gateway architectures. Finally, we get you started on your journey with sample code you can launch in your account and begin building.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-27T04:54:15.604245+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-27T04:54:15.604247+00:00"
       },
       "article_type": "article"
     }
