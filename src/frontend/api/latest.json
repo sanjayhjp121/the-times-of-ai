@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-01-28T04:50:15.617150+00:00",
+  "generated_at": "2026-01-28T08:39:48.837388+00:00",
   "articles": [
     {
-      "article_id": "cd6ab84a1e732d71cf287ac33e9edc28",
-      "title": "Microsoft announces powerful new chip for AI inference",
+      "article_id": "449b6119573d1605cb591af2fa851100",
+      "title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
-      "published_date": "2026-01-26T16:00:00+00:00",
+      "url": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
+      "published_date": "2026-01-27T10:00:00+00:00",
       "category": "Industry",
-      "description": "Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.",
-      "author": "Lucas Ropek",
-      "content": "Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.",
+      "description": "“We assess a lot of AI chatbots at Common Sense Media, and they all have risks, but Grok is among the worst we’ve seen,” Robbie Torney of Common Sense Media said.",
+      "author": "Rebecca Bellan",
+      "content": "“We assess a lot of AI chatbots at Common Sense Media, and they all have risks, but Grok is among the worst we’ve seen,” Robbie Torney of Common Sense Media said.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
+        "overall_score": 0.9099999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -44,24 +44,210 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.569286+00:00"
+        "consensus_timestamp": "2026-01-28T08:39:48.786246+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-28T08:39:48.786249+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "4320c22b178f9e58c70b5b68e7dad36b",
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/pvh-future-of-fashion",
+      "published_date": "2026-01-27T06:00:00+00:00",
+      "category": "Industry",
+      "description": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "author": "",
+      "content": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.99,
+        "overall_score": 0.933,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-28T08:39:48.783801+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T04:50:15.569289+00:00"
+        "timestamp": "2026-01-28T08:39:48.783803+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
+    },
+    {
+      "article_id": "ec4c565df7046d1e4b7a147827ad3c95",
+      "title": "Introducing Prism",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-prism",
+      "published_date": "2026-01-27T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+      "author": "",
+      "content": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9160000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-28T08:39:48.783882+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-28T08:39:48.783884+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2eee6d0bc93c872e3d74698d874ce314",
+      "title": "‘Largest Infrastructure Buildout in Human History’: Jensen Huang on AI’s ‘Five-Layer Cake’ at Davos",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/",
+      "published_date": "2026-01-21T12:50:16+00:00",
+      "category": "Industry",
+      "description": "AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.",
+      "author": "Brian Caulfield",
+      "content": "AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-28T08:39:48.785718+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-28T08:39:48.785721+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "2d62d33c012c6197219df46f37949dd7",
@@ -110,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.566267+00:00"
+        "consensus_timestamp": "2026-01-28T08:39:48.783375+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,20 +307,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T04:50:15.566270+00:00"
+        "timestamp": "2026-01-28T08:39:48.783378+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "67e3f333905ddbe5d4cc962b9faf3d63",
-      "title": "Research: AI Skills for Life and Work: Job Vacancy Analysis",
+      "article_id": "95ae24ac2f5d267f21cb1be6eb4e1191",
+      "title": "Research: AI Adoption Research",
       "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ai-skills-for-life-and-work-job-vacancy-analysis",
+      "url": "https://www.gov.uk/government/publications/ai-adoption-research",
       "published_date": "2026-01-28T00:01:02+00:00",
       "category": "Government",
-      "description": "One of 11 reports produced for the AI Skills for Life and Work R&D project, focusing on the analysis of job vacancy data.",
+      "description": "How UK businesses are adopting AI, what barriers they face, and what impacts AI is having across sectors.",
       "author": "",
-      "content": "One of 11 reports produced for the AI Skills for Life and Work R&D project, focusing on the analysis of job vacancy data.",
+      "content": "How UK businesses are adopting AI, what barriers they face, and what impacts AI is having across sectors.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.95,
@@ -172,7 +358,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.566455+00:00"
+        "consensus_timestamp": "2026-01-28T08:39:48.783673+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +369,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T04:50:15.566459+00:00"
+        "timestamp": "2026-01-28T08:39:48.783676+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f13d3b2445a654d4cd77a709b873dc4f",
-      "title": "Hospitals are fighting back as cyberattacks surge, embracing security-first initiatives",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/01/21/hospital-cybersecurity-attacks-increase-medtechunplugged/",
-      "published_date": "2026-01-21T21:30:42+00:00",
+      "article_id": "2d7930a21afb8484c08f1ee0fa1aa220",
+      "title": "Build a generative AI-powered business reporting solution with Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/",
+      "published_date": "2026-01-15T15:53:15+00:00",
       "category": "Industry",
-      "description": "Hospital cybersecurity remains a top story as ransomware attacks continue to escalate. Because digital disruption from cybersecurity failures raises patient risk, the sector is being forced to treat cyber readiness as a public safety issue. Attacks surged during the pandemic, turning hospitals into prime targets, according to John Riggi (pictured, left), national advisor for cybersecurity and […] The post Hospitals are fighting back as cyberattacks surge, embracing security-first initiatives...",
-      "author": "Ryan Stevens",
-      "content": "Hospital cybersecurity remains a top story as ransomware attacks continue to escalate. Because digital disruption from cybersecurity failures raises patient risk, the sector is being forced to treat cyber readiness as a public safety issue. Attacks surged during the pandemic, turning hospitals into prime targets, according to John Riggi (pictured, left), national advisor for cybersecurity and […] The post Hospitals are fighting back as cyberattacks surge, embracing security-first initiatives...",
+      "description": "This post introduces generative AI guided business reporting—with a focus on writing achievements & challenges about your business—providing a smart, practical solution that helps simplify and accelerate internal communication and reporting.",
+      "author": "Nick Biso",
+      "content": "This post introduces generative AI guided business reporting—with a focus on writing achievements & challenges about your business—providing a smart, practical solution that helps simplify and accelerate internal communication and reporting.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -230,22 +416,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.570721+00:00"
+        "consensus_timestamp": "2026-01-28T08:39:48.785458+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T04:50:15.570723+00:00"
+        "timestamp": "2026-01-28T08:39:48.785460+00:00"
       },
       "article_type": "article"
     },
@@ -292,22 +478,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.569478+00:00"
+        "consensus_timestamp": "2026-01-28T08:39:48.786657+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T04:50:15.569480+00:00"
+        "timestamp": "2026-01-28T08:39:48.786660+00:00"
       },
       "article_type": "article"
     },
@@ -358,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.565792+00:00"
+        "consensus_timestamp": "2026-01-28T08:39:48.782985+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,7 +555,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T04:50:15.565796+00:00"
+        "timestamp": "2026-01-28T08:39:48.782990+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b54835af868cb30c89fb93d721b4ffaf",
+      "title": "Fine-Tune LLMs on Your Mac: DagsHub + Apple MLX-LM Integration",
+      "source": "dagshub_blog",
+      "url": "https://dagshub.com/blog/apple-mlx-integration/",
+      "published_date": "2026-01-21T07:47:41+00:00",
+      "category": "Industry",
+      "description": "DagsHub now fully supports Apple Silicon LLM fine-tuning workflows with MLX-LM. Train models locally on your MacBook, track experiments, version datasets, and deploy—all with a seamless, integrated experience.",
+      "author": "Dean Pleban",
+      "content": "DagsHub now fully supports Apple Silicon LLM fine-tuning workflows with MLX-LM. Train models locally on your MacBook, track experiments, version datasets, and deploy—all with a seamless, integrated experience.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-28T08:39:48.788414+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-28T08:39:48.788417+00:00"
       },
       "article_type": "article"
     },
@@ -417,226 +665,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.566861+00:00"
+        "consensus_timestamp": "2026-01-28T08:39:48.783963+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T04:50:15.566864+00:00"
+        "timestamp": "2026-01-28T08:39:48.783965+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "95ae24ac2f5d267f21cb1be6eb4e1191",
-      "title": "Research: AI Adoption Research",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ai-adoption-research",
-      "published_date": "2026-01-28T00:01:02+00:00",
-      "category": "Government",
-      "description": "How UK businesses are adopting AI, what barriers they face, and what impacts AI is having across sectors.",
-      "author": "",
-      "content": "How UK businesses are adopting AI, what barriers they face, and what impacts AI is having across sectors.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8524999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.566577+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-28T04:50:15.566579+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ec4c565df7046d1e4b7a147827ad3c95",
-      "title": "Introducing Prism",
+      "article_id": "58ea9bdcc0964d343ae003ffab65b3b1",
+      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
       "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-prism",
-      "published_date": "2026-01-27T00:00:00+00:00",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "published_date": "2026-01-22T00:00:00+00:00",
       "category": "Industry",
-      "description": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+      "description": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
       "author": "",
-      "content": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8524999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.566779+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-28T04:50:15.566782+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3c4a9ea0057f423c10b3fa127f278053",
-      "title": "Hybrid cloud moves from infrastructure choice to AI execution layer",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/01/23/hybrid-cloud-ai-execution-layer-futureofdataplatforms/",
-      "published_date": "2026-01-23T21:44:12+00:00",
-      "category": "Industry",
-      "description": "Hybrid cloud is no longer just an infrastructure compromise — it’s increasingly the execution layer that determines whether enterprise artificial intelligence can move from promise to production. As AI moves into production, hybrid cloud strategies are being reshaped by the realities of inference, distributed data and where GPUs actually live. Software solutions providers such as […] The post Hybrid cloud moves from infrastructure choice to AI execution layer appeared first on SiliconANGLE.",
-      "author": "Chad Wilson",
-      "content": "Hybrid cloud is no longer just an infrastructure compromise — it’s increasingly the execution layer that determines whether enterprise artificial intelligence can move from promise to production. As AI moves into production, hybrid cloud strategies are being reshaped by the realities of inference, distributed data and where GPUs actually live. Software solutions providers such as […] The post Hybrid cloud moves from infrastructure choice to AI execution layer appeared first on SiliconANGLE.",
+      "content": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.570360+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-28T04:50:15.570362+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2eee6d0bc93c872e3d74698d874ce314",
-      "title": "‘Largest Infrastructure Buildout in Human History’: Jensen Huang on AI’s ‘Five-Layer Cake’ at Davos",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/",
-      "published_date": "2026-01-21T12:50:16+00:00",
-      "category": "Industry",
-      "description": "AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.",
-      "author": "Brian Caulfield",
-      "content": "AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -665,21 +727,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.568594+00:00"
+        "consensus_timestamp": "2026-01-28T08:39:48.784086+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T04:50:15.568597+00:00"
+        "timestamp": "2026-01-28T08:39:48.784089+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a37cd219ab160d2f1179448f622c128c",
+      "title": "Inferact launches with $150M in funding to commercialize vLLM",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/01/22/inferact-launches-150m-funding-commercialize-vllm/",
+      "published_date": "2026-01-23T01:13:45+00:00",
+      "category": "Industry",
+      "description": "A group of artificial intelligence researchers today launched Inferact Inc., a new startup that will commercialize the open-source vLLM project. The company is backed by $150 million in seed funding. Andreessen Horowitz and Lightspeed led the round with participation from Databricks Inc.’s venture capital arm, UC Berkeley Chancellor’s Fund and several other backers. Their investment […] The post Inferact launches with $150M in funding to commercialize vLLM appeared first on SiliconANGLE.",
+      "author": "Maria Deutscher",
+      "content": "A group of artificial intelligence researchers today launched Inferact Inc., a new startup that will commercialize the open-source vLLM project. The company is backed by $150 million in seed funding. Andreessen Horowitz and Lightspeed led the round with participation from Databricks Inc.’s venture capital arm, UC Berkeley Chancellor’s Fund and several other backers. Their investment […] The post Inferact launches with $150M in funding to commercialize vLLM appeared first on SiliconANGLE.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-28T08:39:48.788948+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-28T08:39:48.788950+00:00"
       },
       "article_type": "article"
     },
@@ -730,7 +854,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.566085+00:00"
+        "consensus_timestamp": "2026-01-28T08:39:48.783250+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,7 +865,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T04:50:15.566087+00:00"
+        "timestamp": "2026-01-28T08:39:48.783253+00:00"
       },
       "article_type": "article"
     },
@@ -792,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.566306+00:00"
+        "consensus_timestamp": "2026-01-28T08:39:48.783416+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,131 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T04:50:15.566309+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "cd3f63b3e2a53971f620189fe3ebeb70",
-      "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/cisco",
-      "published_date": "2026-01-20T11:00:00+00:00",
-      "category": "Industry",
-      "description": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
-      "author": "",
-      "content": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.567242+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-28T04:50:15.567245+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bc175f465829180a35a8823f46593ecd",
-      "title": "Trusted AI moves from compliance talk to operating reality — EY leaders on trust and scale",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/01/21/trusted-ai-moves-compliance-talk-operating-reality-ces2026/",
-      "published_date": "2026-01-21T20:05:54+00:00",
-      "category": "Industry",
-      "description": "The conversation around enterprise transformation is shifting as organizations reckon with what it takes to turn artificial intelligence into something that delivers lasting, operational impact, with trusted AI emerging as the real dividing line between experimentation and scale. What’s changing isn’t the technology itself, but the expectations around confidence, accountability and everyday use. As leaders […] The post Trusted AI moves from compliance talk to operating reality — EY leaders on...",
-      "author": "Chad Wilson",
-      "content": "The conversation around enterprise transformation is shifting as organizations reckon with what it takes to turn artificial intelligence into something that delivers lasting, operational impact, with trusted AI emerging as the real dividing line between experimentation and scale. What’s changing isn’t the technology itself, but the expectations around confidence, accountability and everyday use. As leaders […] The post Trusted AI moves from compliance talk to operating reality — EY leaders on...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8375,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T04:50:15.570919+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-28T04:50:15.570921+00:00"
+        "timestamp": "2026-01-28T08:39:48.783419+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 164.56404185295105,
+    "processing_time": 165.76335334777832,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 131,
+      "total_processed": 130,
       "candidates": {
-        "headlines": 13,
-        "articles": 118,
+        "headlines": 18,
+        "articles": 112,
         "research_papers": 0
       },
       "selected": {
