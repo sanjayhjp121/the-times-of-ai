@@ -1,22 +1,84 @@
 {
-  "updated": "2026-01-28T08:39:48.840775+00:00",
+  "updated": "2026-01-28T12:59:10.757148+00:00",
   "top_stories": [
     {
-      "article_id": "449b6119573d1605cb591af2fa851100",
-      "title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures",
+      "article_id": "63ddf760cf04483a4defe428f219b94b",
+      "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
-      "published_date": "2026-01-27T10:00:00+00:00",
+      "url": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
+      "published_date": "2026-01-26T21:43:14+00:00",
       "category": "Industry",
-      "description": "“We assess a lot of AI chatbots at Common Sense Media, and they all have risks, but Grok is among the worst we’ve seen,” Robbie Torney of Common Sense Media said.",
-      "author": "Rebecca Bellan",
-      "content": "“We assess a lot of AI chatbots at Common Sense Media, and they all have risks, but Grok is among the worst we’ve seen,” Robbie Torney of Common Sense Media said.",
+      "description": "The YouTubers claim Snap, like others, used AI datasets meant for research and academic use to train its AI models.",
+      "author": "Sarah Perez",
+      "content": "The YouTubers claim Snap, like others, used AI datasets meant for research and academic use to train its AI models.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.8,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9099999999999999,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-01-28T12:59:10.706440+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-01-28T12:59:10.706442+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "0e9317520cf19db6afb7dcd41b9bbb64",
+      "title": "Safeguard generative AI applications with Amazon Bedrock Guardrails",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/",
+      "published_date": "2026-01-15T15:50:54+00:00",
+      "category": "Industry",
+      "description": "In this post, we demonstrate how you can address these challenges by adding centralized safeguards to a custom multi-provider generative AI gateway using Amazon Bedrock Guardrails.",
+      "author": "Hasan Shojaei",
+      "content": "In this post, we demonstrate how you can address these challenges by adding centralized safeguards to a custom multi-provider generative AI gateway using Amazon Bedrock Guardrails.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T08:39:48.786246+00:00"
+        "consensus_timestamp": "2026-01-28T12:59:10.705464+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,88 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T08:39:48.786249+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "4320c22b178f9e58c70b5b68e7dad36b",
-      "title": "PVH reimagines the future of fashion with OpenAI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/pvh-future-of-fashion",
-      "published_date": "2026-01-27T06:00:00+00:00",
-      "category": "Industry",
-      "description": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
-      "author": "",
-      "content": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.99,
-        "overall_score": 0.933,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T08:39:48.783801+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-01-28T08:39:48.783803+00:00"
+        "timestamp": "2026-01-28T12:59:10.705466+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ec4c565df7046d1e4b7a147827ad3c95",
-      "title": "Introducing Prism",
+      "article_id": "cd3f63b3e2a53971f620189fe3ebeb70",
+      "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
       "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-prism",
-      "published_date": "2026-01-27T00:00:00+00:00",
+      "url": "https://openai.com/index/cisco",
+      "published_date": "2026-01-20T11:00:00+00:00",
       "category": "Industry",
-      "description": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+      "description": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
       "author": "",
-      "content": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+      "content": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.85,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.9160000000000001,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T08:39:48.783882+00:00"
+        "consensus_timestamp": "2026-01-28T12:59:10.704337+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T08:39:48.783884+00:00"
+        "timestamp": "2026-01-28T12:59:10.704339+00:00"
       },
       "article_type": "article"
     },
@@ -199,10 +199,10 @@
       "content": "AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -231,40 +231,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T08:39:48.785718+00:00"
+        "consensus_timestamp": "2026-01-28T12:59:10.705712+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T08:39:48.785721+00:00"
+        "timestamp": "2026-01-28T12:59:10.705714+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2d62d33c012c6197219df46f37949dd7",
-      "title": "Research: Evaluation of the Flexible AI Upskilling Fund",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/evaluation-of-the-flexible-ai-upskilling-fund",
-      "published_date": "2026-01-28T00:01:02+00:00",
-      "category": "Government",
-      "description": "Evaluation of the Flexible AI Upskilling Fund on small and medium-sized enterprises in the Professional and Business Services sector and their employees",
-      "author": "",
-      "content": "Evaluation of the Flexible AI Upskilling Fund on small and medium-sized enterprises in the Professional and Business Services sector and their employees",
+      "article_id": "9e02c3d69e48dbcdfd238e90d9499b1a",
+      "title": "Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/",
+      "published_date": "2026-01-21T19:45:04+00:00",
+      "category": "Industry",
+      "description": "In this post, we walk you through the complete architecture to structure and store episodes, discuss the reflection module, and share compelling benchmarks that demonstrate significant improvements in agent task success rates.",
+      "author": "Jiarong Jiang",
+      "content": "In this post, we walk you through the complete architecture to structure and store episodes, discuss the reflection module, and share compelling benchmarks that demonstrate significant improvements in agent task success rates.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
         "impact_score": 0.98,
-        "overall_score": 0.9035,
+        "overall_score": 0.881,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-01-28T08:39:48.783375+00:00"
+        "consensus_timestamp": "2026-01-28T12:59:10.705024+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-01-28T08:39:48.783378+00:00"
+        "timestamp": "2026-01-28T12:59:10.705026+00:00"
       },
       "article_type": "article"
     }
