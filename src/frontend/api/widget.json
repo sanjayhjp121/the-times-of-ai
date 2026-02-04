@@ -1,22 +1,22 @@
 {
-  "updated": "2026-02-04T08:47:55.809314+00:00",
+  "updated": "2026-02-04T13:07:34.961162+00:00",
   "top_stories": [
     {
-      "article_id": "255dd981265ab3737b6e3b4beb06ea90",
-      "title": "Qwen Team Releases Qwen3-Coder-Next: An Open-Weight Language Model Designed Specifically for Coding Agents and Local Development",
+      "article_id": "d7dfe294c9bac33bc84ad9aef5d1e81c",
+      "title": "Google Releases Conductor: a context driven Gemini CLI extension that stores knowledge as Markdown and orchestrates agentic workflows",
       "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/",
-      "published_date": "2026-02-03T20:47:52+00:00",
+      "url": "https://www.marktechpost.com/2026/02/02/google-releases-conductor-a-context-driven-gemini-cli-extension-that-stores-knowledge-as-markdown-and-orchestrates-agentic-workflows/",
+      "published_date": "2026-02-02T21:49:31+00:00",
       "category": "Industry",
-      "description": "Qwen team has just released Qwen3-Coder-Next, an open-weight language model designed for coding agents and local development. It sits on top of the Qwen3-Next-80B-A3B backbone. The model uses a sparse Mixture-of-Experts (MoE) architecture with hybrid attention. It has 80B total parameters, but only 3B parameters are activated per token. The goal is to match the […] The post Qwen Team Releases Qwen3-Coder-Next: An Open-Weight Language Model Designed Specifically for Coding Agents and Local...",
-      "author": "Asif Razzaq",
-      "content": "Qwen team has just released Qwen3-Coder-Next, an open-weight language model designed for coding agents and local development. It sits on top of the Qwen3-Next-80B-A3B backbone. The model uses a sparse Mixture-of-Experts (MoE) architecture with hybrid attention. It has 80B total parameters, but only 3B parameters are activated per token. The goal is to match the […] The post Qwen Team Releases Qwen3-Coder-Next: An Open-Weight Language Model Designed Specifically for Coding Agents and Local...",
+      "description": "Google has introduced Conductor, an open source preview extension for Gemini CLI that turns AI code generation into a structured, context driven workflow. Conductor stores product knowledge, technical decisions, and work plans as versioned Markdown inside the repository, then drives Gemini agents from those files instead of ad hoc chat prompts. From chat based coding […] The post Google Releases Conductor: a context driven Gemini CLI extension that stores knowledge as Markdown and orchestrates...",
+      "author": "Michal Sutter",
+      "content": "Google has introduced Conductor, an open source preview extension for Gemini CLI that turns AI code generation into a structured, context driven workflow. Conductor stores product knowledge, technical decisions, and work plans as versioned Markdown inside the repository, then drives Gemini agents from those files instead of ad hoc chat prompts. From chat based coding […] The post Google Releases Conductor: a context driven Gemini CLI extension that stores knowledge as Markdown and orchestrates...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.7,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.82,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,41 +44,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.85,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-04T08:47:55.772450+00:00"
+        "consensus_timestamp": "2026-02-04T13:07:34.918678+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-04T08:47:55.772452+00:00"
+        "timestamp": "2026-02-04T13:07:34.918681+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "bd81715797ee6a72da5642e7476362e5",
-      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
-      "published_date": "2026-01-29T00:00:00+00:00",
+      "article_id": "1c5260ac30d609ee3287d97e0b6c9c5b",
+      "title": "Robbyant Open Sources LingBot World: a Real Time World Model for Interactive Simulation and Embodied AI",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/",
+      "published_date": "2026-01-31T01:53:19+00:00",
       "category": "Industry",
-      "description": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+      "description": "Robbyant, the embodied AI unit inside Ant Group, has open sourced LingBot-World, a large scale world model that turns video generation into an interactive simulator for embodied agents, autonomous driving and games. The system is designed to render controllable environments with high visual fidelity, strong dynamics and long temporal horizons, while staying responsive enough for […] The post Robbyant Open Sources LingBot World: a Real Time World Model for Interactive Simulation and Embodied AI...",
+      "author": "Asif Razzaq",
+      "content": "Robbyant, the embodied AI unit inside Ant Group, has open sourced LingBot-World, a large scale world model that turns video generation into an interactive simulator for embodied agents, autonomous driving and games. The system is designed to render controllable environments with high visual fidelity, strong dynamics and long temporal horizons, while staying responsive enough for […] The post Robbyant Open Sources LingBot World: a Real Time World Model for Interactive Simulation and Embodied AI...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-04T13:07:34.918858+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-04T13:07:34.918861+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ec4c565df7046d1e4b7a147827ad3c95",
+      "title": "Introducing Prism",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-prism",
+      "published_date": "2026-01-27T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
       "author": "",
-      "content": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+      "content": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.925,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -107,165 +169,103 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.92,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-04T08:47:55.768048+00:00"
+        "consensus_timestamp": "2026-02-04T13:07:34.914566+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.752,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-04T08:47:55.768052+00:00"
+        "timestamp": "2026-02-04T13:07:34.914569+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f79e0305114ebe35ec0f687f34340dbf",
-      "title": "How Indeed uses AI to help evolve the job search",
+      "article_id": "a6143e54860ab283f54ec8ff0a6b9823",
+      "title": "Updating Classifier Evasion for Vision Language Models",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/updating-classifier-evasion-for-vision-language-models/",
+      "published_date": "2026-01-28T16:19:12+00:00",
+      "category": "Industry",
+      "description": "Advances in AI architectures have unlocked multimodal functionality, enabling transformer models to process multiple forms of data in the same context. For...",
+      "author": "Joseph Lucas",
+      "content": "Advances in AI architectures have unlocked multimodal functionality, enabling transformer models to process multiple forms of data in the same context. For...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-04T13:07:34.917446+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-04T13:07:34.917450+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b6d5d914074b86d3fc024ec63f85b843",
+      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
       "source": "openai_blog",
-      "url": "https://openai.com/index/indeed-maggie-hulce",
-      "published_date": "2026-01-26T00:00:00+00:00",
+      "url": "https://openai.com/index/taisei",
+      "published_date": "2026-01-29T00:00:00+00:00",
       "category": "Industry",
-      "description": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+      "description": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
       "author": "",
-      "content": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+      "content": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-04T08:47:55.768410+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-04T08:47:55.768413+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "62eff872a528f77b246d7ebb1e8a6251",
-      "title": "Marvell Completes Acquisition of Celestial AI",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/marvell-completes-acquisition-of-celestial-ai/",
-      "published_date": "2026-02-03T16:30:00+00:00",
-      "category": "Industry",
-      "description": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced that it has completed its previously announced acquisition of Celestial AI, a pioneer in optical interconnect technology for scale-up connectivity. Celestial AI brings its Photonic Fabric™ optical interconnect technology, designed to support high-bandwidth, low-latency connectivity across large-scale... The post Marvell Completes Acquisition of Celestial AI first appeared on AI-Tech...",
-      "author": "Business Wire",
-      "content": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced that it has completed its previously announced acquisition of Celestial AI, a pioneer in optical interconnect technology for scale-up connectivity. Celestial AI brings its Photonic Fabric™ optical interconnect technology, designed to support high-bandwidth, low-latency connectivity across large-scale... The post Marvell Completes Acquisition of Celestial AI first appeared on AI-Tech...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-04T08:47:55.772229+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-04T08:47:55.772231+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c7abe7d135c687b86b0a78ee5c3d368e",
-      "title": "Simplify ModelOps with Amazon SageMaker AI Projects using Amazon S3-based templates",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/simplify-modelops-with-amazon-sagemaker-ai-projects-using-amazon-s3-based-templates/",
-      "published_date": "2026-01-30T17:18:57+00:00",
-      "category": "Industry",
-      "description": "This post explores how you can use Amazon S3-based templates to simplify ModelOps workflows, walk through the key benefits compared to using Service Catalog approaches, and demonstrates how to create a custom ModelOps solution that integrates with GitHub and GitHub Actions—giving your team one-click provisioning of a fully functional ML environment.",
-      "author": "Christian Kamwangala",
-      "content": "This post explores how you can use Amazon S3-based templates to simplify ModelOps workflows, walk through the key benefits compared to using Service Catalog approaches, and demonstrates how to create a custom ModelOps solution that integrates with GitHub and GitHub Actions—giving your team one-click provisioning of a fully functional ML environment.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.7,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.98
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-04T08:47:55.769131+00:00"
+        "consensus_timestamp": "2026-02-04T13:07:34.914333+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-04T08:47:55.769134+00:00"
+        "timestamp": "2026-02-04T13:07:34.914336+00:00"
       },
       "article_type": "article"
     }
