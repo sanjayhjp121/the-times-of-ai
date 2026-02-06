@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T08:48:04.563616+00:00",
+  "updated": "2026-02-06T13:07:30.242635+00:00",
   "top_stories": [
     {
       "article_id": "4754e9973f52629ac09f21ed4f0c9c76",
@@ -48,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-06T08:48:04.520242+00:00"
+        "consensus_timestamp": "2026-02-06T13:07:30.197533+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-06T08:48:04.520244+00:00"
+        "timestamp": "2026-02-06T13:07:30.197536+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "48ef815fb80d03546cc3327f1c8f8dfc",
-      "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+      "article_id": "5f6125532ce09783236fda135aec4992",
+      "title": "How to Build License-Compliant Synthetic Data Pipelines for AI Model Distillation",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/",
-      "published_date": "2026-01-28T17:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation/",
+      "published_date": "2026-02-05T18:00:00+00:00",
       "category": "Industry",
-      "description": "NVIDIA Run:ai v2.24 introduces time-based fairshare, a new scheduling mode that brings fair-share scheduling with time awareness for over-quota resources to...",
-      "author": "Ekin Karabulut",
-      "content": "NVIDIA Run:ai v2.24 introduces time-based fairshare, a new scheduling mode that brings fair-share scheduling with time awareness for over-quota resources to...",
+      "description": "Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-specific...",
+      "author": "Alex Steiner",
+      "content": "Specialized AI models are built to perform specific tasks or solve particular problems. But if you’ve ever tried to fine-tune or distill a domain-specific...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
         "impact_score": 0.98,
-        "overall_score": 0.9435,
-        "confidence_mean": 0.98
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -107,103 +107,41 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.92,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-06T08:48:04.521328+00:00"
+        "consensus_timestamp": "2026-02-06T13:07:30.198286+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.752,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-06T08:48:04.521331+00:00"
+        "timestamp": "2026-02-06T13:07:30.198290+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c3caeca7d8e3ba1097749a9d69e1ff72",
-      "title": "Agentic AI for healthcare data analysis with Amazon SageMaker Data Agent",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-for-healthcare-data-analysis-with-amazon-sagemaker-data-agent/",
-      "published_date": "2026-02-03T16:22:19+00:00",
+      "article_id": "87bda250152197a12c7a7f963815985f",
+      "title": "Optimizing Communication for Mixture-of-Experts Training with Hybrid Expert Parallel",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/",
+      "published_date": "2026-02-02T18:43:08+00:00",
       "category": "Industry",
-      "description": "On November 21, 2025, Amazon SageMaker introduced a built-in data agent within Amazon SageMaker Unified Studio that transforms large-scale data analysis. In this post, we demonstrate, through a detailed case study of an epidemiologist conducting clinical cohort analysis, how SageMaker Data Agent can help reduce weeks of data preparation into days, and days of analysis development into hours—ultimately accelerating the path from clinical questions to research conclusions.",
-      "author": "Siddharth Gupta",
-      "content": "On November 21, 2025, Amazon SageMaker introduced a built-in data agent within Amazon SageMaker Unified Studio that transforms large-scale data analysis. In this post, we demonstrate, through a detailed case study of an epidemiologist conducting clinical cohort analysis, how SageMaker Data Agent can help reduce weeks of data preparation into days, and days of analysis development into hours—ultimately accelerating the path from clinical questions to research conclusions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-06T08:48:04.519202+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-06T08:48:04.519205+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1ea2059e97ad7df6f00cc34ea917fa41",
-      "title": "PostgreSQL on Azure supercharged for AI",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
-      "published_date": "2026-02-02T15:00:00+00:00",
-      "category": "Industry",
-      "description": "From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL. The post PostgreSQL on Azure supercharged for AI appeared first on Microsoft Azure Blog.",
-      "author": "Shireesh Thota",
-      "content": "From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL. The post PostgreSQL on Azure supercharged for AI appeared first on Microsoft Azure Blog.",
+      "description": "In LLM training, Expert Parallel (EP) communication for hyperscale mixture-of-experts (MoE) models is challenging. EP communication is essentially all-to-all,...",
+      "author": "Fan Yu",
+      "content": "In LLM training, Expert Parallel (EP) communication for hyperscale mixture-of-experts (MoE) models is challenging. EP communication is essentially all-to-all,...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.8
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-06T08:48:04.518838+00:00"
+        "consensus_timestamp": "2026-02-06T13:07:30.198511+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +183,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-06T08:48:04.518841+00:00"
+        "timestamp": "2026-02-06T13:07:30.198514+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "97522633794d7ea591ae05c31830861e",
-      "title": "Algorand (ALGO) Price Prediction: 2025, 2026, 2030",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/money/algorand-price-prediction",
-      "published_date": "2026-02-05T15:16:11+00:00",
+      "article_id": "48ef815fb80d03546cc3327f1c8f8dfc",
+      "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/",
+      "published_date": "2026-01-28T17:00:00+00:00",
       "category": "Industry",
-      "description": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feeling confident about this ALGO price prediction? You can trade Algorand on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Algorand (ALGO) is a...",
-      "author": "Margaret Jackson",
-      "content": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feeling confident about this ALGO price prediction? You can trade Algorand on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Algorand (ALGO) is a...",
+      "description": "NVIDIA Run:ai v2.24 introduces time-based fairshare, a new scheduling mode that brings fair-share scheduling with time awareness for over-quota resources to...",
+      "author": "Ekin Karabulut",
+      "content": "NVIDIA Run:ai v2.24 introduces time-based fairshare, a new scheduling mode that brings fair-share scheduling with time awareness for over-quota resources to...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-06T13:07:30.198683+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-06T13:07:30.198686+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b4b7b0fa7277d56ac39d46722517c276",
+      "title": "Cognizant, Palantir Partner for AI-Driven Enterprise Modernization",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/cognizant-palantir-partner-for-ai-driven-enterprise-modernization/",
+      "published_date": "2026-02-06T07:45:00+00:00",
+      "category": "Industry",
+      "description": "Partnership combines Palantir Foundry and AIP with Cognizant’s TriZetto healthcare platforms and business process operations to enable secure, scalable AI transformation for enterprises across industries. Cognizant (NASDAQ: CTSH) announced a strategic partnership with Palantir Technologies Inc. (NASDAQ: PLTR) to accelerate AI-driven modernization across healthcare and enterprise operations. As part of the collaboration,... The post Cognizant, Palantir Partner for AI-Driven Enterprise...",
+      "author": "PR Newswire",
+      "content": "Partnership combines Palantir Foundry and AIP with Cognizant’s TriZetto healthcare platforms and business process operations to enable secure, scalable AI transformation for enterprises across industries. Cognizant (NASDAQ: CTSH) announced a strategic partnership with Palantir Technologies Inc. (NASDAQ: PLTR) to accelerate AI-driven modernization across healthcare and enterprise operations. As part of the collaboration,... The post Cognizant, Palantir Partner for AI-Driven Enterprise...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-06T08:48:04.522550+00:00"
+        "consensus_timestamp": "2026-02-06T13:07:30.199489+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-06T08:48:04.522553+00:00"
+        "timestamp": "2026-02-06T13:07:30.199492+00:00"
       },
       "article_type": "article"
     }
