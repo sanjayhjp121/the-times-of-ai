@@ -311,18 +311,37 @@ jobs:
         fi
 
     - name: ⚙️ Setup Pages
+      id: setup-pages
       uses: actions/configure-pages@v5
+      continue-on-error: true
     
     - name: 📤 Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
       with:
         path: site
+      if: steps.setup-pages.outcome == 'success'
     
     - name: 🚀 Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
       with:
         timeout: 600000
+      if: steps.setup-pages.outcome == 'success'
+    
+    - name: ⚠️ GitHub Pages Not Enabled - Skipping Deployment
+      if: steps.setup-pages.outcome == 'failure'
+      run: |
+        echo "::warning::GitHub Pages is not enabled for this repository."
+        echo ""
+        echo "📋 To enable GitHub Pages:"
+        echo "1. Go to your repository on GitHub"
+        echo "2. Navigate to: Settings > Pages"
+        echo "3. Under 'Source', select 'GitHub Actions'"
+        echo "4. Save the settings"
+        echo "5. Re-run this workflow - it will automatically deploy"
+        echo ""
+        echo "✅ Content has been processed successfully and is available in the 'processed-content' artifact."
+        echo "🌐 Once Pages is enabled, the next workflow run will deploy automatically."
 
   # ================================================================
   # JOB 3: WORKFLOW MONITORING & SUMMARY

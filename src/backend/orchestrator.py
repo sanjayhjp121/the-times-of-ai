@@ -1438,6 +1438,10 @@ class NewsProcessingPipeline:
             logger.info(f"✅ Podcast audio generated successfully: {audio_file} ({file_size:,} bytes)")
             
         except Exception as e:
+            err_str = str(e).lower()
+            if "429" in err_str or "resource_exhausted" in err_str or "quota" in err_str:
+                logger.warning("⚠️ Gemini rate limit (429) - skipping audio generation. Pipeline completed successfully.")
+                return
             log_error(logger, f"Failed to generate podcast audio: {e}")
             logger.debug(f"TTS generation error details: {traceback.format_exc()}")
 

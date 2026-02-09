@@ -46,6 +46,12 @@ echo "GEMINI_API_KEY=your_key_here" >> .env.local
 npm run dev
 ```
 
+## Deployment (GitHub Actions + Pages)
+
+1. Add repository secrets: `GROQ_API_KEY`, `GEMINI_API_KEY` (optional, for audio).
+2. **Enable GitHub Pages**: Settings → Pages → Source: **GitHub Actions**.
+3. Run the workflow (scheduled every 4 hours, or trigger manually via Actions → "The Times of AI - Modern Serverless News Pipeline" → Run workflow).
+
 ## Configuration
 
 - **News Sources**: `src/shared/config/sources/*.yaml`
