@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-14T02:13:06.094283+00:00",
+  "updated": "2026-02-14T05:13:52.298717+00:00",
   "top_stories": [
     {
       "article_id": "3bc87810c1340b31c6a484c10ecf3d41",
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-14T02:13:06.050910+00:00"
+        "consensus_timestamp": "2026-02-14T05:13:52.259462+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,88 +59,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-14T02:13:06.050912+00:00"
+        "timestamp": "2026-02-14T05:13:52.259465+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "14e3c5cd40da4519a428ef72636b1823",
-      "title": "Structured outputs on Amazon Bedrock: Schema-compliant AI responses",
+      "article_id": "61755d1d25b54c7a970b7021ae75b953",
+      "title": "How LinqAlpha assesses investment theses using Devil’s Advocate on Amazon Bedrock",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/",
-      "published_date": "2026-02-06T20:12:14+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-linqalpha-assesses-investment-theses-using-devils-advocate-on-amazon-bedrock/",
+      "published_date": "2026-02-11T15:45:30+00:00",
       "category": "Industry",
-      "description": "Today, we're announcing structured outputs on Amazon Bedrock—a capability that fundamentally transforms how you can obtain validated JSON responses from foundation models through constrained decoding for schema compliance. In this post, we explore the challenges of traditional JSON generation and how structured outputs solves them. We cover the two core mechanisms—JSON Schema output format and strict tool use—along with implementation details, best practices, and practical code examples.",
-      "author": "Jeffrey Zeng",
-      "content": "Today, we're announcing structured outputs on Amazon Bedrock—a capability that fundamentally transforms how you can obtain validated JSON responses from foundation models through constrained decoding for schema compliance. In this post, we explore the challenges of traditional JSON generation and how structured outputs solves them. We cover the two core mechanisms—JSON Schema output format and strict tool use—along with implementation details, best practices, and practical code examples.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.9285000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-14T02:13:06.049858+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-14T02:13:06.049861+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7c2e040016030bc6bc31b0166fc998ca",
-      "title": "Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
-      "published_date": "2026-02-05T17:46:10+00:00",
-      "category": "Industry",
-      "description": "With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production. The post Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry appeared first on Microsoft Azure Blog.",
-      "author": "Steve Sweetman",
-      "content": "With Claude Opus 4.6 now available in Microsoft Foundry, developers can delegate complex tasks end‑to‑end and trust the AI to execute independently in production. The post Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry appeared first on Microsoft Azure Blog.",
+      "description": "LinqAlpha is a Boston-based multi-agent AI system built specifically for institutional investors. The system supports and streamlines agentic workflows across company screening, primer generation, stock price catalyst mapping, and now, pressure-testing investment ideas through a new AI agent called Devil’s Advocate. In this post, we share how LinqAlpha uses Amazon Bedrock to build and scale Devil’s Advocate.",
+      "author": "Suyeol Yun, Jaeseon Ha, Subeen Pang, Jacob (Chanyeol) Choi",
+      "content": "LinqAlpha is a Boston-based multi-agent AI system built specifically for institutional investors. The system supports and streamlines agentic workflows across company screening, primer generation, stock price catalyst mapping, and now, pressure-testing investment ideas through a new AI agent called Devil’s Advocate. In this post, we share how LinqAlpha uses Amazon Bedrock to build and scale Devil’s Advocate.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
+        "impact_score": 0.95,
+        "overall_score": 0.9375,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -169,102 +107,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-14T02:13:06.049099+00:00"
+        "consensus_timestamp": "2026-02-14T05:13:52.258000+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-14T02:13:06.049102+00:00"
+        "timestamp": "2026-02-14T05:13:52.258003+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "aa502915333efef3640041342e3d2bd0",
-      "title": "OpenAI Ads vs Claude: Real Fight Is Business Model",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/chatgpt-claude-ads-war/",
-      "published_date": "2026-02-11T18:57:29+00:00",
-      "category": "Industry",
-      "description": "Last week OpenAI announced ads in ChatGPT. Within hours, Anthropic launched \"No Ads, Ever\" for Claude. But the real story more than just ads, it's about the brutal economics of serving 900 million users versus 30 million, and why every platform that scales to mainstream eventually makes The Choice.",
-      "author": "Vinit Mehta",
-      "content": "Last week OpenAI announced ads in ChatGPT. Within hours, Anthropic launched \"No Ads, Ever\" for Claude. But the real story more than just ads, it's about the brutal economics of serving 900 million users versus 30 million, and why every platform that scales to mainstream eventually makes The Choice.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-14T02:13:06.053011+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-14T02:13:06.053016+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d898b7d84b588bbaf5474dd91cefa8a9",
-      "title": "Accelerating Long-Context Model Training in JAX and XLA",
+      "article_id": "c07a152364d24580b1b86f5f698cf1c9",
+      "title": "R²D²: Scaling Multimodal Robot Learning with NVIDIA Isaac Lab",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/",
-      "published_date": "2026-02-03T17:30:00+00:00",
+      "url": "https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/",
+      "published_date": "2026-02-10T18:30:00+00:00",
       "category": "Industry",
-      "description": "Large language models (LLMs) are rapidly expanding their context windows, with recent models supporting sequences of 128K tokens, 256K tokens, and beyond....",
-      "author": "Sevin Fide Varoglu",
-      "content": "Large language models (LLMs) are rapidly expanding their context windows, with recent models supporting sequences of 128K tokens, 256K tokens, and beyond....",
+      "description": "Building robust, intelligent robots requires testing them in complex environments. However, gathering data in the physical world is expensive, slow, and often...",
+      "author": "Oyindamola Omotuyi",
+      "content": "Building robust, intelligent robots requires testing them in complex environments. However, gathering data in the physical world is expensive, slow, and often...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.85,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -296,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-14T02:13:06.051680+00:00"
+        "consensus_timestamp": "2026-02-14T05:13:52.259812+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-14T02:13:06.051683+00:00"
+        "timestamp": "2026-02-14T05:13:52.259815+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "600568d0ebc27bb3ff3e6fce2ae5c29f",
+      "title": "NIH-funded study clearly ties risk of dementia to severe CTE",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-clearly-ties-risk-dementia-severe-cte",
+      "published_date": "2026-02-14T05:10:19.786800+00:00",
+      "category": "Government",
+      "description": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
+      "author": "",
+      "content": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-14T05:13:52.255521+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-14T05:13:52.255525+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0aabc5028e19fe515ac3be7354de737a",
+      "title": "NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "published_date": "2026-02-11T19:38:47+00:00",
+      "category": "Industry",
+      "description": "Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with 3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.",
+      "author": "Dan Ferguson",
+      "content": "Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with 3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-14T05:13:52.257832+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-14T05:13:52.257834+00:00"
       },
       "article_type": "article"
     }
