@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T20:39:33.604953+00:00",
+  "updated": "2026-02-20T02:16:00.582710+00:00",
   "top_stories": [
     {
       "article_id": "c0d087493af1585983083c796abce948",
@@ -13,10 +13,10 @@
       "content": "Brain-computer interfaces (BCIs) are finally having their ‘foundation model’ moment. Zyphra, a research lab focused on large-scale models, recently released ZUNA, a 380M-parameter foundation model specifically for EEG signals. ZUNA is a masked diffusion auto-encoder designed to perform channel infilling and super-resolution for any electrode layout. This release includes weights under an Apache-2.0 license and […] The post Zyphra Releases ZUNA: A 380M-Parameter BCI Foundation Model for EEG...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
+        "overall_score": 0.8875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-19T20:39:33.553274+00:00"
+        "consensus_timestamp": "2026-02-20T02:16:00.538385+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-19T20:39:33.553277+00:00"
+        "timestamp": "2026-02-20T02:16:00.538387+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "e37b3b8e64d1b6ccd24b2af17ecfae57",
-      "title": "Using Accelerated Computing to Live-Steer Scientific Experiments at Massive Research Facilities",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
-      "published_date": "2026-02-10T17:30:00+00:00",
+      "article_id": "2032e4fe661c391fa742da23130b35b8",
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "published_date": "2026-02-09T11:00:00+00:00",
       "category": "Industry",
-      "description": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates that...",
-      "author": "Quynh L. Nguyen",
-      "content": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates that...",
+      "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+      "author": "",
+      "content": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
         "impact_score": 0.95,
-        "overall_score": 0.9375,
+        "overall_score": 0.9125000000000001,
         "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T02:16:00.534422+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T02:16:00.534425+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "daa84be915c45e74ba90f2512d0e80a6",
+      "title": "Advancing independent research on AI alignment",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+      "published_date": "2026-02-19T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+      "author": "",
+      "content": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -107,41 +169,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-19T20:39:33.551921+00:00"
+        "consensus_timestamp": "2026-02-20T02:16:00.534052+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-19T20:39:33.551924+00:00"
+        "timestamp": "2026-02-20T02:16:00.534055+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "38112712449d430853686e3fd004ce3e",
-      "title": "Survey: 69% of IT Leaders Fear Data Breaches",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/survey-69-of-it-leaders-fear-data-breaches/",
-      "published_date": "2026-02-19T17:50:00+00:00",
+      "article_id": "6c0ee4e9f1cd11dfb287a754ed83863a",
+      "title": "Accelerating discovery in India through AI-powered science and education",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "published_date": "2026-02-17T13:42:20+00:00",
       "category": "Industry",
-      "description": "Rocket Software’s New Report Highlights Rising Pressure on Enterprise IT Organizations Rocket Software, a global technology leader in modernization, today released new research on the growing challenges facing IT leaders as enterprises accelerate modernization and integrate AI across hybrid environments. The research finds that data security now leads all modernization concerns, with... The post Survey: 69% of IT Leaders Fear Data Breaches first appeared on AI-Tech Park.",
-      "author": "GlobeNewswire",
-      "content": "Rocket Software’s New Report Highlights Rising Pressure on Enterprise IT Organizations Rocket Software, a global technology leader in modernization, today released new research on the growing challenges facing IT leaders as enterprises accelerate modernization and integrate AI across hybrid environments. The research finds that data security now leads all modernization concerns, with... The post Survey: 69% of IT Leaders Fear Data Breaches first appeared on AI-Tech Park.",
+      "description": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+      "author": "",
+      "content": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -168,41 +230,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.92,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-19T20:39:33.552510+00:00"
+        "consensus_timestamp": "2026-02-20T02:16:00.537600+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-19T20:39:33.552513+00:00"
+        "timestamp": "2026-02-20T02:16:00.537603+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2032e4fe661c391fa742da23130b35b8",
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-      "published_date": "2026-02-09T11:00:00+00:00",
+      "article_id": "d586750d1ed6902fec9939c025a15f5b",
+      "title": "Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
+      "published_date": "2026-02-17T18:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-      "author": "",
-      "content": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+      "description": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...",
+      "author": "Shruthii Sathyanarayanan",
+      "content": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-19T20:39:33.548803+00:00"
+        "consensus_timestamp": "2026-02-20T02:16:00.537077+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-19T20:39:33.548808+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9682e5f4003bd472e1a9404966feccda",
-      "title": "New Relic transforms productivity with generative AI on AWS",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/new-relic-transforms-productivity-with-generative-ai-on-aws/",
-      "published_date": "2026-02-09T16:45:16+00:00",
-      "category": "Industry",
-      "description": "Working with the Generative AI Innovation Center, New Relic NOVA (New Relic Omnipresence Virtual Assistant) evolved from a knowledge assistant into a comprehensive productivity engine. We explore the technical architecture, development journey, and key lessons learned in building an enterprise-grade AI solution that delivers measurable productivity gains at scale.",
-      "author": "Yicheng Shen, Sarathy Varadarajan",
-      "content": "Working with the Generative AI Innovation Center, New Relic NOVA (New Relic Omnipresence Virtual Assistant) evolved from a knowledge assistant into a comprehensive productivity engine. We explore the technical architecture, development journey, and key lessons learned in building an enterprise-grade AI solution that delivers measurable productivity gains at scale.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-19T20:39:33.549957+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-19T20:39:33.549961+00:00"
+        "timestamp": "2026-02-20T02:16:00.537079+00:00"
       },
       "article_type": "article"
     }
