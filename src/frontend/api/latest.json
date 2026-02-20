@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-02-20T08:46:53.326225+00:00",
+  "generated_at": "2026-02-20T13:06:39.642517+00:00",
   "articles": [
     {
-      "article_id": "189584c58ba6a5474318b559cdf71212",
-      "title": "General Catalyst commits $5B to India over five years",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
-      "published_date": "2026-02-20T06:41:44+00:00",
+      "article_id": "1cd11efe82e1e533d25eab0a16357143",
+      "title": "NVIDIA Releases Dynamo v0.9.0: A Massive Infrastructure Overhaul Featuring FlashIndexer, Multi-Modal Support, and Removed NATS and ETCD",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/",
+      "published_date": "2026-02-20T06:51:30+00:00",
       "category": "Industry",
-      "description": "The pledge marks a sharp jump from General Catalyst's earlier $500 million–$1 billion India earmark.",
-      "author": "Jagmeet Singh",
-      "content": "The pledge marks a sharp jump from General Catalyst's earlier $500 million–$1 billion India earmark.",
+      "description": "NVIDIA has just released Dynamo v0.9.0. This is the most significant infrastructure upgrade for the distributed inference framework to date. This update simplifies how large-scale models are deployed and managed. The release focuses on removing heavy dependencies and improving how GPUs handle multi-modal data. The Great Simplification: Removing NATS and etcd The biggest change in […] The post NVIDIA Releases Dynamo v0.9.0: A Massive Infrastructure Overhaul Featuring FlashIndexer, Multi-Modal...",
+      "author": "Asif Razzaq",
+      "content": "NVIDIA has just released Dynamo v0.9.0. This is the most significant infrastructure upgrade for the distributed inference framework to date. This update simplifies how large-scale models are deployed and managed. The release focuses on removing heavy dependencies and improving how GPUs handle multi-modal data. The Great Simplification: Removing NATS and etcd The biggest change in […] The post NVIDIA Releases Dynamo v0.9.0: A Massive Infrastructure Overhaul Featuring FlashIndexer, Multi-Modal...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.9079999999999999,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.279145+00:00"
+        "consensus_timestamp": "2026-02-20T13:06:39.596696+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T08:46:53.279148+00:00"
+        "timestamp": "2026-02-20T13:06:39.596699+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "123a3f66a6fca00e7f28cb9d407d2826",
-      "title": "Scale LLM fine-tuning with Hugging Face and Amazon SageMaker AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scale-llm-fine-tuning-with-hugging-face-and-amazon-sagemaker-ai/",
-      "published_date": "2026-02-09T16:48:46+00:00",
+      "article_id": "e37b3b8e64d1b6ccd24b2af17ecfae57",
+      "title": "Using Accelerated Computing to Live-Steer Scientific Experiments at Massive Research Facilities",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
+      "published_date": "2026-02-10T17:30:00+00:00",
       "category": "Industry",
-      "description": "In this post, we show how this integrated approach transforms enterprise LLM fine-tuning from a complex, resource-intensive challenge into a streamlined, scalable solution for achieving better model performance in domain-specific applications.",
-      "author": "Florent Gbelidji",
-      "content": "In this post, we show how this integrated approach transforms enterprise LLM fine-tuning from a complex, resource-intensive challenge into a streamlined, scalable solution for achieving better model performance in domain-specific applications.",
+      "description": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates that...",
+      "author": "Quynh L. Nguyen",
+      "content": "Scientists and engineers who design and build unique scientific research facilities face similar challenges. These include managing massive data rates that...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -107,10 +107,134 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T13:06:39.595549+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T13:06:39.595551+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0aabc5028e19fe515ac3be7354de737a",
+      "title": "NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "published_date": "2026-02-11T19:38:47+00:00",
+      "category": "Industry",
+      "description": "Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with 3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.",
+      "author": "Dan Ferguson",
+      "content": "Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with 3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T13:06:39.592665+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T13:06:39.592668+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "319254e9542edcc98b8134449c5dabca",
+      "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
+      "published_date": "2026-02-20T13:02:57.562011+00:00",
+      "category": "Government",
+      "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "author": "",
+      "content": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.278404+00:00"
+        "consensus_timestamp": "2026-02-20T13:06:39.590641+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,26 +245,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T08:46:53.278407+00:00"
+        "timestamp": "2026-02-20T13:06:39.590645+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c3d6ea3b762c91c9c90f403935493234",
-      "title": "Introducing GPT-5.3-Codex-Spark",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-      "published_date": "2026-02-12T10:00:00+00:00",
-      "category": "Industry",
-      "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+      "article_id": "37982d5c3b4cb518a496b8a89306c369",
+      "title": "Accredited official statistics: Economic Estimates: Digital Sector Annual (2010 to 2024) and Regional (2010 to 2022) Gross Value Added",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/statistics/economic-estimates-digital-sector-annual-2010-to-2024-and-regional-2010-to-2022-gross-value-added",
+      "published_date": "2026-02-12T09:30:03+00:00",
+      "category": "Government",
+      "description": "Accredited Official Statistics estimating the contribution of the Digital Sector to the UK economy and each UK International Territorial Level 1 (ITL1) region, measured by Gross Value Added (GVA).",
       "author": "",
-      "content": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+      "content": "Accredited Official Statistics estimating the contribution of the Digital Sector to the UK economy and each UK International Territorial Level 1 (ITL1) region, measured by Gross Value Added (GVA).",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T13:06:39.591669+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T13:06:39.591672+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ad2a1ac69b63be75fcd5b41a3f4c179c",
+      "title": "Claude's Role in Capturing Nicolás Maduro",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/anthropic-pentagon-ai-control-problem/",
+      "published_date": "2026-02-18T15:41:14+00:00",
+      "category": "Industry",
+      "description": "The Pentagon used Claude during the Venezuela raid. Anthropic: the company that built it had to ask what their software actually did. Intercepted comms? Satellite imagery? Intelligence synthesis? Nobody outside the classified network knows. Here's what the evidence suggests.",
+      "author": "Vinit Mehta",
+      "content": "The Pentagon used Claude during the Venezuela raid. Anthropic: the company that built it had to ask what their software actually did. Intercepted comms? Satellite imagery? Intelligence synthesis? Nobody outside the classified network knows. Here's what the evidence suggests.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T13:06:39.596565+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T13:06:39.596568+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fa30f68f72d4ea7472f4d88c9ce81746",
+      "title": "Agent-to-agent collaboration: Using Amazon Nova 2 Lite and Amazon Nova Act for multi-agent systems",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agent-to-agent-collaboration-using-amazon-nova-2-lite-and-amazon-nova-act-for-multi-agent-systems/",
+      "published_date": "2026-02-09T16:00:28+00:00",
+      "category": "Industry",
+      "description": "This post walks through how agent-to-agent collaboration on Amazon Bedrock works in practice, using Amazon Nova 2 Lite for planning and Amazon Nova Act for browser interaction, to turn a fragile single-agent setup into a predictable multi-agent system.",
+      "author": "Yoav Fishman",
+      "content": "This post walks through how agent-to-agent collaboration on Amazon Bedrock works in practice, using Amazon Nova 2 Lite for planning and Amazon Nova Act for browser interaction, to turn a fragile single-agent setup into a predictable multi-agent system.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +420,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.277370+00:00"
+        "consensus_timestamp": "2026-02-20T13:06:39.593133+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,151 +431,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T08:46:53.277374+00:00"
+        "timestamp": "2026-02-20T13:06:39.593136+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "600568d0ebc27bb3ff3e6fce2ae5c29f",
-      "title": "NIH-funded study clearly ties risk of dementia to severe CTE",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-clearly-ties-risk-dementia-severe-cte",
-      "published_date": "2026-02-20T08:43:12.201510+00:00",
+      "article_id": "1b260e0eca5c8756c0ca0ec2c1a7ef5a",
+      "title": "Businesses urged to “lock the door” on cyber criminals as new government campaign launches",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/businesses-urged-to-lock-the-door-on-cyber-criminals-as-new-government-campaign-launches",
+      "published_date": "2026-02-17T00:01:05+00:00",
       "category": "Government",
-      "description": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
+      "description": "A new campaign to provide practical ways for organisations to protect themselves from common online threats.",
       "author": "",
-      "content": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.275965+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T08:46:53.275969+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3ce0660cc2636b877f6d07f79ddf4799",
-      "title": "Researchers achieve the first minimally invasive coronary artery bypass",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/researchers-achieve-first-minimally-invasive-coronary-artery-bypass",
-      "published_date": "2026-02-20T08:43:12.201852+00:00",
-      "category": "Government",
-      "description": "For high-risk patients, the method could offer a safer alternative to open-heart surgery.",
-      "author": "",
-      "content": "For high-risk patients, the method could offer a safer alternative to open-heart surgery.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.276161+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T08:46:53.276164+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a95e1d5a92973686284f3ade454197dc",
-      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
-      "published_date": "2026-02-19T16:06:14+00:00",
-      "category": "Industry",
-      "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
-      "author": "",
-      "content": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "content": "A new campaign to provide practical ways for organisations to protect themselves from common online threats.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
-        "confidence_mean": 0.98
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -354,41 +478,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.95,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.280577+00:00"
+        "consensus_timestamp": "2026-02-20T13:06:39.591269+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T08:46:53.280580+00:00"
+        "timestamp": "2026-02-20T13:06:39.591271+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9684f5cff900e970245a409a0386ff27",
-      "title": "Cognitive speed training over weeks may delay the diagnosis of dementia over decades",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/cognitive-speed-training-over-weeks-may-delay-diagnosis-dementia-over-decades",
-      "published_date": "2026-02-20T08:43:12.201161+00:00",
-      "category": "Government",
-      "description": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
+      "article_id": "c3d6ea3b762c91c9c90f403935493234",
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "published_date": "2026-02-12T10:00:00+00:00",
+      "category": "Industry",
+      "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
       "author": "",
-      "content": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
+      "content": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -420,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.275752+00:00"
+        "consensus_timestamp": "2026-02-20T13:06:39.592012+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,27 +555,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T08:46:53.275756+00:00"
+        "timestamp": "2026-02-20T13:06:39.592015+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "48331dffb6567bca653658861f34f79a",
-      "title": "Introducing OpenAI for India",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-for-india",
-      "published_date": "2026-02-18T21:00:00+00:00",
+      "article_id": "89945ef7a816d1965701e4524db51e8e",
+      "title": "Iberdrola enhances IT operations using Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/iberdrola-enhances-it-operations-using-amazon-bedrock-agentcore/",
+      "published_date": "2026-02-10T18:31:57+00:00",
       "category": "Industry",
-      "description": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
-      "author": "",
-      "content": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+      "description": "Iberdrola, one of the world’s largest utility companies, has embraced cutting-edge AI technology to revolutionize its IT operations in ServiceNow. Through its partnership with AWS, Iberdrola implemented different agentic architectures using Amazon Bedrock AgentCore, targeting three key areas: optimizing change request validation in the draft phase, enriching incident management with contextual intelligence, and simplifying change model selection using conversational AI. These innovations reduce...",
+      "author": "Talha Chattha",
+      "content": "Iberdrola, one of the world’s largest utility companies, has embraced cutting-edge AI technology to revolutionize its IT operations in ServiceNow. Through its partnership with AWS, Iberdrola implemented different agentic architectures using Amazon Bedrock AgentCore, targeting three key areas: optimizing change request validation in the draft phase, enriching incident management with contextual intelligence, and simplifying change model selection using conversational AI. These innovations reduce...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.9
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -482,7 +606,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.277123+00:00"
+        "consensus_timestamp": "2026-02-20T13:06:39.592854+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,20 +617,144 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T08:46:53.277126+00:00"
+        "timestamp": "2026-02-20T13:06:39.592857+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "536901692cb18dda8e2fd3e6024d6fc8",
-      "title": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/",
-      "published_date": "2026-02-12T16:00:46+00:00",
+      "article_id": "61755d1d25b54c7a970b7021ae75b953",
+      "title": "How LinqAlpha assesses investment theses using Devil’s Advocate on Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-linqalpha-assesses-investment-theses-using-devils-advocate-on-amazon-bedrock/",
+      "published_date": "2026-02-11T15:45:30+00:00",
       "category": "Industry",
-      "description": "A diagnostic insight in healthcare. A character’s dialogue in an interactive game. An autonomous resolution from a customer service agent. Each of these AI-powered interactions is built on the same unit of intelligence: a token. Scaling these AI interactions requires businesses to consider whether they can afford more tokens. The answer lies in better tokenomics Read Article",
-      "author": "Shruti Koparkar",
-      "content": "A diagnostic insight in healthcare. A character’s dialogue in an interactive game. An autonomous resolution from a customer service agent. Each of these AI-powered interactions is built on the same unit of intelligence: a token. Scaling these AI interactions requires businesses to consider whether they can afford more tokens. The answer lies in better tokenomics Read Article",
+      "description": "LinqAlpha is a Boston-based multi-agent AI system built specifically for institutional investors. The system supports and streamlines agentic workflows across company screening, primer generation, stock price catalyst mapping, and now, pressure-testing investment ideas through a new AI agent called Devil’s Advocate. In this post, we share how LinqAlpha uses Amazon Bedrock to build and scale Devil’s Advocate.",
+      "author": "Suyeol Yun, Jaeseon Ha, Subeen Pang, Jacob (Chanyeol) Choi",
+      "content": "LinqAlpha is a Boston-based multi-agent AI system built specifically for institutional investors. The system supports and streamlines agentic workflows across company screening, primer generation, stock price catalyst mapping, and now, pressure-testing investment ideas through a new AI agent called Devil’s Advocate. In this post, we share how LinqAlpha uses Amazon Bedrock to build and scale Devil’s Advocate.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T13:06:39.592752+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T13:06:39.592755+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0bb2416678d1ad199aa608cdadaabe42",
+      "title": "How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/",
+      "published_date": "2026-02-18T16:00:00+00:00",
+      "category": "Industry",
+      "description": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and cost...",
+      "author": "Utkarsh Uppal",
+      "content": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and cost...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-20T13:06:39.595417+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-20T13:06:39.595419+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a2eced128ffc83af047ad7dabb843bfd",
+      "title": "RingCentral Drives New Era of Enterprise Voice AI Performance with OpenAI",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/ringcentral-drives-new-era-of-enterprise-voice-ai-performance-with-openai/",
+      "published_date": "2026-02-20T09:30:00+00:00",
+      "category": "Industry",
+      "description": "RingCentral’s trusted communications enhanced by OpenAI deliver high-fidelity, powerful AI experiences that drive business outcomes RingCentral, Inc. (NYSE: RNG), a global leader in AI-powered business communications, today announced it is integrating OpenAI to advance enterprise-grade voice AI. The effort combines RingCentral’s trusted communications platform with OpenAI frontier models like GPT-5.2 to bring generative... The post RingCentral Drives New Era of Enterprise Voice AI Performance...",
+      "author": "Business Wire",
+      "content": "RingCentral’s trusted communications enhanced by OpenAI deliver high-fidelity, powerful AI experiences that drive business outcomes RingCentral, Inc. (NYSE: RNG), a global leader in AI-powered business communications, today announced it is integrating OpenAI to advance enterprise-grade voice AI. The effort combines RingCentral’s trusted communications platform with OpenAI frontier models like GPT-5.2 to bring generative... The post RingCentral Drives New Era of Enterprise Voice AI Performance...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -541,40 +789,40 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.279003+00:00"
+        "consensus_timestamp": "2026-02-20T13:06:39.596089+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T08:46:53.279006+00:00"
+        "timestamp": "2026-02-20T13:06:39.596092+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "60bd17b35038b5916bc738af610bc57b",
-      "title": "Announcing the &quot;AI Agent Standards Initiative&quot; for Interoperable and Secure Innovation",
+      "article_id": "d7de73cfd57f44e489902128a8a68e3b",
+      "title": "NIST Allocates Over $3 Million to Small Businesses Advancing AI, Biotechnology, Semiconductors, Quantum and More",
       "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
-      "published_date": "2026-02-17T12:00:00+00:00",
+      "url": "https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology",
+      "published_date": "2026-02-10T12:00:00+00:00",
       "category": "Government",
-      "description": "The Initiative will ensure that the next generation of AI is widely adopted with confidence, can function securely on behalf of its users, and can interoperate smoothly across the digital ecosystem.",
-      "author": "Peter Cihon",
-      "content": "The Initiative will ensure that the next generation of AI is widely adopted with confidence, can function securely on behalf of its users, and can interoperate smoothly across the digital ecosystem.",
+      "description": "NIST is allocating funding to eight small businesses in seven states under the Small Business Innovation Research (SBIR) program.",
+      "author": "Sarah Henderson",
+      "content": "NIST is allocating funding to eight small businesses in seven states under the Small Business Innovation Research (SBIR) program.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "impact_score": 0.8,
+        "overall_score": 0.8250000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -606,7 +854,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.275485+00:00"
+        "consensus_timestamp": "2026-02-20T13:06:39.590478+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,274 +865,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T08:46:53.275499+00:00"
+        "timestamp": "2026-02-20T13:06:39.590482+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f3b37ad946a4bbcc220824f26a526165",
-      "title": "Minister Lloyd speech at techUK Future Telecoms Conference 2026",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/speeches/minister-lloyd-speech-at-techuk-future-telecoms-conference-2026",
-      "published_date": "2026-02-13T09:46:00+00:00",
-      "category": "Government",
-      "description": "Liz Lloyd, Minister for the Digital Economy, spoke to techUK Future Telecoms Conference 2026 on 10 February 2026.",
-      "author": "",
-      "content": "Liz Lloyd, Minister for the Digital Economy, spoke to techUK Future Telecoms Conference 2026 on 10 February 2026.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.276797+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T08:46:53.276800+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "290b9da968af72ed9161c0775775d12c",
-      "title": "Scaling social science research",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/scaling-social-science-research",
-      "published_date": "2026-02-13T09:00:00+00:00",
+      "article_id": "c8807deae83af2cdf189791b612ba6d4",
+      "title": "3 Ways NVFP4 Accelerates AI Training and Inference",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/3-ways-nvfp4-accelerates-ai-training-and-inference/",
+      "published_date": "2026-02-06T16:00:00+00:00",
       "category": "Industry",
-      "description": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
-      "author": "",
-      "content": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+      "description": "The latest AI models continue to grow in size and complexity, demanding increasing amounts of compute performance for training and inference—far beyond what...",
+      "author": "Ashraf Eassa",
+      "content": "The latest AI models continue to grow in size and complexity, demanding increasing amounts of compute performance for training and inference—far beyond what...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.85,
         "quality_score": 0.85,
         "novelty_score": 0.7,
-        "impact_score": 0.85,
-        "overall_score": 0.8275,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.277275+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T08:46:53.277279+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9ab43bdf19e8379b12a34992a258d8aa",
-      "title": "Study: Automotive Ransomware Attacks More Than Double in 2025",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/study-automotive-ransomware-attacks-more-than-double-in-2025/",
-      "published_date": "2026-02-19T18:10:00+00:00",
-      "category": "Industry",
-      "description": "Upstream’s report finds that the rapid adoption of Physical AI, with autonomous vehicles among the first production-ready systems in real-world operation, is expanding attack surfaces and accelerating attacker capabilities, creating large-scale cyber risks with massive impact potential. Upstream, the leading AI-powered cybersecurity detection and response platform (XDR) purpose-built for connected... The post Study: Automotive Ransomware Attacks More Than Double in 2025 first appeared on...",
-      "author": "PR Newswire",
-      "content": "Upstream’s report finds that the rapid adoption of Physical AI, with autonomous vehicles among the first production-ready systems in real-world operation, is expanding attack surfaces and accelerating attacker capabilities, creating large-scale cyber risks with massive impact potential. Upstream, the leading AI-powered cybersecurity detection and response platform (XDR) purpose-built for connected... The post Study: Automotive Ransomware Attacks More Than Double in 2025 first appeared on...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.82,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.281192+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T08:46:53.281195+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dbfbd4426f1198ea4f9d414b12c2d86f",
-      "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
-      "published_date": "2026-02-17T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional. The post Azure reliability, resiliency, and recoverability: Build continuity by design appeared first on Microsoft Azure Blog.",
-      "author": "Mark Russinovich and Molina Sharma",
-      "content": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional. The post Azure reliability, resiliency, and recoverability: Build continuity by design appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.277654+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-20T08:46:53.277657+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "89945ef7a816d1965701e4524db51e8e",
-      "title": "Iberdrola enhances IT operations using Amazon Bedrock AgentCore",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/iberdrola-enhances-it-operations-using-amazon-bedrock-agentcore/",
-      "published_date": "2026-02-10T18:31:57+00:00",
-      "category": "Industry",
-      "description": "Iberdrola, one of the world’s largest utility companies, has embraced cutting-edge AI technology to revolutionize its IT operations in ServiceNow. Through its partnership with AWS, Iberdrola implemented different agentic architectures using Amazon Bedrock AgentCore, targeting three key areas: optimizing change request validation in the draft phase, enriching incident management with contextual intelligence, and simplifying change model selection using conversational AI. These innovations reduce...",
-      "author": "Talha Chattha",
-      "content": "Iberdrola, one of the world’s largest utility companies, has embraced cutting-edge AI technology to revolutionize its IT operations in ServiceNow. Through its partnership with AWS, Iberdrola implemented different agentic architectures using Amazon Bedrock AgentCore, targeting three key areas: optimizing change request validation in the draft phase, enriching incident management with contextual intelligence, and simplifying change model selection using conversational AI. These innovations reduce...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
+        "impact_score": 0.92,
+        "overall_score": 0.8265000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -916,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-20T08:46:53.278267+00:00"
+        "consensus_timestamp": "2026-02-20T13:06:39.595636+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-20T08:46:53.278271+00:00"
+        "timestamp": "2026-02-20T13:06:39.595639+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 153.42919325828552,
+    "processing_time": 160.408460855484,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 118,
+      "total_processed": 123,
       "candidates": {
-        "headlines": 14,
-        "articles": 104,
+        "headlines": 15,
+        "articles": 108,
         "research_papers": 0
       },
       "selected": {
