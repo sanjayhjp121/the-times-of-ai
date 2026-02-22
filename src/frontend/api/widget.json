@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T08:38:44.409906+00:00",
+  "updated": "2026-02-22T12:57:00.701422+00:00",
   "top_stories": [
     {
       "article_id": "cc27268c6180288cb4e608a228af2edd",
@@ -13,11 +13,11 @@
       "content": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,41 +45,103 @@
           }
         },
         "score": 0.85,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-22T08:38:44.357670+00:00"
+        "consensus_timestamp": "2026-02-22T12:57:00.653920+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.71,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-22T12:57:00.653923+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "7a48bb06efc21cb04f327c1f525c580f",
+      "title": "Evaluating AI agents: Real-world lessons from building agentic systems at Amazon",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/",
+      "published_date": "2026-02-18T19:21:28+00:00",
+      "category": "Industry",
+      "description": "In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications at Amazon through two core components: a generic evaluation workflow that standardizes assessment procedures across diverse agent implementations, and an agent evaluation library that provides systematic measurements and metrics in Amazon Bedrock AgentCore Evaluations, along with Amazon use case-specific evaluation approaches and metrics.",
+      "author": "Yunfei Bai",
+      "content": "In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications at Amazon through two core components: a generic evaluation workflow that standardizes assessment procedures across diverse agent implementations, and an agent evaluation library that provides systematic measurements and metrics in Amazon Bedrock AgentCore Evaluations, along with Amazon use case-specific evaluation approaches and metrics.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-22T12:57:00.652260+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-22T08:38:44.357673+00:00"
+        "timestamp": "2026-02-22T12:57:00.652263+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "536901692cb18dda8e2fd3e6024d6fc8",
-      "title": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/",
-      "published_date": "2026-02-12T16:00:46+00:00",
+      "article_id": "0aabc5028e19fe515ac3be7354de737a",
+      "title": "NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "published_date": "2026-02-11T19:38:47+00:00",
       "category": "Industry",
-      "description": "A diagnostic insight in healthcare. A character’s dialogue in an interactive game. An autonomous resolution from a customer service agent. Each of these AI-powered interactions is built on the same unit of intelligence: a token. Scaling these AI interactions requires businesses to consider whether they can afford more tokens. The answer lies in better tokenomics Read Article",
-      "author": "Shruti Koparkar",
-      "content": "A diagnostic insight in healthcare. A character’s dialogue in an interactive game. An autonomous resolution from a customer service agent. Each of these AI-powered interactions is built on the same unit of intelligence: a token. Scaling these AI interactions requires businesses to consider whether they can afford more tokens. The answer lies in better tokenomics Read Article",
+      "description": "Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with 3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.",
+      "author": "Dan Ferguson",
+      "content": "Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with 3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-22T08:38:44.356935+00:00"
+        "consensus_timestamp": "2026-02-22T12:57:00.652438+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,89 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-22T08:38:44.356938+00:00"
+        "timestamp": "2026-02-22T12:57:00.652441+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1db540e2ed4b455097fabe2ca111932f",
-      "title": "A fresh energy supply may shield nerves from diabetic or chemo-induced neuropathy",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/fresh-energy-supply-may-shield-nerves-diabetic-or-chemo-induced-neuropathy",
-      "published_date": "2026-02-22T08:35:21.607219+00:00",
-      "category": "Government",
-      "description": "Researchers demonstrate that transferring healthy mitochondria from support glial cells to nerve cells could reduce nerve pain and degeneration.",
-      "author": "",
-      "content": "Researchers demonstrate that transferring healthy mitochondria from support glial cells to nerve cells could reduce nerve pain and degeneration.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-22T08:38:44.353966+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-22T08:38:44.353969+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "189584c58ba6a5474318b559cdf71212",
-      "title": "General Catalyst commits $5B to India over five years",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
-      "published_date": "2026-02-20T06:41:44+00:00",
+      "article_id": "4f6ae885d407a008f98f7db17338d4db",
+      "title": "Building real-time voice assistants with Amazon Nova Sonic compared to cascading architectures",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-real-time-voice-assistants-with-amazon-nova-sonic-compared-to-cascading-architectures/",
+      "published_date": "2026-02-10T18:29:05+00:00",
       "category": "Industry",
-      "description": "The pledge marks a sharp jump from General Catalyst's earlier $500 million–$1 billion India earmark.",
-      "author": "Jagmeet Singh",
-      "content": "The pledge marks a sharp jump from General Catalyst's earlier $500 million–$1 billion India earmark.",
+      "description": "Amazon Nova Sonic delivers real-time, human-like voice conversations through the bidirectional streaming interface. In this post, you learn how Amazon Nova Sonic can solve some of the challenges faced by cascaded approaches, simplify building voice AI agents, and provide natural conversational capabilities. We also provide guidance on when to choose each approach to help you make informed decisions for your voice AI projects.",
+      "author": "Daniel Wirjo",
+      "content": "Amazon Nova Sonic delivers real-time, human-like voice conversations through the bidirectional streaming interface. In this post, you learn how Amazon Nova Sonic can solve some of the challenges faced by cascaded approaches, simplify building voice AI agents, and provide natural conversational capabilities. We also provide guidance on when to choose each approach to help you make informed decisions for your voice AI projects.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.8
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-22T08:38:44.357805+00:00"
+        "consensus_timestamp": "2026-02-22T12:57:00.652689+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-22T08:38:44.357808+00:00"
+        "timestamp": "2026-02-22T12:57:00.652692+00:00"
       },
       "article_type": "article"
     },
@@ -254,7 +254,7 @@
       "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
-      "published_date": "2026-02-22T08:35:21.606805+00:00",
+      "published_date": "2026-02-22T12:53:48.917371+00:00",
       "category": "Government",
       "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
       "author": "",
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-22T08:38:44.353660+00:00"
+        "consensus_timestamp": "2026-02-22T12:57:00.649357+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-22T08:38:44.353664+00:00"
+        "timestamp": "2026-02-22T12:57:00.649361+00:00"
       },
       "article_type": "article"
     }
