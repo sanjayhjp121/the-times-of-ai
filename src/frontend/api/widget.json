@@ -1,22 +1,22 @@
 {
-  "updated": "2026-02-23T17:04:21.736938+00:00",
+  "updated": "2026-02-23T20:51:31.011073+00:00",
   "top_stories": [
     {
-      "article_id": "5e6007760f0b33dc11001180a01915e5",
-      "title": "Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets",
+      "article_id": "12a158b4cce4d6a2720738a3c86dbdc1",
+      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
-      "published_date": "2026-02-23T16:50:36+00:00",
+      "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "published_date": "2026-02-23T19:57:27+00:00",
       "category": "Industry",
-      "description": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
-      "author": "Lauren Forristal",
-      "content": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+      "description": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+      "author": "Rebecca Bellan",
+      "content": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.85,
-        "overall_score": 0.8150000000000001,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -44,31 +44,155 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-23T17:04:21.694295+00:00"
+        "consensus_timestamp": "2026-02-23T20:51:30.969163+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-23T17:04:21.694298+00:00"
+        "timestamp": "2026-02-23T20:51:30.969166+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "b45ef8e3e765dfb391412adfd0a8008d",
+      "title": "Build AI workflows on Amazon EKS with Union.ai and Flyte",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/",
+      "published_date": "2026-02-19T16:28:21+00:00",
+      "category": "Industry",
+      "description": "In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernetes Service (Amazon EKS), integrating seamlessly with AWS services like Amazon Simple Storage Service (Amazon S3), Amazon Aurora, AWS Identity and Access Management (IAM), and Amazon CloudWatch. We explore the solution through an AI workflow example, using the new Amazon S3 Vectors service.",
+      "author": "ND Ngoka",
+      "content": "In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernetes Service (Amazon EKS), integrating seamlessly with AWS services like Amazon Simple Storage Service (Amazon S3), Amazon Aurora, AWS Identity and Access Management (IAM), and Amazon CloudWatch. We explore the solution through an AI workflow example, using the new Amazon S3 Vectors service.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-23T20:51:30.967999+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-23T20:51:30.968002+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d51878c4488c958c3c7686e746ae85bc",
+      "title": "Swann provides Generative AI to millions of IoT Devices using Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/swann-provides-generative-ai-to-millions-of-iot-devices-using-amazon-bedrock/",
+      "published_date": "2026-02-11T15:48:15+00:00",
+      "category": "Industry",
+      "description": "This post shows you how to implement intelligent notification filtering using Amazon Bedrock and its gen-AI capabilities. You'll learn model selection strategies, cost optimization techniques, and architectural patterns for deploying gen-AI at IoT scale, based on Swann Communications deployment across millions of devices.",
+      "author": "Aman Sharma",
+      "content": "This post shows you how to implement intelligent notification filtering using Amazon Bedrock and its gen-AI capabilities. You'll learn model selection strategies, cost optimization techniques, and architectural patterns for deploying gen-AI at IoT scale, based on Swann Communications deployment across millions of devices.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-23T20:51:30.968413+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-23T20:51:30.968416+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "319254e9542edcc98b8134449c5dabca",
       "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
-      "published_date": "2026-02-23T16:59:54.190607+00:00",
+      "published_date": "2026-02-23T20:47:50.029217+00:00",
       "category": "Government",
       "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
       "author": "",
@@ -110,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-23T17:04:21.690697+00:00"
+        "consensus_timestamp": "2026-02-23T20:51:30.965325+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,151 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-23T17:04:21.690701+00:00"
+        "timestamp": "2026-02-23T20:51:30.965330+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "600568d0ebc27bb3ff3e6fce2ae5c29f",
-      "title": "NIH-funded study clearly ties risk of dementia to severe CTE",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-clearly-ties-risk-dementia-severe-cte",
-      "published_date": "2026-02-23T16:59:54.190819+00:00",
-      "category": "Government",
-      "description": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
-      "author": "",
-      "content": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-23T17:04:21.691126+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-23T17:04:21.691132+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5edddbcf9dcf021188f18262210b7dc8",
-      "title": "Research: International use of digital identities and credentials: stakeholder survey responses",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/international-use-of-digital-identities-and-credentials-stakeholder-survey-responses",
-      "published_date": "2026-02-23T10:30:01+00:00",
-      "category": "Government",
-      "description": "Results of an online survey inviting views on cross-border use of digital identities and credentials, and the government’s role in realising opportunities or removing barriers.",
-      "author": "",
-      "content": "Results of an online survey inviting views on cross-border use of digital identities and credentials, and the government’s role in realising opportunities or removing barriers.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-23T17:04:21.691462+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-23T17:04:21.691465+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ad2a1ac69b63be75fcd5b41a3f4c179c",
-      "title": "Claude's Role in Capturing Nicolás Maduro",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/anthropic-pentagon-ai-control-problem/",
-      "published_date": "2026-02-18T15:41:14+00:00",
+      "article_id": "ea4e3acdf21bdb7e83288f05cab68551",
+      "title": "Topping the GPU MODE Kernel Leaderboard with NVIDIA cuda.compute",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/topping-the-gpu-mode-kernel-leaderboard-with-nvidia-cuda-compute/",
+      "published_date": "2026-02-18T17:00:00+00:00",
       "category": "Industry",
-      "description": "The Pentagon used Claude during the Venezuela raid. Anthropic: the company that built it had to ask what their software actually did. Intercepted comms? Satellite imagery? Intelligence synthesis? Nobody outside the classified network knows. Here's what the evidence suggests.",
-      "author": "Vinit Mehta",
-      "content": "The Pentagon used Claude during the Venezuela raid. Anthropic: the company that built it had to ask what their software actually did. Intercepted comms? Satellite imagery? Intelligence synthesis? Nobody outside the classified network knows. Here's what the evidence suggests.",
+      "description": "Python dominates machine learning for its ergonomics, but writing truly fast GPU code has historically meant dropping into C++ to write custom kernels and to...",
+      "author": "Daniel Rodriguez",
+      "content": "Python dominates machine learning for its ergonomics, but writing truly fast GPU code has historically meant dropping into C++ to write custom kernels and to...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.92,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-23T17:04:21.696531+00:00"
+        "consensus_timestamp": "2026-02-23T20:51:30.970133+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-23T17:04:21.696534+00:00"
+        "timestamp": "2026-02-23T20:51:30.970136+00:00"
       },
       "article_type": "article"
     }
