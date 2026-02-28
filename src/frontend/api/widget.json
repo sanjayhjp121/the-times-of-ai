@@ -1,23 +1,85 @@
 {
-  "updated": "2026-02-28T16:32:46.040982+00:00",
+  "updated": "2026-02-28T20:32:26.150417+00:00",
   "top_stories": [
     {
-      "article_id": "9e4000c0196bc4f22de91488d70e8b37",
-      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+      "article_id": "5fa9bee0330404823d179a652e0c008e",
+      "title": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-      "published_date": "2026-02-28T16:17:36+00:00",
+      "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
+      "published_date": "2026-02-26T23:43:32+00:00",
       "category": "Industry",
-      "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-      "author": "Anthony Ha",
-      "content": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+      "description": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
+      "author": "Connie Loizos",
+      "content": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-28T20:32:26.108218+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-28T20:32:26.108221+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "8d1b442e2797598b44ffd042947fce82",
+      "title": "How Sonrai uses Amazon SageMaker AI to accelerate precision medicine trials",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/",
+      "published_date": "2026-02-23T17:31:45+00:00",
+      "category": "Industry",
+      "description": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresses these challenges while maintaining the traceability and reproducibility required in regulated environments.",
+      "author": "Matthew Lee",
+      "content": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresses these challenges while maintaining the traceability and reproducibility required in regulated environments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.991042+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.106976+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +121,9 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.991045+00:00"
+        "timestamp": "2026-02-28T20:32:26.106979+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "6c0ee4e9f1cd11dfb287a754ed83863a",
@@ -106,166 +168,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.85,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.992710+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.109415+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.992713+00:00"
+        "timestamp": "2026-02-28T20:32:26.109418+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9684f5cff900e970245a409a0386ff27",
-      "title": "Cognitive speed training over weeks may delay the diagnosis of dementia over decades",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/cognitive-speed-training-over-weeks-may-delay-diagnosis-dementia-over-decades",
-      "published_date": "2026-02-28T16:29:26.340399+00:00",
-      "category": "Government",
-      "description": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
-      "author": "",
-      "content": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.987441+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-28T16:32:45.987445+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "5edddbcf9dcf021188f18262210b7dc8",
-      "title": "Research: International use of digital identities and credentials: stakeholder survey responses",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/international-use-of-digital-identities-and-credentials-stakeholder-survey-responses",
-      "published_date": "2026-02-23T10:30:01+00:00",
-      "category": "Government",
-      "description": "Results of an online survey inviting views on cross-border use of digital identities and credentials, and the government’s role in realising opportunities or removing barriers.",
-      "author": "",
-      "content": "Results of an online survey inviting views on cross-border use of digital identities and credentials, and the government’s role in realising opportunities or removing barriers.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.988557+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-28T16:32:45.988560+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0a550f20424b0486ab185279d5ce92bd",
-      "title": "AI in Medical Coding: What It Can and Can’t Do Today",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/ai-in-medical-coding-what-it-can-and-cant-do-today/",
-      "published_date": "2026-02-27T10:15:01+00:00",
+      "article_id": "17d0ba49a11eea9400224dc6f69f56ae",
+      "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/filecoin-price-prediction",
+      "published_date": "2026-02-28T15:15:47+00:00",
       "category": "Industry",
-      "description": "Medical coding AI is moving from pilot to production. It speeds chart review, improves consistency, and flags documentation gaps early. But value depends on governance, measured rollout, explainability, and human oversight to protect compliance and revenue integrity.",
-      "author": "Deepesh Agarwal",
-      "content": "Medical coding AI is moving from pilot to production. It speeds chart review, improves consistency, and flags documentation gaps early. But value depends on governance, measured rollout, explainability, and human oversight to protect compliance and revenue integrity.",
+      "description": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
+      "author": "Ishan Jain",
+      "content": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.8875000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -292,22 +230,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.8,
         "confidence": 0.9,
-        "recommendation": "ACCEPT",
+        "recommendation": "REJECT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.993583+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.110187+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.993586+00:00"
+        "timestamp": "2026-02-28T20:32:26.110189+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3bfe2c045ead2f2686c3c52572169075",
+      "title": "Disrupting malicious uses of AI | February 2026",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/disrupting-malicious-ai-uses",
+      "published_date": "2026-02-25T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+      "author": "",
+      "content": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.9184999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-28T20:32:26.105860+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-28T20:32:26.105863+00:00"
       },
       "article_type": "article"
     }

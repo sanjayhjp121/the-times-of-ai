@@ -1,23 +1,85 @@
 {
-  "generated_at": "2026-02-28T16:32:46.037809+00:00",
+  "generated_at": "2026-02-28T20:32:26.147500+00:00",
   "articles": [
     {
-      "article_id": "9e4000c0196bc4f22de91488d70e8b37",
-      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+      "article_id": "5fa9bee0330404823d179a652e0c008e",
+      "title": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-      "published_date": "2026-02-28T16:17:36+00:00",
+      "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
+      "published_date": "2026-02-26T23:43:32+00:00",
       "category": "Industry",
-      "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-      "author": "Anthony Ha",
-      "content": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+      "description": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
+      "author": "Connie Loizos",
+      "content": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-28T20:32:26.108218+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-28T20:32:26.108221+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "8d1b442e2797598b44ffd042947fce82",
+      "title": "How Sonrai uses Amazon SageMaker AI to accelerate precision medicine trials",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/",
+      "published_date": "2026-02-23T17:31:45+00:00",
+      "category": "Industry",
+      "description": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresses these challenges while maintaining the traceability and reproducibility required in regulated environments.",
+      "author": "Matthew Lee",
+      "content": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresses these challenges while maintaining the traceability and reproducibility required in regulated environments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.991042+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.106976+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +121,9 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.991045+00:00"
+        "timestamp": "2026-02-28T20:32:26.106979+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "6c0ee4e9f1cd11dfb287a754ed83863a",
@@ -106,42 +168,104 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.85,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.992710+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.109415+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.992713+00:00"
+        "timestamp": "2026-02-28T20:32:26.109418+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9684f5cff900e970245a409a0386ff27",
-      "title": "Cognitive speed training over weeks may delay the diagnosis of dementia over decades",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/cognitive-speed-training-over-weeks-may-delay-diagnosis-dementia-over-decades",
-      "published_date": "2026-02-28T16:29:26.340399+00:00",
-      "category": "Government",
-      "description": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
-      "author": "",
-      "content": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
+      "article_id": "17d0ba49a11eea9400224dc6f69f56ae",
+      "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/filecoin-price-prediction",
+      "published_date": "2026-02-28T15:15:47+00:00",
+      "category": "Industry",
+      "description": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
+      "author": "Ishan Jain",
+      "content": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "overall_score": 0.8875000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "REJECT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-28T20:32:26.110187+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-28T20:32:26.110189+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3bfe2c045ead2f2686c3c52572169075",
+      "title": "Disrupting malicious uses of AI | February 2026",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/disrupting-malicious-ai-uses",
+      "published_date": "2026-02-25T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+      "author": "",
+      "content": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.9184999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -169,21 +293,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.987441+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.105860+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.987445+00:00"
+        "timestamp": "2026-02-28T20:32:26.105863+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "64df574180627c92c985da26f3115640",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/amazon-partnership",
+      "published_date": "2026-02-27T05:30:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+      "author": "",
+      "content": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-28T20:32:26.105670+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-28T20:32:26.105673+00:00"
       },
       "article_type": "article"
     },
@@ -197,68 +383,6 @@
       "description": "Results of an online survey inviting views on cross-border use of digital identities and credentials, and the government’s role in realising opportunities or removing barriers.",
       "author": "",
       "content": "Results of an online survey inviting views on cross-border use of digital identities and credentials, and the government’s role in realising opportunities or removing barriers.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.988557+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-28T16:32:45.988560+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0a550f20424b0486ab185279d5ce92bd",
-      "title": "AI in Medical Coding: What It Can and Can’t Do Today",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/ai-in-medical-coding-what-it-can-and-cant-do-today/",
-      "published_date": "2026-02-27T10:15:01+00:00",
-      "category": "Industry",
-      "description": "Medical coding AI is moving from pilot to production. It speeds chart review, improves consistency, and flags documentation gaps early. But value depends on governance, measured rollout, explainability, and human oversight to protect compliance and revenue integrity.",
-      "author": "Deepesh Agarwal",
-      "content": "Medical coding AI is moving from pilot to production. It speeds chart review, improves consistency, and flags documentation gaps early. But value depends on governance, measured rollout, explainability, and human oversight to protect compliance and revenue integrity.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -292,42 +416,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.993583+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.105097+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.993586+00:00"
+        "timestamp": "2026-02-28T20:32:26.105100+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c081340a89718257fb2b0aa58c2fa75d",
-      "title": "Scaling AI for everyone",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "published_date": "2026-02-27T05:30:00+00:00",
+      "article_id": "cbb5bb03e3845e251b2fddada3530472",
+      "title": "Large model inference container – latest capabilities and performance enhancements",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
+      "published_date": "2026-02-26T17:45:59+00:00",
       "category": "Industry",
-      "description": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-      "author": "",
-      "content": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+      "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "author": "Dmitry Soldatkin",
+      "content": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.8,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -358,7 +482,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.989078+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.106553+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,212 +493,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.989081+00:00"
+        "timestamp": "2026-02-28T20:32:26.106555+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "74b09a7d46b3e4eb9f501f3f2e27f1aa",
-      "title": "Researchers identify new blood markers that may detect early pancreatic cancer",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/researchers-identify-new-blood-markers-may-detect-early-pancreatic-cancer",
-      "published_date": "2026-02-28T16:29:26.340620+00:00",
-      "category": "Government",
-      "description": "NIH-funded, four-marker panel could one day help catch one of deadliest cancers at more treatable stages.",
-      "author": "",
-      "content": "NIH-funded, four-marker panel could one day help catch one of deadliest cancers at more treatable stages.",
+      "article_id": "5f9fe01f8ae2414e17784cde7801fbc7",
+      "title": "Sakana AI Introduces Doc-to-LoRA and Text-to-LoRA: Hypernetworks that Instantly Internalize Long Contexts and Adapt LLMs via Zero-Shot Natural Language",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/",
+      "published_date": "2026-02-27T17:53:54+00:00",
+      "category": "Industry",
+      "description": "Customizing Large Language Models (LLMs) currently presents a significant engineering trade-off between the flexibility of In-Context Learning (ICL) and the efficiency of Context Distillation (CD) or Supervised Fine-Tuning (SFT). Tokyo-based Sakana AI has proposed a new approach to bypass these constraints through cost amortization. In two of their recent papers, they introduced Text-to-LoRA (T2L) and […] The post Sakana AI Introduces Doc-to-LoRA and Text-to-LoRA: Hypernetworks that Instantly...",
+      "author": "Asif Razzaq",
+      "content": "Customizing Large Language Models (LLMs) currently presents a significant engineering trade-off between the flexibility of In-Context Learning (ICL) and the efficiency of Context Distillation (CD) or Supervised Fine-Tuning (SFT). Tokyo-based Sakana AI has proposed a new approach to bypass these constraints through cost amortization. In two of their recent papers, they introduced Text-to-LoRA (T2L) and […] The post Sakana AI Introduces Doc-to-LoRA and Text-to-LoRA: Hypernetworks that Instantly...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.987545+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-28T16:32:45.987551+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "daa84be915c45e74ba90f2512d0e80a6",
-      "title": "Advancing independent research on AI alignment",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
-      "published_date": "2026-02-19T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-      "author": "",
-      "content": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.989563+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-28T16:32:45.989566+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bae8840fb7e2951e00118cece5d969c7",
-      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
-      "published_date": "2026-02-26T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
-      "author": "",
-      "content": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8375,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.989236+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-28T16:32:45.989240+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "21121f063e2442908481db6ac75db4d3",
-      "title": "Introducing EVMbench",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-evmbench",
-      "published_date": "2026-02-18T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
-      "author": "",
-      "content": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.8,
-        "overall_score": 0.8550000000000001,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -606,7 +544,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.989660+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.110485+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,150 +555,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.989663+00:00"
+        "timestamp": "2026-02-28T20:32:26.110488+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "977b72bf9fe21de8131d5d4a0cd4d9c4",
-      "title": "Study measuring changes in protein structure establishes new class of Alzheimer’s biomarkers",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/study-measuring-changes-protein-structure-establishes-new-class-alzheimers-biomarkers",
-      "published_date": "2026-02-28T16:29:26.340082+00:00",
-      "category": "Government",
-      "description": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials",
-      "author": "",
-      "content": "NIH-funded insights into Alzheimer’s biology could help with early diagnosis, future clinical trials",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.8,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.987267+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-28T16:32:45.987273+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8fe38b3f6a6cabee6ce09e62a5378bd8",
-      "title": "Policy paper: Software Security Ambassadors Scheme",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/software-security-ambassadors-scheme",
-      "published_date": "2026-02-24T13:32:20+00:00",
-      "category": "Government",
-      "description": "A scheme to champion secure software development and support a resilient cyber ecosystem.",
-      "author": "",
-      "content": "A scheme to champion secure software development and support a resilient cyber ecosystem.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.8,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.988454+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-02-28T16:32:45.988458+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0bb2416678d1ad199aa608cdadaabe42",
-      "title": "How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/",
-      "published_date": "2026-02-18T16:00:00+00:00",
+      "article_id": "9ba9b481b9fc121debdb3f6b69de3513",
+      "title": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/",
+      "published_date": "2026-02-23T16:00:57+00:00",
       "category": "Industry",
-      "description": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and cost...",
-      "author": "Utkarsh Uppal",
-      "content": "As global AI adoption accelerates, developers face a growing challenge: delivering large language model (LLM) performance that meets real-world latency and cost...",
+      "description": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud. This expands OT and ICS capabilities — but also their exposure to cyber threats. Unlike Read Article",
+      "author": "Itay Ozery",
+      "content": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud. This expands OT and ICS capabilities — but also their exposure to cyber threats. Unlike Read Article",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.835,
+        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -788,42 +602,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.88,
-        "confidence": 0.92,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.992430+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.107474+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.728,
-        "combined_confidence": 0.752,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.992433+00:00"
+        "timestamp": "2026-02-28T20:32:26.107477+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "13d7a4073e80cb1f61f09f43ffcaf666",
-      "title": "JetScale AI Raises Oversubscribed $5.4M Seed Funding Round",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/jetscale-ai-raises-oversubscribed-5-4m-seed-funding-round/",
-      "published_date": "2026-02-27T18:15:00+00:00",
+      "article_id": "b95b574fbb16cf0cefc0670761c8d36b",
+      "title": "Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+      "published_date": "2026-02-24T15:38:22+00:00",
       "category": "Industry",
-      "description": "Strong support for Montreal-based AI solution addressing the critical need for enterprise cloud optimization JetScale AI, a Quebec-based company specializing in cloud infrastructure optimization, announced the closing of a $5.4 million funding round to accelerate its growth and deployment across North America and Europe. JetScale AI is led by Mehdi... The post JetScale AI Raises Oversubscribed $5.4M Seed Funding Round first appeared on AI-Tech Park.",
-      "author": "Business Wire",
-      "content": "Strong support for Montreal-based AI solution addressing the critical need for enterprise cloud optimization JetScale AI, a Quebec-based company specializing in cloud infrastructure optimization, announced the closing of a $5.4 million funding round to accelerate its growth and deployment across North America and Europe. JetScale AI is led by Mehdi... The post JetScale AI Raises Oversubscribed $5.4M Seed Funding Round first appeared on AI-Tech Park.",
+      "description": "In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a walkthrough of technical implementation steps, and cover quota management best practices to maximize the value of your AI Inference deployments. We also provide guidance on best practices for production deployments.",
+      "author": "Traci Lim",
+      "content": "In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a walkthrough of technical implementation steps, and cover quota management best practices to maximize the value of your AI Inference deployments. We also provide guidance on best practices for production deployments.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -850,41 +664,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.85,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.993104+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.106834+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.993107+00:00"
+        "timestamp": "2026-02-28T20:32:26.106837+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "60bd17b35038b5916bc738af610bc57b",
-      "title": "Announcing the &quot;AI Agent Standards Initiative&quot; for Interoperable and Secure Innovation",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
-      "published_date": "2026-02-17T12:00:00+00:00",
-      "category": "Government",
-      "description": "The Initiative will ensure that the next generation of AI is widely adopted with confidence, can function securely on behalf of its users, and can interoperate smoothly across the digital ecosystem.",
-      "author": "Peter Cihon",
-      "content": "The Initiative will ensure that the next generation of AI is widely adopted with confidence, can function securely on behalf of its users, and can interoperate smoothly across the digital ecosystem.",
+      "article_id": "a616b1e40ff40960c74c672a76dd3833",
+      "title": "Agentic AI with multi-model framework using Hugging Face smolagents on AWS",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/",
+      "published_date": "2026-02-23T15:47:06+00:00",
+      "category": "Industry",
+      "description": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.",
+      "author": "Sanhita Sarkar",
+      "content": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-28T20:32:26.107071+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-28T20:32:26.107074+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f0271801a4a961c33ae07e34dc197a46",
+      "title": "Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/",
+      "published_date": "2026-02-24T18:22:26+00:00",
+      "category": "Industry",
+      "description": "In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekognition for face and object detection, Amazon Neptune for relationship mapping, and Amazon Bedrock for AI-powered captioning.",
+      "author": "Kara Yang",
+      "content": "In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekognition for face and object detection, Amazon Neptune for relationship mapping, and Amazon Bedrock for AI-powered captioning.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -912,22 +788,146 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-02-28T16:32:45.987082+00:00"
+        "consensus_timestamp": "2026-02-28T20:32:26.106697+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-02-28T16:32:45.987097+00:00"
+        "timestamp": "2026-02-28T20:32:26.106699+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e58f5f8ec4c170e29a2f94d23610bb6d",
+      "title": "Sophia Space raises $10M seed to demo novel space computers",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+      "published_date": "2026-02-26T19:55:20+00:00",
+      "category": "Industry",
+      "description": "The company's modular computer tiles offer a new vision for space data centers.",
+      "author": "Tim Fernholz",
+      "content": "The company's modular computer tiles offer a new vision for space data centers.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-28T20:32:26.108415+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-28T20:32:26.108426+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "dbfbd4426f1198ea4f9d414b12c2d86f",
+      "title": "Azure reliability, resiliency, and recoverability: Build continuity by design",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
+      "published_date": "2026-02-17T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional. The post Azure reliability, resiliency, and recoverability: Build continuity by design appeared first on Microsoft Azure Blog.",
+      "author": "Mark Russinovich and Molina Sharma",
+      "content": "Modern cloud systems are expected to deliver more than uptime. Customers expect consistent performance, the ability to withstand disruption, and confidence that recovery is predictable and intentional. The post Azure reliability, resiliency, and recoverability: Build continuity by design appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-02-28T20:32:26.106366+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-02-28T20:32:26.106369+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 141.1998484134674,
+    "processing_time": 155.5960021018982,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 120,
+      "total_processed": 126,
       "candidates": {
-        "headlines": 15,
-        "articles": 105,
+        "headlines": 10,
+        "articles": 116,
         "research_papers": 0
       },
       "selected": {
