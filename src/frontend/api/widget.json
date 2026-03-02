@@ -1,22 +1,22 @@
 {
-  "updated": "2026-03-02T16:57:02.509067+00:00",
+  "updated": "2026-03-02T20:44:14.991404+00:00",
   "top_stories": [
     {
-      "article_id": "c93cd8908e9b635b1527fc23248b9a2c",
-      "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+      "article_id": "e9babbb3794d65415667a57d300e3279",
+      "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-      "published_date": "2026-03-02T15:14:36+00:00",
+      "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+      "published_date": "2026-03-02T17:18:34+00:00",
       "category": "Industry",
-      "description": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
-      "author": "Ivan Mehta",
-      "content": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+      "description": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+      "author": "Rebecca Bellan",
+      "content": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
         "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-02T16:57:02.471324+00:00"
+        "consensus_timestamp": "2026-03-02T20:44:14.949718+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-02T16:57:02.471327+00:00"
+        "timestamp": "2026-03-02T20:44:14.949721+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "6c0ee4e9f1cd11dfb287a754ed83863a",
-      "title": "Accelerating discovery in India through AI-powered science and education",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
-      "published_date": "2026-02-17T13:42:20+00:00",
+      "article_id": "71bc18edba905a5501f28f39b55c3236",
+      "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/",
+      "published_date": "2026-02-24T15:33:51+00:00",
       "category": "Industry",
-      "description": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
-      "author": "",
-      "content": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+      "description": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
+      "author": "Hossam Basudan",
+      "content": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
+        "novelty_score": 0.9,
         "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
+        "overall_score": 0.931,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -107,83 +107,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-02T16:57:02.472952+00:00"
+        "consensus_timestamp": "2026-03-02T20:44:14.948849+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-02T16:57:02.472955+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "97aa988e8502a83ef3d89fc894b23051",
-      "title": "How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature Importance, Interaction Effects, and Model Decision Breakdown",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/",
-      "published_date": "2026-03-02T06:13:50+00:00",
-      "category": "Industry",
-      "description": "In this tutorial, we build an advanced explainable AI analysis pipeline using SHAP-IQ to understand both feature importance and interaction effects directly inside our Python environment. We load a real-world dataset, train a high-performance Random Forest model, and then apply the SHAP-IQ interaction index to compute precise, theoretically grounded explanations of model predictions. We extract […] The post How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature...",
-      "author": "Michal Sutter",
-      "content": "In this tutorial, we build an advanced explainable AI analysis pipeline using SHAP-IQ to understand both feature importance and interaction effects directly inside our Python environment. We load a real-world dataset, train a high-performance Random Forest model, and then apply the SHAP-IQ interaction index to compute precise, theoretically grounded explanations of model predictions. We extract […] The post How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-02T16:57:02.473660+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-02T16:57:02.473662+00:00"
+        "timestamp": "2026-03-02T20:44:14.948852+00:00"
       },
       "article_type": "article"
     },
@@ -192,7 +130,7 @@
       "title": "Cognitive speed training over weeks may delay the diagnosis of dementia over decades",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/cognitive-speed-training-over-weeks-may-delay-diagnosis-dementia-over-decades",
-      "published_date": "2026-03-02T16:52:53.344166+00:00",
+      "published_date": "2026-03-02T20:40:01.933194+00:00",
       "category": "Government",
       "description": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
       "author": "",
@@ -234,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-02T16:57:02.468044+00:00"
+        "consensus_timestamp": "2026-03-02T20:44:14.946177+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-02T16:57:02.468048+00:00"
+        "timestamp": "2026-03-02T20:44:14.946181+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9bd144b262dbab40f77ea79d3917f180",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "published_date": "2026-02-27T05:30:00+00:00",
+      "article_id": "ddc2b7f3e17e2e4ab058f17ee1181f64",
+      "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+      "published_date": "2026-02-27T16:23:58+00:00",
       "category": "Industry",
-      "description": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-      "author": "",
-      "content": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+      "description": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+      "author": "Amanda Silberling",
+      "content": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-02T16:57:02.469144+00:00"
+        "consensus_timestamp": "2026-03-02T20:44:14.950638+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-02T16:57:02.469147+00:00"
+        "timestamp": "2026-03-02T20:44:14.950643+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3c24c3a2a1660745dc4857a6701202a0",
+      "title": "Using NVFP4 Low-Precision Model Training for Higher Throughput Without Losing Accuracy",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/using-nvfp4-low-precision-model-training-for-higher-throughput-without-losing-accuracy/",
+      "published_date": "2026-02-23T18:00:00+00:00",
+      "category": "Industry",
+      "description": "As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges such as...",
+      "author": "Aditya Vavre",
+      "content": "As the sizes of AI models and datasets continue to increase, relying only on higher-precision BF16 training is no longer sufficient. Key challenges such as...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-02T20:44:14.950967+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-02T20:44:14.950970+00:00"
       },
       "article_type": "article"
     }
