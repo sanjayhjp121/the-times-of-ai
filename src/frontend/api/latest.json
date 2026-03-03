@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T16:56:36.849618+00:00",
+  "generated_at": "2026-03-03T20:39:40.340123+00:00",
   "articles": [
     {
       "article_id": "e9f8034267546396ae96742a6f4769ca",
@@ -45,40 +45,164 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.812325+00:00"
+        "consensus_timestamp": "2026-03-03T20:39:40.308013+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T16:56:36.812328+00:00"
+        "timestamp": "2026-03-03T20:39:40.308016+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "681bc14f17dc799e2d86d368eca0770c",
-      "title": "Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
-      "published_date": "2026-03-03T16:23:30+00:00",
+      "article_id": "bde2a903f9d62d8a9b3d9c0c622c9d4a",
+      "title": "Stop Paying for AI You Don't Use: The Case for Fine-Tuned Models",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/fine-tuned-models-vs-frontier-cost/",
+      "published_date": "2026-03-02T17:19:30+00:00",
       "category": "Industry",
-      "description": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.",
-      "author": "Amandine Annoye",
-      "content": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.",
+      "description": "Processing 10,000 documents daily through GPT or Claude costs $50K annually. Fine-tuned models: $5K. Same accuracy. Faster latency. Data never leaves your control. But most teams don't realize this is now viable. Here's when frontier models make sense and when you're overpaying.",
+      "author": "Vinit Mehta",
+      "content": "Processing 10,000 documents daily through GPT or Claude costs $50K annually. Fine-tuned models: $5K. Same accuracy. Faster latency. Data never leaves your control. But most teams don't realize this is now viable. Here's when frontier models make sense and when you're overpaying.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-03T20:39:40.309820+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-03T20:39:40.309823+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8e3c3f6b61c2e497dc5e72b1d21a8e9c",
+      "title": "Google AI Introduces STATIC: A Sparse Matrix Framework Delivering 948x Faster Constrained Decoding for LLM Based Generative Retrieval",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/03/01/google-ai-introduces-static-a-sparse-matrix-framework-delivering-948x-faster-constrained-decoding-for-llm-based-generative-retrieval/",
+      "published_date": "2026-03-01T21:47:04+00:00",
+      "category": "Industry",
+      "description": "In industrial recommendation systems, the shift toward Generative Retrieval (GR) is replacing traditional embedding-based nearest neighbor search with Large Language Models (LLMs). These models represent items as Semantic IDs (SIDs)—discrete token sequences—and treat retrieval as an autoregressive decoding task. However, industrial applications often require strict adherence to business logic, such as enforcing content freshness or […] The post Google AI Introduces STATIC: A Sparse Matrix...",
+      "author": "Asif Razzaq",
+      "content": "In industrial recommendation systems, the shift toward Generative Retrieval (GR) is replacing traditional embedding-based nearest neighbor search with Large Language Models (LLMs). These models represent items as Semantic IDs (SIDs)—discrete token sequences—and treat retrieval as an autoregressive decoding task. However, industrial applications often require strict adherence to business logic, such as enforcing content freshness or […] The post Google AI Introduces STATIC: A Sparse Matrix...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-03T20:39:40.310186+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-03T20:39:40.310189+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "57cdc3e72f0f88c9f5d80164993937c1",
+      "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+      "published_date": "2026-02-27T19:42:00+00:00",
+      "category": "Industry",
+      "description": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+      "author": "Sarah Perez",
+      "content": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.931,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -107,40 +231,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.92,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.810589+00:00"
+        "consensus_timestamp": "2026-03-03T20:39:40.308466+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.752,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T16:56:36.810592+00:00"
+        "timestamp": "2026-03-03T20:39:40.308469+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ff82d313a51cca23bad9bc836ada9d30",
-      "title": "Zilliz Cloud Brings BYOC to Azure",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/zilliz-cloud-brings-byoc-to-azure/",
-      "published_date": "2026-03-02T13:45:00+00:00",
+      "article_id": "48331dffb6567bca653658861f34f79a",
+      "title": "Introducing OpenAI for India",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-for-india",
+      "published_date": "2026-02-18T21:00:00+00:00",
       "category": "Industry",
-      "description": "Zilliz, the company behind Milvus, the world’s most widely adopted open-source vector database, today announced the general availability of Zilliz Cloud BYOC (Bring Your Own Cloud) on Microsoft Azure. With this launch, Zilliz Cloud BYOC is now available across AWS, Google Cloud Platform, and Microsoft Azure—making Zilliz the first managed vector database provider to support BYOC... The post Zilliz Cloud Brings BYOC to Azure first appeared on AI-Tech Park.",
-      "author": "PR Newswire",
-      "content": "Zilliz, the company behind Milvus, the world’s most widely adopted open-source vector database, today announced the general availability of Zilliz Cloud BYOC (Bring Your Own Cloud) on Microsoft Azure. With this launch, Zilliz Cloud BYOC is now available across AWS, Google Cloud Platform, and Microsoft Azure—making Zilliz the first managed vector database provider to support BYOC... The post Zilliz Cloud Brings BYOC to Azure first appeared on AI-Tech Park.",
+      "description": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+      "author": "",
+      "content": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.9099999999999999,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.814032+00:00"
+        "consensus_timestamp": "2026-03-03T20:39:40.306035+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,144 +307,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T16:56:36.814035+00:00"
+        "timestamp": "2026-03-03T20:39:40.306038+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5a97230d1a328ccb270af4ae695ed89d",
-      "title": "Veracode Published 2026 State of Software Security Report",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/veracode-published-2026-state-of-software-security-report/",
-      "published_date": "2026-03-02T10:45:00+00:00",
-      "category": "Industry",
-      "description": "High-Risk Vulnerabilities Spike 36% Year-Over-Year as Critical Security Debt Surges 20%, Signaling a Growing Crisis in Software Security Veracode, the global leader in application risk management, today released its 2026 State of Software Security Report, revealing the widening gap between how fast organizations build software and how fast they can secure... The post Veracode Published 2026 State of Software Security Report first appeared on AI-Tech Park.",
-      "author": "Business Wire",
-      "content": "High-Risk Vulnerabilities Spike 36% Year-Over-Year as Critical Security Debt Surges 20%, Signaling a Growing Crisis in Software Security Veracode, the global leader in application risk management, today released its 2026 State of Software Security Report, revealing the widening gap between how fast organizations build software and how fast they can secure... The post Veracode Published 2026 State of Software Security Report first appeared on AI-Tech Park.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.814165+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T16:56:36.814178+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "64f182b99ba76b1cacd0fc777651f230",
-      "title": "Learnings from COBOL modernization in the real world",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
-      "published_date": "2026-02-26T18:16:43+00:00",
-      "category": "Industry",
-      "description": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
-      "author": "Dr. Asa Kalavade",
-      "content": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.92,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.810859+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.752,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T16:56:36.810862+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8e79bde42842997b53044415f7970c20",
-      "title": "NIH Proposes Embryonic Stem Cell Research Shift to Put Patients First",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-proposes-embryonic-stem-cell-research-shift-put-patients-first",
-      "published_date": "2026-03-03T16:52:31.153328+00:00",
+      "article_id": "8ea2f292ea1eabfd3170495e8e4470fb",
+      "title": "Government cuts cyber-attack fix times by 84% and launches new profession to protect public services",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/government-cuts-cyber-attack-fix-times-by-84-and-launches-new-profession-to-protect-public-services",
+      "published_date": "2026-02-26T09:56:00+00:00",
       "category": "Government",
-      "description": "Agency seeks public comment on the robustness of emerging biotechnologies to reduce or potentially replace remaining research reliance on human embryonic stem cells.",
+      "description": "The government has launched a new vulnerability monitoring service (VMS) to reduce cyber risks and speed up fixes, and a new Cyber Profession to build long-term resilience across public services.",
       "author": "",
-      "content": "Agency seeks public comment on the robustness of emerging biotechnologies to reduce or potentially replace remaining research reliance on human embryonic stem cells.",
+      "content": "The government has launched a new vulnerability monitoring service (VMS) to reduce cyber risks and speed up fixes, and a new Cyber Profession to build long-term resilience across public services.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -355,164 +355,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.808709+00:00"
+        "consensus_timestamp": "2026-03-03T20:39:40.305218+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T16:56:36.808713+00:00"
+        "timestamp": "2026-03-03T20:39:40.305221+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5c4c79c5861a7b5d29d15ed9e5d446af",
-      "title": "Building Telco Reasoning Models for Autonomous Networks with NVIDIA NeMo",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
-      "published_date": "2026-03-01T07:00:00+00:00",
+      "article_id": "0e19be9a06c3756118055610404200de",
+      "title": "Alibaba just released Qwen 3.5 Small models: a family of 0.8B to 9B parameters built for on-device applications",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/",
+      "published_date": "2026-03-03T02:21:07+00:00",
       "category": "Industry",
-      "description": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications...",
-      "author": "Aiden Chang",
-      "content": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications...",
+      "description": "Alibaba’s Qwen team has released the Qwen3.5 Small Model Series, a collection of Large Language Models (LLMs) ranging from 0.8B to 9B parameters. While the industry trend has historically favored increasing parameter counts to achieve ‘frontier’ performance, this release focuses on ‘More Intelligence, Less Compute.‘ These models represent a shift toward deploying capable AI on […] The post Alibaba just released Qwen 3.5 Small models: a family of 0.8B to 9B parameters built for on-device...",
+      "author": "Asif Razzaq",
+      "content": "Alibaba’s Qwen team has released the Qwen3.5 Small Model Series, a collection of Large Language Models (LLMs) ranging from 0.8B to 9B parameters. While the industry trend has historically favored increasing parameter counts to achieve ‘frontier’ performance, this release focuses on ‘More Intelligence, Less Compute.‘ These models represent a shift toward deploying capable AI on […] The post Alibaba just released Qwen 3.5 Small models: a family of 0.8B to 9B parameters built for on-device...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.813064+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T16:56:36.813067+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7b0ff72ea6cc67f98e67dc6f96c56e9f",
-      "title": "Maximizing GPU Utilization with NVIDIA Run:ai and NVIDIA NIM",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/maximizing-gpu-utilization-with-nvidia-runai-and-nvidia-nim/",
-      "published_date": "2026-02-27T17:00:00+00:00",
-      "category": "Industry",
-      "description": "Organizations deploying LLMs are challenged by inference workloads with different resource requirements. A small embedding model might use only a few gigabytes...",
-      "author": "Shwetha Krishnamurthy",
-      "content": "Organizations deploying LLMs are challenged by inference workloads with different resource requirements. A small embedding model might use only a few gigabytes...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.813217+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T16:56:36.813221+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "71bc18edba905a5501f28f39b55c3236",
-      "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/",
-      "published_date": "2026-02-24T15:33:51+00:00",
-      "category": "Industry",
-      "description": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
-      "author": "Hossam Basudan",
-      "content": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8975,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-03T20:39:40.310006+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-03T20:39:40.310009+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3ffcedd5e50f7a5992d3d990e80d7977",
+      "title": "Making Softmax More Efficient with NVIDIA Blackwell Ultra",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/making-softmax-more-efficient-with-nvidia-blackwell-ultra/",
+      "published_date": "2026-02-25T17:00:00+00:00",
+      "category": "Industry",
+      "description": "LLM context lengths are exploding, and architectures are moving toward complex attention schemes like Multi-Head Latent Attention (MLA) and Grouped Query...",
+      "author": "Jamie Li",
+      "content": "LLM context lengths are exploding, and architectures are moving toward complex attention schemes like Multi-Head Latent Attention (MLA) and Grouped Query...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -540,42 +478,166 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.811305+00:00"
+        "consensus_timestamp": "2026-03-03T20:39:40.308953+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T16:56:36.811308+00:00"
+        "timestamp": "2026-03-03T20:39:40.308955+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "73d606a793af1537e21e635d3f3f89aa",
-      "title": "Accelerating AI model production at Hexagon with Amazon SageMaker HyperPod",
+      "article_id": "d3aeaefce9d96a07bbd60921c4e168f8",
+      "title": "Generate structured output from LLMs with Dottxt Outlines in AWS",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/",
-      "published_date": "2026-02-23T17:29:11+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/",
+      "published_date": "2026-02-24T15:42:34+00:00",
       "category": "Industry",
-      "description": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
-      "author": "Johannes Maunz, Tobias Bösch Borgards, Bartlomiej Gralewicz",
-      "content": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
+      "description": "This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace in Amazon SageMaker.",
+      "author": "Clement Perrot",
+      "content": "This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace in Amazon SageMaker.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.85,
         "quality_score": 0.9,
         "novelty_score": 0.85,
         "impact_score": 0.9,
         "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-03T20:39:40.306877+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-03T20:39:40.306880+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b093d56214b2429bf9c15de65742eb2d",
+      "title": "How Tines enhances security analysis with Amazon Quick Suite",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/",
+      "published_date": "2026-03-03T16:15:06+00:00",
+      "category": "Industry",
+      "description": "In this post, we show you how to connect Quick Suite with Tines to securely retrieve, analyze, and visualize enterprise data from any security or IT system. We walk through an example that uses a MCP server in Tines to retrieve data from various tools, such as AWS CloudTrail, Okta, and VirusTotal, to remediate security events using Quick Suite.",
+      "author": "Jonah Craig",
+      "content": "In this post, we show you how to connect Quick Suite with Tines to securely retrieve, analyze, and visualize enterprise data from any security or IT system. We walk through an example that uses a MCP server in Tines to retrieve data from various tools, such as AWS CloudTrail, Okta, and VirusTotal, to remediate security events using Quick Suite.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-03T20:39:40.306316+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-03T20:39:40.306319+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a616b1e40ff40960c74c672a76dd3833",
+      "title": "Agentic AI with multi-model framework using Hugging Face smolagents on AWS",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/",
+      "published_date": "2026-02-23T15:47:06+00:00",
+      "category": "Industry",
+      "description": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.",
+      "author": "Sanhita Sarkar",
+      "content": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -606,7 +668,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.811445+00:00"
+        "consensus_timestamp": "2026-03-03T20:39:40.307155+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,131 +679,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T16:56:36.811447+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "efcbee47b60c3967c280ec1b8ee13704",
-      "title": "Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected",
-      "source": "azure_ai_blog",
-      "url": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
-      "published_date": "2026-02-24T10:20:00+00:00",
-      "category": "Industry",
-      "description": "Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities. The post Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected appeared first on Microsoft Azure Blog.",
-      "author": "Douglas Phillips",
-      "content": "Microsoft Sovereign Cloud's expansion of capabilities includes Azure Local disconnected operations, Microsoft 365 Local disconnected, and Microsoft Foundry addition of large model and modern infrastructure capabilities. The post Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.810452+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T16:56:36.810455+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d586750d1ed6902fec9939c025a15f5b",
-      "title": "Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
-      "published_date": "2026-02-17T18:00:00+00:00",
-      "category": "Industry",
-      "description": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...",
-      "author": "Shruthii Sathyanarayanan",
-      "content": "Enterprise data is inherently complex: real-world documents are multimodal, spanning text, tables, charts and graphs, images, diagrams, scanned pages, forms,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.813571+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-03T16:56:36.813574+00:00"
+        "timestamp": "2026-03-03T20:39:40.307158+00:00"
       },
       "article_type": "article"
     },
@@ -750,7 +688,7 @@
       "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
-      "published_date": "2026-03-03T16:52:31.153006+00:00",
+      "published_date": "2026-03-03T20:35:28.419346+00:00",
       "category": "Government",
       "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
       "author": "",
@@ -792,7 +730,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.808501+00:00"
+        "consensus_timestamp": "2026-03-03T20:39:40.304049+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,7 +741,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T16:56:36.808506+00:00"
+        "timestamp": "2026-03-03T20:39:40.304053+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cbb5bb03e3845e251b2fddada3530472",
+      "title": "Large model inference container – latest capabilities and performance enhancements",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
+      "published_date": "2026-02-26T17:45:59+00:00",
+      "category": "Industry",
+      "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "author": "Dmitry Soldatkin",
+      "content": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-03T20:39:40.306587+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-03T20:39:40.306590+00:00"
       },
       "article_type": "article"
     },
@@ -851,34 +851,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.812470+00:00"
+        "consensus_timestamp": "2026-03-03T20:39:40.308149+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T16:56:36.812473+00:00"
+        "timestamp": "2026-03-03T20:39:40.308152+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8c7381395f5408f94a5aa9e42a1a492f",
-      "title": "Intelligence isn&#8217;t about parameter count. It&#8217;s about time.",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/intelligence-isnt-about-parameter-count-its-about-time",
-      "published_date": "2026-02-25T13:59:12+00:00",
+      "article_id": "58fdf5e1496695c562896b588350fb1c",
+      "title": "Anthropic slams Chinese AI firms for harvesting data from its Claude chatbot",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/02/23/anthropic-slams-chinese-ai-firms-harvesting-data-claude-chatbot/",
+      "published_date": "2026-02-23T23:45:50+00:00",
       "category": "Industry",
-      "description": "As AI models grow larger, they become less insightful, not more. To ensure that they continue to learn, we need to reduce their inference time.",
-      "author": "Stefano Soatto",
-      "content": "As AI models grow larger, they become less insightful, not more. To ensure that they continue to learn, we need to reduce their inference time.",
+      "description": "Anthropic PBC is claiming that three Chinese artificial intelligence companies are illegally harvesting massive amounts of data from its chatbot Claude in an effort to accelerate the development of their own platforms. In a blog post today, Anthropic called out DeepSeek Ltd., Moonshot and MiniMax, three of China’s most prominent AI firms, accusing them of creating […] The post Anthropic slams Chinese AI firms for harvesting data from its Claude chatbot appeared first on SiliconANGLE.",
+      "author": "Mike Wheatley",
+      "content": "Anthropic PBC is claiming that three Chinese artificial intelligence companies are illegally harvesting massive amounts of data from its chatbot Claude in an effort to accelerate the development of their own platforms. In a blog post today, Anthropic called out DeepSeek Ltd., Moonshot and MiniMax, three of China’s most prominent AI firms, accusing them of creating […] The post Anthropic slams Chinese AI firms for harvesting data from its Claude chatbot appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-03T16:56:36.813851+00:00"
+        "consensus_timestamp": "2026-03-03T20:39:40.310409+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-03T16:56:36.813854+00:00"
+        "timestamp": "2026-03-03T20:39:40.310412+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 174.31715154647827,
+    "processing_time": 177.11966013908386,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 136,
+      "total_processed": 130,
       "candidates": {
-        "headlines": 11,
-        "articles": 125,
+        "headlines": 7,
+        "articles": 123,
         "research_papers": 0
       },
       "selected": {
