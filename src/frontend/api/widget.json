@@ -1,23 +1,23 @@
 {
-  "updated": "2026-03-06T05:14:46.183337+00:00",
+  "updated": "2026-03-06T08:44:33.185053+00:00",
   "top_stories": [
     {
-      "article_id": "6e3f135f73b6fad782488a562e889774",
-      "title": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
+      "article_id": "91caf437fcc29078707b51dbdc88223e",
+      "title": "AWS launches a new AI agent platform specifically for healthcare",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
-      "published_date": "2026-03-05T20:24:25+00:00",
+      "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+      "published_date": "2026-03-05T21:54:37+00:00",
       "category": "Industry",
-      "description": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
-      "author": "Rebecca Bellan",
-      "content": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
+      "description": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
+      "author": "Rebecca Szkutak",
+      "content": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,22 +44,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-06T05:14:46.143589+00:00"
+        "consensus_timestamp": "2026-03-06T08:44:33.146366+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-06T05:14:46.143592+00:00"
+        "timestamp": "2026-03-06T08:44:33.146369+00:00"
       },
       "article_type": "headline"
     },
@@ -68,7 +68,7 @@
       "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
-      "published_date": "2026-03-06T05:10:38.210024+00:00",
+      "published_date": "2026-03-06T08:40:38.733053+00:00",
       "category": "Government",
       "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
       "author": "",
@@ -76,72 +76,10 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.95,
-        "overall_score": 0.9125000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-06T05:14:46.140566+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-06T05:14:46.140570+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "51e1c22cb61319ff05f0cd16f553aa01",
-      "title": "Meet SymTorch: A PyTorch Library that Translates Deep Learning Models into Human-Readable Equations",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/03/03/meet-symtorch-a-pytorch-library-that-translates-deep-learning-models-into-human-readable-equations/",
-      "published_date": "2026-03-03T23:39:46+00:00",
-      "category": "Industry",
-      "description": "Can symbolic regression be the key to transforming opaque deep learning models into interpretable, closed-form mathematical equations? or Say you have trained your deep learning model. It works. But do you know what it has actually learned? A team of University of Cambridge researchers propose ‘SymTorch’, a library designed to integrate symbolic regression (SR) into […] The post Meet SymTorch: A PyTorch Library that Translates Deep Learning Models into Human-Readable Equations appeared first on...",
-      "author": "Maxime Mommessin",
-      "content": "Can symbolic regression be the key to transforming opaque deep learning models into interpretable, closed-form mathematical equations? or Say you have trained your deep learning model. It works. But do you know what it has actually learned? A team of University of Cambridge researchers propose ‘SymTorch’, a library designed to integrate symbolic regression (SR) into […] The post Meet SymTorch: A PyTorch Library that Translates Deep Learning Models into Human-Readable Equations appeared first on...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-06T05:14:46.145861+00:00"
+        "consensus_timestamp": "2026-03-06T08:44:33.142691+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,88 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-06T05:14:46.145864+00:00"
+        "timestamp": "2026-03-06T08:44:33.142694+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "74c79833797d83bc58b0665cb7bcf043",
-      "title": "Women Leading the Next Era of AI Innovation",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/women-leading-next-era-ai-innovation/",
-      "published_date": "2026-03-05T12:30:00+00:00",
-      "category": "Industry",
-      "description": "Women leading the next era of AI innovation are driving open ecosystems, ethical AI, and faster innovation beyond closed tech empires. The classic script of technological hegemony was a familiar and imperial trajectory: develop a proprietary base, take the data hostage, and customer-lock in. Winning was having the biggest closed... The post Women Leading the Next Era of AI Innovation first appeared on AI-Tech Park.",
-      "author": "AI TechPark",
-      "content": "Women leading the next era of AI innovation are driving open ecosystems, ethical AI, and faster innovation beyond closed tech empires. The classic script of technological hegemony was a familiar and imperial trajectory: develop a proprietary base, take the data hostage, and customer-lock in. Winning was having the biggest closed... The post Women Leading the Next Era of AI Innovation first appeared on AI-Tech Park.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-06T05:14:46.145152+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-06T05:14:46.145155+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c081340a89718257fb2b0aa58c2fa75d",
-      "title": "Scaling AI for everyone",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "published_date": "2026-02-27T05:30:00+00:00",
-      "category": "Industry",
-      "description": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+      "article_id": "514fdaf416c5a6aed5c3fbb044c20827",
+      "title": "Landmark consultation seeks views on major measures to protect children on social media, gaming platforms and AI chatbots",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/landmark-consultation-seeks-views-on-major-measures-to-protect-children-on-social-media-gaming-platforms-and-ai-chatbots",
+      "published_date": "2026-03-02T00:01:00+00:00",
+      "category": "Government",
+      "description": "Government launches a landmark consultation on UK children's digital wellbeing, covering social media age bans, curfews, AI chatbots and gaming.",
       "author": "",
-      "content": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+      "content": "Government launches a landmark consultation on UK children's digital wellbeing, covering social media age bans, curfews, AI chatbots and gaming.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-06T05:14:46.141807+00:00"
+        "consensus_timestamp": "2026-03-06T08:44:33.143535+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-06T05:14:46.141810+00:00"
+        "timestamp": "2026-03-06T08:44:33.143538+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ff8d18acbdf5962138d832b97467a652",
+      "title": "Bitdefender Partner Advantage Network Earns CRN 5-Star for Eleventh Year",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/bitdefender-partner-advantage-network-earns-crn-5-star-for-eleventh-year/",
+      "published_date": "2026-03-05T14:30:00+00:00",
+      "category": "Industry",
+      "description": "Enhanced Partner Experience, AI-Powered Cybersecurity Innovation and Expanded Enablement Earn Top Channel Recognition Bitdefender, a global cybersecurity leader, today announced that CRN®, a brand of The Channel Company, has awarded the Bitdefender Partner Advantage Network with a 5-star rating in its 2026 Partner Program Guide, marking the eleventh consecutive year Bitdefender has achieved the... The post Bitdefender Partner Advantage Network Earns CRN 5-Star for Eleventh Year first appeared...",
+      "author": "Business Wire",
+      "content": "Enhanced Partner Experience, AI-Powered Cybersecurity Innovation and Expanded Enablement Earn Top Channel Recognition Bitdefender, a global cybersecurity leader, today announced that CRN®, a brand of The Channel Company, has awarded the Bitdefender Partner Advantage Network with a 5-star rating in its 2026 Partner Program Guide, marking the eleventh consecutive year Bitdefender has achieved the... The post Bitdefender Partner Advantage Network Earns CRN 5-Star for Eleventh Year first appeared...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-06T08:44:33.147902+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-06T08:44:33.147905+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cbb5bb03e3845e251b2fddada3530472",
+      "title": "Large model inference container – latest capabilities and performance enhancements",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
+      "published_date": "2026-02-26T17:45:59+00:00",
+      "category": "Industry",
+      "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "author": "Dmitry Soldatkin",
+      "content": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-06T08:44:33.145852+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-06T08:44:33.145857+00:00"
       },
       "article_type": "article"
     }
