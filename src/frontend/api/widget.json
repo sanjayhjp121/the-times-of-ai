@@ -1,22 +1,84 @@
 {
-  "updated": "2026-03-10T13:08:52.401116+00:00",
+  "updated": "2026-03-10T17:01:42.620351+00:00",
   "top_stories": [
     {
-      "article_id": "79d8b11d99a566579c80bb9df574e5c3",
-      "title": "Anthropic sues Defense Department over supply-chain risk designation",
+      "article_id": "9aad8807a6d944d262e30cd56d5f16a1",
+      "title": "Sandbar secures $23M Series A for its AI note-taking ring",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-      "published_date": "2026-03-09T17:25:40+00:00",
+      "url": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
+      "published_date": "2026-03-10T12:40:37+00:00",
       "category": "Industry",
-      "description": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-      "author": "Rebecca Bellan",
-      "content": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+      "description": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
+      "author": "Ivan Mehta",
+      "content": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.835,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-10T17:01:42.568417+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-10T17:01:42.568420+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "082233df7de87bb268e3d628cd0f0c9d",
+      "title": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/software-defined-ai-ran/",
+      "published_date": "2026-03-01T07:00:03+00:00",
+      "category": "Industry",
+      "description": "AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks. Ahead of Mobile World Congress (MWC), running March 2-5 in Barcelona, NVIDIA and Nokia announced new AI-RAN collaborations with top telecom operators across Europe, Asia and North America, powered by NVIDIA AI-RAN […]",
+      "author": "Kanika Atri",
+      "content": "AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks. Ahead of Mobile World Congress (MWC), running March 2-5 in Barcelona, NVIDIA and Nokia announced new AI-RAN collaborations with top telecom operators across Europe, Asia and North America, powered by NVIDIA AI-RAN […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,166 +106,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-10T13:08:52.354901+00:00"
+        "consensus_timestamp": "2026-03-10T17:01:42.567903+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-10T13:08:52.354904+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "eafeba8c10b6d88301a0bb950bd7258e",
-      "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-      "published_date": "2026-03-06T19:00:22+00:00",
-      "category": "Industry",
-      "description": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
-      "author": "Russell Brandom",
-      "content": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.95,
-        "impact_score": 0.95,
-        "overall_score": 0.95,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-10T13:08:52.355336+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-10T13:08:52.355338+00:00"
+        "timestamp": "2026-03-10T17:01:42.567906+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "56e34b26d804b7dd0b31e741cc4c986b",
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "article_id": "be74fd0cbd25dc6a17123178d40916b6",
+      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
       "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-      "published_date": "2026-03-03T16:35:55+00:00",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "published_date": "2026-03-09T13:52:36+00:00",
       "category": "Industry",
-      "description": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
       "author": "",
-      "content": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "content": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.95,
-        "impact_score": 0.99,
-        "overall_score": 0.9430000000000001,
-        "confidence_mean": 0.99
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-10T13:08:52.355968+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-10T13:08:52.355971+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d69baa092db0e9aae9265fc2ad873889",
-      "title": "The emergence of the AI  Architect: Engineering the future of tech",
-      "source": "ai_accelerator_institute",
-      "url": "https://www.aiacceleratorinstitute.com/the-emergence-of-the-ai-architect-engineering-the-future-of-tech/",
-      "published_date": "2026-03-06T14:47:23+00:00",
-      "category": "Industry",
-      "description": "According to Gartner, over 80% of enterprise AI projects fail to move beyond the prototype stage, highlighting the need for professionals who can design systems that work in the real world. Enter the AI Architect...",
-      "author": "Andrew Lovell",
-      "content": "According to Gartner, over 80% of enterprise AI projects fail to move beyond the prototype stage, highlighting the need for professionals who can design systems that work in the real world. Enter the AI Architect...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -230,41 +168,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-10T13:08:52.356985+00:00"
+        "consensus_timestamp": "2026-03-10T17:01:42.569757+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-10T13:08:52.356988+00:00"
+        "timestamp": "2026-03-10T17:01:42.569760+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bde2a903f9d62d8a9b3d9c0c622c9d4a",
-      "title": "Stop Paying for AI You Don't Use: The Case for Fine-Tuned Models",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/fine-tuned-models-vs-frontier-cost/",
-      "published_date": "2026-03-02T17:19:30+00:00",
+      "article_id": "0e4904aad4285cf829abb9ab15cde873",
+      "title": "NVIDIA RTX Innovations Are Powering the Next Era of Game Development",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-rtx-innovations-are-powering-the-next-era-of-game-development/",
+      "published_date": "2026-03-10T15:30:00+00:00",
       "category": "Industry",
-      "description": "Processing 10,000 documents daily through GPT or Claude costs $50K annually. Fine-tuned models: $5K. Same accuracy. Faster latency. Data never leaves your control. But most teams don't realize this is now viable. Here's when frontier models make sense and when you're overpaying.",
-      "author": "Vinit Mehta",
-      "content": "Processing 10,000 documents daily through GPT or Claude costs $50K annually. Fine-tuned models: $5K. Same accuracy. Faster latency. Data never leaves your control. But most teams don't realize this is now viable. Here's when frontier models make sense and when you're overpaying.",
+      "description": "NVIDIA RTX ray tracing and AI-powered neural rendering technologies are redefining how games are made, enabling a new standard for visuals and performance. At...",
+      "author": "Ike Nnoli",
+      "content": "NVIDIA RTX ray tracing and AI-powered neural rendering technologies are redefining how games are made, enabling a new standard for visuals and performance. At...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-10T13:08:52.356372+00:00"
+        "consensus_timestamp": "2026-03-10T17:01:42.568949+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-10T13:08:52.356375+00:00"
+        "timestamp": "2026-03-10T17:01:42.568952+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4fb40e22aa60efe465ad46d1c8763065",
+      "title": "How Balyasny Asset Management built an AI research engine for investing",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "published_date": "2026-03-06T07:00:00+00:00",
+      "category": "Industry",
+      "description": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+      "author": "",
+      "content": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-10T17:01:42.565593+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-10T17:01:42.565597+00:00"
       },
       "article_type": "article"
     }
