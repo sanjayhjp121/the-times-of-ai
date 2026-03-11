@@ -1,22 +1,84 @@
 {
-  "updated": "2026-03-11T02:11:43.247985+00:00",
+  "updated": "2026-03-11T05:17:09.757441+00:00",
   "top_stories": [
     {
-      "article_id": "a390fed8965e805633d73aa5fe8446c4",
-      "title": "Amazon launches its healthcare AI assistant on its website and app",
+      "article_id": "43f1a20efc9e6bb866a7a43a9f377ddb",
+      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
-      "published_date": "2026-03-10T20:10:06+00:00",
+      "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+      "published_date": "2026-03-09T21:15:17+00:00",
       "category": "Industry",
-      "description": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
-      "author": "Aisha Malik",
-      "content": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+      "description": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+      "author": "Rebecca Bellan",
+      "content": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-11T05:17:09.709666+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-11T05:17:09.709669+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "407ab36b8510cfd643bc6b4b69a7e42b",
+      "title": "How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+      "published_date": "2026-03-09T15:00:23+00:00",
+      "category": "Industry",
+      "description": "AI is everywhere and accelerating everything — becoming essential infrastructure to create the intelligence that will advance every industry. That’s why companies are increasingly focusing on the technology’s return on investment (ROI), as well as how to best apply AI to their own use cases. NVIDIA’s annual “State of AI” reports show how AI is […]",
+      "author": "Dan Rowinski",
+      "content": "AI is everywhere and accelerating everything — becoming essential infrastructure to create the intelligence that will advance every industry. That’s why companies are increasingly focusing on the technology’s return on investment (ROI), as well as how to best apply AI to their own use cases. NVIDIA’s annual “State of AI” reports show how AI is […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-11T02:11:43.201052+00:00"
+        "consensus_timestamp": "2026-03-11T05:17:09.708678+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-11T02:11:43.201055+00:00"
+        "timestamp": "2026-03-11T05:17:09.708681+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "9818dca9620f9df3f3f1b71b5c551e0d",
-      "title": "Introducing GPT-5.4",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-gpt-5-4",
-      "published_date": "2026-03-05T10:00:00+00:00",
+      "article_id": "d85963d0bd0e42db17a64adcd6405f40",
+      "title": "Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML Experiments on Single GPUs",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/",
+      "published_date": "2026-03-09T02:47:38+00:00",
       "category": "Industry",
-      "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-      "author": "",
-      "content": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "description": "Andrej Karpathy released autoresearch, a minimalist Python tool designed to enable AI agents to autonomously conduct machine learning experiments. The project is a stripped-down version of the nanochat LLM training core, condensed into a single-file repository of approximately ~630 lines of code. It is optimized for execution on a single NVIDIA GPU. The Autonomous Iteration […] The post Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML...",
+      "author": "Asif Razzaq",
+      "content": "Andrej Karpathy released autoresearch, a minimalist Python tool designed to enable AI agents to autonomously conduct machine learning experiments. The project is a stripped-down version of the nanochat LLM training core, condensed into a single-file repository of approximately ~630 lines of code. It is optimized for execution on a single NVIDIA GPU. The Autonomous Iteration […] The post Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -106,41 +168,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
+        "score": 0.92,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-11T02:11:43.199066+00:00"
+        "consensus_timestamp": "2026-03-11T05:17:09.711500+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
+        "weighted_score": 0.752,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-11T02:11:43.199070+00:00"
+        "timestamp": "2026-03-11T05:17:09.711503+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "80fdc2a74097e42c0baf3f61ddbf7d05",
-      "title": "Accelerate custom LLM deployment: Fine-tune with Oumi and deploy to Amazon Bedrock",
+      "article_id": "64f182b99ba76b1cacd0fc777651f230",
+      "title": "Learnings from COBOL modernization in the real world",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/",
-      "published_date": "2026-03-10T15:42:16+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
+      "published_date": "2026-02-26T18:16:43+00:00",
       "category": "Industry",
-      "description": "In this post, we show how to fine-tune a Llama model using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts in Amazon S3, and deploy to Amazon Bedrock using Custom Model Import for managed inference.",
-      "author": "Bashir Mohammed",
-      "content": "In this post, we show how to fine-tune a Llama model using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts in Amazon S3, and deploy to Amazon Bedrock using Custom Model Import for managed inference.",
+      "description": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
+      "author": "Dr. Asa Kalavade",
+      "content": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-11T02:11:43.199671+00:00"
+        "consensus_timestamp": "2026-03-11T05:17:09.708151+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-11T02:11:43.199674+00:00"
+        "timestamp": "2026-03-11T05:17:09.708154+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8be235be94f673bd8a94d5c17e81e4ae",
-      "title": "Understanding AI and learning outcomes",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-      "published_date": "2026-03-04T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+      "article_id": "319254e9542edcc98b8134449c5dabca",
+      "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
+      "published_date": "2026-03-11T05:13:18.756792+00:00",
+      "category": "Government",
+      "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
       "author": "",
-      "content": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+      "content": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-11T02:11:43.199293+00:00"
+        "consensus_timestamp": "2026-03-11T05:17:09.705644+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-11T02:11:43.199296+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "091b3ddb260f5a7b59fb8ce624254024",
-      "title": "Guidance: How to create, bind and share attributes (1.0)",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/how-to-create-bind-and-share-attributes-1-0",
-      "published_date": "2026-03-06T15:59:18+00:00",
-      "category": "Government",
-      "description": "Guidance on creating, binding, scoring and sharing attributes for organisations certified against the UK digital verification services trust framework as an attribute service provider, or interested in understanding more about attributes.",
-      "author": "",
-      "content": "Guidance on creating, binding, scoring and sharing attributes for organisations certified against the UK digital verification services trust framework as an attribute service provider, or interested in understanding more about attributes.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-11T02:11:43.198453+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-11T02:11:43.198456+00:00"
+        "timestamp": "2026-03-11T05:17:09.705647+00:00"
       },
       "article_type": "article"
     }
