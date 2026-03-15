@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T08:43:38.711963+00:00",
+  "updated": "2026-03-15T13:00:49.179728+00:00",
   "top_stories": [
     {
       "article_id": "cf7cae298faf2be7c6772ebd217a0343",
@@ -12,12 +12,12 @@
       "author": "Anthony Ha",
       "content": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.85
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,35 +44,97 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-15T08:43:38.672332+00:00"
+        "consensus_timestamp": "2026-03-15T13:00:49.139407+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-15T08:43:38.672335+00:00"
+        "timestamp": "2026-03-15T13:00:49.139410+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "cf28169657a3f6e9d29524e2fbe47ef2",
-      "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-      "published_date": "2026-03-12T22:25:50+00:00",
+      "article_id": "681bc14f17dc799e2d86d368eca0770c",
+      "title": "Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
+      "published_date": "2026-03-03T16:23:30+00:00",
       "category": "Industry",
-      "description": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
-      "author": "Marina Temkin",
-      "content": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+      "description": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.",
+      "author": "Amandine Annoye",
+      "content": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-15T13:00:49.138663+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-15T13:00:49.138666+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e242e948ae93b9c69aa62c5681192c55",
+      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "published_date": "2026-03-11T15:00:08+00:00",
+      "category": "Industry",
+      "description": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 19.",
+      "author": "NVIDIA Writers",
+      "content": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 19.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-15T08:43:38.672919+00:00"
+        "consensus_timestamp": "2026-03-15T13:00:49.139038+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,27 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-15T08:43:38.672922+00:00"
+        "timestamp": "2026-03-15T13:00:49.139041+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6b6a7ee7fa8577ba543e9e5d138f3e5b",
-      "title": "From model to agent: Equipping the Responses API with a computer environment",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/equip-responses-api-computer-environment",
-      "published_date": "2026-03-11T11:00:00+00:00",
+      "article_id": "be74fd0cbd25dc6a17123178d40916b6",
+      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "published_date": "2026-03-09T13:52:36+00:00",
       "category": "Industry",
-      "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
       "author": "",
-      "content": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "content": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -169,21 +231,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-15T08:43:38.670021+00:00"
+        "consensus_timestamp": "2026-03-15T13:00:49.141180+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-15T08:43:38.670024+00:00"
+        "timestamp": "2026-03-15T13:00:49.141183+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-15T08:43:38.673302+00:00"
+        "consensus_timestamp": "2026-03-15T13:00:49.140444+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-15T08:43:38.673305+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c75df291a59e8361e29a4d3d218773e8",
-      "title": "Introducing the Adoption news channel",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-      "published_date": "2026-03-05T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Practical insights and frameworks to turn AI progress into business advantage",
-      "author": "",
-      "content": "Practical insights and frameworks to turn AI progress into business advantage",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-15T08:43:38.670505+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-15T08:43:38.670507+00:00"
+        "timestamp": "2026-03-15T13:00:49.140447+00:00"
       },
       "article_type": "article"
     }
