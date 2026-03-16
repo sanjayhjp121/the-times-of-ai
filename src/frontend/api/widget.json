@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T02:39:33.758967+00:00",
+  "updated": "2026-03-16T05:54:29.316433+00:00",
   "top_stories": [
     {
       "article_id": "7450dfea5b11a44fb159feafa81cc8c5",
@@ -48,7 +48,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.726241+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.279131+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,7 +59,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.726243+00:00"
+        "timestamp": "2026-03-16T05:54:29.279134+00:00"
       },
       "article_type": "headline"
     },
@@ -74,12 +74,12 @@
       "author": "",
       "content": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
+        "relevance_score": 0.95,
+        "quality_score": 0.98,
+        "novelty_score": 0.9,
+        "impact_score": 0.99,
+        "overall_score": 0.9530000000000001,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -107,40 +107,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.723130+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.276749+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.723132+00:00"
+        "timestamp": "2026-03-16T05:54:29.276751+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "13795601290fe379dc0306d3dfd60872",
-      "title": "NIH-supported trial reduces HIV incidence by 70% in rural populations",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations",
-      "published_date": "2026-03-16T02:35:37.181816+00:00",
-      "category": "Government",
-      "description": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
+      "article_id": "fd143c54c5562e10fbcff2a729e43a37",
+      "title": "Designing AI agents to resist prompt injection",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "published_date": "2026-03-11T11:30:00+00:00",
+      "category": "Industry",
+      "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
       "author": "",
-      "content": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
+      "content": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "overall_score": 0.9035,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.721648+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.276657+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.721652+00:00"
+        "timestamp": "2026-03-16T05:54:29.276660+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bd54827b71cd9131de6797f97c3ddba0",
-      "title": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/",
-      "published_date": "2026-03-09T20:48:46+00:00",
+      "article_id": "e0cf923b64f9ab3e590bc53133ca01ab",
+      "title": "OpenAI to acquire Promptfoo",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "published_date": "2026-03-09T10:00:00+00:00",
       "category": "Industry",
-      "description": "We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless model in Amazon Bedrock. This follows our earlier announcement at AWS re:Invent supporting NVIDIA Nemotron 2 Nano 9B and NVIDIA Nemotron 2 Nano VL 12B models. This post explores the technical characteristics of the NVIDIA Nemotron 3 Nano model and discusses potential application use cases. Additionally, it provides technical guidance to help you get started using this model for your...",
-      "author": "Aris Tsakpinis",
-      "content": "We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless model in Amazon Bedrock. This follows our earlier announcement at AWS re:Invent supporting NVIDIA Nemotron 2 Nano 9B and NVIDIA Nemotron 2 Nano VL 12B models. This post explores the technical characteristics of the NVIDIA Nemotron 3 Nano model and discusses potential application use cases. Additionally, it provides technical guidance to help you get started using this model for your...",
+      "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "author": "",
+      "content": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "overall_score": 0.9035,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -230,42 +230,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.95,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.724370+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.276891+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.77,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.724372+00:00"
+        "timestamp": "2026-03-16T05:54:29.276894+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3dc286f713a4fbe10bcd673e18b55179",
-      "title": "Protecting cities with AI-driven flash flood forecasting",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
-      "published_date": "2026-03-12T13:03:15+00:00",
+      "article_id": "fc9dbd85bedfc495c602e31f484b93cc",
+      "title": "Build Accelerated, Differentiable Computational Physics Code for AI with NVIDIA Warp",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp/",
+      "published_date": "2026-03-12T17:30:00+00:00",
       "category": "Industry",
-      "description": "Climate & Sustainability",
-      "author": "",
-      "content": "Climate & Sustainability",
+      "description": "Computer-aided engineering (CAE) is shifting from human-driven workflows toward AI-driven ones, including physics foundation models that generalize across...",
+      "author": "Sheel Nidhan",
+      "content": "Computer-aided engineering (CAE) is shifting from human-driven workflows toward AI-driven ones, including physics foundation models that generalize across...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.727608+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.280010+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.727611+00:00"
+        "timestamp": "2026-03-16T05:54:29.280012+00:00"
       },
       "article_type": "article"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T02:39:33.756239+00:00",
+  "generated_at": "2026-03-16T05:54:29.313555+00:00",
   "articles": [
     {
       "article_id": "7450dfea5b11a44fb159feafa81cc8c5",
@@ -48,7 +48,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.726241+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.279131+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,7 +59,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.726243+00:00"
+        "timestamp": "2026-03-16T05:54:29.279134+00:00"
       },
       "article_type": "headline"
     },
@@ -74,12 +74,198 @@
       "author": "",
       "content": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
       "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.98,
+        "novelty_score": 0.9,
+        "impact_score": 0.99,
+        "overall_score": 0.9530000000000001,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-16T05:54:29.276749+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-16T05:54:29.276751+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fd143c54c5562e10fbcff2a729e43a37",
+      "title": "Designing AI agents to resist prompt injection",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "published_date": "2026-03-11T11:30:00+00:00",
+      "category": "Industry",
+      "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "author": "",
+      "content": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9035,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-16T05:54:29.276657+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-16T05:54:29.276660+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e0cf923b64f9ab3e590bc53133ca01ab",
+      "title": "OpenAI to acquire Promptfoo",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "published_date": "2026-03-09T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "author": "",
+      "content": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9035,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-16T05:54:29.276891+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-16T05:54:29.276894+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fc9dbd85bedfc495c602e31f484b93cc",
+      "title": "Build Accelerated, Differentiable Computational Physics Code for AI with NVIDIA Warp",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp/",
+      "published_date": "2026-03-12T17:30:00+00:00",
+      "category": "Industry",
+      "description": "Computer-aided engineering (CAE) is shifting from human-driven workflows toward AI-driven ones, including physics foundation models that generalize across...",
+      "author": "Sheel Nidhan",
+      "content": "Computer-aided engineering (CAE) is shifting from human-driven workflows toward AI-driven ones, including physics foundation models that generalize across...",
+      "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.723130+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.280010+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +307,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.723132+00:00"
+        "timestamp": "2026-03-16T05:54:29.280012+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bde2a903f9d62d8a9b3d9c0c622c9d4a",
+      "title": "Stop Paying for AI You Don't Use: The Case for Fine-Tuned Models",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/fine-tuned-models-vs-frontier-cost/",
+      "published_date": "2026-03-02T17:19:30+00:00",
+      "category": "Industry",
+      "description": "Processing 10,000 documents daily through GPT or Claude costs $50K annually. Fine-tuned models: $5K. Same accuracy. Faster latency. Data never leaves your control. But most teams don't realize this is now viable. Here's when frontier models make sense and when you're overpaying.",
+      "author": "Vinit Mehta",
+      "content": "Processing 10,000 documents daily through GPT or Claude costs $50K annually. Fine-tuned models: $5K. Same accuracy. Faster latency. Data never leaves your control. But most teams don't realize this is now viable. Here's when frontier models make sense and when you're overpaying.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-16T05:54:29.281908+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-16T05:54:29.281911+00:00"
       },
       "article_type": "article"
     },
@@ -130,7 +378,7 @@
       "title": "NIH-supported trial reduces HIV incidence by 70% in rural populations",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations",
-      "published_date": "2026-03-16T02:35:37.181816+00:00",
+      "published_date": "2026-03-16T05:50:05.950458+00:00",
       "category": "Government",
       "description": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
       "author": "",
@@ -172,7 +420,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.721648+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.275013+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,150 +431,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.721652+00:00"
+        "timestamp": "2026-03-16T05:54:29.275017+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bd54827b71cd9131de6797f97c3ddba0",
-      "title": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/",
-      "published_date": "2026-03-09T20:48:46+00:00",
-      "category": "Industry",
-      "description": "We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless model in Amazon Bedrock. This follows our earlier announcement at AWS re:Invent supporting NVIDIA Nemotron 2 Nano 9B and NVIDIA Nemotron 2 Nano VL 12B models. This post explores the technical characteristics of the NVIDIA Nemotron 3 Nano model and discusses potential application use cases. Additionally, it provides technical guidance to help you get started using this model for your...",
-      "author": "Aris Tsakpinis",
-      "content": "We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless model in Amazon Bedrock. This follows our earlier announcement at AWS re:Invent supporting NVIDIA Nemotron 2 Nano 9B and NVIDIA Nemotron 2 Nano VL 12B models. This post explores the technical characteristics of the NVIDIA Nemotron 3 Nano model and discusses potential application use cases. Additionally, it provides technical guidance to help you get started using this model for your...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.724370+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-16T02:39:33.724372+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3dc286f713a4fbe10bcd673e18b55179",
-      "title": "Protecting cities with AI-driven flash flood forecasting",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
-      "published_date": "2026-03-12T13:03:15+00:00",
-      "category": "Industry",
-      "description": "Climate & Sustainability",
+      "article_id": "600568d0ebc27bb3ff3e6fce2ae5c29f",
+      "title": "NIH-funded study clearly ties risk of dementia to severe CTE",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-clearly-ties-risk-dementia-severe-cte",
+      "published_date": "2026-03-16T05:50:05.950924+00:00",
+      "category": "Government",
+      "description": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
       "author": "",
-      "content": "Climate & Sustainability",
+      "content": "Study provides clearest evidence to date to link severe CTE to dementia risk.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.727608+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-16T02:39:33.727611+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "50865f43a88ecf5698fe10a4d5c82fc4",
-      "title": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design, Engineering and Manufacturing Across Industries",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/",
-      "published_date": "2026-03-12T15:00:51+00:00",
-      "category": "Industry",
-      "description": "Industrial AI, digital twins, AI physics and accelerated AI infrastructure are empowering companies across industries to accelerate and scale the design, simulation and optimization of products, processes and facilities before building in the real world.",
-      "author": "James McKenna",
-      "content": "Industrial AI, digital twins, AI physics and accelerated AI infrastructure are empowering companies across industries to accelerate and scale the design, simulation and optimization of products, processes and facilities before building in the real world.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -358,7 +482,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.724911+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.275723+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,193 +493,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.724914+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "32206e82ff2510c739fc8d745648a16f",
-      "title": "NVIDIA and Thinking Machines Lab Announce Long-Term Gigawatt-Scale Strategic Partnership",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/",
-      "published_date": "2026-03-10T13:00:11+00:00",
-      "category": "Industry",
-      "description": "NVIDIA and Thinking Machines Lab announced today a multiyear strategic partnership to deploy at least one gigawatt of next-generation NVIDIA Vera Rubin systems to support Thinking Machines’ frontier model training and platforms delivering customizable AI at scale. Deployment on the NVIDIA Vera Rubin platform is targeted for early next year. The partnership also includes an […]",
-      "author": "NVIDIA Newsroom",
-      "content": "NVIDIA and Thinking Machines Lab announced today a multiyear strategic partnership to deploy at least one gigawatt of next-generation NVIDIA Vera Rubin systems to support Thinking Machines’ frontier model training and platforms delivering customizable AI at scale. Deployment on the NVIDIA Vera Rubin platform is targeted for early next year. The partnership also includes an […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.725148+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-16T02:39:33.725151+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a1f83e4d1ee06d1a8f46c8fc8959630e",
-      "title": "cuTile.jl Brings NVIDIA CUDA Tile-Based Programming to Julia",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
-      "published_date": "2026-03-03T19:48:16+00:00",
-      "category": "Industry",
-      "description": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized...",
-      "author": "Tim Besard",
-      "content": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.727524+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-16T02:39:33.727526+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a46fa209dab2c72ab2b7fa1aff9fcc6e",
-      "title": "How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
-      "published_date": "2026-03-03T16:18:30+00:00",
-      "category": "Industry",
-      "description": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes they’ve achieved. Their journey offers valuable insights for organizations that want to use generative AI to transform customer experiences while maintaining the human touch that builds trust and loyalty.",
-      "author": "Deepak Dalakoti",
-      "content": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes they’ve achieved. Their journey offers valuable insights for organizations that want to use generative AI to transform customer experiences while maintaining the human touch that builds trust and loyalty.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.724708+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-16T02:39:33.724711+00:00"
+        "timestamp": "2026-03-16T05:54:29.275727+00:00"
       },
       "article_type": "article"
     },
@@ -570,12 +508,12 @@
       "author": "Theresa Loconsolo",
       "content": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google’s $32 billion deal, finalized after a declined 2024 offer, antitrust review on both sides of the Atlantic, and an […]",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "overall_score": 0.8875,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -603,41 +541,165 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.726731+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.279644+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.726733+00:00"
+        "timestamp": "2026-03-16T05:54:29.279647+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5e2cb1b2d28a48377dcaacfe9bceece3",
-      "title": "Cutting-edge timing technology to protect vital services",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/cutting-edge-timing-technology-to-protect-vital-services",
-      "published_date": "2026-03-07T00:01:04+00:00",
-      "category": "Government",
-      "description": "New terrestrial timing signal will ease reliance on satellite systems for digital infrastructure, like mobile phone networks and online banking.",
-      "author": "",
-      "content": "New terrestrial timing signal will ease reliance on satellite systems for digital infrastructure, like mobile phone networks and online banking.",
+      "article_id": "0e4904aad4285cf829abb9ab15cde873",
+      "title": "NVIDIA RTX Innovations Are Powering the Next Era of Game Development",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-rtx-innovations-are-powering-the-next-era-of-game-development/",
+      "published_date": "2026-03-10T15:30:00+00:00",
+      "category": "Industry",
+      "description": "NVIDIA RTX ray tracing and AI-powered neural rendering technologies are redefining how games are made, enabling a new standard for visuals and performance. At...",
+      "author": "Ike Nnoli",
+      "content": "NVIDIA RTX ray tracing and AI-powered neural rendering technologies are redefining how games are made, enabling a new standard for visuals and performance. At...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-16T05:54:29.280197+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-16T05:54:29.280202+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "17d0ba49a11eea9400224dc6f69f56ae",
+      "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/filecoin-price-prediction",
+      "published_date": "2026-03-15T14:15:35+00:00",
+      "category": "Industry",
+      "description": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
+      "author": "Ishan Jain",
+      "content": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.7,
+        "overall_score": 0.8475,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.75,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-16T05:54:29.281670+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6499999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-16T05:54:29.281673+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cb9ce6a458a34f96d6065089ca12fdbc",
+      "title": "New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/",
+      "published_date": "2026-03-11T16:00:21+00:00",
+      "category": "Industry",
+      "description": "Launched today, NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex agentic AI systems at scale. Available now, the model combines advanced reasoning capabilities to efficiently complete tasks with high accuracy for autonomous agents. AI-Native Companies: Perplexity offers its users access to Nemotron 3 Super for […]",
+      "author": "Kari Briski",
+      "content": "Launched today, NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex agentic AI systems at scale. Available now, the model combines advanced reasoning capabilities to efficiently complete tasks with high accuracy for autonomous agents. AI-Native Companies: Perplexity offers its users access to Nemotron 3 Super for […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -665,164 +727,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.722882+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.278667+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.722886+00:00"
+        "timestamp": "2026-03-16T05:54:29.278670+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e0cf923b64f9ab3e590bc53133ca01ab",
-      "title": "OpenAI to acquire Promptfoo",
+      "article_id": "9818dca9620f9df3f3f1b71b5c551e0d",
+      "title": "Introducing GPT-5.4",
       "source": "openai_blog",
-      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-      "published_date": "2026-03-09T10:00:00+00:00",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "published_date": "2026-03-05T10:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
       "author": "",
-      "content": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "content": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.723251+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-16T02:39:33.723254+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "022bd95744a32d3021161649d85c269c",
-      "title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
-      "published_date": "2026-03-02T18:51:43+00:00",
-      "category": "Industry",
-      "description": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI.",
-      "author": "Sri Potluri",
-      "content": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.724831+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-16T02:39:33.724833+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d604617bf7ea5561dbf36e01cc16f184",
-      "title": "Building custom model provider for Strands Agents with LLMs hosted on SageMaker AI endpoints",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-custom-model-provider-for-strands-agents-with-llms-hosted-on-sagemaker-ai-endpoints/",
-      "published_date": "2026-03-05T16:15:41+00:00",
-      "category": "Industry",
-      "description": "This post demonstrates how to build custom model parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the Bedrock Messages API format. We'll walk through deploying Llama 3.1 with SGLang on SageMaker using awslabs/ml-container-creator, then implementing a custom parser to integrate it with Strands agents.",
-      "author": "Dan Ferguson",
-      "content": "This post demonstrates how to build custom model parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the Bedrock Messages API format. We'll walk through deploying Llama 3.1 with SGLang on SageMaker using awslabs/ml-container-creator, then implementing a custom parser to integrate it with Strands agents.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "overall_score": 0.875,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-16T05:54:29.277084+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-16T05:54:29.277088+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c0f2f0b58f9023c6fdf0415e7e005a2e",
+      "title": "Tech companies must go 'above and beyond' to protect women and girls from online abuse or face further action",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/tech-companies-must-go-above-and-beyond-to-protect-women-and-girls-from-online-abuse-or-face-further-action",
+      "published_date": "2026-03-10T00:01:03+00:00",
+      "category": "Government",
+      "description": "Tech firms must do more to protect women and girls online or face further action, Tech Secretary Liz Kendall warns at major platform roundtable.",
+      "author": "",
+      "content": "Tech firms must do more to protect women and girls online or face further action, Tech Secretary Liz Kendall warns at major platform roundtable.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8624999999999998,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -854,7 +854,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.724503+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.276356+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,26 +865,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.724506+00:00"
+        "timestamp": "2026-03-16T05:54:29.276359+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6941a6456a92cc541832cceefe30f8c9",
-      "title": "Introducing ChatGPT for Excel and new financial data integrations",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/chatgpt-for-excel",
-      "published_date": "2026-03-05T00:00:00+00:00",
+      "article_id": "69a5df3afd8fa2dbd09f311bd6b7c685",
+      "title": "Embed Amazon Quick Suite chat agents in enterprise applications",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/",
+      "published_date": "2026-03-04T21:20:58+00:00",
       "category": "Industry",
-      "description": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-      "author": "",
-      "content": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+      "description": "Organizations find it challenging to implement a secure embedded chat in their applications and can require weeks of development to build authentication, token validation, domain security, and global distribution infrastructure. In this post, we show you how to solve this with a one-click deployment solution to embed the chat agents using the Quick Suite Embedding SDK in enterprise portals.",
+      "author": "Satyanarayana Adimula",
+      "content": "Organizations find it challenging to implement a secure embedded chat in their applications and can require weeks of development to build authentication, token validation, domain security, and global distribution infrastructure. In this post, we show you how to solve this with a one-click deployment solution to embed the chat agents using the Quick Suite Embedding SDK in enterprise portals.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.845,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.85,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T02:39:33.723595+00:00"
+        "consensus_timestamp": "2026-03-16T05:54:29.278179+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T02:39:33.723597+00:00"
+        "timestamp": "2026-03-16T05:54:29.278182+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 164.61303544044495,
+    "processing_time": 176.28559827804565,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 129,
+      "total_processed": 137,
       "candidates": {
         "headlines": 5,
-        "articles": 124,
+        "articles": 132,
         "research_papers": 0
       },
       "selected": {
