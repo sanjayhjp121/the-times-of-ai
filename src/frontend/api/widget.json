@@ -1,22 +1,146 @@
 {
-  "updated": "2026-03-16T20:47:49.787776+00:00",
+  "updated": "2026-03-17T02:18:20.914140+00:00",
   "top_stories": [
     {
-      "article_id": "7450dfea5b11a44fb159feafa81cc8c5",
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "article_id": "52c3351fd725708542f8ea4cd3a38ade",
+      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-      "published_date": "2026-03-15T18:49:32+00:00",
+      "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "published_date": "2026-03-15T21:01:51+00:00",
       "category": "Industry",
-      "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-      "author": "Rebecca Bellan",
-      "content": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "description": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+      "author": "Anthony Ha",
+      "content": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-17T02:18:20.868830+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-17T02:18:20.868834+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "d604617bf7ea5561dbf36e01cc16f184",
+      "title": "Building custom model provider for Strands Agents with LLMs hosted on SageMaker AI endpoints",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-custom-model-provider-for-strands-agents-with-llms-hosted-on-sagemaker-ai-endpoints/",
+      "published_date": "2026-03-05T16:15:41+00:00",
+      "category": "Industry",
+      "description": "This post demonstrates how to build custom model parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the Bedrock Messages API format. We'll walk through deploying Llama 3.1 with SGLang on SageMaker using awslabs/ml-container-creator, then implementing a custom parser to integrate it with Strands agents.",
+      "author": "Dan Ferguson",
+      "content": "This post demonstrates how to build custom model parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the Bedrock Messages API format. We'll walk through deploying Llama 3.1 with SGLang on SageMaker using awslabs/ml-container-creator, then implementing a custom parser to integrate it with Strands agents.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-17T02:18:20.867499+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-17T02:18:20.867502+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b16720fe4863ca2142c855d9d8841537",
+      "title": "AI Agent Hacks McKinsey: 5 Situations When You Should Not Deploy Agents",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/ai-agent-hacks-mckinsey/",
+      "published_date": "2026-03-14T12:04:36+00:00",
+      "category": "Industry",
+      "description": "McKinsey hacked in 2 hours. 5 situations where AI agents will fail. Production permissions, regulated data, legacy systems—check before deploy.",
+      "author": "Vinit Mehta",
+      "content": "McKinsey hacked in 2 hours. 5 situations where AI agents will fail. Production permissions, regulated data, legacy systems—check before deploy.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.8975,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,96 +169,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T20:47:49.743402+00:00"
+        "consensus_timestamp": "2026-03-17T02:18:20.871129+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T20:47:49.743407+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "66fbe945c1649ec662cdbf929a8f44ac",
-      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-      "published_date": "2026-03-14T16:28:42+00:00",
-      "category": "Industry",
-      "description": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-      "author": "Anthony Ha",
-      "content": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T20:47:49.743545+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-16T20:47:49.743548+00:00"
+        "timestamp": "2026-03-17T02:18:20.871132+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b4875ab475aade0455c1fe965d53bce3",
-      "title": "Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs",
+      "article_id": "7300dd8d5613978fef2f442a3d16a251",
+      "title": "ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/",
-      "published_date": "2026-03-16T20:30:59+00:00",
+      "url": "https://blogs.nvidia.com/blog/abb-robotics-omniverse/",
+      "published_date": "2026-03-09T15:00:34+00:00",
       "category": "Industry",
-      "description": "Roche's new deployment spans more than 3,500 NVIDIA Blackwell GPUs across its worldwide operations and embedded across the entire value chain, massively scaling R&D productivity, next-generation diagnostics and manufacturing efficiencies.",
-      "author": "Constantin Landers",
-      "content": "Roche's new deployment spans more than 3,500 NVIDIA Blackwell GPUs across its worldwide operations and embedded across the entire value chain, massively scaling R&D productivity, next-generation diagnostics and manufacturing efficiencies.",
+      "description": "ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor. By integrating NVIDIA Omniverse libraries directly into its RobotStudio programming and simulation suite, ABB Robotics will now deliver physically accurate simulation capabilities in its platform, dramatically cutting engineering time, reducing deployment costs by up to 40% and […]",
+      "author": "Scott Martin",
+      "content": "ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor. By integrating NVIDIA Omniverse libraries directly into its RobotStudio programming and simulation suite, ABB Robotics will now deliver physically accurate simulation capabilities in its platform, dramatically cutting engineering time, reducing deployment costs by up to 40% and […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -172,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T20:47:49.742470+00:00"
+        "consensus_timestamp": "2026-03-17T02:18:20.868208+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,89 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T20:47:49.742473+00:00"
+        "timestamp": "2026-03-17T02:18:20.868211+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3e72af6ad6ef0d66260ef3245c160fa6",
-      "title": "Inside NVIDIA Groq 3 LPX: The Low-Latency Inference Accelerator for the NVIDIA Vera Rubin Platform",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-groq-3-lpx-the-low-latency-inference-accelerator-for-the-nvidia-vera-rubin-platform/",
-      "published_date": "2026-03-16T20:32:26+00:00",
+      "article_id": "cf7cae298faf2be7c6772ebd217a0343",
+      "title": "US Army announces contract with Anduril worth up to $20B",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "published_date": "2026-03-14T20:47:47+00:00",
       "category": "Industry",
-      "description": "NVIDIA Groq 3 LPX is a new rack-scale inference accelerator for the NVIDIA Vera Rubin platform, designed for the low-latency and large-context demands of...",
-      "author": "Kyle Aubrey",
-      "content": "NVIDIA Groq 3 LPX is a new rack-scale inference accelerator for the NVIDIA Vera Rubin platform, designed for the low-latency and large-context demands of...",
+      "description": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "author": "Anthony Ha",
+      "content": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T20:47:49.743941+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-16T20:47:49.743944+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "927ec9380d57f11151f54488e3c27c75",
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "published_date": "2026-03-05T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "author": "",
-      "content": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.95
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-16T20:47:49.741053+00:00"
+        "consensus_timestamp": "2026-03-17T02:18:20.868974+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-16T20:47:49.741056+00:00"
+        "timestamp": "2026-03-17T02:18:20.868977+00:00"
       },
       "article_type": "article"
     }
