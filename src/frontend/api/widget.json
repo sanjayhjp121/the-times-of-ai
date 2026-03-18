@@ -1,23 +1,23 @@
 {
-  "updated": "2026-03-18T13:20:46.232303+00:00",
+  "updated": "2026-03-18T17:07:13.469637+00:00",
   "top_stories": [
     {
-      "article_id": "c8dea9d80ea11865cf052b6b2f8cdf0b",
-      "title": "The Pentagon is developing alternatives to Anthropic, report says",
+      "article_id": "7dbc8730a4ff5e371caf214b1774c5ea",
+      "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-      "published_date": "2026-03-17T18:20:15+00:00",
+      "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+      "published_date": "2026-03-18T13:40:43+00:00",
       "category": "Industry",
-      "description": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-      "author": "Amanda Silberling",
-      "content": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+      "description": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
+      "author": "Rebecca Bellan",
+      "content": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-18T13:20:46.189439+00:00"
+        "consensus_timestamp": "2026-03-18T17:07:13.424515+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +59,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-18T13:20:46.189442+00:00"
+        "timestamp": "2026-03-18T17:07:13.424518+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "1f36bab142a2c203d36a77b78d47dd94",
-      "title": "Multimodal embeddings at scale: AI data lake for media and entertainment workloads",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/",
-      "published_date": "2026-03-12T15:59:35+00:00",
+      "article_id": "f99d7b4b76e9e0a2b09fba439dda8f04",
+      "title": "How to Build Deep Agents for Enterprise Search with NVIDIA AI-Q and LangChain",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-build-deep-agents-for-enterprise-search-with-nvidia-ai-q-and-langchain/",
+      "published_date": "2026-03-18T16:00:00+00:00",
       "category": "Industry",
-      "description": "This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amazon Nova models and Amazon OpenSearch Service. You will learn how to move beyond manual tagging and keyword-based searches to enable semantic search that captures the full richness of video content.",
-      "author": "Hammad Ausaf",
-      "content": "This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amazon Nova models and Amazon OpenSearch Service. You will learn how to move beyond manual tagging and keyword-based searches to enable semantic search that captures the full richness of video content.",
+      "description": "While consumer AI offers powerful capabilities, workplace tools often suffer from disjointed data and limited context. Built with LangChain, the NVIDIA AI-Q...",
+      "author": "Sean Lopp",
+      "content": "While consumer AI offers powerful capabilities, workplace tools often suffer from disjointed data and limited context. Built with LangChain, the NVIDIA AI-Q...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.925,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-18T17:07:13.425152+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-18T17:07:13.425155+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "747e72edec3393eea8cc670a942bc7ce",
+      "title": "Build Next-Gen Physical AI with Edge‑First LLMs for Autonomous Vehicles and Robotics",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/build-next-gen-physical-ai-with-edge%e2%80%91first-llms-for-autonomous-vehicles-and-robotics/",
+      "published_date": "2026-03-12T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Physical AI is rapidly evolving, from next-generation software-defined autonomous vehicles (AVs) to humanoid robots. The challenge is no longer how to run a...",
+      "author": "Lin Chai",
+      "content": "Physical AI is rapidly evolving, from next-generation software-defined autonomous vehicles (AVs) to humanoid robots. The challenge is no longer how to run a...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -107,34 +169,96 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-18T13:20:46.188209+00:00"
+        "consensus_timestamp": "2026-03-18T17:07:13.425844+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-18T13:20:46.188212+00:00"
+        "timestamp": "2026-03-18T17:07:13.425846+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "927ec9380d57f11151f54488e3c27c75",
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "published_date": "2026-03-05T10:00:00+00:00",
+      "article_id": "867c9b6e46047381ef399e7eb223f1ad",
+      "title": "WAXAL: A large-scale open resource for African language speech technology",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
+      "published_date": "2026-03-06T20:06:00+00:00",
       "category": "Industry",
-      "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "description": "Natural Language Processing",
       "author": "",
-      "content": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "content": "Natural Language Processing",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-18T17:07:13.426285+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-18T17:07:13.426287+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9684f5cff900e970245a409a0386ff27",
+      "title": "Cognitive speed training over weeks may delay the diagnosis of dementia over decades",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/cognitive-speed-training-over-weeks-may-delay-diagnosis-dementia-over-decades",
+      "published_date": "2026-03-18T17:02:34.698169+00:00",
+      "category": "Government",
+      "description": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
+      "author": "",
+      "content": "NIH-funded effort finds positive outcomes with strategies that engaged mostly unconscious, rather than conscious, thinking.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -172,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-18T13:20:46.187584+00:00"
+        "consensus_timestamp": "2026-03-18T17:07:13.420768+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-18T13:20:46.187586+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "67c6ec88b86a7bee2a77b72a4ae3c96a",
-      "title": "Research: Evaluation of the NI Cyber AI Hub programme",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/evaluation-of-the-ni-cyber-ai-hub-programme",
-      "published_date": "2026-03-11T10:32:26+00:00",
-      "category": "Government",
-      "description": "An evaluation setting out progress on the Cyber-AI Hub Programme being delivered in Northern Ireland by Queen’s University Belfast.",
-      "author": "",
-      "content": "An evaluation setting out progress on the Cyber-AI Hub Programme being delivered in Northern Ireland by Queen’s University Belfast.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-18T13:20:46.186897+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-18T13:20:46.186899+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "acd51b719809aa3ce9226bc7ea3b46ae",
-      "title": "Codex Security: now in research preview",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
-      "published_date": "2026-03-06T10:00:00+00:00",
-      "category": "Industry",
-      "description": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-      "author": "",
-      "content": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-18T13:20:46.187427+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-18T13:20:46.187429+00:00"
+        "timestamp": "2026-03-18T17:07:13.420772+00:00"
       },
       "article_type": "article"
     }
