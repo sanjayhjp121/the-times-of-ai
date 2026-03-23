@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T20:34:56.780073+00:00",
+  "updated": "2026-03-23T02:31:38.966295+00:00",
   "top_stories": [
     {
       "article_id": "67407454d41792ca314a6797b9fa0418",
@@ -45,165 +45,41 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-22T20:34:56.746120+00:00"
+        "consensus_timestamp": "2026-03-23T02:31:38.932546+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-22T20:34:56.746122+00:00"
+        "timestamp": "2026-03-23T02:31:38.932549+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "e0cf923b64f9ab3e590bc53133ca01ab",
-      "title": "OpenAI to acquire Promptfoo",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-      "published_date": "2026-03-09T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "article_id": "13795601290fe379dc0306d3dfd60872",
+      "title": "NIH-supported trial reduces HIV incidence by 70% in rural populations",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-supported-trial-reduces-hiv-incidence-70-rural-populations",
+      "published_date": "2026-03-23T02:27:49.915866+00:00",
+      "category": "Government",
+      "description": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
       "author": "",
-      "content": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "content": "Study&nbsp;used technology to extend reach of existing infrastructure, linking people to care.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-22T20:34:56.743592+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-22T20:34:56.743594+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "66380125a13ad842a98c2d5a33a7ddf3",
-      "title": "Run NVIDIA Nemotron 3 Super on Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/",
-      "published_date": "2026-03-19T17:25:44+00:00",
-      "category": "Industry",
-      "description": "This post explores the technical characteristics of the Nemotron 3 Super model and discusses potential application use cases. It also provides technical guidance to get started using this model for your generative AI applications within the Amazon Bedrock environment.",
-      "author": "Aris Tsakpinis",
-      "content": "This post explores the technical characteristics of the Nemotron 3 Super model and discusses potential application use cases. It also provides technical guidance to get started using this model for your generative AI applications within the Amazon Bedrock environment.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-22T20:34:56.743997+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-22T20:34:56.744000+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2175b4785cb99b9b91b3d937007c1b00",
-      "title": "Evaluating AI agents for production: A practical guide to Strands Evals",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/",
-      "published_date": "2026-03-18T15:54:09+00:00",
-      "category": "Industry",
-      "description": "In this post, we show how to evaluate AI agents systematically using Strands Evals. We walk through the core concepts, built-in evaluators, multi-turn simulation capabilities and practical approaches and patterns for integration.",
-      "author": "Ishan Singh",
-      "content": "In this post, we show how to evaluate AI agents systematically using Strands Evals. We walk through the core concepts, built-in evaluators, multi-turn simulation capabilities and practical approaches and patterns for integration.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-22T20:34:56.744319+00:00"
+        "consensus_timestamp": "2026-03-23T02:31:38.928633+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-22T20:34:56.744322+00:00"
+        "timestamp": "2026-03-23T02:31:38.928638+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1d682bbe84ce10c3228008e444b48a2e",
-      "title": "How AI is changing the nature of mathematical research",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
-      "published_date": "2026-03-09T17:55:47+00:00",
-      "category": "Industry",
-      "description": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
-      "author": "Michael Kearns",
-      "content": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
+      "article_id": "7f6261b49b89d264a882fa8fe622a9a9",
+      "title": "UK’s \"Quantum leap\"  to help beat disease, deliver high-paid jobs, and strengthen national security, as first country in the world to roll out Quantum computers at scale",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/uks-quantum-leap-tohelp-beat-diseasedeliver-high-paid-jobs-and-strengthen-national-security-as-first-country-in-the-world-to-roll-out-quantum",
+      "published_date": "2026-03-17T00:01:04+00:00",
+      "category": "Government",
+      "description": "UK unveils new package of measures to become the first country in the world to roll out Quantum computers at scale.",
+      "author": "",
+      "content": "UK unveils new package of measures to become the first country in the world to roll out Quantum computers at scale.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-22T20:34:56.748194+00:00"
+        "consensus_timestamp": "2026-03-23T02:31:38.929276+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-22T20:34:56.748196+00:00"
+        "timestamp": "2026-03-23T02:31:38.929280+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2484a66f2df10f9e58a80af472e44103",
+      "title": "P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/",
+      "published_date": "2026-03-13T19:27:04+00:00",
+      "category": "Industry",
+      "description": "In this post, we explain how P-EAGLE works, how we integrated it into vLLM starting from v0.16.0 (PR#32887), and how to serve it with our pre-trained checkpoints.",
+      "author": "Xin Huang",
+      "content": "In this post, we explain how P-EAGLE works, how we integrated it into vLLM starting from v0.16.0 (PR#32887), and how to serve it with our pre-trained checkpoints.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-23T02:31:38.931282+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-23T02:31:38.931285+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "51acb3fe718ae945d7ea390669e2bdc7",
+      "title": "Scale Synthetic Data and Physical AI Reasoning with NVIDIA Cosmos World Foundation Models",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/scale-synthetic-data-and-physical-ai-reasoning-with-nvidia-cosmos-world-foundation-models/",
+      "published_date": "2026-03-13T16:00:47+00:00",
+      "category": "Industry",
+      "description": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse and...",
+      "author": "Pranjali Joshi",
+      "content": "The next generation of AI-driven robots like humanoids and autonomous vehicles depends on high-fidelity, physics-aware training data. Without diverse and...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-23T02:31:38.933649+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-23T02:31:38.933652+00:00"
       },
       "article_type": "article"
     }
