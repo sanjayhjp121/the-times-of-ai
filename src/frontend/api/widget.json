@@ -1,22 +1,84 @@
 {
-  "updated": "2026-03-25T05:29:05.760588+00:00",
+  "updated": "2026-03-25T08:59:43.230392+00:00",
   "top_stories": [
     {
-      "article_id": "11d134b13ea3a50a2bea4a43e3d54acb",
-      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "article_id": "0a36b31c3df90fbdac29f1ee4d25f8c3",
+      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-      "published_date": "2026-03-25T00:47:20+00:00",
+      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "published_date": "2026-03-24T23:57:55+00:00",
       "category": "Industry",
-      "description": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
-      "author": "Marina Temkin",
-      "content": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "description": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "author": "Amanda Silberling",
+      "content": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-25T08:59:43.190580+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-25T08:59:43.190583+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "041f0a5afeb82b2e566d7f5a102405a9",
+      "title": "GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/",
+      "published_date": "2026-03-17T13:00:46+00:00",
+      "category": "Industry",
+      "description": "The paradigm of consumer computing has revolved around the concept of a personal device — from PCs to smartphones and tablets. Now, generative AI — particularly OpenClaw — has introduced a new category: agent computers. These devices, like the NVIDIA DGX Spark desktop AI supercomputer or dedicated NVIDIA RTX PCs, are ideal for running personal […]",
+      "author": "Gerardo Delgado",
+      "content": "The paradigm of consumer computing has revolved around the concept of a personal device — from PCs to smartphones and tablets. Now, generative AI — particularly OpenClaw — has introduced a new category: agent computers. These devices, like the NVIDIA DGX Spark desktop AI supercomputer or dedicated NVIDIA RTX PCs, are ideal for running personal […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,103 +107,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-25T05:29:05.716036+00:00"
+        "consensus_timestamp": "2026-03-25T08:59:43.190270+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-25T05:29:05.716039+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "1b61772b19ac21d680817977a82883ce",
-      "title": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/",
-      "published_date": "2026-03-17T17:00:15+00:00",
-      "category": "Industry",
-      "description": "As AI‑native applications scale to more users, agents and devices, the telecommunications network is becoming the next frontier for distributing AI. At NVIDIA GTC 2026, leading operators in the U.S. and Asia showed that this shift is underway, announcing AI grids — geographically distributed and interconnected AI infrastructure — using their network footprint to power […]",
-      "author": "Kanika Atri",
-      "content": "As AI‑native applications scale to more users, agents and devices, the telecommunications network is becoming the next frontier for distributing AI. At NVIDIA GTC 2026, leading operators in the U.S. and Asia showed that this shift is underway, announcing AI grids — geographically distributed and interconnected AI infrastructure — using their network footprint to power […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-25T05:29:05.715724+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-25T05:29:05.715727+00:00"
+        "timestamp": "2026-03-25T08:59:43.190273+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "545a1beacf8a4aa7a4b02a305a68c27e",
-      "title": "Kick off Nova customization experiments using Nova Forge SDK",
+      "article_id": "cf913097bfa3f0e869b687f0b4484971",
+      "title": "Introducing Disaggregated Inference on AWS powered by llm-d",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/",
-      "published_date": "2026-03-18T16:16:24+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/",
+      "published_date": "2026-03-16T16:55:53+00:00",
       "category": "Industry",
-      "description": "In this post, we walk you through the process of using the Nova Forge SDK to train an Amazon Nova model using Amazon SageMaker AI Training Jobs.",
-      "author": "Mahima Chaudhary",
-      "content": "In this post, we walk you through the process of using the Nova Forge SDK to train an Amazon Nova model using Amazon SageMaker AI Training Jobs.",
+      "description": "In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their benefits and walk through how you can implement them on Amazon SageMaker HyperPod EKS to achieve significant improvements in inference performance, resource utilization, and operational efficiency.",
+      "author": "Vivek Gangasani",
+      "content": "In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their benefits and walk through how you can implement them on Amazon SageMaker HyperPod EKS to achieve significant improvements in inference performance, resource utilization, and operational efficiency.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-25T05:29:05.714976+00:00"
+        "consensus_timestamp": "2026-03-25T08:59:43.189892+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,27 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-25T05:29:05.714979+00:00"
+        "timestamp": "2026-03-25T08:59:43.189895+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "adcad89e883763da305385bebae04ce7",
-      "title": "NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/",
-      "published_date": "2026-03-23T20:24:17+00:00",
+      "article_id": "e5537f9a6438977346d048fe1584c6de",
+      "title": "How we monitor internal coding agents for misalignment",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "published_date": "2026-03-19T10:00:00+00:00",
       "category": "Industry",
-      "description": "Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...",
-      "author": "Suhas Hariharapura Sheshadri",
-      "content": "Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...",
+      "description": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "author": "",
+      "content": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "overall_score": 0.875,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -230,84 +230,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-25T05:29:05.716987+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-25T05:29:05.716990+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a51df73ad2821e3d2258e2fe3f05cb75",
-      "title": "Using Simulation to Build Robotic Systems for Hospital Automation",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/using-simulation-to-build-robotic-systems-for-hospital-automation/",
-      "published_date": "2026-03-16T22:00:00+00:00",
-      "category": "Industry",
-      "description": "Healthcare faces a structural demand–capacity crisis: a projected global shortfall of ~10 million clinicians by 2030, billions of diagnostic exams annually...",
-      "author": "Mingxin Zheng",
-      "content": "Healthcare faces a structural demand–capacity crisis: a projected global shortfall of ~10 million clinicians by 2030, billions of diagnostic exams annually...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-25T05:29:05.717247+00:00"
+        "consensus_timestamp": "2026-03-25T08:59:43.188344+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-25T05:29:05.717250+00:00"
+        "timestamp": "2026-03-25T08:59:43.188347+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cb47c4faa77f47defa1d6f5609de23ea",
+      "title": "Ping Identity Defines the Runtime Identity Standard for Autonomous AI",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/ping-identity-defines-the-runtime-identity-standard-for-autonomous-ai/",
+      "published_date": "2026-03-25T07:30:00+00:00",
+      "category": "Industry",
+      "description": "General Availability of Identity for AI establishes continuous, contextual enforcement and real-time control over AI agents Ping Identity, a leader in securing digital identities for the world’s largest enterprises, announced the General Availability of Identity for AI, introducing a model designed for the realities of AI agents operating across the... The post Ping Identity Defines the Runtime Identity Standard for Autonomous AI first appeared on AI-Tech Park.",
+      "author": "Ping Identity",
+      "content": "General Availability of Identity for AI establishes continuous, contextual enforcement and real-time control over AI agents Ping Identity, a leader in securing digital identities for the world’s largest enterprises, announced the General Availability of Identity for AI, introducing a model designed for the realities of AI agents operating across the... The post Ping Identity Defines the Runtime Identity Standard for Autonomous AI first appeared on AI-Tech Park.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-25T08:59:43.193426+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-25T08:59:43.193429+00:00"
       },
       "article_type": "article"
     }
