@@ -1,22 +1,84 @@
 {
-  "updated": "2026-03-25T08:59:43.230392+00:00",
+  "updated": "2026-03-25T13:20:02.703897+00:00",
   "top_stories": [
     {
-      "article_id": "0a36b31c3df90fbdac29f1ee4d25f8c3",
-      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+      "article_id": "11d134b13ea3a50a2bea4a43e3d54acb",
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-      "published_date": "2026-03-24T23:57:55+00:00",
+      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "published_date": "2026-03-25T00:47:20+00:00",
       "category": "Industry",
-      "description": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
-      "author": "Amanda Silberling",
-      "content": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "description": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "author": "Marina Temkin",
+      "content": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.99,
+        "overall_score": 0.8955,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-25T13:20:02.663302+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-25T13:20:02.663304+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "cf913097bfa3f0e869b687f0b4484971",
+      "title": "Introducing Disaggregated Inference on AWS powered by llm-d",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/",
+      "published_date": "2026-03-16T16:55:53+00:00",
+      "category": "Industry",
+      "description": "In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their benefits and walk through how you can implement them on Amazon SageMaker HyperPod EKS to achieve significant improvements in inference performance, resource utilization, and operational efficiency.",
+      "author": "Vivek Gangasani",
+      "content": "In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their benefits and walk through how you can implement them on Amazon SageMaker HyperPod EKS to achieve significant improvements in inference performance, resource utilization, and operational efficiency.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
+        "overall_score": 0.89,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,42 +106,104 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-25T08:59:43.190580+00:00"
+        "consensus_timestamp": "2026-03-25T13:20:02.662495+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-25T08:59:43.190583+00:00"
+        "timestamp": "2026-03-25T13:20:02.662498+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "041f0a5afeb82b2e566d7f5a102405a9",
-      "title": "GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/",
-      "published_date": "2026-03-17T13:00:46+00:00",
+      "article_id": "8d0bdb76a2bc499a9dc75a8d7aef9bb0",
+      "title": "CrowdStrike Introduces Falcon Data Security",
+      "source": "ai_techpark",
+      "url": "https://ai-techpark.com/crowdstrike-introduces-falcon-data-security/",
+      "published_date": "2026-03-25T08:45:00+00:00",
       "category": "Industry",
-      "description": "The paradigm of consumer computing has revolved around the concept of a personal device — from PCs to smartphones and tablets. Now, generative AI — particularly OpenClaw — has introduced a new category: agent computers. These devices, like the NVIDIA DGX Spark desktop AI supercomputer or dedicated NVIDIA RTX PCs, are ideal for running personal […]",
-      "author": "Gerardo Delgado",
-      "content": "The paradigm of consumer computing has revolved around the concept of a personal device — from PCs to smartphones and tablets. Now, generative AI — particularly OpenClaw — has introduced a new category: agent computers. These devices, like the NVIDIA DGX Spark desktop AI supercomputer or dedicated NVIDIA RTX PCs, are ideal for running personal […]",
+      "description": "CrowdStrike discovers, classifies, and secures sensitive data wherever it lives and moves, spanning endpoints, browsers, SaaS, cloud, and AI workflows RSA 2026 – CrowdStrike (NASDAQ: CRWD) today introduced CrowdStrike Falcon Data Security, a new data security solution that stops data theft across the agentic enterprise. Powered by real-world adversary intelligence and unified Falcon® platform context, Falcon... The post CrowdStrike Introduces Falcon Data Security first appeared on AI-Tech Park.",
+      "author": "Business Wire",
+      "content": "CrowdStrike discovers, classifies, and secures sensitive data wherever it lives and moves, spanning endpoints, browsers, SaaS, cloud, and AI workflows RSA 2026 – CrowdStrike (NASDAQ: CRWD) today introduced CrowdStrike Falcon Data Security, a new data security solution that stops data theft across the agentic enterprise. Powered by real-world adversary intelligence and unified Falcon® platform context, Falcon... The post CrowdStrike Introduces Falcon Data Security first appeared on AI-Tech Park.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-25T13:20:02.665496+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-25T13:20:02.665499+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "319254e9542edcc98b8134449c5dabca",
+      "title": "NIH scientists develop \"digital twin\" of eye cells to understand and treat age-related macular degeneration",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-scientists-develop-digital-twin-eye-cells-understand-treat-age-related-macular-degeneration",
+      "published_date": "2026-03-25T13:14:56.024516+00:00",
+      "category": "Government",
+      "description": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "author": "",
+      "content": "Breakthrough modeling technology reveals how cells lose their organization in leading cause of vision loss.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-25T08:59:43.190270+00:00"
+        "consensus_timestamp": "2026-03-25T13:20:02.660364+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,27 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-25T08:59:43.190273+00:00"
+        "timestamp": "2026-03-25T13:20:02.660370+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cf913097bfa3f0e869b687f0b4484971",
-      "title": "Introducing Disaggregated Inference on AWS powered by llm-d",
+      "article_id": "545a1beacf8a4aa7a4b02a305a68c27e",
+      "title": "Kick off Nova customization experiments using Nova Forge SDK",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/",
-      "published_date": "2026-03-16T16:55:53+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/",
+      "published_date": "2026-03-18T16:16:24+00:00",
       "category": "Industry",
-      "description": "In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their benefits and walk through how you can implement them on Amazon SageMaker HyperPod EKS to achieve significant improvements in inference performance, resource utilization, and operational efficiency.",
-      "author": "Vivek Gangasani",
-      "content": "In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their benefits and walk through how you can implement them on Amazon SageMaker HyperPod EKS to achieve significant improvements in inference performance, resource utilization, and operational efficiency.",
+      "description": "In this post, we walk you through the process of using the Nova Forge SDK to train an Amazon Nova model using Amazon SageMaker AI Training Jobs.",
+      "author": "Mahima Chaudhary",
+      "content": "In this post, we walk you through the process of using the Nova Forge SDK to train an Amazon Nova model using Amazon SageMaker AI Training Jobs.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-25T08:59:43.189892+00:00"
+        "consensus_timestamp": "2026-03-25T13:20:02.662218+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-25T08:59:43.189895+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e5537f9a6438977346d048fe1584c6de",
-      "title": "How we monitor internal coding agents for misalignment",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "published_date": "2026-03-19T10:00:00+00:00",
-      "category": "Industry",
-      "description": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-      "author": "",
-      "content": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-25T08:59:43.188344+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-25T08:59:43.188347+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "cb47c4faa77f47defa1d6f5609de23ea",
-      "title": "Ping Identity Defines the Runtime Identity Standard for Autonomous AI",
-      "source": "ai_techpark",
-      "url": "https://ai-techpark.com/ping-identity-defines-the-runtime-identity-standard-for-autonomous-ai/",
-      "published_date": "2026-03-25T07:30:00+00:00",
-      "category": "Industry",
-      "description": "General Availability of Identity for AI establishes continuous, contextual enforcement and real-time control over AI agents Ping Identity, a leader in securing digital identities for the world’s largest enterprises, announced the General Availability of Identity for AI, introducing a model designed for the realities of AI agents operating across the... The post Ping Identity Defines the Runtime Identity Standard for Autonomous AI first appeared on AI-Tech Park.",
-      "author": "Ping Identity",
-      "content": "General Availability of Identity for AI establishes continuous, contextual enforcement and real-time control over AI agents Ping Identity, a leader in securing digital identities for the world’s largest enterprises, announced the General Availability of Identity for AI, introducing a model designed for the realities of AI agents operating across the... The post Ping Identity Defines the Runtime Identity Standard for Autonomous AI first appeared on AI-Tech Park.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-25T08:59:43.193426+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-25T08:59:43.193429+00:00"
+        "timestamp": "2026-03-25T13:20:02.662221+00:00"
       },
       "article_type": "article"
     }
