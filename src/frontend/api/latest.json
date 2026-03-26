@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-26T17:09:46.401980+00:00",
+  "generated_at": "2026-03-26T20:43:27.550220+00:00",
   "articles": [
     {
-      "article_id": "13e2df9916f450b471b9c4acfe97e27d",
-      "title": "Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
+      "article_id": "d53eef33bce39fe4714dd46f603fafb8",
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-      "published_date": "2026-03-25T16:10:00+00:00",
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "published_date": "2026-03-25T14:48:40+00:00",
       "category": "Industry",
-      "description": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
-      "author": "Sarah Perez",
-      "content": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
+      "description": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+      "author": "Ivan Mehta",
+      "content": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.298896+00:00"
+        "consensus_timestamp": "2026-03-26T20:43:27.516820+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-26T17:09:46.298899+00:00"
+        "timestamp": "2026-03-26T20:43:27.516823+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "adcad89e883763da305385bebae04ce7",
-      "title": "NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/",
-      "published_date": "2026-03-23T20:24:17+00:00",
+      "article_id": "30ed8667207daec1f4736aa4cb05287a",
+      "title": "The Future of AI Is Open and Proprietary",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/",
+      "published_date": "2026-03-25T19:00:04+00:00",
       "category": "Industry",
-      "description": "Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...",
-      "author": "Suhas Hariharapura Sheshadri",
-      "content": "Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...",
+      "description": "AI is the defining technology of our time, quickly becoming core business infrastructure. It’s fueled by a diverse ecosystem of models: large and small, open and proprietary, generalist and specialist. This variety is essential for a future where every application will be powered by AI, every country will build it and every company will use […]",
+      "author": "Kari Briski",
+      "content": "AI is the defining technology of our time, quickly becoming core business infrastructure. It’s fueled by a diverse ecosystem of models: large and small, open and proprietary, generalist and specialist. This variety is essential for a future where every application will be powered by AI, every country will build it and every company will use […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-26T20:43:27.515704+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-26T20:43:27.515706+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "43e975c2b72cf16ab571db8e199256e2",
+      "title": "Protecting people from harmful manipulation",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "published_date": "2026-03-25T16:46:20+00:00",
+      "category": "Industry",
+      "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+      "author": "",
+      "content": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -107,34 +169,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.299426+00:00"
+        "consensus_timestamp": "2026-03-26T20:43:27.518003+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-26T17:09:46.299429+00:00"
+        "timestamp": "2026-03-26T20:43:27.518006+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8e11f973197b7a7027d983fb58d2a2d4",
-      "title": "Researchers develop AI tool to predict patients at risk of intimate partner violence",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/researchers-develop-ai-tool-predict-patients-risk-intimate-partner-violence",
-      "published_date": "2026-03-26T17:04:27.115357+00:00",
-      "category": "Government",
-      "description": "NIH-funded, automated&nbsp;clinical decision support&nbsp;could&nbsp;facilitate&nbsp;timely&nbsp;interventions for&nbsp;at-risk&nbsp;patients&nbsp;years&nbsp;before they might otherwise seek help.",
-      "author": "",
-      "content": "NIH-funded, automated&nbsp;clinical decision support&nbsp;could&nbsp;facilitate&nbsp;timely&nbsp;interventions for&nbsp;at-risk&nbsp;patients&nbsp;years&nbsp;before they might otherwise seek help.",
+      "article_id": "d4aed4717b9f8847ac189dae28b235de",
+      "title": "From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
+      "published_date": "2026-03-16T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision. The post From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation appeared first on Microsoft Azure Blog.",
+      "author": "Affan Dar",
+      "content": "Our mission is to make PostgreSQL the most performant, scalable, and enterprise-ready open database platform available. With Azure Database for PostgreSQL and the newly introduced Azure HorizonDB, we’re delivering on that vision. The post From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -172,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.294379+00:00"
+        "consensus_timestamp": "2026-03-26T20:43:27.514624+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,151 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-26T17:09:46.294383+00:00"
+        "timestamp": "2026-03-26T20:43:27.514627+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3f9eb4847ff4894c818a551fb7b68fa0",
-      "title": "This AI Paper Introduces TinyLoRA, A 13-Parameter Fine-Tuning Method That Reaches 91.8 Percent GSM8K on Qwen2.5-7B",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/",
-      "published_date": "2026-03-24T18:49:40+00:00",
+      "article_id": "7e86e6fac3df601cf757ba0add1e4e6f",
+      "title": "Maximize AI Infrastructure Throughput by Consolidating Underutilized GPU Workloads",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/maximize-ai-infrastructure-throughput-by-consolidating-underutilized-gpu-workloads/",
+      "published_date": "2026-03-25T16:35:43+00:00",
       "category": "Industry",
-      "description": "Researchers from FAIR at Meta, Cornell University, and Carnegie Mellon University have demonstrated that large language models (LLMs) can learn to reason using a remarkably small number of trained parameters. The research team introduces TinyLoRA, a parameterization that can scale down to a single trainable parameter under extreme sharing settings. Using this method on a […] The post This AI Paper Introduces TinyLoRA, A 13-Parameter Fine-Tuning Method That Reaches 91.8 Percent GSM8K on...",
-      "author": "Asif Razzaq",
-      "content": "Researchers from FAIR at Meta, Cornell University, and Carnegie Mellon University have demonstrated that large language models (LLMs) can learn to reason using a remarkably small number of trained parameters. The research team introduces TinyLoRA, a parameterization that can scale down to a single trainable parameter under extreme sharing settings. Using this method on a […] The post This AI Paper Introduces TinyLoRA, A 13-Parameter Fine-Tuning Method That Reaches 91.8 Percent GSM8K on...",
+      "description": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
+      "author": "Sagar Desai",
+      "content": "In production Kubernetes environments, the difference between model requirements and GPU size creates inefficiencies. Lightweight automatic speech recognition...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.891,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.365855+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-26T17:09:46.365858+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "802eafb640183083b8d911e1ee28f5bb",
-      "title": "How Reco transforms security alerts using Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-reco-transforms-security-alerts-using-amazon-bedrock/",
-      "published_date": "2026-03-23T16:46:54+00:00",
-      "category": "Industry",
-      "description": "In this blog post, we show you how Reco implemented Amazon Bedrock to help transform security alerts and achieve significant improvements in incident response times.",
-      "author": "Tal Shapira, Tamir Friedman",
-      "content": "In this blog post, we show you how Reco implemented Amazon Bedrock to help transform security alerts and achieve significant improvements in incident response times.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.296328+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-26T17:09:46.296331+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a1a153d12a73c888e6f381cad32a163d",
-      "title": "Design, Simulate, and Scale AI Factory Infrastructure with NVIDIA DSX Air",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/design-simulate-and-scale-ai-factory-infrastructure-with-nvidia-dsx-air/",
-      "published_date": "2026-03-16T20:01:33+00:00",
-      "category": "Industry",
-      "description": "Building AI factories is complex and requires efficient integration across compute, networking, security, and storage systems. To achieve rapid Time to AI and...",
-      "author": "Ranga Maddipudi",
-      "content": "Building AI factories is complex and requires efficient integration across compute, networking, security, and storage systems. To achieve rapid Time to AI and...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -358,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.299858+00:00"
+        "consensus_timestamp": "2026-03-26T20:43:27.516999+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,7 +307,255 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-26T17:09:46.299861+00:00"
+        "timestamp": "2026-03-26T20:43:27.517002+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "40b2143a1843ffd8c7851d7fe9352f20",
+      "title": "Why Codex Security Doesn’t Include a SAST Report",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "published_date": "2026-03-16T00:00:00+00:00",
+      "category": "Industry",
+      "description": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "author": "",
+      "content": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-26T20:43:27.514403+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-26T20:43:27.514406+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "47f683d27aad0ab7c0d56f47410df576",
+      "title": "Introducing NVIDIA BlueField-4-Powered CMX Context Memory Storage Platform for the Next Frontier of AI",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai/",
+      "published_date": "2026-03-16T20:30:00+00:00",
+      "category": "Industry",
+      "description": "AI‑native organizations increasingly face scaling challenges as agentic AI workflows drive context windows to millions of tokens and models scale toward...",
+      "author": "Moshe Anschel",
+      "content": "AI‑native organizations increasingly face scaling challenges as agentic AI workflows drive context windows to millions of tokens and models scale toward...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.92,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-26T20:43:27.517459+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.752,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-26T20:43:27.517462+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0ed1ca402d7baf58c0cbb29d1c54d281",
+      "title": "NVIDIA Vera CPU Delivers High Performance, Bandwidth, and Efficiency for AI Factories",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-delivers-high-performance-bandwidth-and-efficiency-for-ai-factories/",
+      "published_date": "2026-03-16T19:30:33+00:00",
+      "category": "Industry",
+      "description": "AI is evolving, and reasoning models are increasing token demand, placing new requirements on every layer of AI infrastructure. More than ever, compute must...",
+      "author": "Praveen Menon",
+      "content": "AI is evolving, and reasoning models are increasing token demand, placing new requirements on every layer of AI infrastructure. More than ever, compute must...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-26T20:43:27.517640+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-26T20:43:27.517643+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f99d7b4b76e9e0a2b09fba439dda8f04",
+      "title": "How to Build Deep Agents for Enterprise Search with NVIDIA AI-Q and LangChain",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-build-deep-agents-for-enterprise-search-with-nvidia-ai-q-and-langchain/",
+      "published_date": "2026-03-18T16:00:00+00:00",
+      "category": "Industry",
+      "description": "While consumer AI offers powerful capabilities, workplace tools often suffer from disjointed data and limited context. Built with LangChain, the NVIDIA AI-Q...",
+      "author": "Sean Lopp",
+      "content": "While consumer AI offers powerful capabilities, workplace tools often suffer from disjointed data and limited context. Built with LangChain, the NVIDIA AI-Q...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-26T20:43:27.517320+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-26T20:43:27.517323+00:00"
       },
       "article_type": "article"
     },
@@ -420,7 +606,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.295416+00:00"
+        "consensus_timestamp": "2026-03-26T20:43:27.514026+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,26 +617,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-26T17:09:46.295419+00:00"
+        "timestamp": "2026-03-26T20:43:27.514029+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d82e30c1bd6616282058a54023994d9f",
-      "title": "Enhanced metrics for Amazon SageMaker AI endpoints: deeper visibility for better performance",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/enhanced-metrics-for-amazon-sagemaker-ai-endpoints-deeper-visibility-for-better-performance/",
-      "published_date": "2026-03-19T14:32:11+00:00",
+      "article_id": "269fc97b7fe8d1450af5d741345c3be0",
+      "title": "Optimizing LoRA target module selection for efficient fine tuning",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/optimizing-lora-target-module-selection-for-efficient-fine-tuning",
+      "published_date": "2026-03-19T14:39:23+00:00",
       "category": "Industry",
-      "description": "SageMaker AI endpoints now support enhanced metrics with configurable publishing frequency. This launch provides the granular visibility needed to monitor, troubleshoot, and improve your production endpoints.",
-      "author": "Dan Ferguson",
-      "content": "SageMaker AI endpoints now support enhanced metrics with configurable publishing frequency. This launch provides the granular visibility needed to monitor, troubleshoot, and improve your production endpoints.",
+      "description": "Ablation study clarifies trade-offs between accuracy and efficiency when using low-rank adaptation (LoRA) to fine-tune AI models.",
+      "author": "Rushil Anirudh",
+      "content": "Ablation study clarifies trade-offs between accuracy and efficiency when using low-rank adaptation (LoRA) to fine-tune AI models.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -479,34 +665,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.296606+00:00"
+        "consensus_timestamp": "2026-03-26T20:43:27.518214+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-26T17:09:46.296610+00:00"
+        "timestamp": "2026-03-26T20:43:27.518217+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "499c93b75e63b6f4022d34544be6c69f",
-      "title": "Research: Data landscape review report 2024 to 2025",
+      "article_id": "2e42a6672106a2447a3c8b5b8be8c7cd",
+      "title": "Research: Age Assurance Data Access Study",
       "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/data-landscape-review-report-2024-to-2025",
+      "url": "https://www.gov.uk/government/publications/age-assurance-data-access-study",
       "published_date": "2026-03-26T09:30:08+00:00",
       "category": "Government",
-      "description": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
+      "description": "Findings from an exploratory study investigating data access issues impacting the performance of age assurance tools and potential solutions to improve their effectiveness.",
       "author": "",
-      "content": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
+      "content": "Findings from an exploratory study investigating data access issues impacting the performance of age assurance tools and potential solutions to improve their effectiveness.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -544,7 +730,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.294812+00:00"
+        "consensus_timestamp": "2026-03-26T20:43:27.513472+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,206 +741,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-26T17:09:46.294815+00:00"
+        "timestamp": "2026-03-26T20:43:27.513475+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dd7f05f3466fe17abe0e93277d495687",
-      "title": "From Simulation to Production: How to Build Robots With AI",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/build-robots-with-ai/",
-      "published_date": "2026-03-18T13:00:13+00:00",
-      "category": "Industry",
-      "description": "The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.",
-      "author": "Katie Washabaugh",
-      "content": "The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.297221+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-26T17:09:46.297224+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "041f0a5afeb82b2e566d7f5a102405a9",
-      "title": "GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/",
-      "published_date": "2026-03-17T13:00:46+00:00",
-      "category": "Industry",
-      "description": "The paradigm of consumer computing has revolved around the concept of a personal device — from PCs to smartphones and tablets. Now, generative AI — particularly OpenClaw — has introduced a new category: agent computers. These devices, like the NVIDIA DGX Spark desktop AI supercomputer or dedicated NVIDIA RTX PCs, are ideal for running personal […]",
-      "author": "Gerardo Delgado",
-      "content": "The paradigm of consumer computing has revolved around the concept of a personal device — from PCs to smartphones and tablets. Now, generative AI — particularly OpenClaw — has introduced a new category: agent computers. These devices, like the NVIDIA DGX Spark desktop AI supercomputer or dedicated NVIDIA RTX PCs, are ideal for running personal […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.297351+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-26T17:09:46.297354+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c50854e201c494faa0a832b457b74463",
-      "title": "NIH halts arm of clinical trial evaluating a potential stroke treatment",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-halts-arm-clinical-trial-evaluating-potential-stroke-treatment",
-      "published_date": "2026-03-26T17:04:27.115686+00:00",
-      "category": "Government",
-      "description": "Study found low-dose rivaroxaban to be unsafe and ineffective compared to standard of care.",
-      "author": "",
-      "content": "Study found low-dose rivaroxaban to be unsafe and ineffective compared to standard of care.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.6,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.294532+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-26T17:09:46.294537+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "821dc44e70f8849dbb27a0612456c075",
-      "title": "Scaling Token Factory Revenue and AI Efficiency by Maximizing Performance per Watt",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/scaling-token-factory-revenue-and-ai-efficiency-by-maximizing-performance-per-watt/",
-      "published_date": "2026-03-25T11:00:00+00:00",
-      "category": "Industry",
-      "description": "In the AI era, power is the ultimate constraint, and every AI factory operates within a hard limit. This makes performance per watt—the rate at which power is...",
-      "author": "Kibibi Moseley",
-      "content": "In the AI era, power is the ultimate constraint, and every AI factory operates within a hard limit. This makes performance per watt—the rate at which power is...",
+      "article_id": "7fc493e4c2654f2a13b9865f391a9800",
+      "title": "Partnering with Edra: Context for Agents at Scale",
+      "source": "sequoia_ai",
+      "url": "https://sequoiacap.com/article/partnering-with-edra-context-for-agents-at-scale/",
+      "published_date": "2026-03-18T14:00:05+00:00",
+      "category": "Startups",
+      "description": "The post Partnering with Edra: Context for Agents at Scale appeared first on Sequoia Capital.",
+      "author": "nsunderland",
+      "content": "The post Partnering with Edra: Context for Agents at Scale appeared first on Sequoia Capital.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -788,103 +788,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
+        "score": 0.7,
+        "confidence": 0.8,
+        "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.299338+00:00"
+        "consensus_timestamp": "2026-03-26T20:43:27.517870+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.62,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-26T17:09:46.299340+00:00"
+        "timestamp": "2026-03-26T20:43:27.517873+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "585c9c2d76c360f0c4b56c6b27952a91",
-      "title": "What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026",
-      "source": "azure_ai_blog",
-      "url": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
-      "published_date": "2026-03-24T07:05:00+00:00",
+      "article_id": "36378afa2950ff91e7169aa188428ab2",
+      "title": "NVIDIA AI Introduces PivotRL: A New AI Framework Achieving High Agentic Accuracy With 4x Fewer Rollout Turns Efficiently",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/",
+      "published_date": "2026-03-25T08:39:23+00:00",
       "category": "Industry",
-      "description": "At KubeCon + CloudNativeCon Europe 2026 in Amsterdam, we're making announcements that reflect the goal of bringing the operational maturity of Kubernetes to today's workloads and demands. The post What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026 appeared first on Microsoft Azure Blog.",
-      "author": "Brendan Burns",
-      "content": "At KubeCon + CloudNativeCon Europe 2026 in Amsterdam, we're making announcements that reflect the goal of bringing the operational maturity of Kubernetes to today's workloads and demands. The post What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026 appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.295863+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-26T17:09:46.295866+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "eb08692f54dff6db194f9fa5cfe85bbe",
-      "title": "FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
-      "published_date": "2026-03-18T12:45:00+00:00",
-      "category": "Industry",
-      "description": "We're bring attendees together to share real experiences and solve challenges side-by-side. Only together can we move into meaningful results. The post FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform appeared first on Microsoft Azure Blog.",
-      "author": "Arun Ulag",
-      "content": "We're bring attendees together to share real experiences and solve challenges side-by-side. Only together can we move into meaningful results. The post FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform appeared first on Microsoft Azure Blog.",
+      "description": "Post-training Large Language Models (LLMs) for long-horizon agentic tasks—such as software engineering, web browsing, and complex tool use—presents a persistent trade-off between computational efficiency and model generalization. While Supervised Fine-Tuning (SFT) is computationally inexpensive, it frequently suffers from out-of-domain (OOD) performance degradation and struggles to generalize beyond its training distribution. Conversely, end-to-end reinforcement learning (E2E […] The post...",
+      "author": "Asif Razzaq",
+      "content": "Post-training Large Language Models (LLMs) for long-horizon agentic tasks—such as software engineering, web browsing, and complex tool use—presents a persistent trade-off between computational efficiency and model generalization. While Supervised Fine-Tuning (SFT) is computationally inexpensive, it frequently suffers from out-of-domain (OOD) performance degradation and struggles to generalize beyond its training distribution. Conversely, end-to-end reinforcement learning (E2E […] The post...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.8,
-        "overall_score": 0.8550000000000001,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -913,21 +851,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-26T17:09:46.295958+00:00"
+        "consensus_timestamp": "2026-03-26T20:43:27.518599+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-26T17:09:46.295961+00:00"
+        "timestamp": "2026-03-26T20:43:27.518602+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5df1f80ccf7552c99c284c1e8e906d8e",
+      "title": "NIST Submits Annual Report to Congress Summarizing FY 2025 Progress on National Construction Safety Team Investigations",
+      "source": "nist_ai_news",
+      "url": "https://www.nist.gov/news-events/news/2026/03/nist-submits-annual-report-congress-summarizing-fy-2025-progress-national",
+      "published_date": "2026-03-19T12:00:00+00:00",
+      "category": "Government",
+      "description": "The report includes an overview of work completed on the Champlain Towers South investigation.",
+      "author": "Sarah Henderson",
+      "content": "The report includes an overview of work completed on the Champlain Towers South investigation.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.82,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.75,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-26T20:43:27.512763+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6499999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-26T20:43:27.512775+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 225.88851165771484,
+    "processing_time": 219.72005105018616,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,9 +953,9 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 130,
+      "total_processed": 126,
       "candidates": {
-        "headlines": 13,
+        "headlines": 9,
         "articles": 117,
         "research_papers": 0
       },
