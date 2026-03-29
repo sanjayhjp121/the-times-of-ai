@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T05:48:38.234560+00:00",
+  "updated": "2026-03-29T08:47:05.008368+00:00",
   "top_stories": [
     {
       "article_id": "edca0ae3439ed8d97a96b19f0510a2f8",
@@ -48,7 +48,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-29T05:48:38.203191+00:00"
+        "consensus_timestamp": "2026-03-29T08:47:04.976492+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,7 +59,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-29T05:48:38.203194+00:00"
+        "timestamp": "2026-03-29T08:47:04.976495+00:00"
       },
       "article_type": "headline"
     },
@@ -110,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-29T05:48:38.202283+00:00"
+        "consensus_timestamp": "2026-03-29T08:47:04.975690+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,26 +121,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-29T05:48:38.202286+00:00"
+        "timestamp": "2026-03-29T08:47:04.975692+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e0a9b59bc2efd4fd876fdc952cfc08a8",
-      "title": "OpenAI to acquire Astral",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-to-acquire-astral",
-      "published_date": "2026-03-19T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Accelerates Codex growth to power the next generation of Python developer tools",
+      "article_id": "8e11f973197b7a7027d983fb58d2a2d4",
+      "title": "Researchers develop AI tool to predict patients at risk of intimate partner violence",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-develop-ai-tool-predict-patients-risk-intimate-partner-violence",
+      "published_date": "2026-03-29T08:42:45.628994+00:00",
+      "category": "Government",
+      "description": "NIH-funded, automated&nbsp;clinical decision support&nbsp;could&nbsp;facilitate&nbsp;timely&nbsp;interventions for&nbsp;at-risk&nbsp;patients&nbsp;years&nbsp;before they might otherwise seek help.",
       "author": "",
-      "content": "Accelerates Codex growth to power the next generation of Python developer tools",
+      "content": "NIH-funded, automated&nbsp;clinical decision support&nbsp;could&nbsp;facilitate&nbsp;timely&nbsp;interventions for&nbsp;at-risk&nbsp;patients&nbsp;years&nbsp;before they might otherwise seek help.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-29T08:47:04.972598+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-29T08:47:04.972602+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ddf79505f81358fd6f41de4bccba4837",
+      "title": "Enforce data residency with Amazon Quick extensions for Microsoft Teams",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enforce-data-residency-with-amazon-quick-extensions-for-microsoft-teams/",
+      "published_date": "2026-03-19T14:20:04+00:00",
+      "category": "Industry",
+      "description": "In this post, we will show you how to enforce data residency when deploying Amazon Quick Microsoft Teams extensions across multiple AWS Regions. You will learn how to configure multi-Region Amazon Quick extensions that automatically route users to AWS Region-appropriate resources, helping keep compliance with GDPR and other data sovereignty requirements.",
+      "author": "Ramon Diez Lejarazu",
+      "content": "In this post, we will show you how to enforce data residency when deploying Amazon Quick Microsoft Teams extensions across multiple AWS Regions. You will learn how to configure multi-Region Amazon Quick extensions that automatically route users to AWS Region-appropriate resources, helping keep compliance with GDPR and other data sovereignty requirements.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-29T05:48:38.200262+00:00"
+        "consensus_timestamp": "2026-03-29T08:47:04.975548+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-29T05:48:38.200265+00:00"
+        "timestamp": "2026-03-29T08:47:04.975551+00:00"
       },
       "article_type": "article"
     },
@@ -199,10 +261,10 @@
       "content": "In this post, we’re excited to showcase how AWS ISV Partner Artificial Genius is using Amazon SageMaker AI and Amazon Nova to deliver a solution that is probabilistic on input but deterministic on output, helping to enable safe, enterprise-grade adoption.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.881,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-29T05:48:38.201203+00:00"
+        "consensus_timestamp": "2026-03-29T08:47:04.975278+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-29T05:48:38.201206+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b0c9836051cf59bb228c235d00321cb5",
-      "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/",
-      "published_date": "2026-03-26T17:10:20+00:00",
-      "category": "Industry",
-      "description": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
-      "author": "Praveen Gadi",
-      "content": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-29T05:48:38.200900+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-29T05:48:38.200903+00:00"
+        "timestamp": "2026-03-29T08:47:04.975280+00:00"
       },
       "article_type": "article"
     }
