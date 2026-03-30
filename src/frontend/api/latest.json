@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T06:05:00.413102+00:00",
+  "generated_at": "2026-03-30T09:19:36.782250+00:00",
   "articles": [
     {
       "article_id": "18d7adb9de09809f2030fb3514b4d138",
@@ -13,11 +13,11 @@
       "content": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step plans, providing a functional and isolated environment for that code to run remains a significant infrastructure challenge. Agent-Infra’s Sandbox, an open-source project, addresses this by providing an […] The post Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser,...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,22 +44,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.9,
+        "score": 0.8,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.382727+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.755517+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.382730+00:00"
+        "timestamp": "2026-03-30T09:19:36.755520+00:00"
       },
       "article_type": "headline"
     },
@@ -106,41 +106,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.379553+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.752519+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.379556+00:00"
+        "timestamp": "2026-03-30T09:19:36.752522+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "053e31df6398c870187d61a1c5ce6011",
-      "title": "Update on the OpenAI Foundation",
+      "article_id": "5ef531a5e6e55284e9567ff30b1c46be",
+      "title": "Powering product discovery in ChatGPT",
       "source": "openai_blog",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "published_date": "2026-03-24T09:00:00+00:00",
       "category": "Industry",
-      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
       "author": "",
-      "content": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "content": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
+        "impact_score": 0.9,
+        "overall_score": 0.915,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -169,21 +169,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.378090+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.750956+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.378093+00:00"
+        "timestamp": "2026-03-30T09:19:36.750959+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c2726eb027e28e0dd8e20cb9a11974a8",
+      "title": "Accelerating LLM fine-tuning with unstructured data using SageMaker Unified Studio and S3",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-fine-tuning-with-unstructured-data-using-sagemaker-unified-studio-and-s3/",
+      "published_date": "2026-03-26T17:20:26+00:00",
+      "category": "Industry",
+      "description": "Last year, AWS announced an integration between Amazon SageMaker Unified Studio and Amazon S3 general purpose buckets. This integration makes it straightforward for teams to use unstructured data stored in Amazon Simple Storage Service (Amazon S3) for machine learning (ML) and data analytics use cases. In this post, we show how to integrate S3 general purpose buckets with Amazon SageMaker Catalog to fine-tune Llama 3.2 11B Vision Instruct for visual question answering (VQA) using Amazon...",
+      "author": "Hazim Qudah",
+      "content": "Last year, AWS announced an integration between Amazon SageMaker Unified Studio and Amazon S3 general purpose buckets. This integration makes it straightforward for teams to use unstructured data stored in Amazon Simple Storage Service (Amazon S3) for machine learning (ML) and data analytics use cases. In this post, we show how to integrate S3 general purpose buckets with Amazon SageMaker Catalog to fine-tune Llama 3.2 11B Vision Instruct for visual question answering (VQA) using Amazon...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-30T09:19:36.751751+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-30T09:19:36.751755+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.379197+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.752162+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,150 +307,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.379200+00:00"
+        "timestamp": "2026-03-30T09:19:36.752165+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "06d95836182ab306dfc656f1be0bb577",
-      "title": "Children and parents to pilot social media bans, time limits and curfews at home, as government tests next steps to give UK kids their childhood back",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/children-and-parents-to-pilot-social-media-bans-time-limits-and-curfews-at-home-as-government-tests-next-steps-to-give-uk-kids-their-childhood-back",
-      "published_date": "2026-03-25T00:01:08+00:00",
-      "category": "Government",
-      "description": "Government pilots social media bans, time limits and digital curfews in 300 teenage homes to inform national consultation on children's online safety.",
-      "author": "",
-      "content": "Government pilots social media bans, time limits and digital curfews in 300 teenage homes to inform national consultation on children's online safety.",
+      "article_id": "17d0ba49a11eea9400224dc6f69f56ae",
+      "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/filecoin-price-prediction",
+      "published_date": "2026-03-29T14:15:38+00:00",
+      "category": "Industry",
+      "description": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
+      "author": "Ishan Jain",
+      "content": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.377387+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-30T06:05:00.377390+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "adcad89e883763da305385bebae04ce7",
-      "title": "NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/",
-      "published_date": "2026-03-23T20:24:17+00:00",
-      "category": "Industry",
-      "description": "Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...",
-      "author": "Suhas Hariharapura Sheshadri",
-      "content": "Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.381304+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-30T06:05:00.381306+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8fcf4e00d62b876e06af3aa65fba5c7c",
-      "title": "Measuring progress toward AGI: A cognitive framework",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-      "published_date": "2026-03-17T16:03:47+00:00",
-      "category": "Industry",
-      "description": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
-      "author": "",
-      "content": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "impact_score": 0.9,
+        "overall_score": 0.8875000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -416,104 +354,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.382298+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.755473+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.382301+00:00"
+        "timestamp": "2026-03-30T09:19:36.755476+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5df1f80ccf7552c99c284c1e8e906d8e",
-      "title": "NIST Submits Annual Report to Congress Summarizing FY 2025 Progress on National Construction Safety Team Investigations",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/03/nist-submits-annual-report-congress-summarizing-fy-2025-progress-national",
-      "published_date": "2026-03-19T12:00:00+00:00",
+      "article_id": "a373906e945dcd1a404994b3c12cc044",
+      "title": "Automated CT scan analysis could fast-track clinical assessments",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/automated-ct-scan-analysis-could-fast-track-clinical-assessments",
+      "published_date": "2026-03-30T09:14:54.226143+00:00",
       "category": "Government",
-      "description": "The report includes an overview of work completed on the Champlain Towers South investigation.",
-      "author": "Sarah Henderson",
-      "content": "The report includes an overview of work completed on the Champlain Towers South investigation.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.376404+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-30T06:05:00.376410+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "499c93b75e63b6f4022d34544be6c69f",
-      "title": "Research: Data landscape review report 2024 to 2025",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/data-landscape-review-report-2024-to-2025",
-      "published_date": "2026-03-26T09:30:08+00:00",
-      "category": "Government",
-      "description": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
+      "description": "NIH-funded research suggests AI-powered tool could streamline diagnoses and unveil early markers for chronic disease.",
       "author": "",
-      "content": "This report focuses specifically on data access and sharing challenges related to online harms and the online safety tech sector, including the technologies and initiatives used to address them.",
+      "content": "NIH-funded research suggests AI-powered tool could streamline diagnoses and unveil early markers for chronic disease.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -541,21 +417,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.377199+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.749855+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.377202+00:00"
+        "timestamp": "2026-03-30T09:19:36.749859+00:00"
       },
       "article_type": "article"
     },
@@ -606,7 +482,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.379421+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.752387+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,69 +493,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.379424+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fd6a9110330c275763490167905b313d",
-      "title": "How Centralized Radar Processing on NVIDIA DRIVE Enables Safer, Smarter Level 4 Autonomy",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-centralized-radar-processing-on-nvidia-drive-enables-safer-smarter-level-4-autonomy/",
-      "published_date": "2026-03-25T16:00:00+00:00",
-      "category": "Industry",
-      "description": "In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
-      "author": "Lachlan Dowling",
-      "content": "In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.381127+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-30T06:05:00.381129+00:00"
+        "timestamp": "2026-03-30T09:19:36.752390+00:00"
       },
       "article_type": "article"
     },
@@ -727,10 +541,134 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-30T09:19:36.751225+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-30T09:19:36.751228+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "43e975c2b72cf16ab571db8e199256e2",
+      "title": "Protecting people from harmful manipulation",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "published_date": "2026-03-25T16:46:20+00:00",
+      "category": "Industry",
+      "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+      "author": "",
+      "content": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-30T09:19:36.755080+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-30T09:19:36.755083+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "02567f1b8a4b32bfcaead9b11f1f2fae",
+      "title": "Designing Protein Binders Using the Generative Model Proteina-Complexa",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/designing-protein-binders-using-the-generative-model-proteina-complexa/",
+      "published_date": "2026-03-25T13:00:00+00:00",
+      "category": "Industry",
+      "description": "Developing new protein-based therapies and catalysts involves the challenging task of designing protein binders, or proteins that bind to a target protein or...",
+      "author": "Kyle Gion",
+      "content": "Developing new protein-based therapies and catalysts involves the challenging task of designing protein binders, or proteins that bind to a target protein or...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.378278+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.754130+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,26 +679,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.378281+00:00"
+        "timestamp": "2026-03-30T09:19:36.754133+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7ba0ffb86d8ae8530cf4bb5cd7059f70",
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/safety-bug-bounty",
-      "published_date": "2026-03-25T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "article_id": "f18e7145f0d0ae53bcc4aef4e47472e8",
+      "title": "Research: Deepfake detection technology",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/deepfake-detection-technology",
+      "published_date": "2026-03-26T09:30:08+00:00",
+      "category": "Government",
+      "description": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
       "author": "",
-      "content": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "content": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-30T09:19:36.750198+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-30T09:19:36.750201+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a1a153d12a73c888e6f381cad32a163d",
+      "title": "Design, Simulate, and Scale AI Factory Infrastructure with NVIDIA DSX Air",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/design-simulate-and-scale-ai-factory-infrastructure-with-nvidia-dsx-air/",
+      "published_date": "2026-03-16T20:01:33+00:00",
+      "category": "Industry",
+      "description": "Building AI factories is complex and requires efficient integration across compute, networking, security, and storage systems. To achieve rapid Time to AI and...",
+      "author": "Ranga Maddipudi",
+      "content": "Building AI factories is complex and requires efficient integration across compute, networking, security, and storage systems. To achieve rapid Time to AI and...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -792,7 +792,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.377871+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.754675+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,27 +803,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.377875+00:00"
+        "timestamp": "2026-03-30T09:19:36.754677+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3292c64a4e05ab4f2a75c4aeece98674",
-      "title": "NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-pod-seven-chips-five-rack-scale-systems-one-ai-supercomputer/",
-      "published_date": "2026-03-16T16:05:58+00:00",
+      "article_id": "7ba0ffb86d8ae8530cf4bb5cd7059f70",
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "published_date": "2026-03-25T00:00:00+00:00",
       "category": "Industry",
-      "description": "Artificial intelligence is token-driven. Every prompt, reasoning step, and agent interaction generates tokens. Over the past year, token consumption has grown...",
-      "author": "Rohil Bhargava",
-      "content": "Artificial intelligence is token-driven. Every prompt, reasoning step, and agent interaction generates tokens. Over the past year, token consumption has grown...",
+      "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "author": "",
+      "content": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.9
+        "novelty_score": 0.8,
+        "impact_score": 0.85,
+        "overall_score": 0.8525000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -850,42 +850,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.381954+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.750865+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.381956+00:00"
+        "timestamp": "2026-03-30T09:19:36.750868+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "fdf9a2c15329004795f0deb2e5a808e9",
-      "title": "Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggered AI Access and Search Crawling Systems Today",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/",
-      "published_date": "2026-03-29T06:03:27+00:00",
+      "article_id": "c1c4052fdd0d1afa7f3a50d6bf93d0f4",
+      "title": "Unlocking video insights at scale with Amazon Bedrock multimodal models",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/unlocking-video-insights-at-scale-with-amazon-bedrock-multimodal-models/",
+      "published_date": "2026-03-25T18:57:15+00:00",
       "category": "Industry",
-      "description": "As Google integrates AI capabilities across its product suite, a new technical entity has surfaced in server logs: Google-Agent. For software devs, understanding this entity is critical for distinguishing between automated indexers and real-time, user-initiated requests. Unlike the autonomous crawlers that have defined the web for decades, Google-Agent operates under a different set of rules […] The post Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggered AI...",
-      "author": "Michal Sutter",
-      "content": "As Google integrates AI capabilities across its product suite, a new technical entity has surfaced in server logs: Google-Agent. For software devs, understanding this entity is critical for distinguishing between automated indexers and real-time, user-initiated requests. Unlike the autonomous crawlers that have defined the web for decades, Google-Agent operates under a different set of rules […] The post Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggered AI...",
+      "description": "In this post, we explore how the multimodal foundation models (FMs) of Amazon Bedrock enable scalable video understanding through three distinct architectural approaches. Each approach is designed for different use cases and cost-performance trade-offs.",
+      "author": "Lana Zhang",
+      "content": "In this post, we explore how the multimodal foundation models (FMs) of Amazon Bedrock enable scalable video understanding through three distinct architectural approaches. Each approach is designed for different use cases and cost-performance trade-offs.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
+        "relevance_score": 0.85,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.8,
-        "overall_score": 0.85,
-        "confidence_mean": 0.8
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8350000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.88,
+        "score": 0.8,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-30T06:05:00.382905+00:00"
+        "consensus_timestamp": "2026-03-30T09:19:36.751846+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.728,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-30T06:05:00.382908+00:00"
+        "timestamp": "2026-03-30T09:19:36.751849+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 212.38119196891785,
+    "processing_time": 206.63266944885254,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 134,
+      "total_processed": 128,
       "candidates": {
         "headlines": 5,
-        "articles": 129,
+        "articles": 123,
         "research_papers": 0
       },
       "selected": {
