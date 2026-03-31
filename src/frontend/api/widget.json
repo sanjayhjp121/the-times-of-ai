@@ -1,22 +1,208 @@
 {
-  "updated": "2026-03-31T13:27:32.378785+00:00",
+  "updated": "2026-03-31T17:05:30.462720+00:00",
   "top_stories": [
     {
-      "article_id": "83c1db5ca1a2d146d741e04808e3b1a5",
-      "title": "Why OpenAI really shut down Sora",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-      "published_date": "2026-03-30T03:09:38+00:00",
+      "article_id": "8670bd727866a75868c3ff0900eefa68",
+      "title": "Salesforce AI Research Releases VoiceAgentRAG: A Dual-Agent Memory Router that Cuts Voice RAG Retrieval Latency by 316x",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/",
+      "published_date": "2026-03-30T09:56:14+00:00",
       "category": "Industry",
-      "description": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
-      "author": "Connie Loizos",
-      "content": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+      "description": "In the world of voice AI, the difference between a helpful assistant and an awkward interaction is measured in milliseconds. While text-based Retrieval-Augmented Generation (RAG) systems can afford a few seconds of ‘thinking’ time, voice agents must respond within a 200ms budget to maintain a natural conversational flow. Standard production vector database queries typically add […] The post Salesforce AI Research Releases VoiceAgentRAG: A Dual-Agent Memory Router that Cuts Voice RAG Retrieval...",
+      "author": "Asif Razzaq",
+      "content": "In the world of voice AI, the difference between a helpful assistant and an awkward interaction is measured in milliseconds. While text-based Retrieval-Augmented Generation (RAG) systems can afford a few seconds of ‘thinking’ time, voice agents must respond within a 200ms budget to maintain a natural conversational flow. Standard production vector database queries typically add […] The post Salesforce AI Research Releases VoiceAgentRAG: A Dual-Agent Memory Router that Cuts Voice RAG Retrieval...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.87,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-31T17:05:30.426008+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-31T17:05:30.426011+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "70b837d658254f71009a883e9b759ec9",
+      "title": "Formally verified AES-XTS: The first AES algorithm to join s2n-bignum",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/formally-verified-aes-xts-the-first-aes-algorithm-to-join-s2n-bignum",
+      "published_date": "2026-03-20T16:38:44+00:00",
+      "category": "Industry",
+      "description": "Simplifying and clarifying the assembly code for core operations enabled automated optimization and verification.",
+      "author": "Yan Peng",
+      "content": "Simplifying and clarifying the assembly code for core operations enabled automated optimization and verification.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.9285000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-31T17:05:30.425692+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-31T17:05:30.425695+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "13d364e8edcd64153479b3fa54503316",
+      "title": "Transparency data: DSIT: senior officials’ business expenses and hospitality: October to December 2025",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/dsit-senior-officials-business-expenses-and-hospitality-october-to-december-2025",
+      "published_date": "2026-03-24T16:00:10+00:00",
+      "category": "Government",
+      "description": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
+      "author": "",
+      "content": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9100000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-03-31T17:05:30.421870+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-03-31T17:05:30.421872+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8ad82c402d6ee1df021e32276dbb462c",
+      "title": "DARPA-developed autonomous helicopter technology transitions to U.S. Army",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/uh-60mx-black-hawk-army",
+      "published_date": "2026-03-19T18:42:40+00:00",
+      "category": "Government",
+      "description": "An experimental, fly-by-wire H-60Mx Black Hawk, equipped with DARPA-funded autonomy, has been delivered to the U.S. Army for testing.",
+      "author": "outreach@darpa.mil",
+      "content": "An experimental, fly-by-wire H-60Mx Black Hawk, equipped with DARPA-funded autonomy, has been delivered to the U.S. Army for testing.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-31T13:27:32.280957+00:00"
+        "consensus_timestamp": "2026-03-31T17:05:30.421435+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,89 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-31T13:27:32.280960+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "13d364e8edcd64153479b3fa54503316",
-      "title": "Transparency data: DSIT: senior officials’ business expenses and hospitality: October to December 2025",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/dsit-senior-officials-business-expenses-and-hospitality-october-to-december-2025",
-      "published_date": "2026-03-24T16:00:10+00:00",
-      "category": "Government",
-      "description": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
-      "author": "",
-      "content": "Data on senior officials’ (SCS2+) business expenses, hospitality, and meetings with external individuals and organisations.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-31T13:27:32.278262+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-31T13:27:32.278265+00:00"
+        "timestamp": "2026-03-31T17:05:30.421438+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2d972f8dbb15df2d3042457797910a9f",
-      "title": "Overcoming LLM hallucinations in regulated industries: Artificial Genius’s deterministic models on Amazon Nova",
+      "article_id": "2c70d14a03f18f50913d280c534b2d1e",
+      "title": "Building age-responsive, context-aware AI with Amazon Bedrock Guardrails",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/overcoming-llm-hallucinations-in-regulated-industries-artificial-geniuss-deterministic-models-on-amazon-nova/",
-      "published_date": "2026-03-23T16:34:37+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/",
+      "published_date": "2026-03-26T17:26:23+00:00",
       "category": "Industry",
-      "description": "In this post, we’re excited to showcase how AWS ISV Partner Artificial Genius is using Amazon SageMaker AI and Amazon Nova to deliver a solution that is probabilistic on input but deterministic on output, helping to enable safe, enterprise-grade adoption.",
-      "author": "Paul Burchard, Igor Halperin",
-      "content": "In this post, we’re excited to showcase how AWS ISV Partner Artificial Genius is using Amazon SageMaker AI and Amazon Nova to deliver a solution that is probabilistic on input but deterministic on output, helping to enable safe, enterprise-grade adoption.",
+      "description": "In this post, we walk you through how to implement a fully automated, context-aware AI solution using a serverless architecture on AWS. This solution helps organizations looking to deploy responsible AI systems, align with compliance requirements for vulnerable populations, and help maintain appropriate and trustworthy AI responses across diverse user groups without compromising performance or governance.",
+      "author": "Pradip Kumar Pandey",
+      "content": "In this post, we walk you through how to implement a fully automated, context-aware AI solution using a serverless architecture on AWS. This solution helps organizations looking to deploy responsible AI systems, align with compliance requirements for vulnerable populations, and help maintain appropriate and trustworthy AI responses across diverse user groups without compromising performance or governance.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-03-31T13:27:32.279741+00:00"
+        "consensus_timestamp": "2026-03-31T17:05:30.423041+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,131 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-03-31T13:27:32.279743+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "43e975c2b72cf16ab571db8e199256e2",
-      "title": "Protecting people from harmful manipulation",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-      "published_date": "2026-03-25T16:46:20+00:00",
-      "category": "Industry",
-      "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
-      "author": "",
-      "content": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-31T13:27:32.282714+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-31T13:27:32.282717+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "738d544bb3019554569af90e9dfcab65",
-      "title": "Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/",
-      "published_date": "2026-03-28T20:58:21+00:00",
-      "category": "Industry",
-      "description": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models, Mistral is now providing the final ‘output layer’ of the audio stack, positioning itself as a direct competitor to proprietary voice APIs in the developer ecosystem. […] The post Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation...",
-      "author": "Asif Razzaq",
-      "content": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models, Mistral is now providing the final ‘output layer’ of the audio stack, positioning itself as a direct competitor to proprietary voice APIs in the developer ecosystem. […] The post Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-03-31T13:27:32.283434+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-03-31T13:27:32.283437+00:00"
+        "timestamp": "2026-03-31T17:05:30.423044+00:00"
       },
       "article_type": "article"
     }
