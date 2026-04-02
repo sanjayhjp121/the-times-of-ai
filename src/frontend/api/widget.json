@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T17:04:50.320968+00:00",
+  "updated": "2026-04-02T20:43:47.780484+00:00",
   "top_stories": [
     {
       "article_id": "684d3d2b86375f0d9b35b616d55d682f",
@@ -12,11 +12,11 @@
       "author": "Lucas Ropek",
       "content": "Slack just got a whole lot more useful.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9285000000000001,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -45,103 +45,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T17:04:50.278148+00:00"
+        "consensus_timestamp": "2026-04-02T20:43:47.738134+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T17:04:50.278150+00:00"
+        "timestamp": "2026-04-02T20:43:47.738136+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "74a4aa9ae189973ee834bb322068ebba",
-      "title": "AI for nuclear energy: Powering an intelligent, resilient future",
-      "source": "azure_ai_blog",
-      "url": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
-      "published_date": "2026-03-25T15:00:00+00:00",
-      "category": "Industry",
-      "description": "To break the infrastructure bottleneck and shift the industry from ambition to delivery, Microsoft is announcing an AI for nuclear collaboration with NVIDIA, to provide end-to-end tools that streamline permitting, accelerate design, and optimize operations across the industry. The post AI for nuclear energy: Powering an intelligent, resilient future appeared first on Microsoft Azure Blog.",
-      "author": "Darryl Willis",
-      "content": "To break the infrastructure bottleneck and shift the industry from ambition to delivery, Microsoft is announcing an AI for nuclear collaboration with NVIDIA, to provide end-to-end tools that streamline permitting, accelerate design, and optimize operations across the industry. The post AI for nuclear energy: Powering an intelligent, resilient future appeared first on Microsoft Azure Blog.",
+      "article_id": "b27c28c92534d7d6636c867f1d497374",
+      "title": "Smart Infrastructure Pilots Programme",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/case-studies/smart-infrastructure-pilots-programme",
+      "published_date": "2026-04-01T07:30:04+00:00",
+      "category": "Government",
+      "description": "£1.5m Smart Infrastructure Pilots Programme funded councils to trial PAS 191 smart columns, boosting connectivity and services like CCTV, sensors and Wi-Fi",
+      "author": "",
+      "content": "£1.5m Smart Infrastructure Pilots Programme funded councils to trial PAS 191 smart columns, boosting connectivity and services like CCTV, sensors and Wi-Fi",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T17:04:50.276519+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-02T17:04:50.276521+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "47ec0cbf70acfc56e8d4969ec3bf87b9",
-      "title": "Reimagine marketing at Volkswagen Group with generative AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reimagine-marketing-at-volkswagen-group-with-generative-ai/",
-      "published_date": "2026-03-30T15:24:17+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore the challenges that Volkswagen Group faced in producing brand-compliant marketing assets at scale. We walk through how we built a generative AI solution that generates photorealistic vehicle images, validates technical accuracy at the component level, and helps enforce brand guideline compliance alignment across the ten brands.",
-      "author": "Liam Byrne",
-      "content": "In this post, we explore the challenges that Volkswagen Group faced in producing brand-compliant marketing assets at scale. We walk through how we built a generative AI solution that generates photorealistic vehicle images, validates technical accuracy at the component level, and helps enforce brand guideline compliance alignment across the ten brands.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T17:04:50.277171+00:00"
+        "consensus_timestamp": "2026-04-02T20:43:47.735480+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,27 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T17:04:50.277174+00:00"
+        "timestamp": "2026-04-02T20:43:47.735483+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f18e7145f0d0ae53bcc4aef4e47472e8",
-      "title": "Research: Deepfake detection technology",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/deepfake-detection-technology",
-      "published_date": "2026-03-26T09:30:08+00:00",
-      "category": "Government",
-      "description": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
-      "author": "",
-      "content": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
+      "article_id": "640a43bff3a4324a85f0b43192f2c071",
+      "title": "Stream High-Fidelity Spatial Computing Content to Any Device with NVIDIA CloudXR 6.0",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/stream-high-fidelity-spatial-computing-content-to-any-device-with-nvidia-cloudxr-6-0/",
+      "published_date": "2026-03-31T18:14:50+00:00",
+      "category": "Industry",
+      "description": "Spatial computing is moving from visualization to active collaboration, adding increasingly more GPU demands on XR hardware to render photorealistic,...",
+      "author": "Max Bickley",
+      "content": "Spatial computing is moving from visualization to active collaboration, adding increasingly more GPU demands on XR hardware to render photorealistic,...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -231,41 +169,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T17:04:50.275570+00:00"
+        "consensus_timestamp": "2026-04-02T20:43:47.738854+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T17:04:50.275572+00:00"
+        "timestamp": "2026-04-02T20:43:47.738856+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a3639f740fe21009f4826461b322cc08",
-      "title": "Azure IaaS: Keep critical applications running with built-in resiliency at scale",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
-      "published_date": "2026-04-01T16:00:00+00:00",
+      "article_id": "25b24380093fa3e4af7ca8dea2dfd25c",
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "published_date": "2026-03-29T22:15:00+00:00",
       "category": "Industry",
-      "description": "Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient. The post Azure IaaS: Keep critical applications running with built-in resiliency at scale appeared first on Microsoft Azure Blog.",
-      "author": "Igal Figlin",
-      "content": "Azure IaaS provides foundational capabilities across compute, storage, and networking to help organizations stay resilient. The post Azure IaaS: Keep critical applications running with built-in resiliency at scale appeared first on Microsoft Azure Blog.",
+      "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "author": "",
+      "content": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.865,
-        "confidence_mean": 0.95
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-02T17:04:50.276341+00:00"
+        "consensus_timestamp": "2026-04-02T20:43:47.736109+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-02T17:04:50.276343+00:00"
+        "timestamp": "2026-04-02T20:43:47.736112+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f18e7145f0d0ae53bcc4aef4e47472e8",
+      "title": "Research: Deepfake detection technology",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/deepfake-detection-technology",
+      "published_date": "2026-03-26T09:30:08+00:00",
+      "category": "Government",
+      "description": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
+      "author": "",
+      "content": "Analysis of the current state of demand and supply in the UK deepfake detection market​ and existing barriers and key drivers that can shape the future of the sector​.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-02T20:43:47.735666+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-02T20:43:47.735669+00:00"
       },
       "article_type": "article"
     }
