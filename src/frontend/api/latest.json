@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T02:37:01.624936+00:00",
+  "generated_at": "2026-04-03T05:48:12.242909+00:00",
   "articles": [
     {
       "article_id": "cb9688800ac060cd7dbc8f916f83a8b6",
@@ -17,7 +17,7 @@
         "novelty_score": 0.8,
         "impact_score": 0.98,
         "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,22 +44,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.588442+00:00"
+        "consensus_timestamp": "2026-04-03T05:48:12.212562+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-03T02:37:01.588445+00:00"
+        "timestamp": "2026-04-03T05:48:12.212565+00:00"
       },
       "article_type": "headline"
     },
@@ -110,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.584338+00:00"
+        "consensus_timestamp": "2026-04-03T05:48:12.208877+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,88 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-03T02:37:01.584340+00:00"
+        "timestamp": "2026-04-03T05:48:12.208879+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "adf780df21cb49ad802e4e4e4ffdca37",
-      "title": "Achieving Single-Digit Microsecond Latency Inference for Capital Markets",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/",
-      "published_date": "2026-04-02T16:00:00+00:00",
+      "article_id": "42a3985ec76fbe095cefbb0b5ff1d617",
+      "title": "AWS launches frontier agents for security testing and cloud operations",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+      "published_date": "2026-03-31T16:25:32+00:00",
       "category": "Industry",
-      "description": "In algorithmic trading, reducing response times to market events is crucial. To keep pace with high-speed electronic markets, latency-sensitive firms often use...",
-      "author": "Nikolay Markovskiy",
-      "content": "In algorithmic trading, reducing response times to market events is crucial. To keep pace with high-speed electronic markets, latency-sensitive firms often use...",
+      "description": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
+      "author": "Swami Sivasubramanian",
+      "content": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.586845+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-03T02:37:01.586848+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "eb639d9da1c6608dc7083467f3291835",
-      "title": "Gemma 4: Byte for byte, the most capable open models",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-      "published_date": "2026-04-02T16:00:49+00:00",
-      "category": "Industry",
-      "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
-      "author": "",
-      "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -231,34 +169,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.587555+00:00"
+        "consensus_timestamp": "2026-04-03T05:48:12.209807+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-03T02:37:01.587558+00:00"
+        "timestamp": "2026-04-03T05:48:12.209813+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b0c9836051cf59bb228c235d00321cb5",
-      "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/",
-      "published_date": "2026-03-26T17:10:20+00:00",
+      "article_id": "adf780df21cb49ad802e4e4e4ffdca37",
+      "title": "Achieving Single-Digit Microsecond Latency Inference for Capital Markets",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/",
+      "published_date": "2026-04-02T16:00:00+00:00",
       "category": "Industry",
-      "description": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
-      "author": "Praveen Gadi",
-      "content": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
+      "description": "In algorithmic trading, reducing response times to market events is crucial. To keep pace with high-speed electronic markets, latency-sensitive firms often use...",
+      "author": "Nikolay Markovskiy",
+      "content": "In algorithmic trading, reducing response times to market events is crucial. To keep pace with high-speed electronic markets, latency-sensitive firms often use...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -292,146 +230,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.585600+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-03T02:37:01.585603+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f94c47a19c1ca46701d1eaf335ea4630",
-      "title": "Automating competitive price intelligence with Amazon Nova Act",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/",
-      "published_date": "2026-04-01T18:57:01+00:00",
-      "category": "Industry",
-      "description": "This post demonstrates how to build an automated competitive price intelligence system that streamlines manual workflows, supporting teams to make data-driven pricing decisions with real-time market insights.",
-      "author": "Nishant Dhiman",
-      "content": "This post demonstrates how to build an automated competitive price intelligence system that streamlines manual workflows, supporting teams to make data-driven pricing decisions with real-time market insights.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.584924+00:00"
+        "consensus_timestamp": "2026-04-03T05:48:12.211084+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-03T02:37:01.584927+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "42a3985ec76fbe095cefbb0b5ff1d617",
-      "title": "AWS launches frontier agents for security testing and cloud operations",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
-      "published_date": "2026-03-31T16:25:32+00:00",
-      "category": "Industry",
-      "description": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
-      "author": "Swami Sivasubramanian",
-      "content": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.585159+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-03T02:37:01.585162+00:00"
+        "timestamp": "2026-04-03T05:48:12.211087+00:00"
       },
       "article_type": "article"
     },
@@ -478,22 +292,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.95,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.583845+00:00"
+        "consensus_timestamp": "2026-04-03T05:48:12.208490+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-03T05:48:12.208492+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f94c47a19c1ca46701d1eaf335ea4630",
+      "title": "Automating competitive price intelligence with Amazon Nova Act",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/",
+      "published_date": "2026-04-01T18:57:01+00:00",
+      "category": "Industry",
+      "description": "This post demonstrates how to build an automated competitive price intelligence system that streamlines manual workflows, supporting teams to make data-driven pricing decisions with real-time market insights.",
+      "author": "Nishant Dhiman",
+      "content": "This post demonstrates how to build an automated competitive price intelligence system that streamlines manual workflows, supporting teams to make data-driven pricing decisions with real-time market insights.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-03T05:48:12.209513+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-03T02:37:01.583848+00:00"
+        "timestamp": "2026-04-03T05:48:12.209516+00:00"
       },
       "article_type": "article"
     },
@@ -544,7 +420,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.588121+00:00"
+        "consensus_timestamp": "2026-04-03T05:48:12.212192+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,89 +431,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-03T02:37:01.588124+00:00"
+        "timestamp": "2026-04-03T05:48:12.212194+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b27c28c92534d7d6636c867f1d497374",
-      "title": "Smart Infrastructure Pilots Programme",
+      "article_id": "02775e529c221bb6027d411bf68b30fc",
+      "title": "Research: Data investment in the UK, 2024",
       "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/case-studies/smart-infrastructure-pilots-programme",
-      "published_date": "2026-04-01T07:30:04+00:00",
+      "url": "https://www.gov.uk/government/publications/data-investment-in-the-uk-2024",
+      "published_date": "2026-03-31T08:30:00+00:00",
       "category": "Government",
-      "description": "£1.5m Smart Infrastructure Pilots Programme funded councils to trial PAS 191 smart columns, boosting connectivity and services like CCTV, sensors and Wi-Fi",
+      "description": "This report estimates the total value of data investment in the UK economy in 2024. It includes a time series for data investment in the public sector.",
       "author": "",
-      "content": "£1.5m Smart Infrastructure Pilots Programme funded councils to trial PAS 191 smart columns, boosting connectivity and services like CCTV, sensors and Wi-Fi",
+      "content": "This report estimates the total value of data investment in the UK economy in 2024. It includes a time series for data investment in the public sector.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.6,
-        "impact_score": 0.95,
-        "overall_score": 0.8475000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.583653+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-03T02:37:01.583656+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fd6a9110330c275763490167905b313d",
-      "title": "How Centralized Radar Processing on NVIDIA DRIVE Enables Safer, Smarter Level 4 Autonomy",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-centralized-radar-processing-on-nvidia-drive-enables-safer-smarter-level-4-autonomy/",
-      "published_date": "2026-03-25T16:00:00+00:00",
-      "category": "Industry",
-      "description": "In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
-      "author": "Lachlan Dowling",
-      "content": "In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "overall_score": 0.8699999999999999,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -665,83 +479,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.587119+00:00"
+        "consensus_timestamp": "2026-04-03T05:48:12.208352+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-03T02:37:01.587122+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e5ebb70f75b04e7d065559acfddfd7d9",
-      "title": "Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
-      "published_date": "2026-03-24T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...",
-      "author": "Chintan Patel",
-      "content": "Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.587274+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-03T02:37:01.587278+00:00"
+        "timestamp": "2026-04-03T05:48:12.208355+00:00"
       },
       "article_type": "article"
     },
@@ -792,7 +544,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.586485+00:00"
+        "consensus_timestamp": "2026-04-03T05:48:12.210817+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,26 +555,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-03T02:37:01.586488+00:00"
+        "timestamp": "2026-04-03T05:48:12.210820+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ebb67399a7b2a131d78bca56a93d53ce",
-      "title": "NVIDIA Extreme Co-Design Delivers New MLPerf Inference Records",
+      "article_id": "fd6a9110330c275763490167905b313d",
+      "title": "How Centralized Radar Processing on NVIDIA DRIVE Enables Safer, Smarter Level 4 Autonomy",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-extreme-co-design-delivers-new-mlperf-inference-records/",
-      "published_date": "2026-04-01T15:00:48+00:00",
+      "url": "https://developer.nvidia.com/blog/how-centralized-radar-processing-on-nvidia-drive-enables-safer-smarter-level-4-autonomy/",
+      "published_date": "2026-03-25T16:00:00+00:00",
       "category": "Industry",
-      "description": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
-      "author": "Ashraf Eassa",
-      "content": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "description": "In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
+      "author": "Lachlan Dowling",
+      "content": "In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.75,
-        "impact_score": 0.92,
-        "overall_score": 0.8540000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -854,7 +606,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.586891+00:00"
+        "consensus_timestamp": "2026-04-03T05:48:12.211376+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,27 +617,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-03T02:37:01.586894+00:00"
+        "timestamp": "2026-04-03T05:48:12.211379+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "316d0e82997b6ad19bc90505c85a7d54",
-      "title": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/",
-      "published_date": "2026-04-02T13:00:09+00:00",
+      "article_id": "e5ebb70f75b04e7d065559acfddfd7d9",
+      "title": "Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
+      "published_date": "2026-03-24T16:00:00+00:00",
       "category": "Industry",
-      "description": "No joke — GFN Thursday is skipping the tricks and heading straight into the games. April kicks off with ten new titles, bringing fresh adventures to GeForce NOW, including the launch of Capcom’s highly anticipated PRAGMATA. A dozen new games are available to stream this week, including Arknights: Endfield, which expands the acclaimed series into a full […]",
-      "author": "GeForce NOW Community",
-      "content": "No joke — GFN Thursday is skipping the tricks and heading straight into the games. April kicks off with ten new titles, bringing fresh adventures to GeForce NOW, including the launch of Capcom’s highly anticipated PRAGMATA. A dozen new games are available to stream this week, including Arknights: Endfield, which expands the acclaimed series into a full […]",
+      "description": "Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...",
+      "author": "Chintan Patel",
+      "content": "Agentic AI is an ecosystem where specialized models work together to handle planning, reasoning, retrieval, and safety guardrailing. As these systems scale,...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-03T05:48:12.211511+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-03T05:48:12.211514+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ebb67399a7b2a131d78bca56a93d53ce",
+      "title": "NVIDIA Extreme Co-Design Delivers New MLPerf Inference Records",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-extreme-co-design-delivers-new-mlperf-inference-records/",
+      "published_date": "2026-04-01T15:00:48+00:00",
+      "category": "Industry",
+      "description": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "author": "Ashraf Eassa",
+      "content": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.75,
         "impact_score": 0.9,
         "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.92
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -916,7 +730,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-03T02:37:01.585645+00:00"
+        "consensus_timestamp": "2026-04-03T05:48:12.211128+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +741,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-03T02:37:01.585648+00:00"
+        "timestamp": "2026-04-03T05:48:12.211131+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0cb714632c9304821b01fbce8f958eaa",
+      "title": "Accelerating the next phase of AI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "published_date": "2026-03-31T13:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "author": "",
+      "content": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-03T05:48:12.208713+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-03T05:48:12.208715+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f8ff6eae0860f040a1dab4eafe02e038",
+      "title": "Deploying Disaggregated LLM Inference Workloads on Kubernetes",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/deploying-disaggregated-llm-inference-workloads-on-kubernetes/",
+      "published_date": "2026-03-23T07:01:00+00:00",
+      "category": "Industry",
+      "description": "As large language model (LLM) inference workloads grow in complexity, a single monolithic serving process starts to hit its limits. Prefill and decode stages...",
+      "author": "Anish Maddipoti",
+      "content": "As large language model (LLM) inference workloads grow in complexity, a single monolithic serving process starts to hit its limits. Prefill and decode stages...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-03T05:48:12.211643+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-03T05:48:12.211646+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "214e79c915b16fc7ad61b0ec8f2cefef",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "published_date": "2026-03-26T15:23:35+00:00",
+      "category": "Industry",
+      "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+      "author": "",
+      "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-03T05:48:12.211790+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-03T05:48:12.211794+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 275.2736632823944,
+    "processing_time": 226.1097252368927,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 122,
+      "total_processed": 111,
       "candidates": {
-        "headlines": 9,
-        "articles": 113,
+        "headlines": 8,
+        "articles": 103,
         "research_papers": 0
       },
       "selected": {
