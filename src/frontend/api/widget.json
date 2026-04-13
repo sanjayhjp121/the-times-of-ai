@@ -1,16 +1,16 @@
 {
-  "updated": "2026-04-13T13:47:26.885587+00:00",
+  "updated": "2026-04-13T17:10:57.808285+00:00",
   "top_stories": [
     {
-      "article_id": "3ae8eccbe16375b758b5ae67cf5ccd56",
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "article_id": "fe6c5637896cddf56b081aa1b8749211",
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published_date": "2026-04-12T15:07:08+00:00",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "published_date": "2026-04-11T17:18:22+00:00",
       "category": "Industry",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "author": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-      "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "author": "Anthony Ha",
+      "content": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -44,11 +44,73 @@
             "enhancement_suggestions": []
           }
         },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-13T17:10:57.780361+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-13T17:10:57.780364+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "ebb67399a7b2a131d78bca56a93d53ce",
+      "title": "NVIDIA Platform Delivers Lowest Token Cost Enabled by Extreme Co-Design",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-platform-delivers-lowest-token-cost-enabled-by-extreme-co-design/",
+      "published_date": "2026-04-01T15:00:48+00:00",
+      "category": "Industry",
+      "description": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "author": "Ashraf Eassa",
+      "content": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
         "score": 0.95,
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T13:47:26.856211+00:00"
+        "consensus_timestamp": "2026-04-13T17:10:57.781289+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T13:47:26.856214+00:00"
+        "timestamp": "2026-04-13T17:10:57.781291+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "633e7675eca82757eecabc0714d886c3",
-      "title": "Poke makes using AI agents as easy as sending a text",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-      "published_date": "2026-04-08T21:05:13+00:00",
+      "article_id": "e4a233c47c515da62e7ff8cd030dd90a",
+      "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/",
+      "published_date": "2026-04-09T14:47:57+00:00",
       "category": "Industry",
-      "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-      "author": "Sarah Perez",
-      "content": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "description": "In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.",
+      "author": "Evandro Franco",
+      "content": "In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.925,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T13:47:26.856935+00:00"
+        "consensus_timestamp": "2026-04-13T17:10:57.779351+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,88 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T13:47:26.856937+00:00"
+        "timestamp": "2026-04-13T17:10:57.779354+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3febc7e487df0cb91fb507202d95c8e8",
-      "title": "Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/04/12/meta-ai-and-kaust-researchers-propose-neural-computers-that-fold-computation-memory-and-i-o-into-one-learned-model/",
-      "published_date": "2026-04-12T21:52:24+00:00",
+      "article_id": "75bf0308d31306af8832e6a499f5a49f",
+      "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
+      "published_date": "2026-04-13T14:16:15+00:00",
       "category": "Industry",
-      "description": "Researchers from Meta AI and the King Abdullah University of Science and Technology (KAUST) have introduced Neural Computers (NCs) — a proposed machine form in which a neural network itself acts as the running computer, rather than as a layer sitting on top of one. The research team presents both a theoretical framework and two […] The post Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model appeared first on MarkTechPost.",
-      "author": "Michal Sutter",
-      "content": "Researchers from Meta AI and the King Abdullah University of Science and Technology (KAUST) have introduced Neural Computers (NCs) — a proposed machine form in which a neural network itself acts as the running computer, rather than as a layer sitting on top of one. The research team presents both a theoretical framework and two […] The post Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model appeared first on MarkTechPost.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.925,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T13:47:26.858184+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-13T13:47:26.858188+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c949e3e9e2db60e0cc1b645856b85922",
-      "title": "Transparency data: Women in Tech Taskforce: Terms of Reference",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/women-in-tech-taskforce-terms-of-reference",
-      "published_date": "2026-04-09T09:59:00+00:00",
-      "category": "Government",
-      "description": "Terms of Reference for the Women in Tech Taskforce.",
-      "author": "",
-      "content": "Terms of Reference for the Women in Tech Taskforce.",
+      "description": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a …...",
+      "author": "Margaret Jackson",
+      "content": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a …...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.95,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9035,
+        "impact_score": 0.9,
+        "overall_score": 0.8875000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -230,42 +230,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T13:47:26.853114+00:00"
+        "consensus_timestamp": "2026-04-13T17:10:57.781864+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T13:47:26.853117+00:00"
+        "timestamp": "2026-04-13T17:10:57.781866+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e4a233c47c515da62e7ff8cd030dd90a",
-      "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/",
-      "published_date": "2026-04-09T14:47:57+00:00",
-      "category": "Industry",
-      "description": "In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.",
-      "author": "Evandro Franco",
-      "content": "In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.",
+      "article_id": "08c964d8601579a18325c189c8e088ef",
+      "title": "Research: UK Science and Technology Network summary: USA",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/uk-science-and-innovation-network-country-snapshot-usa",
+      "published_date": "2026-04-08T10:08:30+00:00",
+      "category": "Government",
+      "description": "A summary from UK Science and Technology Network (STN) on science and innovation in the USA including UK STN priorities and successes.",
+      "author": "",
+      "content": "A summary from UK Science and Technology Network (STN) on science and innovation in the USA including UK STN priorities and successes.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
-        "confidence_mean": 0.98
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T13:47:26.855150+00:00"
+        "consensus_timestamp": "2026-04-13T17:10:57.777635+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T13:47:26.855154+00:00"
+        "timestamp": "2026-04-13T17:10:57.777637+00:00"
       },
       "article_type": "article"
     }
