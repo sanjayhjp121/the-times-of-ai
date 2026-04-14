@@ -1,22 +1,22 @@
 {
-  "updated": "2026-04-13T21:03:18.487341+00:00",
+  "updated": "2026-04-14T02:47:21.898506+00:00",
   "top_stories": [
     {
-      "article_id": "3ae8eccbe16375b758b5ae67cf5ccd56",
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "article_id": "6245e5eda4ec3c69c537d59c4150c5d3",
+      "title": "The largest orbital compute cluster is open for business",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published_date": "2026-04-12T15:07:08+00:00",
+      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "published_date": "2026-04-13T07:01:00+00:00",
       "category": "Industry",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "author": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-      "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "description": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+      "author": "Tim Fernholz",
+      "content": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.87,
+        "overall_score": 0.8250000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,41 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T21:03:18.454384+00:00"
+        "consensus_timestamp": "2026-04-14T02:47:21.863025+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T21:03:18.454387+00:00"
+        "timestamp": "2026-04-14T02:47:21.863028+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "ebb67399a7b2a131d78bca56a93d53ce",
-      "title": "NVIDIA Platform Delivers Lowest Token Cost Enabled by Extreme Co-Design",
+      "article_id": "4c52008d6b0a8b9a37a016e42db777cc",
+      "title": "Running Large-Scale GPU Workloads on Kubernetes with Slurm",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-platform-delivers-lowest-token-cost-enabled-by-extreme-co-design/",
-      "published_date": "2026-04-01T15:00:48+00:00",
+      "url": "https://developer.nvidia.com/blog/running-large-scale-gpu-workloads-on-kubernetes-with-slurm/",
+      "published_date": "2026-04-09T17:00:00+00:00",
       "category": "Industry",
-      "description": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
-      "author": "Ashraf Eassa",
-      "content": "Co-designed hardware, software, and models are key to delivering the highest AI factory throughput and lowest token cost. Measuring this goes far beyond peak...",
+      "description": "Slurm is an open source cluster management and job scheduling system for Linux. It manages job scheduling for over 65% of TOP500 systems. Most organizations...",
+      "author": "Anton Polyakov",
+      "content": "Slurm is an open source cluster management and job scheduling system for Linux. It manages job scheduling for over 65% of TOP500 systems. Most organizations...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -106,35 +106,97 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T21:03:18.455473+00:00"
+        "consensus_timestamp": "2026-04-14T02:47:21.863782+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T21:03:18.455476+00:00"
+        "timestamp": "2026-04-14T02:47:21.863784+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e4a233c47c515da62e7ff8cd030dd90a",
-      "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/",
-      "published_date": "2026-04-09T14:47:57+00:00",
+      "article_id": "a135c24c5e6df236decbdbcfbf4cb2a3",
+      "title": "MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/",
+      "published_date": "2026-04-12T09:20:15+00:00",
       "category": "Industry",
-      "description": "In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.",
-      "author": "Evandro Franco",
-      "content": "In this post, you will learn how to build stateful MCP servers that request user input during execution, invoke LLM sampling for dynamic content generation, and stream progress updates for long-running tasks. You will see code examples for each capability and deploy a working stateful MCP server to Amazon Bedrock AgentCore Runtime.",
+      "description": "MiniMax has officially open-sourced MiniMax M2.7, making the model weights publicly available on Hugging Face. Originally announced on March 18, 2026, MiniMax M2.7 is the MiniMax’s most capable open-source model to date — and its first model to actively participate in its own development cycle, a meaningful shift in how large language models are built […] The post MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2...",
+      "author": "Asif Razzaq",
+      "content": "MiniMax has officially open-sourced MiniMax M2.7, making the model weights publicly available on Hugging Face. Originally announced on March 18, 2026, MiniMax M2.7 is the MiniMax’s most capable open-source model to date — and its first model to actively participate in its own development cycle, a meaningful shift in how large language models are built […] The post MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-14T02:47:21.865256+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-14T02:47:21.865259+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "eb639d9da1c6608dc7083467f3291835",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "published_date": "2026-04-02T16:00:49+00:00",
+      "category": "Industry",
+      "description": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "author": "",
+      "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -168,22 +230,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T21:03:18.453311+00:00"
+        "consensus_timestamp": "2026-04-14T02:47:21.864418+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T21:03:18.453314+00:00"
+        "timestamp": "2026-04-14T02:47:21.864420+00:00"
       },
       "article_type": "article"
     },
@@ -203,7 +265,7 @@
         "novelty_score": 0.9,
         "impact_score": 0.9,
         "overall_score": 0.9,
-        "confidence_mean": 0.8
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -231,83 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T21:03:18.451555+00:00"
+        "consensus_timestamp": "2026-04-14T02:47:21.860356+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-13T21:03:18.451559+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ee62fa3e16e0ba8eada96745f3127bf3",
-      "title": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
-      "published_date": "2026-04-11T20:10:41+00:00",
-      "category": "Industry",
-      "description": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of thousands of tokens before arriving at an answer. Every one of those tokens must be stored in what is called the KV cache […] The post Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput...",
-      "author": "Asif Razzaq",
-      "content": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of thousands of tokens before arriving at an answer. Every one of those tokens must be stored in what is called the KV cache […] The post Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-13T21:03:18.456436+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-13T21:03:18.456439+00:00"
+        "timestamp": "2026-04-14T02:47:21.860359+00:00"
       },
       "article_type": "article"
     }
