@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T06:09:04.012282+00:00",
+  "updated": "2026-04-21T09:47:04.551915+00:00",
   "top_stories": [
     {
       "article_id": "29d54a38584ffcb06f10ec35ab60a7f6",
@@ -44,73 +44,11 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-21T06:09:03.977209+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-21T06:09:03.977211+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "a7bf6ab93b8d24a4ef1974f277e27cda",
-      "title": "How to Accelerate Protein Structure Prediction at Proteome-Scale",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-accelerate-protein-structure-prediction-at-proteome-scale/",
-      "published_date": "2026-04-09T15:00:00+00:00",
-      "category": "Industry",
-      "description": "Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...",
-      "author": "Christian Dallago",
-      "content": "Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9035,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
         "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-21T06:09:03.978230+00:00"
+        "consensus_timestamp": "2026-04-21T09:47:04.514527+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,20 +59,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-21T06:09:03.978233+00:00"
+        "timestamp": "2026-04-21T09:47:04.514529+00:00"
       },
-      "article_type": "article"
+      "article_type": "headline"
     },
     {
-      "article_id": "219708273af8c12b232d0aaabcea18ad",
-      "title": "Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
-      "published_date": "2026-04-09T19:00:00+00:00",
+      "article_id": "f0c7c0b504d619326525ee57dfecfb0a",
+      "title": "Cut Checkpoint Costs with About 30 Lines of Python and NVIDIA nvCOMP",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/",
+      "published_date": "2026-04-09T16:48:38+00:00",
       "category": "Industry",
-      "description": "Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs. The post Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms appeared first on Microsoft Azure Blog.",
-      "author": "Alistair Speirs",
-      "content": "Microsoft is named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms, recognizing Microsoft Sovereign Cloud leadership in evolving sovereignty needs. The post Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms appeared first on Microsoft Azure Blog.",
+      "description": "Training LLMs requires periodic checkpoints. These full snapshots of model weights, optimizer states, and gradients are saved to storage so training can resume...",
+      "author": "Wenqi Glantz",
+      "content": "Training LLMs requires periodic checkpoints. These full snapshots of model weights, optimizer states, and gradients are saved to storage so training can resume...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -169,21 +107,21 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-21T06:09:03.975540+00:00"
+        "consensus_timestamp": "2026-04-21T09:47:04.515437+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-21T06:09:03.975543+00:00"
+        "timestamp": "2026-04-21T09:47:04.515440+00:00"
       },
       "article_type": "article"
     },
@@ -231,40 +169,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-21T06:09:03.978429+00:00"
+        "consensus_timestamp": "2026-04-21T09:47:04.515657+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-21T06:09:03.978433+00:00"
+        "timestamp": "2026-04-21T09:47:04.515659+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f9e45104c6d6b6765538a0f73a5edfdf",
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "published_date": "2026-04-13T06:00:00+00:00",
+      "article_id": "4d6f378a2edba0bddcd147cadd4168a6",
+      "title": "OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/04/20/openai-scales-trusted-access-for-cyber-defense-with-gpt-5-4-cyber-a-fine-tuned-model-built-for-verified-security-defenders/",
+      "published_date": "2026-04-20T08:26:41+00:00",
       "category": "Industry",
-      "description": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "description": "OpenAI is moving from a limited pilot to broad deployment of its Trusted Access for Cyber program, introducing GPT-5.4-Cyber — a variant of GPT-5.4 fine-tuned to be cyber-permissive — for thousands of vetted defenders. The post OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders appeared first on MarkTechPost.",
+      "author": "Michal Sutter",
+      "content": "OpenAI is moving from a limited pilot to broad deployment of its Trusted Access for Cyber program, introducing GPT-5.4-Cyber — a variant of GPT-5.4 fine-tuned to be cyber-permissive — for thousands of vetted defenders. The post OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-21T09:47:04.516372+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-21T09:47:04.516374+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "239acb51885359727621ce891cf3dc3b",
+      "title": "Research: Evaluation of the Medicines and Diagnostics Manufacturing Transformation Fund and the Life Sciences Innovative Manufacturing Fund",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/evaluation-of-the-medicines-and-diagnostics-manufacturing-transformation-fund-and-the-life-sciences-innovative-manufacturing-fund",
+      "published_date": "2026-04-13T23:01:02+00:00",
+      "category": "Government",
+      "description": "Findings from the early‑stage evaluation of the Medicines and Diagnostics Manufacturing Transformation Fund and its successor, the Life Sciences Innovative Manufacturing Fund.",
       "author": "",
-      "content": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "content": "Findings from the early‑stage evaluation of the Medicines and Diagnostics Manufacturing Transformation Fund and its successor, the Life Sciences Innovative Manufacturing Fund.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.85,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.8,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-21T06:09:03.974752+00:00"
+        "consensus_timestamp": "2026-04-21T09:47:04.511785+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-21T06:09:03.974755+00:00"
+        "timestamp": "2026-04-21T09:47:04.511787+00:00"
       },
       "article_type": "article"
     }
