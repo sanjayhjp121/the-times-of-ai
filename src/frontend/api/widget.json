@@ -1,16 +1,16 @@
 {
-  "updated": "2026-04-21T21:01:08.816446+00:00",
+  "updated": "2026-04-22T02:48:07.061777+00:00",
   "top_stories": [
     {
-      "article_id": "5d094f6589834257730c7a7c55c43d38",
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "article_id": "e88e96531efd5552ce6e129f485292ed",
+      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "published_date": "2026-04-21T19:11:29+00:00",
+      "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+      "published_date": "2026-04-21T17:11:01+00:00",
       "category": "Industry",
-      "description": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-      "author": "Marina Temkin",
-      "content": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      "description": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
+      "author": "Amanda Silberling",
+      "content": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -44,104 +44,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-21T21:01:08.777974+00:00"
+        "consensus_timestamp": "2026-04-22T02:48:07.020513+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-21T21:01:08.777976+00:00"
+        "timestamp": "2026-04-22T02:48:07.020516+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "4c52008d6b0a8b9a37a016e42db777cc",
-      "title": "Running Large-Scale GPU Workloads on Kubernetes with Slurm",
+      "article_id": "a7bf6ab93b8d24a4ef1974f277e27cda",
+      "title": "How to Accelerate Protein Structure Prediction at Proteome-Scale",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/running-large-scale-gpu-workloads-on-kubernetes-with-slurm/",
-      "published_date": "2026-04-09T17:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/how-to-accelerate-protein-structure-prediction-at-proteome-scale/",
+      "published_date": "2026-04-09T15:00:00+00:00",
       "category": "Industry",
-      "description": "Slurm is an open source cluster management and job scheduling system for Linux. It manages job scheduling for over 65% of TOP500 systems. Most organizations...",
-      "author": "Anton Polyakov",
-      "content": "Slurm is an open source cluster management and job scheduling system for Linux. It manages job scheduling for over 65% of TOP500 systems. Most organizations...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-21T21:01:08.779108+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-21T21:01:08.779110+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3bfd29aecea8ed44601f6e936b7a7942",
-      "title": "A Coding Implementation on Qwen 3.6-35B-A3B Covering Multimodal Inference, Thinking Control, Tool Calling, MoE Routing, RAG, and Session Persistence",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/04/21/a-coding-implementation-on-qwen-3-6-35b-a3b-covering-multimodal-inference-thinking-control-tool-calling-moe-routing-rag-and-session-persistence/",
-      "published_date": "2026-04-21T07:54:34+00:00",
-      "category": "Industry",
-      "description": "In this tutorial, we build an end-to-end implementation around Qwen 3.6-35B-A3B and explore how a modern multimodal MoE model can be used in practical workflows. We begin by setting up the environment, loading the model adaptively based on available GPU memory, and creating a reusable chat framework that supports both standard responses and explicit thinking […] The post A Coding Implementation on Qwen 3.6-35B-A3B Covering Multimodal Inference, Thinking Control, Tool Calling, MoE Routing, RAG,...",
-      "author": "Sana Hassan",
-      "content": "In this tutorial, we build an end-to-end implementation around Qwen 3.6-35B-A3B and explore how a modern multimodal MoE model can be used in practical workflows. We begin by setting up the environment, loading the model adaptively based on available GPU memory, and creating a reusable chat framework that supports both standard responses and explicit thinking […] The post A Coding Implementation on Qwen 3.6-35B-A3B Covering Multimodal Inference, Thinking Control, Tool Calling, MoE Routing, RAG,...",
+      "description": "Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...",
+      "author": "Christian Dallago",
+      "content": "Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.9035,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-21T21:01:08.779955+00:00"
+        "consensus_timestamp": "2026-04-22T02:48:07.021497+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,88 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-21T21:01:08.779958+00:00"
+        "timestamp": "2026-04-22T02:48:07.021499+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4a9ab9f042ad14fdc997ab29b11b4a2d",
-      "title": "Financial services",
+      "article_id": "3fbf3c3d096a0e43e455e5c10211c70b",
+      "title": "Introducing GPT-Rosalind for life sciences research",
       "source": "openai_blog",
-      "url": "https://openai.com/academy/financial-services",
-      "published_date": "2026-04-10T00:00:00+00:00",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "published_date": "2026-04-16T01:00:00+00:00",
       "category": "Industry",
-      "description": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
       "author": "",
-      "content": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "content": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-21T21:01:08.775873+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-21T21:01:08.775875+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "61d15252f2084ff36fbb3101e2b2420a",
-      "title": "Isabelle/HOL: The proof assistant behind the Nitro Isolation Engine",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine",
-      "published_date": "2026-04-17T13:00:00+00:00",
-      "category": "Industry",
-      "description": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
-      "author": "",
-      "content": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -293,21 +169,145 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-21T21:01:08.779400+00:00"
+        "consensus_timestamp": "2026-04-22T02:48:07.018230+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-21T21:01:08.779402+00:00"
+        "timestamp": "2026-04-22T02:48:07.018233+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9bbd98cf7a1a4dee3eba4308fcd73e17",
+      "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "published_date": "2026-04-13T15:52:13+00:00",
+      "category": "Industry",
+      "description": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+      "author": "",
+      "content": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-22T02:48:07.021677+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-22T02:48:07.021680+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e695919d990bc8b95088daf6bdf94b58",
+      "title": "Any Color You Like: NIST Scientists Create ‘Any Wavelength’ Lasers in Tiny Circuits for Light",
+      "source": "nist_ai_news",
+      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "published_date": "2026-04-15T12:00:00+00:00",
+      "category": "Government",
+      "description": "NIST scientists and collaborators have pioneered a way to make integrated circuits for light by depositing complex patterns of specialized materials onto silicon wafers.",
+      "author": "Sarah Henderson",
+      "content": "NIST scientists and collaborators have pioneered a way to make integrated circuits for light by depositing complex patterns of specialized materials onto silicon wafers.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-22T02:48:07.016730+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-22T02:48:07.016744+00:00"
       },
       "article_type": "article"
     }
