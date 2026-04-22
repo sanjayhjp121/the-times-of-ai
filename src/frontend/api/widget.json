@@ -1,16 +1,16 @@
 {
-  "updated": "2026-04-22T06:06:38.455413+00:00",
+  "updated": "2026-04-22T09:28:03.754156+00:00",
   "top_stories": [
     {
-      "article_id": "7ad55c379e927996eb1f6a1601b7e7ae",
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "article_id": "d74e2484e11e48f72c11463cae04b22d",
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "published_date": "2026-04-20T23:10:27+00:00",
+      "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+      "published_date": "2026-04-20T15:30:19+00:00",
       "category": "Industry",
-      "description": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-      "author": "Julie Bort",
-      "content": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "description": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+      "author": "Kirsten Korosec",
+      "content": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-22T06:06:38.412441+00:00"
+        "consensus_timestamp": "2026-04-22T09:28:03.714673+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,195 +59,9 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-22T06:06:38.412444+00:00"
+        "timestamp": "2026-04-22T09:28:03.714676+00:00"
       },
       "article_type": "headline"
-    },
-    {
-      "article_id": "aff644807f35cfdf0b8e3f72a31b51af",
-      "title": "Transform retail with AWS generative AI services",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/",
-      "published_date": "2026-04-16T17:39:56+00:00",
-      "category": "Industry",
-      "description": "Online retailers face a persistent challenge: shoppers struggle to determine the fit and look when ordering online, leading to increased returns and decreased purchase confidence. The cost? Lost revenue, operational overhead, and customer frustration. Meanwhile, consumers increasingly expect immersive, interactive shopping experiences that bridge the gap between online and in-store retail. Retailers implementing virtual try-on […]",
-      "author": "Bhavya Chugh",
-      "content": "Online retailers face a persistent challenge: shoppers struggle to determine the fit and look when ordering online, leading to increased returns and decreased purchase confidence. The cost? Lost revenue, operational overhead, and customer frustration. Meanwhile, consumers increasingly expect immersive, interactive shopping experiences that bridge the gap between online and in-store retail. Retailers implementing virtual try-on […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-22T06:06:38.411151+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-22T06:06:38.411153+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e84d6cb8926bdce2bd8d8ea98bd8e162",
-      "title": "Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/",
-      "published_date": "2026-04-20T19:38:10+00:00",
-      "category": "Industry",
-      "description": "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the capability to use a single-node GPU, G7e.2xlarge instance to host powerful open source foundation models (FMs) like GPT-OSS-120B, Nemotron-3-Super-120B-A12B (NVFP4 variant), and Qwen3.5-35B-A3B,...",
-      "author": "Hazim Qudah",
-      "content": "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the capability to use a single-node GPU, G7e.2xlarge instance to host powerful open source foundation models (FMs) like GPT-OSS-120B, Nemotron-3-Super-120B-A12B (NVFP4 variant), and Qwen3.5-35B-A3B,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-22T06:06:38.410760+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-22T06:06:38.410763+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4855535073e304fa76a0fd3269dbb5be",
-      "title": "How Guidesly built AI-generated trip reports for outdoor guides on AWS",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-guidesly-built-ai-generated-trip-reports-for-outdoor-guides-on-aws/",
-      "published_date": "2026-04-14T18:02:56+00:00",
-      "category": "Industry",
-      "description": "In this post, we walk through how Guidesly built Jack AI on AWS using AWS Lambda, AWS Step Functions, Amazon Simple Storage Service (Amazon S3), Amazon Relational Database Service (Amazon RDS), Amazon SageMaker AI, and Amazon Bedrock to ingest trip media, enrich it with context, apply computer vision and generative AI, and publish marketing-ready content across multiple channels—securely, reliably, and at scale.",
-      "author": "David Lord, Taylor Lord, Shiva Prasad, Anup Banasavalli Hiriyanagowda, Nikhil Chandra",
-      "content": "In this post, we walk through how Guidesly built Jack AI on AWS using AWS Lambda, AWS Step Functions, Amazon Simple Storage Service (Amazon S3), Amazon Relational Database Service (Amazon RDS), Amazon SageMaker AI, and Amazon Bedrock to ingest trip media, enrich it with context, apply computer vision and generative AI, and publish marketing-ready content across multiple channels—securely, reliably, and at scale.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-22T06:06:38.411500+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-22T06:06:38.411503+00:00"
-      },
-      "article_type": "article"
     },
     {
       "article_id": "3fbf3c3d096a0e43e455e5c10211c70b",
@@ -260,12 +74,12 @@
       "author": "",
       "content": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-22T06:06:38.409740+00:00"
+        "consensus_timestamp": "2026-04-22T09:28:03.712175+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +121,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-22T06:06:38.409745+00:00"
+        "timestamp": "2026-04-22T09:28:03.712178+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a7bf6ab93b8d24a4ef1974f277e27cda",
+      "title": "How to Accelerate Protein Structure Prediction at Proteome-Scale",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-accelerate-protein-structure-prediction-at-proteome-scale/",
+      "published_date": "2026-04-09T15:00:00+00:00",
+      "category": "Industry",
+      "description": "Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...",
+      "author": "Christian Dallago",
+      "content": "Proteins rarely function in isolation as individual monomers. Most biological processes are governed by proteins interacting with other proteins, forming...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-22T09:28:03.715132+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-22T09:28:03.715134+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "7a49386364922a736391ee10d6687264",
+      "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
+      "published_date": "2026-04-15T15:00:26+00:00",
+      "category": "Industry",
+      "description": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+      "author": "Shruti Koparkar",
+      "content": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-22T09:28:03.713946+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-22T09:28:03.713948+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "83e2b890883ccf2275dfe3318392bd78",
+      "title": "Google Introduces Simula: A Reasoning-First Framework for Generating Controllable, Scalable Synthetic Datasets Across Specialized AI Domains",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/04/21/google-introduces-simula-a-reasoning-first-framework-for-generating-controllable-scalable-synthetic-datasets-across-specialized-ai-domains/",
+      "published_date": "2026-04-21T16:46:21+00:00",
+      "category": "Industry",
+      "description": "Training powerful AI models depends on one resource that is quietly running out: specialized data. While the internet provided a seemingly infinite supply of text and images to train today’s generalist models, the next wave of AI breakthroughs — in cybersecurity, legal reasoning, healthcare, and other niche domains — requires data that simply doesn’t exist […] The post Google Introduces Simula: A Reasoning-First Framework for Generating Controllable, Scalable Synthetic Datasets Across...",
+      "author": "Asif Razzaq",
+      "content": "Training powerful AI models depends on one resource that is quietly running out: specialized data. While the internet provided a seemingly infinite supply of text and images to train today’s generalist models, the next wave of AI breakthroughs — in cybersecurity, legal reasoning, healthcare, and other niche domains — requires data that simply doesn’t exist […] The post Google Introduces Simula: A Reasoning-First Framework for Generating Controllable, Scalable Synthetic Datasets Across...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-22T09:28:03.716613+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-22T09:28:03.716616+00:00"
       },
       "article_type": "article"
     }
