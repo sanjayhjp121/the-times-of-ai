@@ -1,23 +1,23 @@
 {
-  "updated": "2026-04-25T02:40:19.512436+00:00",
+  "updated": "2026-04-25T05:54:28.614518+00:00",
   "top_stories": [
     {
-      "article_id": "7996c8143f46e7439752fcfa32b2940d",
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "article_id": "3816ead0701f026aaf095064eec85265",
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "published_date": "2026-04-24T18:00:03+00:00",
+      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "published_date": "2026-04-23T14:00:00+00:00",
       "category": "Industry",
-      "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-      "author": "Rebecca Bellan",
-      "content": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "description": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
+      "author": "Julie Bort",
+      "content": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,42 +44,104 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
+        "score": 0.6,
+        "confidence": 0.9,
+        "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-25T02:40:19.475271+00:00"
+        "consensus_timestamp": "2026-04-25T05:54:28.581456+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.56,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-25T02:40:19.475274+00:00"
+        "timestamp": "2026-04-25T05:54:28.581459+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "b3ba007d02a0b1b8f66f03363c032d69",
-      "title": "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/",
-      "published_date": "2026-04-17T19:43:38+00:00",
+      "article_id": "61d15252f2084ff36fbb3101e2b2420a",
+      "title": "Isabelle/HOL: The proof assistant behind the Nitro Isolation Engine",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/isabelle-hol-the-proof-assistant-behind-the-nitro-isolation-engine",
+      "published_date": "2026-04-17T13:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we show you how to use Model Distillation, a model customization technique on Amazon Bedrock, to transfer routing intelligence from a large teacher model (Amazon Nova Premier) into a much smaller student model (Amazon Nova Micro). This approach cuts inference cost by over 95% and reduces latency by 50% while maintaining the nuanced routing quality that the task demands.",
-      "author": "Amit Kalawat",
-      "content": "In this post, we show you how to use Model Distillation, a model customization technique on Amazon Bedrock, to transfer routing intelligence from a large teacher model (Amazon Nova Premier) into a much smaller student model (Amazon Nova Micro). This approach cuts inference cost by over 95% and reduces latency by 50% while maintaining the nuanced routing quality that the task demands.",
+      "description": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
+      "author": "",
+      "content": "Isabelle/HOL's balance of expressiveness, automation, and scalability enabled the world's first formally verified cloud hypervisor.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9225000000000001,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
         "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-25T05:54:28.582620+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-25T05:54:28.582623+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4cf0f29c4f975b50168a9632f5a4f4f5",
+      "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
+      "published_date": "2026-04-22T19:15:08+00:00",
+      "category": "Industry",
+      "description": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
+      "author": "Mona Mona",
+      "content": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-25T02:40:19.474518+00:00"
+        "consensus_timestamp": "2026-04-25T05:54:28.579878+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,20 +183,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-25T02:40:19.474521+00:00"
+        "timestamp": "2026-04-25T05:54:28.579880+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "74dd535089a51b57d695c322483b340b",
-      "title": "A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text Intelligence",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/04/24/a-coding-implementation-on-deepgram-python-sdk-for-transcription-text-to-speech-async-audio-processing-and-text-intelligence/",
-      "published_date": "2026-04-25T01:02:19+00:00",
+      "article_id": "7a49386364922a736391ee10d6687264",
+      "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
+      "published_date": "2026-04-15T15:00:26+00:00",
       "category": "Industry",
-      "description": "In this tutorial, we build an advanced hands-on workflow with the Deepgram Python SDK and explore how modern voice AI capabilities come together in a single Python environment. We set up authentication, connect both synchronous and asynchronous Deepgram clients, and work directly with real audio data to understand how the SDK handles transcription, speech generation, […] The post A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text...",
-      "author": "Asif Razzaq",
-      "content": "In this tutorial, we build an advanced hands-on workflow with the Deepgram Python SDK and explore how modern voice AI capabilities come together in a single Python environment. We set up authentication, connect both synchronous and asynchronous Deepgram clients, and work directly with real audio data to understand how the SDK handles transcription, speech generation, […] The post A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text...",
+      "description": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+      "author": "Shruti Koparkar",
+      "content": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-25T05:54:28.580908+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-25T05:54:28.580911+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a0225b92aa33804db39291b6f0498fef",
+      "title": "Edtech and AI companies invited to help build safe AI tutoring tools for disadvantaged pupils",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/edtech-and-ai-companies-invited-to-help-build-safe-ai-tutoring-tools-for-disadvantaged-pupils",
+      "published_date": "2026-04-16T21:30:00+00:00",
+      "category": "Government",
+      "description": "The government is inviting EdTech companies and AI labs to bid to develop safe, personalised AI tutoring tools designed to improve learning outcomes, particularly for disadvantaged pupils.",
+      "author": "",
+      "content": "The government is inviting EdTech companies and AI labs to bid to develop safe, personalised AI tutoring tools designed to improve learning outcomes, particularly for disadvantaged pupils.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -168,146 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-25T02:40:19.477323+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-25T02:40:19.477325+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c5ec4120f3b1211c11e23881f0830d30",
-      "title": "What is Codex?",
-      "source": "openai_blog",
-      "url": "https://openai.com/academy/what-is-codex",
-      "published_date": "2026-04-23T10:00:00+00:00",
-      "category": "Industry",
-      "description": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "author": "",
-      "content": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-25T02:40:19.473352+00:00"
+        "consensus_timestamp": "2026-04-25T05:54:28.578328+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-25T02:40:19.473355+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e91722175095c548fa72b186d3123e24",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "published_date": "2026-04-22T10:00:00+00:00",
-      "category": "Industry",
-      "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "author": "",
-      "content": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-25T02:40:19.473565+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-25T02:40:19.473568+00:00"
+        "timestamp": "2026-04-25T05:54:28.578331+00:00"
       },
       "article_type": "article"
     }
