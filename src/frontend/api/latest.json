@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T13:15:56.685387+00:00",
+  "generated_at": "2026-04-26T16:50:53.407385+00:00",
   "articles": [
     {
       "article_id": "7996c8143f46e7439752fcfa32b2940d",
@@ -45,10 +45,72 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-26T16:50:53.378665+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-26T16:50:53.378668+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "4cf0f29c4f975b50168a9632f5a4f4f5",
+      "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
+      "published_date": "2026-04-22T19:15:08+00:00",
+      "category": "Industry",
+      "description": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
+      "author": "Mona Mona",
+      "content": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.657124+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.377053+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,9 +121,9 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.657126+00:00"
+        "timestamp": "2026-04-26T16:50:53.377056+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "a0225b92aa33804db39291b6f0498fef",
@@ -107,72 +169,10 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.591712+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-26T13:15:56.591714+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "3fbf3c3d096a0e43e455e5c10211c70b",
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "published_date": "2026-04-16T01:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-      "author": "",
-      "content": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.592793+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.375323+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,69 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.592795+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "457a5393cfd8b5b7a6de39eebda1c302",
-      "title": "NIH researchers discover pain-relieving drug with minimal addictive properties",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-discover-pain-relieving-drug-minimal-addictive-properties",
-      "published_date": "2026-04-26T13:10:54.976204+00:00",
-      "category": "Government",
-      "description": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
-      "author": "",
-      "content": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.591188+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-26T13:15:56.591191+00:00"
+        "timestamp": "2026-04-26T16:50:53.375326+00:00"
       },
       "article_type": "article"
     },
@@ -296,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.591546+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.375138+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.591548+00:00"
+        "timestamp": "2026-04-26T16:50:53.375141+00:00"
       },
       "article_type": "article"
     },
@@ -355,40 +293,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.592287+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.376192+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.592289+00:00"
+        "timestamp": "2026-04-26T16:50:53.376194+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e9fbc82c6ceb001624704e6a0aea0a48",
-      "title": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/",
-      "published_date": "2026-04-22T12:00:42+00:00",
+      "article_id": "f5f89a502feca08c5a74cda0d93cdb1d",
+      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "published_date": "2026-04-23T21:00:00+00:00",
       "category": "Industry",
-      "description": "NVIDIA and Google Cloud have collaborated for more than a decade, co‑engineering a full‑stack AI platform that spans every technology layer — from performance‑optimized libraries and frameworks to enterprise‑grade cloud services. This foundation enables developers, startups and enterprises to push agentic and physical AI out of the lab and into production — from agents that […]",
-      "author": "Ian Buck",
-      "content": "NVIDIA and Google Cloud have collaborated for more than a decade, co‑engineering a full‑stack AI platform that spans every technology layer — from performance‑optimized libraries and frameworks to enterprise‑grade cloud services. This foundation enables developers, startups and enterprises to push agentic and physical AI out of the lab and into production — from agents that […]",
+      "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+      "author": "Dominic-Madori Davis",
+      "content": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.85,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -416,41 +354,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.656495+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.378998+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.656497+00:00"
+        "timestamp": "2026-04-26T16:50:53.379001+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ee670bd96d5fd4689594e7664f02acc7",
-      "title": "Build a More Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw/",
-      "published_date": "2026-04-17T18:59:12+00:00",
+      "article_id": "e84d6cb8926bdce2bd8d8ea98bd8e162",
+      "title": "Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/",
+      "published_date": "2026-04-20T19:38:10+00:00",
       "category": "Industry",
-      "description": "Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows....",
-      "author": "Patrick Moorhead",
-      "content": "Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows....",
+      "description": "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the capability to use a single-node GPU, G7e.2xlarge instance to host powerful open source foundation models (FMs) like GPT-OSS-120B, Nemotron-3-Super-120B-A12B (NVFP4 variant), and Qwen3.5-35B-A3B,...",
+      "author": "Hazim Qudah",
+      "content": "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the capability to use a single-node GPU, G7e.2xlarge instance to host powerful open source foundation models (FMs) like GPT-OSS-120B, Nemotron-3-Super-120B-A12B (NVFP4 variant), and Qwen3.5-35B-A3B,...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -478,84 +416,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.657902+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.377281+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.657904+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e84d6cb8926bdce2bd8d8ea98bd8e162",
-      "title": "Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/",
-      "published_date": "2026-04-20T19:38:10+00:00",
-      "category": "Industry",
-      "description": "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the capability to use a single-node GPU, G7e.2xlarge instance to host powerful open source foundation models (FMs) like GPT-OSS-120B, Nemotron-3-Super-120B-A12B (NVFP4 variant), and Qwen3.5-35B-A3B,...",
-      "author": "Hazim Qudah",
-      "content": "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the capability to use a single-node GPU, G7e.2xlarge instance to host powerful open source foundation models (FMs) like GPT-OSS-120B, Nemotron-3-Super-120B-A12B (NVFP4 variant), and Qwen3.5-35B-A3B,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.655952+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-26T13:15:56.655955+00:00"
+        "timestamp": "2026-04-26T16:50:53.377283+00:00"
       },
       "article_type": "article"
     },
@@ -606,7 +482,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.589745+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.374384+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,26 +493,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.589759+00:00"
+        "timestamp": "2026-04-26T16:50:53.374396+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cd799d9ec7029b778e3a1be22ba9b7a6",
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "published_date": "2026-04-20T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "article_id": "5b1bdf3d6eed30429b5ac54046f02b39",
+      "title": "Low-cost care model reduces blood pressure in high-risk populations",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/low-cost-care-model-reduces-blood-pressure-high-risk-populations",
+      "published_date": "2026-04-26T16:46:11.821733+00:00",
+      "category": "Government",
+      "description": "NIH-supported clinical trial shows coordinated care strategy more effective than standard care",
       "author": "",
-      "content": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "content": "NIH-supported clinical trial shows coordinated care strategy more effective than standard care",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -665,40 +541,40 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.592707+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.374697+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.592709+00:00"
+        "timestamp": "2026-04-26T16:50:53.374700+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5ec896221deb9de4b549398c576e76f8",
-      "title": "Microsoft Discovery: Advancing agentic R&D at scale",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
-      "published_date": "2026-04-22T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale appeared first on Microsoft Azure Blog.",
-      "author": "Aseem Datar",
-      "content": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale appeared first on Microsoft Azure Blog.",
+      "article_id": "d7c28a24c8722df830cac5966835cb3a",
+      "title": "Policy paper: UK Compute Roadmap",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/uk-compute-roadmap",
+      "published_date": "2026-04-23T15:11:20+00:00",
+      "category": "Government",
+      "description": "Our plan to build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.",
+      "author": "",
+      "content": "Our plan to build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -727,40 +603,102 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.592878+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.374998+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-26T16:50:53.375001+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "667a128a811e614db10bb6c5220ea3d6",
+      "title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-ai-model-predicts-cancer-survival-single-cell-tumor-data",
+      "published_date": "2026-04-26T16:46:11.821477+00:00",
+      "category": "Government",
+      "description": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "author": "",
+      "content": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.8,
+        "overall_score": 0.8550000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-26T16:50:53.374528+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.592881+00:00"
+        "timestamp": "2026-04-26T16:50:53.374533+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ade37d5eda38d5a7bf7d91104b23f2c7",
-      "title": "Run High-Throughput Reinforcement Learning Training with End-to-End FP8 Precision",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/run-high-throughput-reinforcement-learning-training-with-end-to-end-fp8-precision/",
-      "published_date": "2026-04-20T22:52:15+00:00",
+      "article_id": "802ecfaf4acc54a77f644bc54cb058b4",
+      "title": "Workspace agents",
+      "source": "openai_blog",
+      "url": "https://openai.com/academy/workspace-agents",
+      "published_date": "2026-04-22T10:00:00+00:00",
       "category": "Industry",
-      "description": "As LLMs transition from simple text generation to complex reasoning, reinforcement learning (RL) plays a central role. Algorithms like Group Relative Policy...",
-      "author": "Guyue Huang",
-      "content": "As LLMs transition from simple text generation to complex reasoning, reinforcement learning (RL) plays a central role. Algorithms like Group Relative Policy...",
+      "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "author": "",
+      "content": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -792,7 +730,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.657781+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.376417+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,20 +741,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.657783+00:00"
+        "timestamp": "2026-04-26T16:50:53.376423+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cba032544e82090784c3fe439aab341a",
-      "title": "How to Build Vision AI Pipelines Using NVIDIA DeepStream Coding Agents",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-build-vision-ai-pipelines-using-deepstream-coding-agents/",
-      "published_date": "2026-04-16T15:00:00+00:00",
+      "article_id": "aff644807f35cfdf0b8e3f72a31b51af",
+      "title": "Transform retail with AWS generative AI services",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/",
+      "published_date": "2026-04-16T17:39:56+00:00",
       "category": "Industry",
-      "description": "Developing real-time vision AI applications presents a significant challenge for developers, often demanding intricate data pipelines, countless lines of code,...",
-      "author": "Debraj Sinha",
-      "content": "Developing real-time vision AI applications presents a significant challenge for developers, often demanding intricate data pipelines, countless lines of code,...",
+      "description": "Online retailers face a persistent challenge: shoppers struggle to determine the fit and look when ordering online, leading to increased returns and decreased purchase confidence. The cost? Lost revenue, operational overhead, and customer frustration. Meanwhile, consumers increasingly expect immersive, interactive shopping experiences that bridge the gap between online and in-store retail. Retailers implementing virtual try-on […]",
+      "author": "Bhavya Chugh",
+      "content": "Online retailers face a persistent challenge: shoppers struggle to determine the fit and look when ordering online, leading to increased returns and decreased purchase confidence. The cost? Lost revenue, operational overhead, and customer frustration. Meanwhile, consumers increasingly expect immersive, interactive shopping experiences that bridge the gap between online and in-store retail. Retailers implementing virtual try-on […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.6,
+        "impact_score": 0.9,
+        "overall_score": 0.8125000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-26T16:50:53.377767+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-26T16:50:53.377769+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a5d8836f30fd49e4dc5aa6d5658c8e61",
+      "title": "Independent report: National Data Library report: research into public attitudes towards government data sharing",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/national-data-library-report-research-into-public-attitudes-towards-government-data-sharing",
+      "published_date": "2026-04-15T14:31:00+00:00",
+      "category": "Government",
+      "description": "Qualitative research exploring public understanding of and feelings towards government data sharing, and initial reactions to an early-stage concept for improving access to public sector data.",
+      "author": "",
+      "content": "Qualitative research exploring public understanding of and feelings towards government data sharing, and initial reactions to an early-stage concept for improving access to public sector data.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -850,41 +850,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.8,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.657942+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.375822+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.657944+00:00"
+        "timestamp": "2026-04-26T16:50:53.375825+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e91722175095c548fa72b186d3123e24",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "published_date": "2026-04-22T10:00:00+00:00",
-      "category": "Industry",
-      "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "article_id": "14c1c9a2a9387c9911e69aec1ea401af",
+      "title": "Policy paper: Crime and Policing Bill 2025: ECHR supplementary memoranda",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/crime-and-policing-bill-2025-echr-supplementary-memoranda",
+      "published_date": "2026-04-14T13:41:38+00:00",
+      "category": "Government",
+      "description": "Information relating to the Crime and Policing Bill, which was introduced in the House of Commons on 25 February 2025.",
       "author": "",
-      "content": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "content": "Information relating to the Crime and Policing Bill, which was introduced in the House of Commons on 25 February 2025.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
         "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -916,7 +916,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T13:15:56.592495+00:00"
+        "consensus_timestamp": "2026-04-26T16:50:53.375964+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T13:15:56.592498+00:00"
+        "timestamp": "2026-04-26T16:50:53.375967+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 238.6827347278595,
+    "processing_time": 222.85449075698853,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 114,
+      "total_processed": 113,
       "candidates": {
-        "headlines": 11,
-        "articles": 103,
+        "headlines": 9,
+        "articles": 104,
         "research_papers": 0
       },
       "selected": {
