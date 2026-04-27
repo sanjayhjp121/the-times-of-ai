@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T20:45:55.919163+00:00",
+  "updated": "2026-04-27T03:00:19.824740+00:00",
   "top_stories": [
     {
       "article_id": "0da8025702011802fd58d4bc64bdb0cd",
@@ -15,8 +15,8 @@
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -44,41 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T20:45:55.889719+00:00"
+        "consensus_timestamp": "2026-04-27T03:00:19.802640+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T20:45:55.889722+00:00"
+        "timestamp": "2026-04-27T03:00:19.802641+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "94e4295985de8c6001f79696ff562813",
-      "title": "Federated Learning Without the Refactoring Overhead Using NVIDIA FLARE",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/federated-learning-without-the-refactoring-overhead-using-nvidia-flare/",
-      "published_date": "2026-04-24T15:00:00+00:00",
+      "article_id": "4cf0f29c4f975b50168a9632f5a4f4f5",
+      "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
+      "published_date": "2026-04-22T19:15:08+00:00",
       "category": "Industry",
-      "description": "Federated learning (FL) is no longer a research curiosity—it’s a practical response to a hard constraint: the most valuable data is often the least movable....",
-      "author": "Holger Roth",
-      "content": "Federated learning (FL) is no longer a research curiosity—it’s a practical response to a hard constraint: the most valuable data is often the least movable....",
+      "description": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
+      "author": "Mona Mona",
+      "content": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -106,103 +106,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T20:45:55.890419+00:00"
+        "consensus_timestamp": "2026-04-27T03:00:19.801652+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T20:45:55.890422+00:00"
+        "timestamp": "2026-04-27T03:00:19.801654+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3fbf3c3d096a0e43e455e5c10211c70b",
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "published_date": "2026-04-16T01:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-      "author": "",
-      "content": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T20:45:55.887308+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-26T20:45:55.887311+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "457a5393cfd8b5b7a6de39eebda1c302",
-      "title": "NIH researchers discover pain-relieving drug with minimal addictive properties",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-discover-pain-relieving-drug-minimal-addictive-properties",
-      "published_date": "2026-04-26T20:40:47.500026+00:00",
+      "article_id": "a0225b92aa33804db39291b6f0498fef",
+      "title": "Edtech and AI companies invited to help build safe AI tutoring tools for disadvantaged pupils",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/edtech-and-ai-companies-invited-to-help-build-safe-ai-tutoring-tools-for-disadvantaged-pupils",
+      "published_date": "2026-04-16T21:30:00+00:00",
       "category": "Government",
-      "description": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
+      "description": "The government is inviting EdTech companies and AI labs to bid to develop safe, personalised AI tutoring tools designed to improve learning outcomes, particularly for disadvantaged pupils.",
       "author": "",
-      "content": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
+      "content": "The government is inviting EdTech companies and AI labs to bid to develop safe, personalised AI tutoring tools designed to improve learning outcomes, particularly for disadvantaged pupils.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -231,40 +169,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T20:45:55.885238+00:00"
+        "consensus_timestamp": "2026-04-27T03:00:19.800358+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-27T03:00:19.800361+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e40e653bdf52646729824cc8c7199f13",
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "published_date": "2026-04-24T12:00:00+00:00",
+      "category": "Industry",
+      "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "author": "Julie Bort",
+      "content": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.88,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-27T03:00:19.802894+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.728,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T20:45:55.885242+00:00"
+        "timestamp": "2026-04-27T03:00:19.802896+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "139aa89c6d26ed26444025f1b84d75a8",
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-      "published_date": "2026-04-15T16:03:19+00:00",
+      "article_id": "051014cdc22142107481634851563d73",
+      "title": "Winning a Kaggle Competition with Generative AI–Assisted Coding",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/winning-a-kaggle-competition-with-generative-ai-assisted-coding/",
+      "published_date": "2026-04-23T20:15:02+00:00",
       "category": "Industry",
-      "description": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
-      "author": "",
-      "content": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+      "description": "In March 2026, three LLM agents generated over 600,000 lines of code, ran 850 experiments, and helped secure a first-place finish in a Kaggle playground...",
+      "author": "Chris Deotte",
+      "content": "In March 2026, three LLM agents generated over 600,000 lines of code, ran 850 experiments, and helped secure a first-place finish in a Kaggle playground...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-26T20:45:55.890924+00:00"
+        "consensus_timestamp": "2026-04-27T03:00:19.803130+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-26T20:45:55.890926+00:00"
+        "timestamp": "2026-04-27T03:00:19.803132+00:00"
       },
       "article_type": "article"
     }
