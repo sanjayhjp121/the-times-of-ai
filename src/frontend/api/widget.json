@@ -1,22 +1,146 @@
 {
-  "updated": "2026-04-29T21:14:02.438694+00:00",
+  "updated": "2026-04-30T03:28:30.111662+00:00",
   "top_stories": [
     {
-      "article_id": "0b421607a0ef04c5f1d32312cb96438d",
-      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
-      "published_date": "2026-04-29T20:59:00+00:00",
+      "article_id": "f31ee4f9dd234febba8f79afa6ac1771",
+      "title": "Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/04/29/qwen-team-releases-flashqla-a-high-performance-linear-attention-kernel-library-that-achieves-up-to-3x-speedup-on-nvidia-hopper-gpus/",
+      "published_date": "2026-04-29T17:28:17+00:00",
       "category": "Industry",
-      "description": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
-      "author": "Sarah Perez",
-      "content": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+      "description": "The QwenLM team has released FlashQLA, a new kernel library that dramatically accelerates the forward and backward passes of Gated Delta Network (GDN) Chunked Prefill, targeting both large-scale pretraining and edge-side agentic inference scenarios. The post Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "The QwenLM team has released FlashQLA, a new kernel library that dramatically accelerates the forward and backward passes of Gated Delta Network (GDN) Chunked Prefill, targeting both large-scale pretraining and edge-side agentic inference scenarios. The post Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs appeared first on MarkTechPost.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-30T03:28:30.079890+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-30T03:28:30.079892+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "f0357e62f5fb005cc70d7721ebf6c02d",
+      "title": "NVIDIA Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning in a Single Efficient Open Model",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/",
+      "published_date": "2026-04-28T16:01:12+00:00",
+      "category": "Industry",
+      "description": "Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...",
+      "author": "Anjali Shah",
+      "content": "Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-04-30T03:28:30.078699+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-04-30T03:28:30.078702+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a0bda89789570c5ac8c69cbb743aefd2",
+      "title": "Notice: 5G Innovation Regions: successful regions",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/5g-innovation-regions-successful-regions",
+      "published_date": "2026-04-17T10:50:59+00:00",
+      "category": "Government",
+      "description": "Successful local and regional authorities across the UK to establish themselves as ‘5G Innovation Regions’ (5GIRs).",
+      "author": "",
+      "content": "Successful local and regional authorities across the UK to establish themselves as ‘5G Innovation Regions’ (5GIRs).",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-29T21:14:02.406470+00:00"
+        "consensus_timestamp": "2026-04-30T03:28:30.075151+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-29T21:14:02.406472+00:00"
+        "timestamp": "2026-04-30T03:28:30.075154+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "4cf0f29c4f975b50168a9632f5a4f4f5",
-      "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
-      "published_date": "2026-04-22T19:15:08+00:00",
-      "category": "Industry",
-      "description": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
-      "author": "Mona Mona",
-      "content": "Today, Amazon SageMaker AI supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
+      "article_id": "cc8c61bc9d740e9c00949c5f2e9044e9",
+      "title": "Guidance: Cyber Resilience Pledge",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/cyber-resilience-pledge",
+      "published_date": "2026-04-22T08:30:00+00:00",
+      "category": "Government",
+      "description": "Organisations are invited to take the Cyber Resilience Pledge, which contains 3 actions that will have an immediate positive impact on resilience to cyber attacks.",
+      "author": "",
+      "content": "Organisations are invited to take the Cyber Resilience Pledge, which contains 3 actions that will have an immediate positive impact on resilience to cyber attacks.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-29T21:14:02.405748+00:00"
+        "consensus_timestamp": "2026-04-30T03:28:30.075009+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,131 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-29T21:14:02.405751+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f0357e62f5fb005cc70d7721ebf6c02d",
-      "title": "NVIDIA Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning in a Single Efficient Open Model",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/",
-      "published_date": "2026-04-28T16:01:12+00:00",
-      "category": "Industry",
-      "description": "Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...",
-      "author": "Anjali Shah",
-      "content": "Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-29T21:14:02.407378+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-29T21:14:02.407380+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "051014cdc22142107481634851563d73",
-      "title": "Winning a Kaggle Competition with Generative AI–Assisted Coding",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/winning-a-kaggle-competition-with-generative-ai-assisted-coding/",
-      "published_date": "2026-04-23T20:15:02+00:00",
-      "category": "Industry",
-      "description": "In March 2026, three LLM agents generated over 600,000 lines of code, ran 850 experiments, and helped secure a first-place finish in a Kaggle playground...",
-      "author": "Chris Deotte",
-      "content": "In March 2026, three LLM agents generated over 600,000 lines of code, ran 850 experiments, and helped secure a first-place finish in a Kaggle playground...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-04-29T21:14:02.407552+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-04-29T21:14:02.407554+00:00"
+        "timestamp": "2026-04-30T03:28:30.075013+00:00"
       },
       "article_type": "article"
     },
@@ -260,11 +260,11 @@
       "author": "Naomi Moneypenny",
       "content": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work. The post OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-04-29T21:14:02.405023+00:00"
+        "consensus_timestamp": "2026-04-30T03:28:30.076264+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-04-29T21:14:02.405026+00:00"
+        "timestamp": "2026-04-30T03:28:30.076267+00:00"
       },
       "article_type": "article"
     }
