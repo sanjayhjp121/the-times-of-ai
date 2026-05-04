@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T03:27:44.213407+00:00",
+  "updated": "2026-05-04T06:44:29.983138+00:00",
   "top_stories": [
     {
       "article_id": "b624a3b291bf08bd067679280f295e9a",
@@ -15,9 +15,9 @@
         "relevance_score": 0.9,
         "quality_score": 0.8,
         "novelty_score": 0.7,
-        "impact_score": 0.8,
-        "overall_score": 0.805,
-        "confidence_mean": 0.8
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,220 +45,34 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T03:27:44.187667+00:00"
+        "consensus_timestamp": "2026-05-04T06:44:29.959356+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T03:27:44.187670+00:00"
+        "timestamp": "2026-05-04T06:44:29.959359+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "297f083cc62c5709bd2262e81c43de5e",
-      "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
-      "published_date": "2026-04-23T22:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work. The post OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform appeared first on Microsoft Azure Blog.",
-      "author": "Naomi Moneypenny",
-      "content": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work. The post OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T03:27:44.186055+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-04T03:27:44.186057+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0ea5cb73cd792dba4329060dfe1b01db",
-      "title": "Introducing GPT-5.5",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "published_date": "2026-04-23T11:00:00+00:00",
-      "category": "Industry",
-      "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "author": "",
-      "content": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9035,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T03:27:44.185556+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-04T03:27:44.185558+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9432f641c93b553cf1f07da4ee5399ce",
-      "title": "How catastrophic is your LLM?",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/how-catastrophic-is-your-llm",
-      "published_date": "2026-04-27T19:01:26+00:00",
-      "category": "Industry",
-      "description": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
-      "author": "",
-      "content": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T03:27:44.189352+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-04T03:27:44.189354+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "323e13674ddd8518634453086bcff429",
-      "title": "NIH-funded breakthrough shrinks CRISPR for precision delivery in the body",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body",
-      "published_date": "2026-05-04T03:23:07.182465+00:00",
+      "article_id": "5c4d8d052887df5a19c8ee2a0296e4f8",
+      "title": "Official Statistics: Cyber security breaches survey 2025/2026",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/statistics/cyber-security-breaches-survey-20252026",
+      "published_date": "2026-04-30T08:36:00+00:00",
       "category": "Government",
-      "description": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
+      "description": "An annual official statistic detailing the frequency and impact of cyber breaches attacks on businesses, charities and educational institutions.",
       "author": "",
-      "content": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
+      "content": "An annual official statistic detailing the frequency and impact of cyber breaches attacks on businesses, charities and educational institutions.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -293,10 +107,72 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-04T06:44:29.956315+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-04T06:44:29.956318+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "297f083cc62c5709bd2262e81c43de5e",
+      "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+      "published_date": "2026-04-23T22:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work. The post OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform appeared first on Microsoft Azure Blog.",
+      "author": "Naomi Moneypenny",
+      "content": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work. The post OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T03:27:44.184120+00:00"
+        "consensus_timestamp": "2026-05-04T06:44:29.957988+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +183,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T03:27:44.184124+00:00"
+        "timestamp": "2026-05-04T06:44:29.957990+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "d19485039173126aedd06980374c6831",
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "published_date": "2026-05-01T22:13:27+00:00",
+      "category": "Industry",
+      "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "author": "Julie Bort",
+      "content": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-04T06:44:29.959444+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-04T06:44:29.959447+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "97277e506c3101adeb59c22c5a7c0053",
+      "title": "Clinical trial finds no difference in fluid treatment options for pediatric sepsis",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis",
+      "published_date": "2026-05-04T06:39:34.588424+00:00",
+      "category": "Government",
+      "description": "NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
+      "author": "",
+      "content": "NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-04T06:44:29.955832+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-04T06:44:29.955837+00:00"
       },
       "article_type": "article"
     }
