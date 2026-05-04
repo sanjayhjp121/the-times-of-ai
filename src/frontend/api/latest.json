@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-04T06:44:29.980357+00:00",
+  "generated_at": "2026-05-04T10:20:03.280954+00:00",
   "articles": [
     {
-      "article_id": "b624a3b291bf08bd067679280f295e9a",
-      "title": "The best AI dictation apps, tested and ranked",
+      "article_id": "27fcbac0e104047be539a27c9ef2bf60",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-      "published_date": "2026-05-02T16:00:00+00:00",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "published_date": "2026-05-03T18:00:09+00:00",
       "category": "Industry",
-      "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-      "author": "Ivan Mehta",
-      "content": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "author": "Anthony Ha",
+      "content": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -45,23 +45,147 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.959356+00:00"
+        "consensus_timestamp": "2026-05-04T10:20:03.256316+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-04T10:20:03.256319+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "105c8c677a42ffb36d6c484026dd3d28",
+      "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/",
+      "published_date": "2026-04-23T18:57:55+00:00",
+      "category": "Industry",
+      "description": "AI agents have revolutionized developer workflows, and their next frontier is knowledge work: processing information, solving complex problems, coming up with new ideas and driving innovation. Codex, OpenAI’s agentic coding application, is enabling this new frontier. It’s now powered by GPT-5.5, OpenAI’s latest frontier model, which runs on NVIDIA GB200 NVL72 rack-scale systems. Over 10,000 […]",
+      "author": "Justin Boitano",
+      "content": "AI agents have revolutionized developer workflows, and their next frontier is knowledge work: processing information, solving complex problems, coming up with new ideas and driving innovation. Codex, OpenAI’s agentic coding application, is enabling this new frontier. It’s now powered by GPT-5.5, OpenAI’s latest frontier model, which runs on NVIDIA GB200 NVL72 rack-scale systems. Over 10,000 […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-04T10:20:03.256012+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T06:44:29.959359+00:00"
+        "timestamp": "2026-05-04T10:20:03.256015+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
+    },
+    {
+      "article_id": "323e13674ddd8518634453086bcff429",
+      "title": "NIH-funded breakthrough shrinks CRISPR for precision delivery in the body",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body",
+      "published_date": "2026-05-04T10:15:05.610033+00:00",
+      "category": "Government",
+      "description": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
+      "author": "",
+      "content": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-04T10:20:03.252972+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-04T10:20:03.252976+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "5c4d8d052887df5a19c8ee2a0296e4f8",
@@ -107,72 +231,10 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.956315+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-04T06:44:29.956318+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "297f083cc62c5709bd2262e81c43de5e",
-      "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
-      "published_date": "2026-04-23T22:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work. The post OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform appeared first on Microsoft Azure Blog.",
-      "author": "Naomi Moneypenny",
-      "content": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work. The post OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.957988+00:00"
+        "consensus_timestamp": "2026-05-04T10:20:03.253319+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T06:44:29.957990+00:00"
+        "timestamp": "2026-05-04T10:20:03.253321+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d19485039173126aedd06980374c6831",
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "published_date": "2026-05-01T22:13:27+00:00",
+      "article_id": "b60b13fb852fdc0715f1d0ac98dae648",
+      "title": "AWS Generative AI Model Agility Solution: A comprehensive guide to migrating LLMs for generative AI production",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/aws-generative-ai-model-agility-solution-a-comprehensive-guide-to-migrating-llms-for-generative-ai-production/",
+      "published_date": "2026-04-30T17:04:41+00:00",
       "category": "Industry",
-      "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "author": "Julie Bort",
-      "content": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "description": "In this post, we introduce a systematic framework for LLM migration or upgrade in generative AI production, encompassing essential tools, methodologies, and best practices. The framework facilitates transitions between different LLMs by providing robust protocols for prompt conversion and optimization.",
+      "author": "Long Chen",
+      "content": "In this post, we introduce a systematic framework for LLM migration or upgrade in generative AI production, encompassing essential tools, methodologies, and best practices. The framework facilitates transitions between different LLMs by providing robust protocols for prompt conversion and optimization.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.959444+00:00"
+        "consensus_timestamp": "2026-05-04T10:20:03.255045+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,144 +307,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T06:44:29.959447+00:00"
+        "timestamp": "2026-05-04T10:20:03.255048+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "97277e506c3101adeb59c22c5a7c0053",
-      "title": "Clinical trial finds no difference in fluid treatment options for pediatric sepsis",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis",
-      "published_date": "2026-05-04T06:39:34.588424+00:00",
-      "category": "Government",
-      "description": "NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
-      "author": "",
-      "content": "NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.955832+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-04T06:44:29.955837+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "323e13674ddd8518634453086bcff429",
-      "title": "NIH-funded breakthrough shrinks CRISPR for precision delivery in the body",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body",
-      "published_date": "2026-05-04T06:39:34.588658+00:00",
-      "category": "Government",
-      "description": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
-      "author": "",
-      "content": "Smaller gene-editing system could expand treatment options for cancer, ALS and other diseases.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.955950+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-04T06:44:29.955955+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "886b926b42ea4d84393b4b7824943d42",
-      "title": "Introducing Advanced Account Security",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/advanced-account-security",
-      "published_date": "2026-04-30T00:00:00+00:00",
+      "article_id": "8bc96cf927795ecd34da2911dec01da5",
+      "title": "Claude for Legal Teams: Contract Review, Compliance and Due Diligence",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/claude-legal-plugin-contract-review-compliance-due-diligence/",
+      "published_date": "2026-04-21T15:43:30+00:00",
       "category": "Industry",
-      "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-      "author": "",
-      "content": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "description": "See how the Claude legal plugin helps in-house legal teams with contract review, compliance scanning, due diligence, obligations tracking, and drafting.",
+      "author": "Vinit Mehta",
+      "content": "See how the Claude legal plugin helps in-house legal teams with contract review, compliance scanning, due diligence, obligations tracking, and drafting.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -420,7 +358,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.956907+00:00"
+        "consensus_timestamp": "2026-05-04T10:20:03.258548+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,20 +369,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T06:44:29.956909+00:00"
+        "timestamp": "2026-05-04T10:20:03.258551+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "051014cdc22142107481634851563d73",
-      "title": "Winning a Kaggle Competition with Generative AI–Assisted Coding",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/winning-a-kaggle-competition-with-generative-ai-assisted-coding/",
-      "published_date": "2026-04-23T20:15:02+00:00",
+      "article_id": "f4e303aaf4219d1bde52ed8d5fa57963",
+      "title": "Amazon Quick for marketing: From scattered data to strategic action",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action/",
+      "published_date": "2026-04-23T17:05:17+00:00",
       "category": "Industry",
-      "description": "In March 2026, three LLM agents generated over 600,000 lines of code, ran 850 experiments, and helped secure a first-place finish in a Kaggle playground...",
-      "author": "Chris Deotte",
-      "content": "In March 2026, three LLM agents generated over 600,000 lines of code, ran 850 experiments, and helped secure a first-place finish in a Kaggle playground...",
+      "description": "Amazon Quick changes how you work. You can set it up in minutes and by the end of the day, you will wonder how you ever worked without it. Quick connects with your applications, tools, and data, creating a personal knowledge graph that learns your priorities, preferences, and network.",
+      "author": "Zach Conley",
+      "content": "Amazon Quick changes how you work. You can set it up in minutes and by the end of the day, you will wonder how you ever worked without it. Quick connects with your applications, tools, and data, creating a personal knowledge graph that learns your priorities, preferences, and network.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -478,35 +416,159 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.960271+00:00"
+        "consensus_timestamp": "2026-05-04T10:20:03.255785+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T06:44:29.960274+00:00"
+        "timestamp": "2026-05-04T10:20:03.255788+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5aee15240da464a2ca8bdac7f08ddba2",
-      "title": "Enabling a new model for healthcare with AI co-clinician",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "published_date": "2026-04-30T12:14:15+00:00",
+      "article_id": "9432f641c93b553cf1f07da4ee5399ce",
+      "title": "How catastrophic is your LLM?",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/how-catastrophic-is-your-llm",
+      "published_date": "2026-04-27T19:01:26+00:00",
       "category": "Industry",
-      "description": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "description": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
       "author": "",
-      "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "content": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-04T10:20:03.258291+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-04T10:20:03.258294+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0a062953f6ec5a44cb58276bb28c71e0",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-on-aws",
+      "published_date": "2026-04-28T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "author": "",
+      "content": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-04T10:20:03.254107+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-04T10:20:03.254110+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "268aeb32296dd57faee3ffa0ae7f0e35",
+      "title": "24/7 Simulation Loops: How Agentic AI Keeps Subsurface Engineering Moving",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/24-7-simulation-loops-how-agentic-ai-keeps-subsurface-engineering-moving/",
+      "published_date": "2026-04-28T15:00:00+00:00",
+      "category": "Industry",
+      "description": "The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...",
+      "author": "Tsubasa Onishi",
+      "content": "The subsurface industry is at a critical point in its digital evolution. For decades, unlocking reservoir potential has relied on experts performing essential...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -540,35 +602,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.960727+00:00"
+        "consensus_timestamp": "2026-05-04T10:20:03.257473+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T06:44:29.960730+00:00"
+        "timestamp": "2026-05-04T10:20:03.257478+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "75bf0308d31306af8832e6a499f5a49f",
-      "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
-      "published_date": "2026-05-03T14:15:41+00:00",
-      "category": "Industry",
-      "description": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a …...",
-      "author": "Margaret Jackson",
-      "content": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a …...",
+      "article_id": "dcdf77ee256a294695b9340da1927f79",
+      "title": "Symptom-based approach treats opioid withdrawal in newborns with minimal drug exposure",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/symptom-based-approach-treats-opioid-withdrawal-newborns-minimal-drug-exposure",
+      "published_date": "2026-05-04T10:15:05.609713+00:00",
+      "category": "Government",
+      "description": "NIH-funded clinical trial shows that the new approach could also decrease time in the hospital.",
+      "author": "",
+      "content": "NIH-funded clinical trial shows that the new approach could also decrease time in the hospital.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -602,166 +664,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.7,
-        "confidence": 0.8,
-        "recommendation": "CONDITIONAL",
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.960956+00:00"
+        "consensus_timestamp": "2026-05-04T10:20:03.252738+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.62,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T06:44:29.960959+00:00"
+        "timestamp": "2026-05-04T10:20:03.252743+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9432f641c93b553cf1f07da4ee5399ce",
-      "title": "How catastrophic is your LLM?",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/how-catastrophic-is-your-llm",
-      "published_date": "2026-04-27T19:01:26+00:00",
+      "article_id": "188317efa6151d3c7f138c33fa3fca9d",
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "published_date": "2026-04-30T23:07:56+00:00",
       "category": "Industry",
-      "description": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
-      "author": "",
-      "content": "A new framework provides a statistical method for estimating the likelihood of catastrophic failures in large language models in adversarial conversations.",
+      "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+      "author": "Marina Temkin",
+      "content": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.8,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.960866+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-04T06:44:29.960868+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d7c28a24c8722df830cac5966835cb3a",
-      "title": "Policy paper: UK Compute Roadmap",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/uk-compute-roadmap",
-      "published_date": "2026-04-23T15:11:20+00:00",
-      "category": "Government",
-      "description": "Our plan to build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.",
-      "author": "",
-      "content": "Our plan to build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.82,
+        "overall_score": 0.8450000000000001,
         "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.956669+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-04T06:44:29.956674+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2af08704015d823a4f9830654df43f93",
-      "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
-      "published_date": "2026-04-30T18:00:00+00:00",
-      "category": "Industry",
-      "description": "As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design. The post Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM appeared first on Microsoft Azure Blog.",
-      "author": "Mark Russinovich and Saurabh Dighe",
-      "content": "As cloud workloads become more agentic and AI systems handle increasingly sensitive data, trust must be engineered directly into infrastructure. Azure Integrated HSM brings hardware‑enforced key protection into Azure, extending cryptographic trust from silicon to services through verifiable and transparent design. The post Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.6,
-        "impact_score": 0.9,
-        "overall_score": 0.8125000000000001,
-        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -792,7 +730,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.957848+00:00"
+        "consensus_timestamp": "2026-05-04T10:20:03.256767+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,20 +741,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T06:44:29.957851+00:00"
+        "timestamp": "2026-05-04T10:20:03.256770+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b60b13fb852fdc0715f1d0ac98dae648",
-      "title": "AWS Generative AI Model Agility Solution: A comprehensive guide to migrating LLMs for generative AI production",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aws-generative-ai-model-agility-solution-a-comprehensive-guide-to-migrating-llms-for-generative-ai-production/",
-      "published_date": "2026-04-30T17:04:41+00:00",
+      "article_id": "e67c1f19afef27152a5d56ac6e1abdc0",
+      "title": "Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction",
+      "published_date": "2026-05-03T14:15:43+00:00",
       "category": "Industry",
-      "description": "In this post, we introduce a systematic framework for LLM migration or upgrade in generative AI production, encompassing essential tools, methodologies, and best practices. The framework facilitates transitions between different LLMs by providing robust protocols for prompt conversion and optimization.",
-      "author": "Long Chen",
-      "content": "In this post, we introduce a systematic framework for LLM migration or upgrade in generative AI production, encompassing essential tools, methodologies, and best practices. The framework facilitates transitions between different LLMs by providing robust protocols for prompt conversion and optimization.",
+      "description": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade....",
+      "author": "Ryan Peterson",
+      "content": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade....",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.82,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-04T10:20:03.258381+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-04T10:20:03.258384+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5ec896221deb9de4b549398c576e76f8",
+      "title": "Microsoft Discovery: Advancing agentic R&D at scale",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
+      "published_date": "2026-04-22T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale appeared first on Microsoft Azure Blog.",
+      "author": "Aseem Datar",
+      "content": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&D at scale appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -854,7 +854,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.958170+00:00"
+        "consensus_timestamp": "2026-05-04T10:20:03.254862+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,7 +865,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T06:44:29.958173+00:00"
+        "timestamp": "2026-05-04T10:20:03.254865+00:00"
       },
       "article_type": "article"
     },
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-04T06:44:29.956998+00:00"
+        "consensus_timestamp": "2026-05-04T10:20:03.253969+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-04T06:44:29.957001+00:00"
+        "timestamp": "2026-05-04T10:20:03.253972+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 231.9478199481964,
+    "processing_time": 234.92902493476868,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 112,
+      "total_processed": 124,
       "candidates": {
-        "headlines": 2,
-        "articles": 110,
+        "headlines": 1,
+        "articles": 123,
         "research_papers": 0
       },
       "selected": {
