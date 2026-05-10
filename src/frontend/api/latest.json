@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T03:32:27.736847+00:00",
+  "generated_at": "2026-05-10T06:38:50.891766+00:00",
   "articles": [
     {
       "article_id": "3ae8eccbe16375b758b5ae67cf5ccd56",
@@ -45,21 +45,21 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.85,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.709591+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.863684+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.709593+00:00"
+        "timestamp": "2026-05-10T06:38:50.863687+00:00"
       },
       "article_type": "headline"
     },
@@ -76,9 +76,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.85,
         "impact_score": 0.95,
-        "overall_score": 0.925,
+        "overall_score": 0.9125000000000001,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -110,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.709030+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.863076+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,150 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.709033+00:00"
+        "timestamp": "2026-05-10T06:38:50.863078+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "667a128a811e614db10bb6c5220ea3d6",
-      "title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-ai-model-predicts-cancer-survival-single-cell-tumor-data",
-      "published_date": "2026-05-10T03:27:55.513989+00:00",
-      "category": "Government",
-      "description": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "article_id": "8854e64c18907d1a90e61050b73882be",
+      "title": "Running Codex safely at OpenAI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/running-codex-safely",
+      "published_date": "2026-05-08T12:30:00+00:00",
+      "category": "Industry",
+      "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
       "author": "",
-      "content": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "content": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.9,
         "overall_score": 0.9,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.706431+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-10T03:32:27.706435+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "00e13b71cf166f2b5e8d2a7bb39b60ed",
-      "title": "Build AI-Powered Games with NVIDIA DLSS 4.5, RTX, and Unreal Engine 5",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/build-ai-powered-games-with-nvidia-dlss-4-5-rtx-and-unreal-engine-5/",
-      "published_date": "2026-04-30T17:00:00+00:00",
-      "category": "Industry",
-      "description": "Today, game developers can begin integrating NVIDIA DLSS 4.5 with Dynamic Multi Frame Generation, Multi Frame Generation 6X, and the second-generation...",
-      "author": "Phillip Singh",
-      "content": "Today, game developers can begin integrating NVIDIA DLSS 4.5 with Dynamic Multi Frame Generation, Multi Frame Generation 6X, and the second-generation...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.710668+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-10T03:32:27.710670+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "433dc60e0f02f37acd6678ac164016a6",
-      "title": "Linked and Loaded: Gaijin Single Sign-On Now Available on GeForce NOW",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/",
-      "published_date": "2026-05-07T13:00:27+00:00",
-      "category": "Industry",
-      "description": "Less typing, more tanking. Faster logins mean more time in the gaming action — and this week provides GeForce NOW members with a smoother path straight into the battlefield. Cloud gaming is all about instant access to titles across devices, and the latest GeForce NOW update removes another layer for members jumping into their Gaijin […]",
-      "author": "GeForce NOW Community",
-      "content": "Less typing, more tanking. Faster logins mean more time in the gaming action — and this week provides GeForce NOW members with a smoother path straight into the battlefield. Cloud gaming is all about instant access to titles across devices, and the latest GeForce NOW update removes another layer for members jumping into their Gaijin […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.709286+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.861244+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,20 +183,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.709289+00:00"
+        "timestamp": "2026-05-10T06:38:50.861247+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "582687740d50f769d9a71df62370737d",
-      "title": "Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding/",
-      "published_date": "2026-05-08T17:13:33+00:00",
-      "category": "Industry",
-      "description": "Bash is one of the most flexible and powerful interfaces exposed to AI agents. In the right system, a model that emits grep, curl, tar, or a shell pipeline is...",
-      "author": "Joseph Lucas",
-      "content": "Bash is one of the most flexible and powerful interfaces exposed to AI agents. In the right system, a model that emits grep, curl, tar, or a shell pipeline is...",
+      "article_id": "667a128a811e614db10bb6c5220ea3d6",
+      "title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-ai-model-predicts-cancer-survival-single-cell-tumor-data",
+      "published_date": "2026-05-10T06:34:11.106511+00:00",
+      "category": "Government",
+      "description": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "author": "",
+      "content": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -355,21 +231,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.710327+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.860049+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.710330+00:00"
+        "timestamp": "2026-05-10T06:38:50.860053+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5c4d8d052887df5a19c8ee2a0296e4f8",
+      "title": "Official Statistics: Cyber security breaches survey 2025/2026",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/statistics/cyber-security-breaches-survey-20252026",
+      "published_date": "2026-04-30T08:36:00+00:00",
+      "category": "Government",
+      "description": "An annual official statistic detailing the frequency and impact of cyber breaches attacks on businesses, charities and educational institutions.",
+      "author": "",
+      "content": "An annual official statistic detailing the frequency and impact of cyber breaches attacks on businesses, charities and educational institutions.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-10T06:38:50.860660+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-10T06:38:50.860663+00:00"
       },
       "article_type": "article"
     },
@@ -416,22 +354,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.709985+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.864169+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-10T06:38:50.864172+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3270c6bf05bb6b232b73bbf0602571d0",
+      "title": "Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/",
+      "published_date": "2026-05-08T13:20:30+00:00",
+      "category": "Industry",
+      "description": "In this post, we'll explore how we built a proof-of-concept that converts natural language queries into executable seismic workflows while providing a question-answering capability for Halliburton's Seismic Engine tools and documentation. We'll cover the technical details of the solution, share evaluation results showing workflow acceleration of up to 95%, and discuss key learnings that can help other organizations enhance their complex technical workflows with generative AI.",
+      "author": "Yuan Tian",
+      "content": "In this post, we'll explore how we built a proof-of-concept that converts natural language queries into executable seismic workflows while providing a question-answering capability for Halliburton's Seismic Engine tools and documentation. We'll cover the technical details of the solution, share evaluation results showing workflow acceleration of up to 95%, and discuss key learnings that can help other organizations enhance their complex technical workflows with generative AI.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.86,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-10T06:38:50.862433+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.709987+00:00"
+        "timestamp": "2026-05-10T06:38:50.862436+00:00"
       },
       "article_type": "article"
     },
@@ -482,7 +482,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.708898+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.862934+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,27 +493,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.708901+00:00"
+        "timestamp": "2026-05-10T06:38:50.862936+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5aee15240da464a2ca8bdac7f08ddba2",
-      "title": "Enabling a new model for healthcare with AI co-clinician",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "published_date": "2026-04-30T12:14:15+00:00",
+      "article_id": "8a1ed7747c4c5bc338a5d0e04c2f26fb",
+      "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+      "published_date": "2026-05-06T11:30:20+00:00",
       "category": "Industry",
-      "description": "Researching the path to AI-augmented care and development of an AI co-clinician.",
-      "author": "",
-      "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "description": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]",
+      "author": "Gilad Shainer",
+      "content": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -541,21 +541,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.711189+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.863354+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.711192+00:00"
+        "timestamp": "2026-05-10T06:38:50.863357+00:00"
       },
       "article_type": "article"
     },
@@ -575,7 +575,7 @@
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -606,7 +606,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.711359+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.865862+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,7 +617,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.711361+00:00"
+        "timestamp": "2026-05-10T06:38:50.865864+00:00"
       },
       "article_type": "article"
     },
@@ -664,22 +664,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.707763+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.861533+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.707766+00:00"
+        "timestamp": "2026-05-10T06:38:50.861536+00:00"
       },
       "article_type": "article"
     },
@@ -726,22 +726,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.707890+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.861677+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.707892+00:00"
+        "timestamp": "2026-05-10T06:38:50.861680+00:00"
       },
       "article_type": "article"
     },
@@ -792,7 +792,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.710976+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.865305+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,20 +803,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.710978+00:00"
+        "timestamp": "2026-05-10T06:38:50.865308+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7205d6206f2531bab1aeea55f3991d9b",
-      "title": "Policy paper: Crime and Policing Bill 2025: delegated powers memoranda",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/crime-and-policing-bill-2025-delegated-powers-supplementary-memoranda",
-      "published_date": "2026-04-29T13:27:00+00:00",
+      "article_id": "457a5393cfd8b5b7a6de39eebda1c302",
+      "title": "NIH researchers discover pain-relieving drug with minimal addictive properties",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-discover-pain-relieving-drug-minimal-addictive-properties",
+      "published_date": "2026-05-10T06:34:11.106915+00:00",
       "category": "Government",
-      "description": "Information relating to the Crime and Policing Bill, which was introduced in the House of Commons on 25 February 2025.",
+      "description": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
       "author": "",
-      "content": "Information relating to the Crime and Policing Bill, which was introduced in the House of Commons on 25 February 2025.",
+      "content": "Positive safety profile of novel&nbsp;drug&nbsp;compound&nbsp;is surprise&nbsp;for&nbsp;class of synthetic opioids&nbsp;shelved&nbsp;years ago.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
@@ -854,7 +854,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.706960+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.860153+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,27 +865,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.706963+00:00"
+        "timestamp": "2026-05-10T06:38:50.860157+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "57bdad1b7a4daaf9d32a5a7a9f28ce94",
-      "title": "UK backs company building breakthrough AI that can discover new knowledge",
+      "article_id": "03be6e0bb44aa073add7c4a73ac01727",
+      "title": "Official Statistics: Bioscience and health technology sector statistics 2024 to 2025",
       "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/uk-backs-company-building-breakthrough-ai-that-can-discover-new-knowledge",
-      "published_date": "2026-04-27T14:18:00+00:00",
+      "url": "https://www.gov.uk/government/statistics/announcements/bioscience-and-health-technology-sector-statistics-2024-to-2025",
+      "published_date": "2026-04-28T12:22:16+00:00",
       "category": "Government",
-      "description": "The UK government’s Sovereign AI is backing Ineffable Intelligence, co-investing with the British Business Bank to scale a UK-built, self-learning AI that can generate new knowledge and drive breakthroughs.",
+      "description": "Official statistics in development estimating the size and composition of the life sciences sector in the UK.",
       "author": "",
-      "content": "The UK government’s Sovereign AI is backing Ineffable Intelligence, co-investing with the British Business Bank to scale a UK-built, self-learning AI that can generate new knowledge and drive breakthroughs.",
+      "content": "Official statistics in development estimating the size and composition of the life sciences sector in the UK.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -912,22 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.8,
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-10T03:32:27.707433+00:00"
+        "consensus_timestamp": "2026-05-10T06:38:50.860791+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-10T03:32:27.707437+00:00"
+        "timestamp": "2026-05-10T06:38:50.860796+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 215.61420154571533,
+    "processing_time": 223.01311135292053,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 110,
+      "total_processed": 114,
       "candidates": {
-        "headlines": 6,
-        "articles": 104,
+        "headlines": 5,
+        "articles": 109,
         "research_papers": 0
       },
       "selected": {
