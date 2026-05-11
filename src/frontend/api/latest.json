@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-11T15:01:34.482597+00:00",
+  "generated_at": "2026-05-11T18:01:41.185175+00:00",
   "articles": [
     {
-      "article_id": "f857bb36248cd63d3aaef279cd5adff9",
-      "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/09/nvidia-ai-releases-star-elastic-one-checkpoint-that-contains-30b-23b-and-12b-reasoning-models-with-zero-shot-slicing/",
-      "published_date": "2026-05-09T22:24:23+00:00",
+      "article_id": "bfcf77d07a1f4774db4f7250db884665",
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "published_date": "2026-05-11T06:00:00+00:00",
       "category": "Industry",
-      "description": "NVIDIA researchers have introduced Star Elastic, a post-training method that embeds multiple nested reasoning models — at 30B, 23B, and 12B parameter scales — inside a single checkpoint, eliminating the need for separate training runs or stored model weights per variant. Built on the Nemotron Elastic framework and applied to Nemotron Nano v3, the method trains all three variants in a single 160B-token run, achieving a 360× token reduction compared to pretraining each model from scratch. Beyond...",
-      "author": "Asif Razzaq",
-      "content": "NVIDIA researchers have introduced Star Elastic, a post-training method that embeds multiple nested reasoning models — at 30B, 23B, and 12B parameter scales — inside a single checkpoint, eliminating the need for separate training runs or stored model weights per variant. Built on the Nemotron Elastic framework and applied to Nemotron Nano v3, the method trains all three variants in a single 160B-token run, achieving a 360× token reduction compared to pretraining each model from scratch. Beyond...",
+      "description": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "author": "",
+      "content": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.95
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,41 +44,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.455199+00:00"
+        "consensus_timestamp": "2026-05-11T18:01:41.074093+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-11T15:01:34.455203+00:00"
+        "timestamp": "2026-05-11T18:01:41.074095+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "8a1ed7747c4c5bc338a5d0e04c2f26fb",
-      "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
-      "published_date": "2026-05-06T11:30:20+00:00",
+      "article_id": "31b1ed9b43421707753212c2dd7bbe42",
+      "title": "How Hapag-Lloyd uses Amazon Bedrock to transform customer feedback into actionable insights",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights/",
+      "published_date": "2026-05-05T16:55:42+00:00",
       "category": "Industry",
-      "description": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]",
-      "author": "Gilad Shainer",
-      "content": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]",
+      "description": "Hapag-Lloyd's Digital Customer Experience and Engineering team, distributed between Hamburg and Gdańsk, drives digital innovation by developing and maintaining customer-facing web and mobile products. In this post, we walk you through our generative AI–powered feedback analysis solution built using Amazon Bedrock, Elasticsearch, and open-source frameworks like LangChain and LangGraph",
+      "author": "Aamna Najmi",
+      "content": "Hapag-Lloyd's Digital Customer Experience and Engineering team, distributed between Hamburg and Gdańsk, drives digital innovation by developing and maintaining customer-facing web and mobile products. In this post, we walk you through our generative AI–powered feedback analysis solution built using Amazon Bedrock, Elasticsearch, and open-source frameworks like LangChain and LangGraph",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.9375,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -107,34 +107,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.8,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.452543+00:00"
+        "consensus_timestamp": "2026-05-11T18:01:41.075401+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-11T15:01:34.452545+00:00"
+        "timestamp": "2026-05-11T18:01:41.075404+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c23dee752829de0cb9dd115d26aa2e76",
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "published_date": "2026-05-08T15:46:17+00:00",
-      "category": "Industry",
-      "description": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]",
-      "author": "Kirsten Korosec, Anthony Ha, Sean O'Kane, Theresa Loconsolo",
-      "content": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]",
+      "article_id": "5c4d8d052887df5a19c8ee2a0296e4f8",
+      "title": "Official Statistics: Cyber security breaches survey 2025/2026",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/statistics/cyber-security-breaches-survey-20252026",
+      "published_date": "2026-04-30T08:36:00+00:00",
+      "category": "Government",
+      "description": "An annual official statistic detailing the frequency and impact of cyber breaches attacks on businesses, charities and educational institutions.",
+      "author": "",
+      "content": "An annual official statistic detailing the frequency and impact of cyber breaches attacks on businesses, charities and educational institutions.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -169,21 +169,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.453212+00:00"
+        "consensus_timestamp": "2026-05-11T18:01:41.073840+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-11T15:01:34.453215+00:00"
+        "timestamp": "2026-05-11T18:01:41.073842+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.454980+00:00"
+        "consensus_timestamp": "2026-05-11T18:01:41.157593+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +245,88 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-11T15:01:34.454983+00:00"
+        "timestamp": "2026-05-11T18:01:41.157596+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5c4d8d052887df5a19c8ee2a0296e4f8",
-      "title": "Official Statistics: Cyber security breaches survey 2025/2026",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/statistics/cyber-security-breaches-survey-20252026",
-      "published_date": "2026-04-30T08:36:00+00:00",
+      "article_id": "bea100baa75f0e5db71429897d7e3690",
+      "title": "How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-build-in-vehicle-ai-agents-with-nvidia-from-cloud-to-car/",
+      "published_date": "2026-05-05T16:00:00+00:00",
+      "category": "Industry",
+      "description": "The automotive cockpit is undergoing a fundamental shift from rule-based interfaces to agentic, multimodal AI systems capable of reasoning, planning, and...",
+      "author": "Felix Friedmann",
+      "content": "The automotive cockpit is undergoing a fundamental shift from rule-based interfaces to agentic, multimodal AI systems capable of reasoning, planning, and...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-11T18:01:41.078073+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-11T18:01:41.078076+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "1adc3785e2844b956c27dde4fc057332",
+      "title": "DARPA XRQ-73 demonstrates hybrid-electric flight",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/darpa-xrq-73-demonstrates-hybrid-electric-flight",
+      "published_date": "2026-05-06T12:29:45+00:00",
       "category": "Government",
-      "description": "An annual official statistic detailing the frequency and impact of cyber breaches attacks on businesses, charities and educational institutions.",
-      "author": "",
-      "content": "An annual official statistic detailing the frequency and impact of cyber breaches attacks on businesses, charities and educational institutions.",
+      "description": "DARPA, in collaboration with the Air Force Research Laboratory and Northrop Grumman, flew the XRQ-73 as part of the SHEPARD program.",
+      "author": "outreach@darpa.mil",
+      "content": "DARPA, in collaboration with the Air Force Research Laboratory and Northrop Grumman, flew the XRQ-73 as part of the SHEPARD program.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -293,164 +355,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.450021+00:00"
+        "consensus_timestamp": "2026-05-11T18:01:41.073453+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-11T15:01:34.450024+00:00"
+        "timestamp": "2026-05-11T18:01:41.073456+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2311739549b1af0074c5c4bd5fd623a8",
-      "title": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/",
-      "published_date": "2026-05-10T22:00:50+00:00",
-      "category": "Industry",
-      "description": "“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University’s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.” “No generation has entered the world with more […]",
-      "author": "Matthew Leib",
-      "content": "“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University’s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.” “No generation has entered the world with more […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.452401+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-11T15:01:34.452404+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "db8943eb6a50c04b82c7af4e3c7cd100",
-      "title": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/manufacturing-simulation-first/",
-      "published_date": "2026-04-28T13:00:33+00:00",
-      "category": "Industry",
-      "description": "Manufacturing’s traditional design-build-test cycle rested on a single assumption: Real-world testing was the only reliable test environment.",
-      "author": "Bhoomi Gadhia",
-      "content": "Manufacturing’s traditional design-build-test cycle rested on a single assumption: Real-world testing was the only reliable test environment.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.452778+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-11T15:01:34.452781+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fc9ab7849cab7b8910099c06f354d44b",
-      "title": "Advancing voice intelligence with new models in the API",
+      "article_id": "b7bd4e99740e4517910b910f88933f06",
+      "title": "How enterprises are scaling AI",
       "source": "openai_blog",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "published_date": "2026-05-07T10:00:00+00:00",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published_date": "2026-05-11T10:00:00+00:00",
       "category": "Industry",
-      "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
       "author": "",
-      "content": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "content": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "overall_score": 0.87,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -479,96 +417,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.450502+00:00"
+        "consensus_timestamp": "2026-05-11T18:01:41.074050+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-11T15:01:34.450505+00:00"
+        "timestamp": "2026-05-11T18:01:41.074052+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f2c1173fa03a6e97b0ef44b1f0b2c43c",
-      "title": "Simplex rethinks software development with Codex",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/simplex",
-      "published_date": "2026-05-07T00:00:00+00:00",
+      "article_id": "582687740d50f769d9a71df62370737d",
+      "title": "Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding/",
+      "published_date": "2026-05-08T17:13:33+00:00",
       "category": "Industry",
-      "description": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
-      "author": "",
-      "content": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.450640+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-11T15:01:34.450644+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8ce0cddfe74d77d9d449e02224306fd0",
-      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "published_date": "2026-05-06T10:43:49+00:00",
-      "category": "Industry",
-      "description": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
-      "author": "",
-      "content": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "description": "Bash is one of the most flexible and powerful interfaces exposed to AI agents. In the right system, a model that emits grep, curl, tar, or a shell pipeline is...",
+      "author": "Joseph Lucas",
+      "content": "Bash is one of the most flexible and powerful interfaces exposed to AI agents. In the right system, a model that emits grep, curl, tar, or a shell pipeline is...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -603,164 +479,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.454367+00:00"
+        "consensus_timestamp": "2026-05-11T18:01:41.077862+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.71,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-11T15:01:34.454370+00:00"
+        "timestamp": "2026-05-11T18:01:41.077864+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7cc2678abbae2989946b05eeb229fa59",
-      "title": "Capacity-aware inference: Automatic instance fallback for SageMaker AI endpoints",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/capacity-aware-inference-automatic-instance-fallback-for-sagemaker-ai-endpoints/",
-      "published_date": "2026-05-04T16:05:02+00:00",
-      "category": "Industry",
-      "description": "Today, Amazon SageMaker AI introduces capacity aware instance pool for new and existing inference endpoints. You define a prioritized list of instance types, and SageMaker AI automatically works through your list whenever capacity is constrained at creation, during scale-out, and during scale-in. Your endpoint provisions on available AI Infrastructure without manual intervention. This capability is available for Single Model Endpoints, Inference Component-based endpoints, and Asynchronous...",
-      "author": "Kareem Syed-Mohammed",
-      "content": "Today, Amazon SageMaker AI introduces capacity aware instance pool for new and existing inference endpoints. You define a prioritized list of instance types, and SageMaker AI automatically works through your list whenever capacity is constrained at creation, during scale-out, and during scale-in. Your endpoint provisions on available AI Infrastructure without manual intervention. This capability is available for Single Model Endpoints, Inference Component-based endpoints, and Asynchronous...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.85,
-        "overall_score": 0.85,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.452211+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-11T15:01:34.452214+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "85a14c125721f143ea55bb0cc2ef24cf",
-      "title": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/",
-      "published_date": "2026-04-30T20:00:39+00:00",
-      "category": "Industry",
-      "description": "By early 2026, the open source project OpenClaw had become a phenomenon. In January, its GitHub star count crossed 100,000 as developer interest surged.",
-      "author": "Justin Boitano",
-      "content": "By early 2026, the open source project OpenClaw had become a phenomenon. In January, its GitHub star count crossed 100,000 as developer interest surged.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.85,
-        "overall_score": 0.85,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.7,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.452638+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.62,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-11T15:01:34.452640+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "eef2977ea49f7dfd68bc1b7010a95de6",
-      "title": "Building trust into AI",
+      "article_id": "67058cef73b6ea3bc4094a0c03175044",
+      "title": "Preserving the privacy of AI training data",
       "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/building-trust-into-ai",
-      "published_date": "2026-05-04T15:07:58+00:00",
+      "url": "https://www.amazon.science/blog/preserving-the-privacy-of-ai-training-data",
+      "published_date": "2026-04-29T17:59:07+00:00",
       "category": "Industry",
-      "description": "Amazon scientists and policy experts discuss how the company’s responsible-AI pipeline embeds safety and values throughout the AI development lifecycle.",
+      "description": "How we reproduced three attacks that extract private training data from AI models and the cryptographic defenses that stop them.",
       "author": "",
-      "content": "Amazon scientists and policy experts discuss how the company’s responsible-AI pipeline embeds safety and values throughout the AI development lifecycle.",
+      "content": "How we reproduced three attacks that extract private training data from AI models and the cryptographic defenses that stop them.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.85,
-        "overall_score": 0.85,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -788,22 +540,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.8,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.454555+00:00"
+        "consensus_timestamp": "2026-05-11T18:01:41.157182+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-11T15:01:34.454557+00:00"
+        "timestamp": "2026-05-11T18:01:41.157186+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f0357e62f5fb005cc70d7721ebf6c02d",
+      "title": "NVIDIA Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning in a Single Efficient Open Model",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/",
+      "published_date": "2026-04-28T16:01:12+00:00",
+      "category": "Industry",
+      "description": "Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...",
+      "author": "Anjali Shah",
+      "content": "Agentic systems often reason across screens, documents, audio, video, and text within a single perception‑to‑action loop. However, they still rely on...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-11T18:01:41.078474+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-11T18:01:41.078477+00:00"
       },
       "article_type": "article"
     },
@@ -812,7 +626,7 @@
       "title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/nih-funded-ai-model-predicts-cancer-survival-single-cell-tumor-data",
-      "published_date": "2026-05-11T14:56:17.262023+00:00",
+      "published_date": "2026-05-11T17:55:58.786556+00:00",
       "category": "Government",
       "description": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
       "author": "",
@@ -851,40 +665,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.449087+00:00"
+        "consensus_timestamp": "2026-05-11T18:01:41.073290+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-11T15:01:34.449091+00:00"
+        "timestamp": "2026-05-11T18:01:41.073293+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "632763f556f570bc186294d6e9f42863",
-      "title": "Britain must secure greater control and leverage over AI to protect our national security in fractured world",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/britain-must-secure-greater-control-and-leverage-over-ai-to-protect-our-national-security-in-fractured-world",
-      "published_date": "2026-04-28T11:00:00+00:00",
-      "category": "Government",
-      "description": "In a landmark speech, the Technology Secretary said there must be a “decisive move” towards backing more British tech companies as AI reshapes global power, security and prosperity.",
+      "article_id": "58d730f4cdf35730745b8659c0c0b33e",
+      "title": "How ChatGPT learns about the world while protecting privacy",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "published_date": "2026-05-06T08:00:00+00:00",
+      "category": "Industry",
+      "description": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
       "author": "",
-      "content": "In a landmark speech, the Technology Secretary said there must be a “decisive move” towards backing more British tech companies as AI reshapes global power, security and prosperity.",
+      "content": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.8500000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -916,7 +730,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-11T15:01:34.450201+00:00"
+        "consensus_timestamp": "2026-05-11T18:01:41.074416+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +741,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-11T15:01:34.450206+00:00"
+        "timestamp": "2026-05-11T18:01:41.074419+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "03be6e0bb44aa073add7c4a73ac01727",
+      "title": "Official Statistics: Bioscience and health technology sector statistics 2024 to 2025",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/statistics/announcements/bioscience-and-health-technology-sector-statistics-2024-to-2025",
+      "published_date": "2026-04-28T12:22:16+00:00",
+      "category": "Government",
+      "description": "Official statistics in development estimating the size and composition of the life sciences sector in the UK.",
+      "author": "",
+      "content": "Official statistics in development estimating the size and composition of the life sciences sector in the UK.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-11T18:01:41.073922+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-11T18:01:41.073925+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c23dee752829de0cb9dd115d26aa2e76",
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "published_date": "2026-05-08T15:46:17+00:00",
+      "category": "Industry",
+      "description": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]",
+      "author": "Kirsten Korosec, Anthony Ha, Sean O'Kane, Theresa Loconsolo",
+      "content": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target. On this episode of TechCrunch’s Equity podcast, hosts Kirsten Korosec, Anthony […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-11T18:01:41.077524+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-11T18:01:41.077526+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "17d0ba49a11eea9400224dc6f69f56ae",
+      "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/filecoin-price-prediction",
+      "published_date": "2026-05-11T14:16:03+00:00",
+      "category": "Industry",
+      "description": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
+      "author": "Ishan Jain",
+      "content": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-11T18:01:41.157422+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-11T18:01:41.157424+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 249.17293095588684,
+    "processing_time": 278.4177734851837,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 118,
+      "total_processed": 126,
       "candidates": {
-        "headlines": 4,
-        "articles": 114,
+        "headlines": 6,
+        "articles": 120,
         "research_papers": 0
       },
       "selected": {
