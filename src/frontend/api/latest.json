@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-05-14T21:17:09.288983+00:00",
+  "generated_at": "2026-05-15T03:43:16.845603+00:00",
   "articles": [
     {
-      "article_id": "2462865e6257c0d2f5d3360a3f633bae",
-      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+      "article_id": "393a20f6b030afec460a648376b85db6",
+      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-      "published_date": "2026-05-14T15:20:18+00:00",
+      "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "published_date": "2026-05-13T16:22:01+00:00",
       "category": "Industry",
-      "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-      "author": "Marina Temkin",
-      "content": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+      "description": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+      "author": "Russell Brandom",
+      "content": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,35 +44,97 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.8,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.256370+00:00"
+        "consensus_timestamp": "2026-05-15T03:43:16.808847+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T03:43:16.808850+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "5634da54e1132737cb05954931107b14",
+      "title": "Build financial document processing with Pulse AI and Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/",
+      "published_date": "2026-05-13T18:00:06+00:00",
+      "category": "Industry",
+      "description": "This post demonstrates how to build a documentation extraction and model fine-tuning pipeline that addresses challenges when processing the complex financial documents. By combining Pulse AI's advanced document understanding capabilities with the powerful AI services of Amazon Bedrock, organizations can achieve enterprise-grade accuracy and extract contextually relevant financial insights at scale.",
+      "author": "ND Ngoka",
+      "content": "This post demonstrates how to build a documentation extraction and model fine-tuning pipeline that addresses challenges when processing the complex financial documents. By combining Pulse AI's advanced document understanding capabilities with the powerful AI services of Amazon Bedrock, organizations can achieve enterprise-grade accuracy and extract contextually relevant financial insights at scale.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T03:43:16.806798+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T21:17:09.256373+00:00"
+        "timestamp": "2026-05-15T03:43:16.806800+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "2d109efc339832e77f13be119c4f6094",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/nvidia",
-      "published_date": "2026-05-12T00:00:00+00:00",
+      "article_id": "c8112d8bdfdcab74b41755a2a5220bb7",
+      "title": "From commit to cloud: Powering what’s next for PostgreSQL",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
+      "published_date": "2026-05-13T16:00:00+00:00",
       "category": "Industry",
-      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "author": "",
-      "content": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "description": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility. The post From commit to cloud: Powering what’s next for PostgreSQL appeared first on Microsoft Azure Blog.",
+      "author": "Shireesh Thota",
+      "content": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility. The post From commit to cloud: Powering what’s next for PostgreSQL appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.254063+00:00"
+        "consensus_timestamp": "2026-05-15T03:43:16.806341+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T21:17:09.254066+00:00"
+        "timestamp": "2026-05-15T03:43:16.806344+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f23871efc0d94a104c8350e9cf35b034",
+      "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+      "published_date": "2026-05-06T14:00:00+00:00",
+      "category": "Industry",
+      "description": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
+      "author": "Jessica Hawk",
+      "content": "As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance. The post Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T03:43:16.806522+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T03:43:16.806524+00:00"
       },
       "article_type": "article"
     },
@@ -168,11 +292,73 @@
             "enhancement_suggestions": []
           }
         },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T03:43:16.809775+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T03:43:16.809777+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b7a240ba0e511c5cd5519a3b4b6a791e",
+      "title": "Adding weekly GLP-1 to cognitive behavioral therapy further reduces heavy drinking",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/adding-weekly-glp-1-cognitive-behavioral-therapy-further-reduces-heavy-drinking",
+      "published_date": "2026-05-15T03:37:36.658579+00:00",
+      "category": "Government",
+      "description": "Clinical trial suggests semaglutide may help patients with alcohol use disorder and obesity.",
+      "author": "",
+      "content": "Clinical trial suggests semaglutide may help patients with alcohol use disorder and obesity.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
         "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.257713+00:00"
+        "consensus_timestamp": "2026-05-15T03:43:16.804242+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,7 +369,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T21:17:09.257715+00:00"
+        "timestamp": "2026-05-15T03:43:16.804246+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c043e80d02cb0e19e44ba23765501d32",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "published_date": "2026-05-12T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "author": "",
+      "content": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T03:43:16.805621+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T03:43:16.805624+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bfcf77d07a1f4774db4f7250db884665",
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "published_date": "2026-05-11T06:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "author": "",
+      "content": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T03:43:16.805905+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T03:43:16.805908+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c7fbaaf0f58dc0ca56c1ea57114362cf",
+      "title": "Researchers identify first suite of human antibodies against measles virus",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-identify-first-suite-human-antibodies-against-measles-virus",
+      "published_date": "2026-05-15T03:37:36.658146+00:00",
+      "category": "Government",
+      "description": "NIH-funded study lays foundation for antibody-based measles treatment.",
+      "author": "",
+      "content": "NIH-funded study lays foundation for antibody-based measles treatment.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T03:43:16.803914+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T03:43:16.803919+00:00"
       },
       "article_type": "article"
     },
@@ -230,22 +602,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.257280+00:00"
+        "consensus_timestamp": "2026-05-15T03:43:16.809333+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
+        "weighted_score": 0.74,
         "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T21:17:09.257283+00:00"
+        "timestamp": "2026-05-15T03:43:16.809335+00:00"
       },
       "article_type": "article"
     },
@@ -293,288 +665,226 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.255444+00:00"
+        "consensus_timestamp": "2026-05-15T03:43:16.807243+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T21:17:09.255446+00:00"
+        "timestamp": "2026-05-15T03:43:16.807246+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cc524efcc0a67f25b0dea9eaae9e0491",
-      "title": "Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/05/12/sam-altman-testifies-landmark-openai-trial-says-musk-wanted-control-company/",
-      "published_date": "2026-05-13T02:32:09+00:00",
+      "article_id": "b6df060c9f0d75ae98ce316cc80e50c1",
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/sea-david-chen",
+      "published_date": "2026-05-14T20:30:00+00:00",
       "category": "Industry",
-      "description": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into […] The post Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company appeared first on SiliconANGLE.",
-      "author": "James Farrell",
-      "content": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into […] The post Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company appeared first on SiliconANGLE.",
+      "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "author": "",
+      "content": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8624999999999998,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T03:43:16.805343+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T03:43:16.805346+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8484f4117e7c96bb0cdb128f1f485da7",
+      "title": "Meet AntAngelMed: A 103B-Parameter Open-Source Medical Language Model Built on a 1/32 Activation-Ratio MoE Architecture",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/12/meet-antangelmed-a-103b-parameter-open-source-medical-language-model-built-on-a-1-32-activation-ratio-moe-architecture/",
+      "published_date": "2026-05-12T21:21:47+00:00",
+      "category": "Industry",
+      "description": "MedAIBase has released AntAngelMed, a 103B-parameter open-source medical language model that uses a 1/32 activation-ratio Mixture-of-Experts (MoE) architecture to activate only 6.1B parameters at inference time, matching the performance of roughly 40B dense models while exceeding 200 tokens per second on H20 hardware. Built on Ling-flash-2.0 and trained through a three-stage pipeline of continual pre-training, supervised fine-tuning, and GRPO-based reinforcement learning, the model ranks first...",
+      "author": "Asif Razzaq",
+      "content": "MedAIBase has released AntAngelMed, a 103B-parameter open-source medical language model that uses a 1/32 activation-ratio Mixture-of-Experts (MoE) architecture to activate only 6.1B parameters at inference time, matching the performance of roughly 40B dense models while exceeding 200 tokens per second on H20 hardware. Built on Ling-flash-2.0 and trained through a three-stage pipeline of continual pre-training, supervised fine-tuning, and GRPO-based reinforcement learning, the model ranks first...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T03:43:16.810250+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T03:43:16.810253+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0811b529d29609adc5e5205d252d9135",
+      "title": "Red Hat and Intel spotlight scalable AI inference as enterprises move beyond the GPU gold rush",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/05/13/scalable-ai-inference-focus-amid-move-beyond-gpus-rhsummit/",
+      "published_date": "2026-05-13T13:52:35+00:00",
+      "category": "Industry",
+      "description": "As companies move from testing AI to broader adoption, the biggest challenge is building scalable AI inference systems that perform without breaking the budget. The next wave of AI won’t be won on raw power alone — it will be decided by who can do more with less. When AI inference first took off, the […] The post Red Hat and Intel spotlight scalable AI inference as enterprises move beyond the GPU gold rush appeared first on SiliconANGLE.",
+      "author": "Ryan Stevens",
+      "content": "As companies move from testing AI to broader adoption, the biggest challenge is building scalable AI inference systems that perform without breaking the budget. The next wave of AI won’t be won on raw power alone — it will be decided by who can do more with less. When AI inference first took off, the […] The post Red Hat and Intel spotlight scalable AI inference as enterprises move beyond the GPU gold rush appeared first on SiliconANGLE.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T03:43:16.810438+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T03:43:16.810441+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5863381c8cb26c46e58790af1743795b",
+      "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
+      "published_date": "2026-05-11T19:00:00+00:00",
+      "category": "Industry",
+      "description": "Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance. The post Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift appeared first on Microsoft Azure Blog.",
+      "author": "Sean McKenna",
+      "content": "Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance. The post Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.258082+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T21:17:09.258085+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "06f14a3692e48f06c8e383dd466c8f14",
-      "title": "From siloed data to unified insights: Cross-account Athena Access for Amazon Quick",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick/",
-      "published_date": "2026-05-14T17:17:50+00:00",
-      "category": "Industry",
-      "description": "Today, we're announcing cross-account Athena access for Amazon Quick. With this feature, customers can query Athena data in other AWS accounts using AWS Identity and Access Management (IAM) role chaining, with query costs billed to the account where the data resides.",
-      "author": "Vignessh Baskaran",
-      "content": "Today, we're announcing cross-account Athena access for Amazon Quick. With this feature, customers can query Athena data in other AWS accounts using AWS Identity and Access Management (IAM) role chaining, with query costs billed to the account where the data resides.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.255008+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T21:17:09.255010+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e6501ab1e3eaf47432ad8d5fd0ddcab3",
-      "title": "Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/",
-      "published_date": "2026-05-13T17:33:16+00:00",
-      "category": "Industry",
-      "description": "The Cisco and AWS partnership addresses three challenges enterprises face when scaling AI agents: visibility gaps, security bottlenecks, and compliance risks. In this post, we explore how you can overcome AI security challenges through automated scanning and unified governance.",
-      "author": "Amit Arora",
-      "content": "The Cisco and AWS partnership addresses three challenges enterprises face when scaling AI agents: visibility gaps, security bottlenecks, and compliance risks. In this post, we explore how you can overcome AI security challenges through automated scanning and unified governance.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.255180+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T21:17:09.255182+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d031dc39d6d79f94903a00c3b5400f10",
-      "title": "Research: UK artificial intelligence sectoral analysis survey",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/uk-artificial-intelligence-sectoral-analysis-survey",
-      "published_date": "2026-05-01T10:22:12+00:00",
-      "category": "Government",
-      "description": "Government research to understand the UK's artificial intelligence sector, and how it is growing.",
-      "author": "",
-      "content": "Government research to understand the UK's artificial intelligence sector, and how it is growing.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.253805+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T21:17:09.253807+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "04436b43cab3e21f5df4305b12374ab8",
-      "title": "Our response to the TanStack npm supply chain attack",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "published_date": "2026-05-13T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "author": "",
-      "content": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -602,332 +912,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.253934+00:00"
+        "consensus_timestamp": "2026-05-15T03:43:16.806433+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-14T21:17:09.253937+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fc9ab7849cab7b8910099c06f354d44b",
-      "title": "Advancing voice intelligence with new models in the API",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "published_date": "2026-05-07T10:00:00+00:00",
-      "category": "Industry",
-      "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-      "author": "",
-      "content": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.254466+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T21:17:09.254469+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "667a128a811e614db10bb6c5220ea3d6",
-      "title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-ai-model-predicts-cancer-survival-single-cell-tumor-data",
-      "published_date": "2026-05-14T21:11:36.655403+00:00",
-      "category": "Government",
-      "description": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
-      "author": "",
-      "content": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.253048+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T21:17:09.253053+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "878f29ef6b26d4753392f866796837b0",
-      "title": "Research: 5G Innovation Regions programme and Smart Infrastructure Pilots Programme: evaluation reports",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/5g-innovation-regions-programme-and-smart-infrastructure-pilots-programme-evaluation-reports",
-      "published_date": "2026-05-13T08:27:00+00:00",
-      "category": "Government",
-      "description": "Research reports that summarise the interim evaluation into the 5G Innovation Regions (5GIR) and Smart Infrastructure Pilots (SIPP) Programmes.",
-      "author": "",
-      "content": "Research reports that summarise the interim evaluation into the 5G Innovation Regions (5GIR) and Smart Infrastructure Pilots (SIPP) Programmes.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.253270+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T21:17:09.253273+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "368a2c862dd2c2d0e35f9d5f55566b6c",
-      "title": "How the NVIDIA Vera Rubin Platform is Solving Agentic AI’s Scale-Up Problem",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-the-nvidia-vera-rubin-platform-is-solving-agentic-ais-scale-up-problem/",
-      "published_date": "2026-05-14T19:24:35+00:00",
-      "category": "Industry",
-      "description": "Agentic inference has fundamentally changed the runtime dynamics of inference workloads by introducing non-deterministic trajectories—actions, observations,...",
-      "author": "Graham Steele",
-      "content": "Agentic inference has fundamentally changed the runtime dynamics of inference workloads by introducing non-deterministic trajectories—actions, observations,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8375,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.257026+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T21:17:09.257028+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "aa27bc4a58909c8e1754a109cf457ad4",
-      "title": "Government steps up action to strengthen cyber defences as UK cyber industry continues to grow",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/government-steps-up-action-to-strengthen-cyber-defences-as-uk-cyber-industry-continues-to-grow",
-      "published_date": "2026-05-11T23:01:03+00:00",
-      "category": "Government",
-      "description": "UK businesses are being urged to strengthen their cyber defences against fast-evolving AI-enabled threats.",
-      "author": "",
-      "content": "UK businesses are being urged to strengthen their cyber defences against fast-evolving AI-enabled threats.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-14T21:17:09.253504+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-14T21:17:09.253507+00:00"
+        "timestamp": "2026-05-15T03:43:16.806436+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 239.87248706817627,
+    "processing_time": 244.88956427574158,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 131,
+      "total_processed": 134,
       "candidates": {
-        "headlines": 11,
-        "articles": 120,
+        "headlines": 15,
+        "articles": 119,
         "research_papers": 0
       },
       "selected": {
