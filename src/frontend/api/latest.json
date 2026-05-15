@@ -1,22 +1,84 @@
 {
-  "generated_at": "2026-05-15T07:03:04.688512+00:00",
+  "generated_at": "2026-05-15T10:31:07.711359+00:00",
   "articles": [
     {
-      "article_id": "23f0a28c28b15efc1575c374b98549d6",
-      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-      "published_date": "2026-05-13T19:49:42+00:00",
+      "article_id": "c193d2966aa90239ac6539ccec90c57e",
+      "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
+      "published_date": "2026-05-14T05:46:32+00:00",
       "category": "Industry",
-      "description": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
-      "author": "Tim De Chant",
-      "content": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+      "description": "Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales. The post Nous Research Releases Token Superposition Training to...",
+      "author": "Asif Razzaq",
+      "content": "Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales. The post Nous Research Releases Token Superposition Training to...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T10:31:07.668211+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T10:31:07.668215+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "5634da54e1132737cb05954931107b14",
+      "title": "Build financial document processing with Pulse AI and Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/",
+      "published_date": "2026-05-13T18:00:06+00:00",
+      "category": "Industry",
+      "description": "This post demonstrates how to build a documentation extraction and model fine-tuning pipeline that addresses challenges when processing the complex financial documents. By combining Pulse AI's advanced document understanding capabilities with the powerful AI services of Amazon Bedrock, organizations can achieve enterprise-grade accuracy and extract contextually relevant financial insights at scale.",
+      "author": "ND Ngoka",
+      "content": "This post demonstrates how to build a documentation extraction and model fine-tuning pipeline that addresses challenges when processing the complex financial documents. By combining Pulse AI's advanced document understanding capabilities with the powerful AI services of Amazon Bedrock, organizations can achieve enterprise-grade accuracy and extract contextually relevant financial insights at scale.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,34 +107,96 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.648321+00:00"
+        "consensus_timestamp": "2026-05-15T10:31:07.664700+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T07:03:04.648324+00:00"
+        "timestamp": "2026-05-15T10:31:07.664703+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "bfcf77d07a1f4774db4f7250db884665",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "published_date": "2026-05-11T06:00:00+00:00",
+      "article_id": "09d08034fd9cdf6b48174e61a9371b09",
+      "title": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/",
+      "published_date": "2026-05-11T18:43:03+00:00",
       "category": "Industry",
-      "description": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "author": "",
-      "content": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "description": "Today, we're excited to announce the general availability of Claude Platform on AWS. Claude Platform on AWS is a new service that gives customers direct access to Anthropic's native Claude Platform experience through their AWS account, with no separate credentials, contracts, or billing relationships required. AWS is the first cloud provider to offer access to the native Claude Platform experience. In this post, we explore how Claude Platform on AWS works and how you can start using it today.",
+      "author": "Dani Mitchell",
+      "content": "Today, we're excited to announce the general availability of Claude Platform on AWS. Claude Platform on AWS is a new service that gives customers direct access to Anthropic's native Claude Platform experience through their AWS account, with no separate credentials, contracts, or billing relationships required. AWS is the first cloud provider to offer access to the native Claude Platform experience. In this post, we explore how Claude Platform on AWS works and how you can start using it today.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T10:31:07.665065+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T10:31:07.665068+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "7376bab6e342745f107f5e227607e2a8",
+      "title": "Accelerated X-Ray Analysis for Nanoscale Imaging (XANI) of Novel Materials",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerated-x-ray-analysis-for-nanoscale-imaging-xani-of-novel-materials/",
+      "published_date": "2026-05-13T16:39:20+00:00",
+      "category": "Industry",
+      "description": "A massive-scale X-ray free-electron laser (XFEL) enables tracking structural and electron dynamics in novel systems, including fusion materials, semiconductors,...",
+      "author": "Irina Demeshko",
+      "content": "A massive-scale X-ray free-electron laser (XFEL) enables tracking structural and electron dynamics in novel systems, including fusion materials, semiconductors,...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -110,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.645597+00:00"
+        "consensus_timestamp": "2026-05-15T10:31:07.666915+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,88 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T07:03:04.645600+00:00"
+        "timestamp": "2026-05-15T10:31:07.666918+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "87d33eba8240162d4464099b198c018a",
-      "title": "How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive Policy Engine, and Insider Threat Detection",
+      "article_id": "587958dbbdea4ed9d7c846505e3ac93e",
+      "title": "Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field",
       "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/13/how-to-build-a-dynamic-zero-trust-network-simulation-with-graph-based-micro-segmentation-adaptive-policy-engine-and-insider-threat-detection/",
-      "published_date": "2026-05-14T02:31:47+00:00",
+      "url": "https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/",
+      "published_date": "2026-05-15T08:23:01+00:00",
       "category": "Industry",
-      "description": "In this tutorial, we build a realistic Zero-Trust network simulation by modeling a micro-segmented environment as a directed graph and forcing every request to earn access through continuous verification. We implement a dynamic policy engine that blends ABAC-style permissions with device posture, MFA, path reachability, zone sensitivity, and live risk signals such as anomaly and […] The post How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive...",
-      "author": "Sana Hassan",
-      "content": "In this tutorial, we build a realistic Zero-Trust network simulation by modeling a micro-segmented environment as a directed graph and forcing every request to earn access through continuous verification. We implement a dynamic policy engine that blends ABAC-style permissions with device posture, MFA, path reachability, zone sensitivity, and live risk signals such as anomaly and […] The post How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.9,
-        "overall_score": 0.9025000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.649840+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T07:03:04.649844+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "04436b43cab3e21f5df4305b12374ab8",
-      "title": "Our response to the TanStack npm supply chain attack",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "published_date": "2026-05-13T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "author": "",
-      "content": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "description": "The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools — including by the labs publishing their own scores. The post Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field appeared first on...",
+      "author": "Asif Razzaq",
+      "content": "The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools — including by the labs publishing their own scores. The post Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field appeared first on...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.645165+00:00"
+        "consensus_timestamp": "2026-05-15T10:31:07.667884+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,151 +307,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T07:03:04.645168+00:00"
+        "timestamp": "2026-05-15T10:31:07.667886+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c176382e9b45dd0e670011c46963f4e7",
-      "title": "Control where your AI agents can browse with Chrome enterprise policies on Amazon Bedrock AgentCore",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/control-where-your-ai-agents-can-browse-with-chrome-enterprise-policies-on-amazon-bedrock-agentcore/",
-      "published_date": "2026-05-14T17:17:35+00:00",
-      "category": "Industry",
-      "description": "In this post, you will configure Chrome enterprise policies to restrict a browser agent to a specific website, observe the policy enforcement through session recording, and demonstrate custom root CA certificates using a public test site. The walkthrough produces a working solution that researches Amazon Bedrock AgentCore documentation while operating under enterprise browser restrictions.",
-      "author": "Sundar Raghavan",
-      "content": "In this post, you will configure Chrome enterprise policies to restrict a browser agent to a specific website, observe the policy enforcement through session recording, and demonstrate custom root CA certificates using a public test site. The walkthrough produces a working solution that researches Amazon Bedrock AgentCore documentation while operating under enterprise browser restrictions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.646422+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T07:03:04.646425+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "32ad86a2794e35984f6dafd21fcc95b3",
-      "title": "CME Group and Silicon Data to launch AI compute futures market",
+      "article_id": "cc524efcc0a67f25b0dea9eaae9e0491",
+      "title": "Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company",
       "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/05/12/cme-group-silicon-data-launch-ai-compute-futures-market/",
-      "published_date": "2026-05-13T00:22:08+00:00",
+      "url": "https://siliconangle.com/2026/05/12/sam-altman-testifies-landmark-openai-trial-says-musk-wanted-control-company/",
+      "published_date": "2026-05-13T02:32:09+00:00",
       "category": "Industry",
-      "description": "Silicon Data, the startup that provides market intelligence for artificial intelligence compute infrastructure, will provide the price indexes for a new futures market that will allow investors to hedge their bets on the semiconductor industry. CME Group’s new “compute futures market” will give investors the opportunity to bet on the price of renting cloud-based computing […] The post CME Group and Silicon Data to launch AI compute futures market appeared first on SiliconANGLE.",
-      "author": "Mike Wheatley",
-      "content": "Silicon Data, the startup that provides market intelligence for artificial intelligence compute infrastructure, will provide the price indexes for a new futures market that will allow investors to hedge their bets on the semiconductor industry. CME Group’s new “compute futures market” will give investors the opportunity to bet on the price of renting cloud-based computing […] The post CME Group and Silicon Data to launch AI compute futures market appeared first on SiliconANGLE.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.650453+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T07:03:04.650455+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dd3fb2514c8541071816f08931f5720a",
-      "title": "Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/achieving-peak-system-and-workload-efficiency-on-nvidia-gb200-nvl72-with-slurm-block-scheduling/",
-      "published_date": "2026-05-07T21:20:14+00:00",
-      "category": "Industry",
-      "description": "NVIDIA GB200 NVL72 introduces a fundamentally new way to build GPU clusters by extending NVIDIA NVLink coherence across an entire rack. This design enables...",
-      "author": "Felix Abecassis",
-      "content": "NVIDIA GB200 NVL72 introduces a fundamentally new way to build GPU clusters by extending NVIDIA NVLink coherence across an entire rack. This design enables...",
+      "description": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into […] The post Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company appeared first on SiliconANGLE.",
+      "author": "James Farrell",
+      "content": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into […] The post Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "overall_score": 0.875,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -420,7 +358,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.648971+00:00"
+        "consensus_timestamp": "2026-05-15T10:31:07.668629+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,82 +369,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T07:03:04.648974+00:00"
+        "timestamp": "2026-05-15T10:31:07.668632+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "09d08034fd9cdf6b48174e61a9371b09",
-      "title": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/",
-      "published_date": "2026-05-11T18:43:03+00:00",
+      "article_id": "b6df060c9f0d75ae98ce316cc80e50c1",
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/sea-david-chen",
+      "published_date": "2026-05-14T20:30:00+00:00",
       "category": "Industry",
-      "description": "Today, we're excited to announce the general availability of Claude Platform on AWS. Claude Platform on AWS is a new service that gives customers direct access to Anthropic's native Claude Platform experience through their AWS account, with no separate credentials, contracts, or billing relationships required. AWS is the first cloud provider to offer access to the native Claude Platform experience. In this post, we explore how Claude Platform on AWS works and how you can start using it today.",
-      "author": "Dani Mitchell",
-      "content": "Today, we're excited to announce the general availability of Claude Platform on AWS. Claude Platform on AWS is a new service that gives customers direct access to Anthropic's native Claude Platform experience through their AWS account, with no separate credentials, contracts, or billing relationships required. AWS is the first cloud provider to offer access to the native Claude Platform experience. In this post, we explore how Claude Platform on AWS works and how you can start using it today.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.646837+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T07:03:04.646845+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "16f1ccc2fa415567cadbaa312a2cc23b",
-      "title": "A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices, and Profiling",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/14/a-coding-implementation-to-master-gpu-computing-with-cupy-custom-cuda-kernels-streams-sparse-matrices-and-profiling/",
-      "published_date": "2026-05-14T23:21:09+00:00",
-      "category": "Industry",
-      "description": "In this tutorial, we delve into CuPy as a powerful GPU-accelerated alternative to NumPy for high-performance numerical computing in Python. We start by inspecting the available CUDA device, checking the CuPy version, runtime details, GPU memory, and compute capability so that we understand the hardware environment before running heavy computations. Then, we compare NumPy and […] The post A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices,...",
-      "author": "Sana Hassan",
-      "content": "In this tutorial, we delve into CuPy as a powerful GPU-accelerated alternative to NumPy for high-performance numerical computing in Python. We start by inspecting the available CUDA device, checking the CuPy version, runtime details, GPU memory, and compute capability so that we understand the hardware environment before running heavy computations. Then, we compare NumPy and […] The post A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices,...",
+      "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "author": "",
+      "content": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -541,10 +417,134 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T10:31:07.663236+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T10:31:07.663239+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fc9ab7849cab7b8910099c06f354d44b",
+      "title": "Advancing voice intelligence with new models in the API",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "published_date": "2026-05-07T10:00:00+00:00",
+      "category": "Industry",
+      "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "author": "",
+      "content": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T10:31:07.663946+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T10:31:07.663949+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e6501ab1e3eaf47432ad8d5fd0ddcab3",
+      "title": "Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/",
+      "published_date": "2026-05-13T17:33:16+00:00",
+      "category": "Industry",
+      "description": "The Cisco and AWS partnership addresses three challenges enterprises face when scaling AI agents: visibility gaps, security bottlenecks, and compliance risks. In this post, we explore how you can overcome AI security challenges through automated scanning and unified governance.",
+      "author": "Amit Arora",
+      "content": "The Cisco and AWS partnership addresses three challenges enterprises face when scaling AI agents: visibility gaps, security bottlenecks, and compliance risks. In this post, we explore how you can overcome AI security challenges through automated scanning and unified governance.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.649676+00:00"
+        "consensus_timestamp": "2026-05-15T10:31:07.664793+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,131 +555,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T07:03:04.649679+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e7d96379b3f75227ac03ec2cedf5f67a",
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "published_date": "2026-05-07T13:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "author": "",
-      "content": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.645694+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T07:03:04.645697+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9be5a72b32471baae4084a63922ead8d",
-      "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
-      "published_date": "2026-05-13T13:00:57+00:00",
-      "category": "Industry",
-      "description": "Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Ineffable Intelligence, the London-based AI lab founded by AlphaGo architect David Silver in the wake of Ineffable’s emergence from stealth last week. “The next frontier of […]",
-      "author": "NVIDIA Writers",
-      "content": "Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Ineffable Intelligence, the London-based AI lab founded by AlphaGo architect David Silver in the wake of Ineffable’s emergence from stealth last week. “The next frontier of […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.647197+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-15T07:03:04.647200+00:00"
+        "timestamp": "2026-05-15T10:31:07.664796+00:00"
       },
       "article_type": "article"
     },
@@ -727,41 +603,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.647513+00:00"
+        "consensus_timestamp": "2026-05-15T10:31:07.665743+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T07:03:04.647516+00:00"
+        "timestamp": "2026-05-15T10:31:07.665745+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "318aecb12012de49ab758ce242932285",
-      "title": "How mechanism design theory helps optimize Amazon-vendor collaboration",
+      "article_id": "48e199a62442a420ab5b67858d0f515b",
+      "title": "Navigating uncertainty in Amazon&apos;s middle-mile network",
       "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/how-mechanism-design-theory-helps-optimize-amazon-vendor-collaboration",
-      "published_date": "2026-05-05T13:11:23+00:00",
+      "url": "https://www.amazon.science/blog/navigating-uncertainty-in-amazons-middle-mile-network",
+      "published_date": "2026-05-06T13:37:38+00:00",
       "category": "Industry",
-      "description": "Agentic mechanism enables Amazon and vendors to optimize supply chain management without disclosing private information.",
+      "description": "Amazon engineers and scientists have created new tools to optimize delivery networks under uncertainty — and keep them adapting without missing a beat.",
       "author": "",
-      "content": "Agentic mechanism enables Amazon and vendors to optimize supply chain management without disclosing private information.",
+      "content": "Amazon engineers and scientists have created new tools to optimize delivery networks under uncertainty — and keep them adapting without missing a beat.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
+        "quality_score": 0.9,
+        "novelty_score": 0.6,
         "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.85
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -788,41 +664,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.649436+00:00"
+        "consensus_timestamp": "2026-05-15T10:31:07.667570+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T07:03:04.649438+00:00"
+        "timestamp": "2026-05-15T10:31:07.667573+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4eab4e31a849b8ddebc6a1b4aa7d53c9",
-      "title": "Research: Newton Fund Impact Evaluation",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/newton-fund-impact-evaluation",
-      "published_date": "2026-05-06T08:30:01+00:00",
-      "category": "Government",
-      "description": "Impact evaluation to assess the progress of the Newton Fund and recommendations for future research and innovation activities.",
+      "article_id": "2d109efc339832e77f13be119c4f6094",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/nvidia",
+      "published_date": "2026-05-12T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
       "author": "",
-      "content": "Impact evaluation to assess the progress of the Newton Fund and recommendations for future research and innovation activities.",
+      "content": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
+        "impact_score": 0.9,
+        "overall_score": 0.8350000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -851,34 +727,34 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.644864+00:00"
+        "consensus_timestamp": "2026-05-15T10:31:07.663623+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T07:03:04.644869+00:00"
+        "timestamp": "2026-05-15T10:31:07.663626+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b7bd4e99740e4517910b910f88933f06",
-      "title": "How enterprises are scaling AI",
-      "source": "openai_blog",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "published_date": "2026-05-11T10:00:00+00:00",
+      "article_id": "b82267db84ee478f3c42c41784171eb3",
+      "title": "Real-time voice agents with Stream Vision Agents and Amazon Nova 2 Sonic",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic/",
+      "published_date": "2026-05-14T17:23:48+00:00",
       "category": "Industry",
-      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "author": "",
-      "content": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "description": "In this post, you learn how to combine Stream's Vision Agents open-source framework with Amazon Bedrock and Amazon Nova 2 Sonic to build real-time voice agents that can be production-ready in minutes. You'll learn how the integration works under the hood, walk through code examples, and explore advanced capabilities like function calling, automatic reconnection, and multilingual voice support.",
+      "author": "Manasi Bhutada",
+      "content": "In this post, you learn how to combine Stream's Vision Agents open-source framework with Amazon Bedrock and Amazon Nova 2 Sonic to build real-time voice agents that can be production-ready in minutes. You'll learn how the integration works under the hood, walk through code examples, and explore advanced capabilities like function calling, automatic reconnection, and multilingual voice support.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -913,10 +789,72 @@
           }
         },
         "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T10:31:07.664559+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T10:31:07.664562+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "667a128a811e614db10bb6c5220ea3d6",
+      "title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-ai-model-predicts-cancer-survival-single-cell-tumor-data",
+      "published_date": "2026-05-15T10:25:25.737629+00:00",
+      "category": "Government",
+      "description": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "author": "",
+      "content": "Study links specific cell populations to patient risk in melanoma and liver cancer.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-15T07:03:04.645502+00:00"
+        "consensus_timestamp": "2026-05-15T10:31:07.662452+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +865,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-15T07:03:04.645506+00:00"
+        "timestamp": "2026-05-15T10:31:07.662463+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5c3f34cecf9b8e8b44631f9f1c6aae80",
+      "title": "Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/",
+      "published_date": "2026-05-15T03:38:10+00:00",
+      "category": "Industry",
+      "description": "Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them. The post Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them. The post Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8375,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-15T10:31:07.668016+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-15T10:31:07.668018+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 248.1102809906006,
+    "processing_time": 247.57045888900757,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 134,
+      "total_processed": 132,
       "candidates": {
-        "headlines": 17,
-        "articles": 117,
+        "headlines": 18,
+        "articles": 114,
         "research_papers": 0
       },
       "selected": {
