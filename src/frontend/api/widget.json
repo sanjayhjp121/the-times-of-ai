@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T20:59:17.218827+00:00",
+  "updated": "2026-05-18T03:56:05.167876+00:00",
   "top_stories": [
     {
       "article_id": "acbe59f1a810bac30767276a42ae2227",
@@ -14,9 +14,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.4,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.745,
+        "overall_score": 0.82,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -44,42 +44,166 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.7,
+        "score": 0.8,
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-17T20:59:17.190158+00:00"
+        "consensus_timestamp": "2026-05-18T03:56:05.138494+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.62,
+        "weighted_score": 0.6799999999999999,
         "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-17T20:59:17.190161+00:00"
+        "timestamp": "2026-05-18T03:56:05.138496+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "99670e80593143744194beb1297b4e93",
-      "title": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/",
-      "published_date": "2026-05-16T17:59:09+00:00",
-      "category": "Industry",
-      "description": "Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a […] The post Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and...",
-      "author": "Asif Razzaq",
-      "content": "Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a […] The post Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and...",
+      "article_id": "aa27bc4a58909c8e1754a109cf457ad4",
+      "title": "Government steps up action to strengthen cyber defences as UK cyber industry continues to grow",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/government-steps-up-action-to-strengthen-cyber-defences-as-uk-cyber-industry-continues-to-grow",
+      "published_date": "2026-05-11T23:01:03+00:00",
+      "category": "Government",
+      "description": "UK businesses are being urged to strengthen their cyber defences against fast-evolving AI-enabled threats.",
+      "author": "",
+      "content": "UK businesses are being urged to strengthen their cyber defences against fast-evolving AI-enabled threats.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.925,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-18T03:56:05.135780+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-18T03:56:05.135783+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "318aecb12012de49ab758ce242932285",
+      "title": "How mechanism design theory helps optimize Amazon-vendor collaboration",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/how-mechanism-design-theory-helps-optimize-amazon-vendor-collaboration",
+      "published_date": "2026-05-05T13:11:23+00:00",
+      "category": "Industry",
+      "description": "Agentic mechanism enables Amazon and vendors to optimize supply chain management without disclosing private information.",
+      "author": "",
+      "content": "Agentic mechanism enables Amazon and vendors to optimize supply chain management without disclosing private information.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-18T03:56:05.139913+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-18T03:56:05.139915+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "7c3a00575058a71517942ef7ef34bc7d",
+      "title": "A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ, and SmoothQuant Quantization using llmcompressor",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/05/17/a-coding-implementation-to-compress-and-benchmark-instruction-tuned-llms-with-fp8-gptq-and-smoothquant-quantization-using-llmcompressor/",
+      "published_date": "2026-05-17T18:19:09+00:00",
+      "category": "Industry",
+      "description": "In this tutorial, we explore how to apply post-training quantization to an instruction-tuned language model using llmcompressor. We start with an FP16 baseline and then compare multiple compression strategies, including FP8 dynamic quantization, GPTQ W4A16, and SmoothQuant with GPTQ W8A8. Along the way, we benchmark each model variant for disk size, generation latency, throughput, perplexity, […] The post A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ,...",
+      "author": "Sana Hassan",
+      "content": "In this tutorial, we explore how to apply post-training quantization to an instruction-tuned language model using llmcompressor. We start with an FP16 baseline and then compare multiple compression strategies, including FP8 dynamic quantization, GPTQ W4A16, and SmoothQuant with GPTQ W8A8. Along the way, we benchmark each model variant for disk size, generation latency, throughput, perplexity, […] The post A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ,...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-17T20:59:17.191942+00:00"
+        "consensus_timestamp": "2026-05-18T03:56:05.140123+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,144 +245,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-17T20:59:17.191945+00:00"
+        "timestamp": "2026-05-18T03:56:05.140125+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "96df3622c2cfc25f3977e3de18aa5a02",
-      "title": "What happens when AI starts building itself?",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-      "published_date": "2026-05-14T19:57:20+00:00",
-      "category": "Industry",
-      "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-      "author": "Russell Brandom",
-      "content": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-17T20:59:17.190582+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-17T20:59:17.190584+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7376bab6e342745f107f5e227607e2a8",
-      "title": "Accelerated X-Ray Analysis for Nanoscale Imaging (XANI) of Novel Materials",
+      "article_id": "959c36e2fb824c4c02f5d410558b6ebf",
+      "title": "Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/accelerated-x-ray-analysis-for-nanoscale-imaging-xani-of-novel-materials/",
-      "published_date": "2026-05-13T16:39:20+00:00",
+      "url": "https://developer.nvidia.com/blog/model-quantization-post-training-quantization-using-nvidia-model-optimizer/",
+      "published_date": "2026-05-07T21:18:06+00:00",
       "category": "Industry",
-      "description": "A massive-scale X-ray free-electron laser (XFEL) enables tracking structural and electron dynamics in novel systems, including fusion materials, semiconductors,...",
-      "author": "Irina Demeshko",
-      "content": "A massive-scale X-ray free-electron laser (XFEL) enables tracking structural and electron dynamics in novel systems, including fusion materials, semiconductors,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-17T20:59:17.190837+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-17T20:59:17.190840+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b6df060c9f0d75ae98ce316cc80e50c1",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/sea-david-chen",
-      "published_date": "2026-05-14T20:30:00+00:00",
-      "category": "Industry",
-      "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "author": "",
-      "content": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "description": "Model quantization is an effective method to reduce VRAM usage and improve inference performance on consumer devices such as NVIDIA GeForce RTX GPUs. By...",
+      "author": "Ruixiang Wang",
+      "content": "Model quantization is an effective method to reduce VRAM usage and improve inference performance on consumer devices such as NVIDIA GeForce RTX GPUs. By...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-17T20:59:17.188345+00:00"
+        "consensus_timestamp": "2026-05-18T03:56:05.139525+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-17T20:59:17.188348+00:00"
+        "timestamp": "2026-05-18T03:56:05.139527+00:00"
       },
       "article_type": "article"
     }
