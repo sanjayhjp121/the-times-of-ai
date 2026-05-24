@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T07:26:45.545838+00:00",
+  "generated_at": "2026-05-24T10:01:05.223710+00:00",
   "articles": [
     {
       "article_id": "b7227cf1f927c82d9320261c04be5746",
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.511454+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.191443+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-24T10:01:05.191445+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "4716a6690281d1771517cf66229c4c8b",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "published_date": "2026-05-20T00:00:00+00:00",
+      "category": "Industry",
+      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "author": "",
+      "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-24T10:01:05.188768+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.511457+00:00"
+        "timestamp": "2026-05-24T10:01:05.188771+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "04436b43cab3e21f5df4305b12374ab8",
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.509717+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.189606+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.509719+00:00"
+        "timestamp": "2026-05-24T10:01:05.189609+00:00"
       },
       "article_type": "article"
     },
@@ -168,41 +230,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.511628+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.191620+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.511630+00:00"
+        "timestamp": "2026-05-24T10:01:05.191622+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ff7eef1807d15b1de8263693df7f97a5",
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "published_date": "2026-05-21T13:52:23+00:00",
-      "category": "Industry",
-      "description": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
-      "author": "Sarah Perez",
-      "content": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
+      "article_id": "cafb5695fa974387536bd52cd818a144",
+      "title": "Millions to get faster, easier access to government support with new AI tool",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/millions-to-get-faster-easier-access-to-government-support-with-new-ai-tool",
+      "published_date": "2026-05-14T21:30:00+00:00",
+      "category": "Government",
+      "description": "GOV.UK Chat is now available in the GOV.UK app – a new AI tool that lets people ask questions in plain language and get clear, reliable answers instantly.",
+      "author": "",
+      "content": "GOV.UK Chat is now available in the GOV.UK app – a new AI tool that lets people ask questions in plain language and get clear, reliable answers instantly.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.511961+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.187927+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.511965+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1e39ee77ace59cdb8e512be5cbd99588",
-      "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/",
-      "published_date": "2026-05-20T23:59:57+00:00",
-      "category": "Industry",
-      "description": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, you can now invoke models on SageMaker AI by changing only your endpoint URL. You don’t need a custom client, a SigV4 wrapper, or code rewrites. Overview With this launch, SageMaker AI endpoints […]",
-      "author": "Marc Karp",
-      "content": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, you can now invoke models on SageMaker AI by changing only your endpoint URL. You don’t need a custom client, a SigV4 wrapper, or code rewrites. Overview With this launch, SageMaker AI endpoints […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.510391+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-24T07:26:45.510394+00:00"
+        "timestamp": "2026-05-24T10:01:05.187930+00:00"
       },
       "article_type": "article"
     },
@@ -358,7 +358,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.509539+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.189422+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,24 +369,148 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.509542+00:00"
+        "timestamp": "2026-05-24T10:01:05.189425+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "dd419615803912e10b457b1ca962106a",
-      "title": "Spotify takes on Google’s NotebookLM with its new app",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-      "published_date": "2026-05-21T15:27:00+00:00",
+      "article_id": "00348cc270fb64f3e57fb5aaf9117fea",
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "published_date": "2026-05-16T08:16:06+00:00",
       "category": "Industry",
-      "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
-      "author": "Ivan Mehta",
-      "content": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+      "description": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "author": "",
+      "content": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-24T10:01:05.192816+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-24T10:01:05.192819+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8685d9f6ae706cacf9f162e49243c085",
+      "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/",
+      "published_date": "2026-05-19T15:20:33+00:00",
+      "category": "Industry",
+      "description": "Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.",
+      "author": "Dhaval Shah",
+      "content": "Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-24T10:01:05.190571+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-24T10:01:05.190574+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c7fbaaf0f58dc0ca56c1ea57114362cf",
+      "title": "Researchers identify first suite of human antibodies against measles virus",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-identify-first-suite-human-antibodies-against-measles-virus",
+      "published_date": "2026-05-24T09:56:34.604389+00:00",
+      "category": "Government",
+      "description": "NIH-funded study lays foundation for antibody-based measles treatment.",
+      "author": "",
+      "content": "NIH-funded study lays foundation for antibody-based measles treatment.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
         "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
@@ -420,7 +544,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.511758+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.187386+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,193 +555,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.511760+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "12b9723de85ab1c97b1f6485164e0d7f",
-      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-      "published_date": "2026-05-16T09:13:34+00:00",
-      "category": "Industry",
-      "description": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
-      "author": "",
-      "content": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.512908+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-24T07:26:45.512911+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "0c7582461ea8eca462a327d5b866b8c0",
-      "title": "Uniting biological toolkits for a new approach to ALS",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
-      "published_date": "2026-05-16T07:53:11+00:00",
-      "category": "Industry",
-      "description": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
-      "author": "",
-      "content": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.513109+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-24T07:26:45.513111+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8685d9f6ae706cacf9f162e49243c085",
-      "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/",
-      "published_date": "2026-05-19T15:20:33+00:00",
-      "category": "Industry",
-      "description": "Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.",
-      "author": "Dhaval Shah",
-      "content": "Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.510610+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-24T07:26:45.510612+00:00"
+        "timestamp": "2026-05-24T10:01:05.187390+00:00"
       },
       "article_type": "article"
     },
@@ -668,7 +606,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.509187+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.188994+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,69 +617,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.509189+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4858e5219ded259e036582374290ed21",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/databricks",
-      "published_date": "2026-05-15T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "author": "",
-      "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.509362+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-24T07:26:45.509364+00:00"
+        "timestamp": "2026-05-24T10:01:05.188997+00:00"
       },
       "article_type": "article"
     },
@@ -792,7 +668,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.512570+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.192490+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,89 +679,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.512572+00:00"
+        "timestamp": "2026-05-24T10:01:05.192492+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "12387a857b81e80bafd2ce2078abdeaa",
-      "title": "Mastering Agentic Techniques: AI Agent Customization",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization/",
-      "published_date": "2026-05-20T20:00:00+00:00",
-      "category": "Industry",
-      "description": "Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...",
-      "author": "Edward Li",
-      "content": "Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...",
+      "article_id": "5bf3e9281b689d7bc0a0cfc250d826ce",
+      "title": "NIH researchers identify avenue for enhanced GLP-1-induced weight loss",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-researchers-identify-avenue-enhanced-glp-1-induced-weight-loss",
+      "published_date": "2026-05-24T09:56:34.604215+00:00",
+      "category": "Government",
+      "description": "Modulating intracellular signaling may extend drug effects.",
+      "author": "",
+      "content": "Modulating intracellular signaling may extend drug effects.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
+        "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.7,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8350000000000001,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.512312+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-24T07:26:45.512314+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e6c549ca79515130a0deab7067b4aecc",
-      "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
-      "published_date": "2026-05-12T18:00:00+00:00",
-      "category": "Industry",
-      "description": "Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure. The post Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 appeared first on Microsoft Azure Blog.",
-      "author": "Wael El Kabbany and Hiren Shah",
-      "content": "Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure. The post Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -916,7 +730,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.510001+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.187266+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +741,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.510004+00:00"
+        "timestamp": "2026-05-24T10:01:05.187270+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c0b1b281d8f8e82ed831682d8b0a4432",
+      "title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males",
+      "published_date": "2026-05-24T09:56:34.604601+00:00",
+      "category": "Government",
+      "description": "Findings may warrant exploration of the hormones as glioblastoma treatment.",
+      "author": "",
+      "content": "Findings may warrant exploration of the hormones as glioblastoma treatment.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-24T10:01:05.187544+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-24T10:01:05.187550+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a22f70570334eb06d7e88126b5bcbddb",
+      "title": "Introducing OpenAI for Singapore",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "published_date": "2026-05-19T20:30:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "author": "",
+      "content": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8499999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-24T10:01:05.188904+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-24T10:01:05.188907+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6f157bc14f1c66da2da8a62e79b923e3",
+      "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
+      "published_date": "2026-05-18T15:07:15+00:00",
+      "category": "Industry",
+      "description": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
+      "author": "Bharathi Srinivasan",
+      "content": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.85,
+        "overall_score": 0.8275,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-24T10:01:05.190792+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-24T10:01:05.190795+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 229.3471622467041,
+    "processing_time": 207.4750907421112,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 119,
+      "total_processed": 110,
       "candidates": {
-        "headlines": 5,
-        "articles": 114,
+        "headlines": 6,
+        "articles": 104,
         "research_papers": 0
       },
       "selected": {

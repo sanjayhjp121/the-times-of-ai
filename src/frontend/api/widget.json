@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T07:26:45.548862+00:00",
+  "updated": "2026-05-24T10:01:05.226531+00:00",
   "top_stories": [
     {
       "article_id": "b7227cf1f927c82d9320261c04be5746",
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.511454+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.191443+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-24T10:01:05.191445+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "4716a6690281d1771517cf66229c4c8b",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "published_date": "2026-05-20T00:00:00+00:00",
+      "category": "Industry",
+      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "author": "",
+      "content": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-24T10:01:05.188768+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.511457+00:00"
+        "timestamp": "2026-05-24T10:01:05.188771+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "04436b43cab3e21f5df4305b12374ab8",
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.509717+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.189606+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.509719+00:00"
+        "timestamp": "2026-05-24T10:01:05.189609+00:00"
       },
       "article_type": "article"
     },
@@ -168,41 +230,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.511628+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.191620+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.511630+00:00"
+        "timestamp": "2026-05-24T10:01:05.191622+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ff7eef1807d15b1de8263693df7f97a5",
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "published_date": "2026-05-21T13:52:23+00:00",
-      "category": "Industry",
-      "description": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
-      "author": "Sarah Perez",
-      "content": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
+      "article_id": "cafb5695fa974387536bd52cd818a144",
+      "title": "Millions to get faster, easier access to government support with new AI tool",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/millions-to-get-faster-easier-access-to-government-support-with-new-ai-tool",
+      "published_date": "2026-05-14T21:30:00+00:00",
+      "category": "Government",
+      "description": "GOV.UK Chat is now available in the GOV.UK app – a new AI tool that lets people ask questions in plain language and get clear, reliable answers instantly.",
+      "author": "",
+      "content": "GOV.UK Chat is now available in the GOV.UK app – a new AI tool that lets people ask questions in plain language and get clear, reliable answers instantly.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.511961+00:00"
+        "consensus_timestamp": "2026-05-24T10:01:05.187927+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-24T07:26:45.511965+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1e39ee77ace59cdb8e512be5cbd99588",
-      "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/",
-      "published_date": "2026-05-20T23:59:57+00:00",
-      "category": "Industry",
-      "description": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, you can now invoke models on SageMaker AI by changing only your endpoint URL. You don’t need a custom client, a SigV4 wrapper, or code rewrites. Overview With this launch, SageMaker AI endpoints […]",
-      "author": "Marc Karp",
-      "content": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, you can now invoke models on SageMaker AI by changing only your endpoint URL. You don’t need a custom client, a SigV4 wrapper, or code rewrites. Overview With this launch, SageMaker AI endpoints […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-24T07:26:45.510391+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-24T07:26:45.510394+00:00"
+        "timestamp": "2026-05-24T10:01:05.187930+00:00"
       },
       "article_type": "article"
     }
