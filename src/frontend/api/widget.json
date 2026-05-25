@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T08:31:51.507058+00:00",
+  "updated": "2026-05-25T15:01:05.918893+00:00",
   "top_stories": [
     {
       "article_id": "821bf288ca0da843848d33d1e05383e2",
@@ -12,12 +12,12 @@
       "author": "Dominic-Madori Davis",
       "content": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.6,
-        "impact_score": 0.8,
-        "overall_score": 0.775,
-        "confidence_mean": 0.9
+        "relevance_score": 0.85,
+        "quality_score": 0.75,
+        "novelty_score": 0.65,
+        "impact_score": 0.9,
+        "overall_score": 0.785,
+        "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,34 +45,96 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-25T08:31:51.470349+00:00"
+        "consensus_timestamp": "2026-05-25T15:01:05.888287+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-25T08:31:51.470352+00:00"
+        "timestamp": "2026-05-25T15:01:05.888290+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "258c79fab091866c813fa5ad66694d53",
-      "title": "Build an AI-powered recruitment assistant using Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-recruitment-assistant-using-amazon-bedrock/",
-      "published_date": "2026-05-21T16:00:30+00:00",
+      "article_id": "81b7570c5764cc2516ffc65fa4d469c2",
+      "title": "Government’s Sovereign AI invests in British-founded AI company redefining how medicines are designed",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/governments-sovereign-ai-invests-in-british-founded-ai-company-redefining-how-medicines-are-designed",
+      "published_date": "2026-05-12T16:00:01+00:00",
+      "category": "Government",
+      "description": "Isomorphic Labs – a company using frontier AI for drug design and development – is the latest to receive investment from Sovereign AI.",
+      "author": "",
+      "content": "Isomorphic Labs – a company using frontier AI for drug design and development – is the latest to receive investment from Sovereign AI.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-25T15:01:05.885729+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-25T15:01:05.885731+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "04436b43cab3e21f5df4305b12374ab8",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "published_date": "2026-05-13T00:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we demonstrate how to build an AI-powered recruitment assistant using Amazon Bedrock that brings efficiencies to candidate evaluation, generates personalized interview questions, and provides data-driven insights for human hiring decisions. This post presents a reference architecture for learning purposes — not a production-ready solution. Amazon Bedrock and the AWS services used here are general-purpose tools that customers can combine to support a wide variety of use cases,...",
-      "author": "Puneeth Komaragiri",
-      "content": "In this post, we demonstrate how to build an AI-powered recruitment assistant using Amazon Bedrock that brings efficiencies to candidate evaluation, generates personalized interview questions, and provides data-driven insights for human hiring decisions. This post presents a reference architecture for learning purposes — not a production-ready solution. Amazon Bedrock and the AWS services used here are general-purpose tools that customers can combine to support a wide variety of use cases,...",
+      "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "author": "",
+      "content": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -107,41 +169,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-25T08:31:51.469460+00:00"
+        "consensus_timestamp": "2026-05-25T15:01:05.886817+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-25T08:31:51.469463+00:00"
+        "timestamp": "2026-05-25T15:01:05.886820+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cebb2dbd0b3a911e621ed9a206ec0e61",
-      "title": "Statistics at DSIT",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology/about/statistics",
-      "published_date": "2026-05-12T08:30:06+00:00",
-      "category": "Government",
-      "description": "DSIT and its public bodies produces official statistics covering its sectors.",
+      "article_id": "4858e5219ded259e036582374290ed21",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/databricks",
+      "published_date": "2026-05-15T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "author": "",
-      "content": "DSIT and its public bodies produces official statistics covering its sectors.",
+      "content": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.875,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -172,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-25T08:31:51.468171+00:00"
+        "consensus_timestamp": "2026-05-25T15:01:05.886474+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,27 +245,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-25T08:31:51.468174+00:00"
+        "timestamp": "2026-05-25T15:01:05.886477+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "e4a4a19b2b28154416e7adeae6438104",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "published_date": "2026-05-14T00:00:00+00:00",
+      "article_id": "4364c750ede879cf40abd1a1645d10db",
+      "title": "NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents/",
+      "published_date": "2026-05-19T23:40:45+00:00",
       "category": "Industry",
-      "description": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "author": "",
-      "content": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "description": "Autonomous AI agents are becoming more capable. Open models, Model Context Protocol (MCP)-connected tools, and portable skills are also making agents easier to...",
+      "author": "Moshe Abramovitch",
+      "content": "Autonomous AI agents are becoming more capable. Open models, Model Context Protocol (MCP)-connected tools, and portable skills are also making agents easier to...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-25T08:31:51.468880+00:00"
+        "consensus_timestamp": "2026-05-25T15:01:05.889037+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-25T08:31:51.468882+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "04436b43cab3e21f5df4305b12374ab8",
-      "title": "Our response to the TanStack npm supply chain attack",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "published_date": "2026-05-13T00:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "author": "",
-      "content": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-25T08:31:51.468956+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-25T08:31:51.468958+00:00"
+        "timestamp": "2026-05-25T15:01:05.889040+00:00"
       },
       "article_type": "article"
     }
