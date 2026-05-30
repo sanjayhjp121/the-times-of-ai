@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T21:57:35.142905+00:00",
+  "generated_at": "2026-05-30T03:37:33.348868+00:00",
   "articles": [
     {
       "article_id": "371a26c44bf976abe4f59aee065892db",
@@ -13,10 +13,10 @@
       "content": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.99,
+        "overall_score": 0.933,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,158 +45,96 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.98,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.108467+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.313742+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.108469+00:00"
+        "timestamp": "2026-05-30T03:37:33.313744+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "8f34385ceb2d97375081030acc02f4b4",
-      "title": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit",
+      "article_id": "c4ac8074f3cd1812247df9fc79209b5b",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "published_date": "2026-05-29T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "author": "",
+      "content": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-30T03:37:33.311210+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-30T03:37:33.311213+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2db40b0d4c9f2ba03a1aa471c5beca91",
+      "title": "Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/",
-      "published_date": "2026-05-29T16:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai/",
+      "published_date": "2026-05-29T00:07:11+00:00",
       "category": "Industry",
-      "description": "As AI models grow in complexity and regulatory scrutiny intensifies under frameworks including California’s AB-2013 and the EU AI Act, software teams...",
-      "author": "Pratyusha Maiti",
-      "content": "As AI models grow in complexity and regulatory scrutiny intensifies under frameworks including California’s AB-2013 and the EU AI Act, software teams...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.108720+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-29T21:57:35.108723+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c61bb4e2310dc1d271b8bf201c90e426",
-      "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
-      "published_date": "2026-05-19T20:30:09+00:00",
-      "category": "Industry",
-      "description": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]",
-      "author": "Ankit Patel",
-      "content": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.108001+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-29T21:57:35.108003+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dfb8041e88c94ac223264e220ba4d641",
-      "title": "A SMART approach to securing strategic materials",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/smart-approach-securing-strategic-materials",
-      "published_date": "2026-05-19T12:16:04+00:00",
-      "category": "Government",
-      "description": "DARPA and State of Utah have entered into an agreement to establish the Strategic Materials Accelerator and Research Test Bed (SMART).",
-      "author": "outreach@darpa.mil",
-      "content": "DARPA and State of Utah have entered into an agreement to establish the Strategic Materials Accelerator and Research Test Bed (SMART).",
+      "description": "AI applications are moving beyond text generation to multimodal systems that can perceive, search, and reason across images, documents, video, and...",
+      "author": "Anu Srivastava",
+      "content": "AI applications are moving beyond text generation to multimodal systems that can perceive, search, and reason across images, documents, video, and...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -230,22 +168,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.105519+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.314043+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.105521+00:00"
+        "timestamp": "2026-05-30T03:37:33.314045+00:00"
       },
       "article_type": "article"
     },
@@ -293,134 +231,10 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.106901+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-29T21:57:35.106903+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "98f9c6e34697c6b48032e1963a0a5474",
-      "title": "Claude Opus 4.8 is now available on AWS",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
-      "published_date": "2026-05-28T17:51:32+00:00",
-      "category": "Industry",
-      "description": "This post covers Opus 4.8's improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock.",
-      "author": "Aamna Najmi",
-      "content": "This post covers Opus 4.8's improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.107294+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-29T21:57:35.107296+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "291bfa14899dbd7afa6a0e9177735d11",
-      "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/",
-      "published_date": "2026-05-26T15:59:16+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore how the Amazon Quick document and visualization creation capabilities work, what you can build with them, and how professionals across roles are using them to reclaim hours of their workweek. From technical execution to strategic judgment Most professional roles carry an unspoken assumption that a significant portion of your time […]",
-      "author": "Art Chan",
-      "content": "In this post, we explore how the Amazon Quick document and visualization creation capabilities work, what you can build with them, and how professionals across roles are using them to reclaim hours of their workweek. From technical execution to strategic judgment Most professional roles carry an unspoken assumption that a significant portion of your time […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.107771+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.311754+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.107773+00:00"
+        "timestamp": "2026-05-30T03:37:33.311756+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a26311bfe3278bdd4c87d678024fda7e",
+      "title": "Plan to toughen protections for subsea internet cables: Liz Lloyd's speech at RUSI",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/speeches/plan-to-toughen-protections-for-subsea-internet-cables-liz-lloyds-speech-at-rusi",
+      "published_date": "2026-05-29T16:19:12+00:00",
+      "category": "Government",
+      "description": "Speaking at the Royal United Services Institute (RUSI) on Friday 29 May 2026, telecoms minister Liz Lloyd set out plans to consult on tougher fines and prison sentences for those who damage subsea infrastructure essential for UK internet access.",
+      "author": "",
+      "content": "Speaking at the Royal United Services Institute (RUSI) on Friday 29 May 2026, telecoms minister Liz Lloyd set out plans to consult on tougher fines and prison sentences for those who damage subsea infrastructure essential for UK internet access.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-30T03:37:33.310110+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-30T03:37:33.310113+00:00"
       },
       "article_type": "article"
     },
@@ -479,41 +355,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.106999+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.311881+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.107001+00:00"
+        "timestamp": "2026-05-30T03:37:33.311883+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d262578e07bd02f465bf813225eface0",
-      "title": "Transparency data: Premises contracted and built, Project Gigabit contracts",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/premises-contracted-and-built-project-gigabit-contracts",
-      "published_date": "2026-05-26T10:39:33+00:00",
-      "category": "Government",
-      "description": "Building Digital UK (BDUK) reports on premises contracted and built under Project Gigabit contracts.",
+      "article_id": "12b9723de85ab1c97b1f6485164e0d7f",
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "published_date": "2026-05-16T09:13:34+00:00",
+      "category": "Industry",
+      "description": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
       "author": "",
-      "content": "Building Digital UK (BDUK) reports on premises contracted and built under Project Gigabit contracts.",
+      "content": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.8,
-        "overall_score": 0.8550000000000001,
-        "confidence_mean": 0.8
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -541,34 +417,96 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.106188+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.314894+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.106190+00:00"
+        "timestamp": "2026-05-30T03:37:33.314896+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6e3713938a739582c033883e08c15c3e",
-      "title": "RAPIIDly transitioning shelf-stable blood substitutes to the battlefield",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/rapiidly-transitioning-shelf-stable-blood-substitutes-battlefield",
-      "published_date": "2026-05-28T15:14:41+00:00",
-      "category": "Government",
-      "description": "New program seeks FDA authorization for fieldable blood analog system in 2029.",
-      "author": "outreach@darpa.mil",
-      "content": "New program seeks FDA authorization for fieldable blood analog system in 2029.",
+      "article_id": "0c7582461ea8eca462a327d5b866b8c0",
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "published_date": "2026-05-16T07:53:11+00:00",
+      "category": "Industry",
+      "description": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "author": "",
+      "content": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-30T03:37:33.315085+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-30T03:37:33.315087+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9204053d3c6ad7e7b176e40f4f62b67e",
+      "title": "Automate AML alert triage with Amazon Quick and Snowflake Cortex AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/",
+      "published_date": "2026-05-28T16:41:07+00:00",
+      "category": "Industry",
+      "description": "This post demonstrates that integration in action by automating one of the most labor-intensive workflows in financial services: anti-money laundering (AML) alert triage. You will build a triage workflow using Amazon Quick Flows and Snowflake Cortex, connected through the Amazon Quick Model Context Protocol (MCP) integration. In our testing environment, automated workflows built using Amazon Quick reduced alert investigation time from 30-90 minutes to under 5 minutes. Actual results may vary...",
+      "author": "Nidhi Gupta",
+      "content": "This post demonstrates that integration in action by automating one of the most labor-intensive workflows in financial services: anti-money laundering (AML) alert triage. You will build a triage workflow using Amazon Quick Flows and Snowflake Cortex, connected through the Amazon Quick Model Context Protocol (MCP) integration. In our testing environment, automated workflows built using Amazon Quick reduced alert investigation time from 30-90 minutes to under 5 minutes. Actual results may vary...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -603,40 +541,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.105378+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.312358+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.105381+00:00"
+        "timestamp": "2026-05-30T03:37:33.312360+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "99515a836f1474946dac2139ab321714",
-      "title": "Private analytics via zero-trust aggregation",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
-      "published_date": "2026-05-27T16:56:00+00:00",
+      "article_id": "88bdf30a77950ae81805ca74f17fcdbf",
+      "title": "From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/",
+      "published_date": "2026-05-27T20:01:06+00:00",
       "category": "Industry",
-      "description": "Security, Privacy and Abuse Prevention",
-      "author": "",
-      "content": "Security, Privacy and Abuse Prevention",
+      "description": "In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insights for 100,000 users daily. We walk you through the architectural decisions, implementation challenges, and measurable results that can guide your own data-to-insights transformation.",
+      "author": "Luca Vignali",
+      "content": "In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insights for 100,000 users daily. We walk you through the architectural decisions, implementation challenges, and measurable results that can guide your own data-to-insights transformation.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -664,35 +602,221 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.96,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.109281+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.312490+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.776,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.109283+00:00"
+        "timestamp": "2026-05-30T03:37:33.312493+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c9500563a9d3f259fe8e5226dcfb8c7c",
-      "title": "Streamline external access to Amazon SageMaker MLflow using a REST API proxy",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/",
-      "published_date": "2026-05-28T20:35:44+00:00",
+      "article_id": "12387a857b81e80bafd2ce2078abdeaa",
+      "title": "Mastering Agentic Techniques: AI Agent Customization",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization/",
+      "published_date": "2026-05-20T20:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we demonstrate how to build a secure Flask-based MLflow proxy service that provides HTTPS access to Amazon SageMaker MLflow without requiring the MLflow SDK. This solution is for organizations undergoing cloud transformation who want to preserve their existing ML workflows while adopting cloud-native services.",
+      "description": "Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...",
+      "author": "Edward Li",
+      "content": "Autonomous AI agents are taking on all types of work for businesses: routing logistics fleets, triaging support tickets, generating code, and orchestrating...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-30T03:37:33.314641+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-30T03:37:33.314643+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "0b3d7730f2848d64e8d10efbf5c89e0a",
+      "title": "Growing up in the online world: a national consultation",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation",
+      "published_date": "2026-05-20T17:31:54+00:00",
+      "category": "Government",
+      "description": "We consulted on further measures to prepare children for the future in an age of rapid technological change. This includes potential age restrictions on social media and other services such as gaming sites and AI chatbots, restrictions on addictive design features and risky functionalities, and better support for parents and families.",
+      "author": "",
+      "content": "We consulted on further measures to prepare children for the future in an age of rapid technological change. This includes potential age restrictions on social media and other services such as gaming sites and AI chatbots, restrictions on addictive design features and risky functionalities, and better support for parents and families.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-30T03:37:33.310942+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-30T03:37:33.310947+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4d1c36224f3429beca0527b867923a9c",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "published_date": "2026-05-25T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "author": "",
+      "content": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-30T03:37:33.311512+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-30T03:37:33.311514+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "61e60a55175389593cd9d3809b2365a5",
+      "title": "Build a custom portal with embedded Amazon SageMaker AI MLflow Apps",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/",
+      "published_date": "2026-05-28T20:39:22+00:00",
+      "category": "Industry",
+      "description": "In this post, you learn how to build a custom portal with embedded SageMaker AI MLflow Apps UI. You walk through the architecture pattern behind a React front end paired with a Flask reverse proxy that handles AWS Signature Version 4 (SigV4) authentication, deploy the entire stack through the AWS Cloud Development Kit (AWS CDK), validate the deployment, and review security considerations and cleanup procedures.",
       "author": "Manish Garg",
-      "content": "In this post, we demonstrate how to build a secure Flask-based MLflow proxy service that provides HTTPS access to Amazon SageMaker MLflow without requiring the MLflow SDK. This solution is for organizations undergoing cloud transformation who want to preserve their existing ML workflows while adopting cloud-native services.",
+      "content": "In this post, you learn how to build a custom portal with embedded SageMaker AI MLflow Apps UI. You walk through the architecture pattern behind a React front end paired with a Flask reverse proxy that handles AWS Signature Version 4 (SigV4) authentication, deploy the entire stack through the AWS Cloud Development Kit (AWS CDK), validate the deployment, and review security considerations and cleanup procedures.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -727,34 +851,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.107197+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.312140+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.107198+00:00"
+        "timestamp": "2026-05-30T03:37:33.312143+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8077e244d05a6c235ea7b1b606a8c2a8",
-      "title": "NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/",
-      "published_date": "2026-05-27T23:09:52+00:00",
+      "article_id": "c61bb4e2310dc1d271b8bf201c90e426",
+      "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
+      "published_date": "2026-05-19T20:30:09+00:00",
       "category": "Industry",
-      "description": "The cold-start problem In production inference deployments, demand fluctuates over time, requiring inference replicas to scale elastically. However,...",
-      "author": "Schwinn Saereesitthipitak",
-      "content": "The cold-start problem In production inference deployments, demand fluctuates over time, requiring inference replicas to scale elastically. However,...",
+      "description": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]",
+      "author": "Ankit Patel",
+      "content": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -792,7 +916,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.108787+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.313121+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,131 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.108789+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "65917d702946cd4005b59767eb410502",
-      "title": "OpenAI’s Frontier Governance Framework",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "published_date": "2026-05-28T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "author": "",
-      "content": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8350000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.106537+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-29T21:57:35.106539+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9f226f40a81b07003c2842ac5dd8f74b",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "published_date": "2026-05-29T12:00:00+00:00",
-      "category": "Industry",
-      "description": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "author": "",
-      "content": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.6,
-        "impact_score": 0.9,
-        "overall_score": 0.8125000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.106353+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-29T21:57:35.106355+00:00"
+        "timestamp": "2026-05-30T03:37:33.313123+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 223.06422400474548,
+    "processing_time": 206.0002088546753,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,9 +953,9 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 118,
+      "total_processed": 113,
       "candidates": {
-        "headlines": 14,
+        "headlines": 9,
         "articles": 104,
         "research_papers": 0
       },

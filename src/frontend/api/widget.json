@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T21:57:35.145216+00:00",
+  "updated": "2026-05-30T03:37:33.351744+00:00",
   "top_stories": [
     {
       "article_id": "371a26c44bf976abe4f59aee065892db",
@@ -13,10 +13,10 @@
       "content": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.99,
+        "overall_score": 0.933,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -45,158 +45,96 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.98,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.108467+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.313742+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.108469+00:00"
+        "timestamp": "2026-05-30T03:37:33.313744+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "8f34385ceb2d97375081030acc02f4b4",
-      "title": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit",
+      "article_id": "c4ac8074f3cd1812247df9fc79209b5b",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "published_date": "2026-05-29T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "author": "",
+      "content": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-30T03:37:33.311210+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-30T03:37:33.311213+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2db40b0d4c9f2ba03a1aa471c5beca91",
+      "title": "Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/",
-      "published_date": "2026-05-29T16:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai/",
+      "published_date": "2026-05-29T00:07:11+00:00",
       "category": "Industry",
-      "description": "As AI models grow in complexity and regulatory scrutiny intensifies under frameworks including California’s AB-2013 and the EU AI Act, software teams...",
-      "author": "Pratyusha Maiti",
-      "content": "As AI models grow in complexity and regulatory scrutiny intensifies under frameworks including California’s AB-2013 and the EU AI Act, software teams...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.108720+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-29T21:57:35.108723+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c61bb4e2310dc1d271b8bf201c90e426",
-      "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
-      "published_date": "2026-05-19T20:30:09+00:00",
-      "category": "Industry",
-      "description": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]",
-      "author": "Ankit Patel",
-      "content": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ joint developer community, which provides curated learning paths, hands-on labs and events that help them build using the full-stack NVIDIA AI platform on Google Cloud. Launched at Google I/O last year, the community […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.108001+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-05-29T21:57:35.108003+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "dfb8041e88c94ac223264e220ba4d641",
-      "title": "A SMART approach to securing strategic materials",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/smart-approach-securing-strategic-materials",
-      "published_date": "2026-05-19T12:16:04+00:00",
-      "category": "Government",
-      "description": "DARPA and State of Utah have entered into an agreement to establish the Strategic Materials Accelerator and Research Test Bed (SMART).",
-      "author": "outreach@darpa.mil",
-      "content": "DARPA and State of Utah have entered into an agreement to establish the Strategic Materials Accelerator and Research Test Bed (SMART).",
+      "description": "AI applications are moving beyond text generation to multimodal systems that can perceive, search, and reason across images, documents, video, and...",
+      "author": "Anu Srivastava",
+      "content": "AI applications are moving beyond text generation to multimodal systems that can perceive, search, and reason across images, documents, video, and...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -230,22 +168,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.105519+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.314043+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.105521+00:00"
+        "timestamp": "2026-05-30T03:37:33.314045+00:00"
       },
       "article_type": "article"
     },
@@ -293,10 +231,72 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-05-30T03:37:33.311754+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-05-30T03:37:33.311756+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a26311bfe3278bdd4c87d678024fda7e",
+      "title": "Plan to toughen protections for subsea internet cables: Liz Lloyd's speech at RUSI",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/speeches/plan-to-toughen-protections-for-subsea-internet-cables-liz-lloyds-speech-at-rusi",
+      "published_date": "2026-05-29T16:19:12+00:00",
+      "category": "Government",
+      "description": "Speaking at the Royal United Services Institute (RUSI) on Friday 29 May 2026, telecoms minister Liz Lloyd set out plans to consult on tougher fines and prison sentences for those who damage subsea infrastructure essential for UK internet access.",
+      "author": "",
+      "content": "Speaking at the Royal United Services Institute (RUSI) on Friday 29 May 2026, telecoms minister Liz Lloyd set out plans to consult on tougher fines and prison sentences for those who damage subsea infrastructure essential for UK internet access.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-05-29T21:57:35.106901+00:00"
+        "consensus_timestamp": "2026-05-30T03:37:33.310110+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-05-29T21:57:35.106903+00:00"
+        "timestamp": "2026-05-30T03:37:33.310113+00:00"
       },
       "article_type": "article"
     }
