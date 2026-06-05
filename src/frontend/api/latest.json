@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T04:00:24.142686+00:00",
+  "generated_at": "2026-06-05T08:13:11.024207+00:00",
   "articles": [
     {
       "article_id": "632bda106d70ef0a20b087087f290a80",
@@ -12,12 +12,12 @@
       "author": "Jagmeet Singh",
       "content": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.86,
-        "confidence_mean": 0.95
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.108455+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.989600+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,20 +59,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.108458+00:00"
+        "timestamp": "2026-06-05T08:13:10.989602+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "60b75471620273ef0779c0c770209788",
-      "title": "Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2",
+      "article_id": "6199fbee6dc97def4863f1822cb5a8e2",
+      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2/",
-      "published_date": "2026-06-02T02:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+      "published_date": "2026-06-04T13:02:49+00:00",
       "category": "Industry",
-      "description": "As AI agents move from the digital world to the physical environment, they can readily use NVIDIA Jetson to accelerate real-world deployment with optimized...",
-      "author": "Peilun Tsai",
-      "content": "As AI agents move from the digital world to the physical environment, they can readily use NVIDIA Jetson to accelerate real-world deployment with optimized...",
+      "description": "Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete...",
+      "author": "Chris Alexiuk",
+      "content": "Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -106,22 +106,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.108822+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.989738+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.108825+00:00"
+        "timestamp": "2026-06-05T08:13:10.989740+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b37a55af3854cda66dd3671fad1a6eb4",
+      "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
+      "published_date": "2026-06-02T15:45:11+00:00",
+      "category": "Industry",
+      "description": "This post walks through how Baz built their Spec Review agent using Amazon Bedrock and Amazon Bedrock AgentCore. We'll cover the architecture decisions, implementation details, and the business outcomes they achieved by leveraging these AWS services to automate their code review process",
+      "author": "Itay Atas",
+      "content": "This post walks through how Baz built their Spec Review agent using Amazon Bedrock and Amazon Bedrock AgentCore. We'll cover the architecture decisions, implementation details, and the business outcomes they achieved by leveraging these AWS services to automate their code review process",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-05T08:13:10.987775+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-05T08:13:10.987778+00:00"
       },
       "article_type": "article"
     },
@@ -172,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.105579+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.911039+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,150 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.105582+00:00"
+        "timestamp": "2026-06-05T08:13:10.911041+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "37fa59ae953d80d8d9249913ccc23cb8",
-      "title": "Diverse reasoning traces teach LLMs to make better decisions",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/diverse-reasoning-traces-teach-llms-to-make-better-decisions",
-      "published_date": "2026-05-26T15:17:06+00:00",
-      "category": "Industry",
-      "description": "How to train language models to generate diverse, accurate reasoning paths using tokens that control distinct reasoning strategies.",
-      "author": "",
-      "content": "How to train language models to generate diverse, accurate reasoning paths using tokens that control distinct reasoning strategies.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.109868+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-05T04:00:24.109871+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "961bb1fef86256992a33b2175cabb819",
-      "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
+      "article_id": "170d9cef6775cc89c973148ccc9a287b",
+      "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/",
-      "published_date": "2026-06-03T20:14:16+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
+      "published_date": "2026-06-04T16:59:08+00:00",
       "category": "Industry",
-      "description": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category, automatically creates context-aware support cases, helps prevent duplicate cases when an unresolved case of the same alarm category is already active, and delivers contextualized notifications to AI SRE teams. We walk through the solution architecture and how you can deploy it in your...",
-      "author": "Sushovan Basak",
-      "content": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category, automatically creates context-aware support cases, helps prevent duplicate cases when an unresolved case of the same alarm category is already active, and delivers contextualized notifications to AI SRE teams. We walk through the solution architecture and how you can deploy it in your...",
+      "description": "Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.",
+      "author": "Dan Ferguson",
+      "content": "Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.885,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.106203+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-05T04:00:24.106206+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "57a51a4c86d36773e1fea77e6d0fc095",
-      "title": "Guidance: AI Research Resource",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/ai-research-resource",
-      "published_date": "2026-06-04T08:00:08+00:00",
-      "category": "Government",
-      "description": "The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to researchers, academia, and industry.",
-      "author": "",
-      "content": "The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to researchers, academia, and industry.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -355,34 +293,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.103901+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.911290+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.103905+00:00"
+        "timestamp": "2026-06-05T08:13:10.911293+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6d29710d7004701f5701c596f50eb8e9",
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/endava-frontiers",
-      "published_date": "2026-06-04T12:00:00+00:00",
+      "article_id": "7e7d7b4b8206e4ef07477a70b8875496",
+      "title": "Toncoin (TON) Price Prediction 2025, 2026, 2027-2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/toncoin-ton-price-prediction",
+      "published_date": "2026-06-04T14:20:41+00:00",
       "category": "Industry",
-      "description": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "author": "",
-      "content": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "description": "The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are saying that Toncoin (TON) could hit $26.17 by 2030. Feeling bullish about TON already? You can buy TON through Coinbase Wallet, Kraken, Gemini, and Paybis. In the cryptocurrency market, staying informed about trends is important for investors. With the Bitcoin (BTC) prices rising this year, investors are also looking for...",
+      "author": "Ishan Jain",
+      "content": "The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are saying that Toncoin (TON) could hit $26.17 by 2030. Feeling bullish about TON already? You can buy TON through Coinbase Wallet, Kraken, Gemini, and Paybis. In the cryptocurrency market, staying informed about trends is important for investors. With the Bitcoin (BTC) prices rising this year, investors are also looking for...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -416,22 +354,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
+        "score": 0.6,
+        "confidence": 0.7,
+        "recommendation": "REJECT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.104490+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.990819+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.56,
+        "combined_confidence": 0.62,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.104493+00:00"
+        "timestamp": "2026-06-05T08:13:10.990822+00:00"
       },
       "article_type": "article"
     },
@@ -482,7 +420,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.105048+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.910555+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,27 +431,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.105051+00:00"
+        "timestamp": "2026-06-05T08:13:10.910558+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5864d72f563ad1e5e161f0ec97a5b492",
-      "title": "AI Factories: The New Infrastructure of Intelligence",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
-      "published_date": "2026-05-27T16:00:36+00:00",
-      "category": "Industry",
-      "description": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.",
-      "author": "Jeremy Graybill",
-      "content": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.",
+      "article_id": "bd8fa5fed384ee20d880ab11b96ec593",
+      "title": "Transparency data: January 2026 OMR and premises in BDUK plans (England and Wales)",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/january-2026-omr-and-premises-in-bduk-plans-england-and-wales",
+      "published_date": "2026-06-04T08:30:08+00:00",
+      "category": "Government",
+      "description": "January 2026 Open Market Review (OMR) and premises in Building Digital UK (BDUK) plans (England and Wales)",
+      "author": "",
+      "content": "January 2026 Open Market Review (OMR) and premises in Building Digital UK (BDUK) plans (England and Wales)",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
+        "impact_score": 0.8,
+        "overall_score": 0.8550000000000001,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -544,7 +482,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.107607+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.909917+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,27 +493,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.107610+00:00"
+        "timestamp": "2026-06-05T08:13:10.909921+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6199fbee6dc97def4863f1822cb5a8e2",
-      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+      "article_id": "f2bf75bb26c4ead9e2a41794cca17726",
+      "title": "NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++, Compiler Autotuning, and Python Updates",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
-      "published_date": "2026-06-04T13:02:49+00:00",
+      "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/",
+      "published_date": "2026-05-26T21:39:17+00:00",
       "category": "Industry",
-      "description": "Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete...",
-      "author": "Chris Alexiuk",
-      "content": "Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete...",
+      "description": "NVIDIA CUDA 13.3 brings new capabilities and performance optimizations to developers across the CUDA ecosystem. The launch of NVIDIA CUDA Tile programming in...",
+      "author": "Jonathan Bentz",
+      "content": "NVIDIA CUDA 13.3 brings new capabilities and performance optimizations to developers across the CUDA ecosystem. The launch of NVIDIA CUDA Tile programming in...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -602,41 +540,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.108681+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.990419+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.108684+00:00"
+        "timestamp": "2026-06-05T08:13:10.990421+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "854947b3469baea9cf50914d16bd2e78",
-      "title": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/",
-      "published_date": "2026-06-02T16:59:00+00:00",
-      "category": "Industry",
-      "description": "Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for scalable, agentic applications. The post Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases appeared first on Microsoft Azure Blog.",
-      "author": "Arun Ulag",
-      "content": "Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for scalable, agentic applications. The post Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases appeared first on Microsoft Azure Blog.",
+      "article_id": "24c6ae13746282518669892f4da07c9f",
+      "title": "Plan to toughen protections for subsea internet cables amid heightened Russian activity",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/plan-to-toughen-protections-for-subsea-internet-cables-amid-heightened-russian-activity",
+      "published_date": "2026-05-29T12:48:45+00:00",
+      "category": "Government",
+      "description": "Government to propose tougher fines and prison sentences for those who damage subsea infrastructure essential for UK internet access.",
+      "author": "",
+      "content": "Government to propose tougher fines and prison sentences for those who damage subsea infrastructure essential for UK internet access.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -668,7 +606,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.105811+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.910308+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,26 +617,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.105814+00:00"
+        "timestamp": "2026-06-05T08:13:10.910310+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c2ed197b85742b40442c5d3907563466",
-      "title": "Proposals to update the Telecommunications Security Code of Practice 2022",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/consultations/proposals-to-update-the-telecommunications-security-code-of-practice-2022",
-      "published_date": "2026-06-01T15:15:02+00:00",
-      "category": "Government",
-      "description": "We sought views on proposals to update the Telecommunications Security Code of Practice 2022. The consultation was open to anyone, but we particularly wanted to hear from providers of public electronic communications networks and services.",
-      "author": "",
-      "content": "We sought views on proposals to update the Telecommunications Security Code of Practice 2022. The consultation was open to anyone, but we particularly wanted to hear from providers of public electronic communications networks and services.",
+      "article_id": "32439ac81a0ce0d58a84965b421a5da0",
+      "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/",
+      "published_date": "2026-06-01T21:54:16+00:00",
+      "category": "Industry",
+      "description": "In this post, we walk through how to use Amazon Quick Research to integrate biomedical data sources for rare cancer research. The walkthrough uses pediatric sarcoma as the research domain and draws on publicly available datasets from PubMed and other open biomedical repositories. It covers the end-to-end workflow: defining a research objective, configuring data sources, reviewing the AI-generated research plan, running the investigation, and iterating on results using the revision and...",
+      "author": "Anu Kaggadasapura Nagaraja",
+      "content": "In this post, we walk through how to use Amazon Quick Research to integrate biomedical data sources for rare cancer research. The walkthrough uses pediatric sarcoma as the research domain and draws on publicly available datasets from PubMed and other open biomedical repositories. It covers the end-to-end workflow: defining a research objective, configuring data sources, reviewing the AI-generated research plan, running the investigation, and iterating on results using the revision and...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.85,
-        "quality_score": 0.85,
-        "novelty_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8725,
+        "overall_score": 0.8350000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -730,7 +668,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.104191+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.987908+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,27 +679,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.104195+00:00"
+        "timestamp": "2026-06-05T08:13:10.987911+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4f32d43b1a5e279f355cf041a304cc91",
-      "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
-      "published_date": "2026-06-03T15:56:50+00:00",
+      "article_id": "7beee1862987801507baf6f806611a3b",
+      "title": "Deploy Self-Evolving Agents for Faster, More Secure Research with a Hermes Agent and NVIDIA NemoClaw",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/deploy-self-evolving-agents-for-faster-more-secure-research-with-a-hermes-agent-and-nvidia-nemoclaw/",
+      "published_date": "2026-06-02T16:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a small language model (SLM). The example uses Amazon SageMaker AI training jobs, so you can focus on training code instead of managing your own training infrastructure. You also learn how to evaluate tool-calling accuracy and compare a base model to several fine-tuned variants, so you can make data-driven decisions about model quality.",
-      "author": "Amin Dashti",
-      "content": "In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a small language model (SLM). The example uses Amazon SageMaker AI training jobs, so you can focus on training code instead of managing your own training infrastructure. You also learn how to evaluate tool-calling accuracy and compare a base model to several fine-tuned variants, so you can make data-driven decisions about model quality.",
+      "description": "AI agents are a powerful tool for synthesizing data to accelerate research, summarize information, and help teams make decisions faster. But combining internal...",
+      "author": "Sam Pastoriza",
+      "content": "AI agents are a powerful tool for synthesizing data to accelerate research, summarize information, and help teams make decisions faster. But combining internal...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.85,
         "quality_score": 0.85,
         "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8225000000000001,
-        "confidence_mean": 0.95
+        "impact_score": 0.92,
+        "overall_score": 0.8265000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -788,22 +726,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.106346+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.989820+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.106349+00:00"
+        "timestamp": "2026-06-05T08:13:10.989822+00:00"
       },
       "article_type": "article"
     },
@@ -854,7 +792,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.105388+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.910821+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,20 +803,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.105391+00:00"
+        "timestamp": "2026-06-05T08:13:10.910823+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "65917d702946cd4005b59767eb410502",
-      "title": "OpenAI’s Frontier Governance Framework",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "published_date": "2026-05-28T00:00:00+00:00",
+      "article_id": "980e0e87f88f73929d2fece6027116d1",
+      "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
+      "published_date": "2026-06-04T13:00:27+00:00",
       "category": "Industry",
-      "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "author": "",
-      "content": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "description": "June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive into fresh worlds, squad up in new playlists and discover “just one more run” favorites — all streaming from the cloud, no downloads […]",
+      "author": "GeForce NOW Community",
+      "content": "June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive into fresh worlds, squad up in new playlists and discover “just one more run” favorites — all streaming from the cloud, no downloads […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-05T08:13:10.988341+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-05T08:13:10.988343+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9ff3a9bdb70bc6c7eeec515a8f456d51",
+      "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+      "published_date": "2026-06-02T19:00:08+00:00",
+      "category": "Industry",
+      "description": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
+      "author": "Dave Salvator",
+      "content": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -913,21 +913,21 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-05T04:00:24.105670+00:00"
+        "consensus_timestamp": "2026-06-05T08:13:10.988511+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-05T04:00:24.105673+00:00"
+        "timestamp": "2026-06-05T08:13:10.988513+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 214.4901626110077,
+    "processing_time": 213.89475893974304,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 120,
+      "total_processed": 116,
       "candidates": {
-        "headlines": 12,
-        "articles": 108,
+        "headlines": 10,
+        "articles": 106,
         "research_papers": 0
       },
       "selected": {
