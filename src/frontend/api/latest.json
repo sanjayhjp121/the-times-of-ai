@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-07T17:22:55.148127+00:00",
+  "generated_at": "2026-06-07T21:18:59.496880+00:00",
   "articles": [
     {
-      "article_id": "470190e63604d697c0e83d109391f2f5",
-      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "article_id": "8c1460f0987d4519c5782b0e04c30f91",
+      "title": "OpenAI is still working on that ‘super app’",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-      "published_date": "2026-06-05T20:00:00+00:00",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "published_date": "2026-06-07T16:23:22+00:00",
       "category": "Industry",
-      "description": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-      "author": "TechCrunch Events",
-      "content": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+      "description": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "author": "Anthony Ha",
+      "content": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
+        "relevance_score": 0.8,
+        "quality_score": 0.7,
+        "novelty_score": 0.6,
         "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.745,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.9,
+        "score": 0.75,
+        "confidence": 0.7,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.120245+00:00"
+        "consensus_timestamp": "2026-06-07T21:18:59.471431+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.6499999999999999,
+        "combined_confidence": 0.62,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-07T21:18:59.471434+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "665f929a63dcc166827d1f33c87ce5ff",
+      "title": "Training Azerbaijani language models on Amazon SageMaker AI",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/",
+      "published_date": "2026-05-28T21:54:06+00:00",
+      "category": "Industry",
+      "description": "Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker AI for telecom use cases and a customer-facing chatbot. The challenge: adapting foundation models (FMs) to a morphologically rich language with limited training data and no existing blueprint for efficient LLM training in Azerbaijani. In a six-week collaboration, Azercell worked with the AWS Generative AI Innovation Center to establish a...",
+      "author": "Aleksei Iancheruk",
+      "content": "Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker AI for telecom use cases and a customer-facing chatbot. The challenge: adapting foundation models (FMs) to a morphologically rich language with limited training data and no existing blueprint for efficient LLM training in Azerbaijani. In a six-week collaboration, Azercell worked with the AWS Generative AI Innovation Center to establish a...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-07T21:18:59.470575+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-07T17:22:55.120248+00:00"
+        "timestamp": "2026-06-07T21:18:59.470578+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
       "article_id": "439cf6558e56082476c55b7e1b7519d6",
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.117218+00:00"
+        "consensus_timestamp": "2026-06-07T21:18:59.469167+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,131 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-07T17:22:55.117220+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c02e3d6dfe1f7066181270fdd05d3a02",
-      "title": "NIST Expands AI Consortium’s Scope, Calls for New Members",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members",
-      "published_date": "2026-05-29T12:00:00+00:00",
-      "category": "Government",
-      "description": "The consortium will focus on AI innovation and adoption, with six task groups concentrating on different aspects of AI measurement science and evaluation.",
-      "author": "Sarah Henderson",
-      "content": "The consortium will focus on AI innovation and adoption, with six task groups concentrating on different aspects of AI measurement science and evaluation.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.115481+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-07T17:22:55.115485+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "66f7c5fc68de4cd6194f98685f40aa23",
-      "title": "Research: Digital and Technologies Sector Statistics: Volume 1 - Financial Statistics",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/digital-and-technologies-sector-statistics-volume-1-financial-statistics",
-      "published_date": "2026-06-04T08:30:05+00:00",
-      "category": "Government",
-      "description": "Financial statistics about the Digital and Technologies sector",
-      "author": "",
-      "content": "Financial statistics about the Digital and Technologies sector",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.116261+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-07T17:22:55.116264+00:00"
+        "timestamp": "2026-06-07T21:18:59.469170+00:00"
       },
       "article_type": "article"
     },
@@ -262,9 +200,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "novelty_score": 0.75,
         "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
+        "overall_score": 0.865,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -293,21 +231,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.116757+00:00"
+        "consensus_timestamp": "2026-06-07T21:18:59.468706+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-07T17:22:55.116761+00:00"
+        "timestamp": "2026-06-07T21:18:59.468709+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "755537af69ec4b73756d362b95be98c4",
+      "title": "A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry",
+      "source": "azure_ai_blog",
+      "url": "https://devblogs.microsoft.com/foundry/build-2026-foundry-models/",
+      "published_date": "2026-06-02T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Microsoft Foundry helps teams move beyond model access to operate AI at scale—selecting, evaluating, optimizing, and governing models across the full lifecycle. The post A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry appeared first on Microsoft Azure Blog.",
+      "author": "Naomi Moneypenny",
+      "content": "Microsoft Foundry helps teams move beyond model access to operate AI at scale—selecting, evaluating, optimizing, and governing models across the full lifecycle. The post A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-07T21:18:59.469558+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-07T21:18:59.469561+00:00"
       },
       "article_type": "article"
     },
@@ -358,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.116539+00:00"
+        "consensus_timestamp": "2026-06-07T21:18:59.468519+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,7 +369,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-07T17:22:55.116542+00:00"
+        "timestamp": "2026-06-07T21:18:59.468524+00:00"
       },
       "article_type": "article"
     },
@@ -417,83 +417,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.119968+00:00"
+        "consensus_timestamp": "2026-06-07T21:18:59.471293+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-07T17:22:55.119971+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "593fcda683a65984b52a052a538209d1",
-      "title": "Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/",
-      "published_date": "2026-05-26T22:08:56+00:00",
-      "category": "Industry",
-      "description": "NVIDIA CompileIQ tackles one of the hardest problems in performance engineering: finding the compiler options that unlock the best performance for a specific...",
-      "author": "Aditya Srikanth",
-      "content": "NVIDIA CompileIQ tackles one of the hardest problems in performance engineering: finding the compiler options that unlock the best performance for a specific...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.96,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.121541+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.776,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-07T17:22:55.121543+00:00"
+        "timestamp": "2026-06-07T21:18:59.471296+00:00"
       },
       "article_type": "article"
     },
@@ -544,7 +482,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.117447+00:00"
+        "consensus_timestamp": "2026-06-07T21:18:59.469397+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,27 +493,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-07T17:22:55.117450+00:00"
+        "timestamp": "2026-06-07T21:18:59.469400+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6199fbee6dc97def4863f1822cb5a8e2",
-      "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
-      "published_date": "2026-06-04T13:02:49+00:00",
+      "article_id": "961bb1fef86256992a33b2175cabb819",
+      "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/",
+      "published_date": "2026-06-03T20:14:16+00:00",
       "category": "Industry",
-      "description": "Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete...",
-      "author": "Chris Alexiuk",
-      "content": "Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete...",
+      "description": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category, automatically creates context-aware support cases, helps prevent duplicate cases when an unresolved case of the same alarm category is already active, and delivers contextualized notifications to AI SRE teams. We walk through the solution architecture and how you can deploy it in your...",
+      "author": "Sushovan Basak",
+      "content": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category, automatically creates context-aware support cases, helps prevent duplicate cases when an unresolved case of the same alarm category is already active, and delivers contextualized notifications to AI SRE teams. We walk through the solution architecture and how you can deploy it in your...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.9
+        "quality_score": 0.85,
+        "novelty_score": 0.6,
+        "impact_score": 0.95,
+        "overall_score": 0.8225,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -602,84 +540,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.95,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.120808+00:00"
+        "consensus_timestamp": "2026-06-07T21:18:59.469694+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-07T17:22:55.120811+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "60b75471620273ef0779c0c770209788",
-      "title": "Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2/",
-      "published_date": "2026-06-02T02:00:00+00:00",
-      "category": "Industry",
-      "description": "As AI agents move from the digital world to the physical environment, they can readily use NVIDIA Jetson to accelerate real-world deployment with optimized...",
-      "author": "Peilun Tsai",
-      "content": "As AI agents move from the digital world to the physical environment, they can readily use NVIDIA Jetson to accelerate real-world deployment with optimized...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.120943+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-07T17:22:55.120946+00:00"
+        "timestamp": "2026-06-07T21:18:59.469697+00:00"
       },
       "article_type": "article"
     },
@@ -727,83 +603,21 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.115991+00:00"
+        "consensus_timestamp": "2026-06-07T21:18:59.467734+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-07T17:22:55.115999+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "961bb1fef86256992a33b2175cabb819",
-      "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/",
-      "published_date": "2026-06-03T20:14:16+00:00",
-      "category": "Industry",
-      "description": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category, automatically creates context-aware support cases, helps prevent duplicate cases when an unresolved case of the same alarm category is already active, and delivers contextualized notifications to AI SRE teams. We walk through the solution architecture and how you can deploy it in your...",
-      "author": "Sushovan Basak",
-      "content": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category, automatically creates context-aware support cases, helps prevent duplicate cases when an unresolved case of the same alarm category is already active, and delivers contextualized notifications to AI SRE teams. We walk through the solution architecture and how you can deploy it in your...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.6,
-        "impact_score": 0.9,
-        "overall_score": 0.8125000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.117743+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-07T17:22:55.117745+00:00"
+        "timestamp": "2026-06-07T21:18:59.467737+00:00"
       },
       "article_type": "article"
     },
@@ -851,21 +665,21 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.117038+00:00"
+        "consensus_timestamp": "2026-06-07T21:18:59.468983+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-07T17:22:55.117041+00:00"
+        "timestamp": "2026-06-07T21:18:59.468986+00:00"
       },
       "article_type": "article"
     },
@@ -916,7 +730,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-07T17:22:55.117310+00:00"
+        "consensus_timestamp": "2026-06-07T21:18:59.469259+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +741,193 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-07T17:22:55.117312+00:00"
+        "timestamp": "2026-06-07T21:18:59.469262+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "9ff3a9bdb70bc6c7eeec515a8f456d51",
+      "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+      "published_date": "2026-06-02T19:00:08+00:00",
+      "category": "Industry",
+      "description": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
+      "author": "Dave Salvator",
+      "content": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-07T21:18:59.470884+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-07T21:18:59.470888+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c03180d2245f9883bd04a1325349988f",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "published_date": "2026-06-05T13:03:10+00:00",
+      "category": "Industry",
+      "description": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "author": "Jagmeet Singh",
+      "content": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-07T21:18:59.471889+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-07T21:18:59.471892+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b6e413710f4f60ffa0e92e4f31f7566d",
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "published_date": "2026-06-04T21:30:00+00:00",
+      "category": "Industry",
+      "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+      "author": "TechCrunch Events",
+      "content": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-07T21:18:59.472117+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-07T21:18:59.472120+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 188.06293082237244,
+    "processing_time": 188.46710753440857,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 107,
+      "total_processed": 103,
       "candidates": {
-        "headlines": 4,
-        "articles": 103,
+        "headlines": 2,
+        "articles": 101,
         "research_papers": 0
       },
       "selected": {
