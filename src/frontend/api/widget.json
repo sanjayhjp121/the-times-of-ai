@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-10T22:09:14.774632+00:00",
+  "updated": "2026-06-11T04:11:09.640639+00:00",
   "top_stories": [
     {
-      "article_id": "62209ad2af2e036406f0058d1a526634",
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "article_id": "bd98ff7938d162b7eccc59c9ed040c76",
+      "title": "How memory tools can make AI models worse",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "published_date": "2026-06-10T17:07:35+00:00",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "published_date": "2026-06-10T16:11:08+00:00",
       "category": "Industry",
-      "description": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "author": "Rebecca Bellan",
-      "content": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+      "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "author": "Russell Brandom",
+      "content": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -44,35 +44,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.8,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-10T22:09:14.734804+00:00"
+        "consensus_timestamp": "2026-06-11T04:11:09.600055+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-10T22:09:14.734806+00:00"
+        "timestamp": "2026-06-11T04:11:09.600057+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "6c84eaeba137d0c9adf4b536f7c0a49b",
-      "title": "Better decisions at scale: How mathematical optimization delivers where intuition fails",
+      "article_id": "241eea4bc2f34e4d607c15beedc630c1",
+      "title": "Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/",
-      "published_date": "2026-06-08T16:31:17+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/",
+      "published_date": "2026-06-08T16:40:34+00:00",
       "category": "Industry",
-      "description": "In this post, we introduce mathematical optimization, explain how it fits within the broader AI landscape, and showcase real-world success stories where the Innovation Center has partnered with customers to deliver concrete results.",
-      "author": "Sri Elaprolu",
-      "content": "In this post, we introduce mathematical optimization, explain how it fits within the broader AI landscape, and showcase real-world success stories where the Innovation Center has partnered with customers to deliver concrete results.",
+      "description": "With access to the latest generative AI models and high-performance accelerated compute in high global demand, AWS customers need tools to take advantage of model availability and capacity across multiple AWS Regions, while still meeting their security and privacy requirements. cross-Region Inference (CRIS) on Amazon Bedrock meets these needs by automatically routing requests across multiple […]",
+      "author": "Hamza Usmani",
+      "content": "With access to the latest generative AI models and high-performance accelerated compute in high global demand, AWS customers need tools to take advantage of model availability and capacity across multiple AWS Regions, while still meeting their security and privacy requirements. cross-Region Inference (CRIS) on Amazon Bedrock meets these needs by automatically routing requests across multiple […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -107,10 +107,134 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-11T04:11:09.598451+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-11T04:11:09.598453+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6f88bb0a961ad7649e8901d76ae2fb30",
+      "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
+      "published_date": "2026-06-09T16:35:08+00:00",
+      "category": "Industry",
+      "description": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a...",
+      "author": "Holger Roth",
+      "content": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-11T04:11:09.600981+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-11T04:11:09.600983+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f4b0e982e8ad862c5babc3aefd839baa",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "published_date": "2026-06-10T12:00:00+00:00",
+      "category": "Industry",
+      "description": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "author": "",
+      "content": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-10T22:09:14.733377+00:00"
+        "consensus_timestamp": "2026-06-11T04:11:09.596998+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,20 +245,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-10T22:09:14.733379+00:00"
+        "timestamp": "2026-06-11T04:11:09.597000+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "06bc9758ba765c0e256defd4228e5960",
-      "title": "Research: Quantum key distribution research report",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/quantum-key-distribution-research-report",
-      "published_date": "2026-06-10T11:30:06+00:00",
+      "article_id": "c47bd24a095f74be8f96e5d6aa0a1ae7",
+      "title": "New AI Model Shows How to Evacuate for Fires One Safe Step at a Time",
+      "source": "nist_ai_news",
+      "url": "https://www.nist.gov/news-events/news/2026/06/new-ai-model-shows-how-evacuate-fires-one-safe-step-time",
+      "published_date": "2026-06-04T12:00:00+00:00",
       "category": "Government",
-      "description": "A study on quantum key distribution (QKD) technology and its cyber security implications.",
-      "author": "",
-      "content": "A study on quantum key distribution (QKD) technology and its cyber security implications.",
+      "description": "A NIST-led team has created a new AI model that can identify safe evacuation routes in a single-story floor plan during a fire, with a multilevel version in the works.",
+      "author": "Sarah Henderson",
+      "content": "A NIST-led team has created a new AI model that can identify safe evacuation routes in a single-story floor plan during a fire, with a multilevel version in the works.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -169,145 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-10T22:09:14.731522+00:00"
+        "consensus_timestamp": "2026-06-11T04:11:09.595654+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-10T22:09:14.731525+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "92427b0e8b41b4a811f2c98d21517f28",
-      "title": "Real-world grounding in agentic AI",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/real-world-grounding-in-agentic-ai",
-      "published_date": "2026-06-08T19:00:00+00:00",
-      "category": "Industry",
-      "description": "Four approaches can dramatically improve the performance and trustworthiness of AI agents in operational environments.",
-      "author": "",
-      "content": "Four approaches can dramatically improve the performance and trustworthiness of AI agents in operational environments.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-10T22:09:14.736723+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-10T22:09:14.736726+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "84dbbc5772bff4d18d39c5d3caa2f5c2",
-      "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/",
-      "published_date": "2026-06-03T16:26:35+00:00",
-      "category": "Industry",
-      "description": "In this post, we look at how to use SOCI on publicly available Deep Learning AMIs and Containers, when to use the various SOCI modes provided by the tool, and how to quickly and efficiently use this tool in your workloads today.",
-      "author": "Ohad Katz",
-      "content": "In this post, we look at how to use SOCI on publicly available Deep Learning AMIs and Containers, when to use the various SOCI modes provided by the tool, and how to quickly and efficiently use this tool in your workloads today.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-10T22:09:14.733639+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-10T22:09:14.733642+00:00"
+        "timestamp": "2026-06-11T04:11:09.595658+00:00"
       },
       "article_type": "article"
     }
