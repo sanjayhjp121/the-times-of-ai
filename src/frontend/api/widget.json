@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T17:26:43.383689+00:00",
+  "updated": "2026-06-14T21:19:15.331981+00:00",
   "top_stories": [
     {
       "article_id": "bad5a1e85df2080190214a6acce1869d",
@@ -44,22 +44,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.7,
-        "confidence": 0.7,
-        "recommendation": "CONDITIONAL",
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-14T17:26:43.347778+00:00"
+        "consensus_timestamp": "2026-06-14T21:19:15.295600+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.62,
-        "combined_confidence": 0.62,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-14T17:26:43.347781+00:00"
+        "timestamp": "2026-06-14T21:19:15.295604+00:00"
       },
       "article_type": "headline"
     },
@@ -76,9 +76,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.931,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-14T17:26:43.346379+00:00"
+        "consensus_timestamp": "2026-06-14T21:19:15.294166+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +121,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-14T17:26:43.346382+00:00"
+        "timestamp": "2026-06-14T21:19:15.294169+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b75b8878823071f43ec4ac70b1e44d48",
+      "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
+      "published_date": "2026-06-10T19:00:12+00:00",
+      "category": "Industry",
+      "description": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem […]",
+      "author": "Riccardo Mariani",
+      "content": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-14T21:19:15.294479+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-14T21:19:15.294481+00:00"
       },
       "article_type": "article"
     },
@@ -139,8 +201,8 @@
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -169,103 +231,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-14T17:26:43.347026+00:00"
+        "consensus_timestamp": "2026-06-14T21:19:15.294786+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-14T17:26:43.347029+00:00"
+        "timestamp": "2026-06-14T21:19:15.294789+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5825cc0ff024815ce4ab3181a732223d",
-      "title": "AI to speed up cancer diagnosis for millions of NHS patients",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/ai-to-speed-up-cancer-diagnosis-for-millions-of-nhs-patients",
-      "published_date": "2026-06-10T21:31:00+00:00",
-      "category": "Government",
-      "description": "Government invests in artificial intelligence (AI) technologies to modernise the NHS and reduce waiting times.",
+      "article_id": "c33d109366ff00826a63ea9460393ba1",
+      "title": "EC2&#8217;s formally verified &#8220;isolation engine&#8221; provides mathematical assurance of virtual-machine isolation",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
+      "published_date": "2026-06-10T15:00:00+00:00",
+      "category": "Industry",
+      "description": "Splitting the “separation kernel” off from the rest of the Nitro security system and using only a subset of the Rust programming language to code it enabled its formal verification.",
       "author": "",
-      "content": "Government invests in artificial intelligence (AI) technologies to modernise the NHS and reduce waiting times.",
+      "content": "Splitting the “separation kernel” off from the rest of the Nitro security system and using only a subset of the Rust programming language to code it enabled its formal verification.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.891,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-14T17:26:43.343980+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-14T17:26:43.343983+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fc0e64596ca106677d3c97b3b791d831",
-      "title": "Biodefense in the Intelligence Age",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "published_date": "2026-06-04T00:00:00+00:00",
-      "category": "Industry",
-      "description": "An action plan for AI-powered biological resilience",
-      "author": "",
-      "content": "An action plan for AI-powered biological resilience",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.9,
+        "score": 0.95,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-14T17:26:43.345168+00:00"
+        "consensus_timestamp": "2026-06-14T21:19:15.297216+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-14T17:26:43.345171+00:00"
+        "timestamp": "2026-06-14T21:19:15.297220+00:00"
       },
       "article_type": "article"
     }
