@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-14T14:10:19.372712+00:00",
+  "updated": "2026-06-14T17:26:43.383689+00:00",
   "top_stories": [
     {
-      "article_id": "d63df1b65216da94ff1c9a7be4f178b2",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "article_id": "bad5a1e85df2080190214a6acce1869d",
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "published_date": "2026-06-14T00:03:49+00:00",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "published_date": "2026-06-12T23:00:54+00:00",
       "category": "Industry",
-      "description": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-      "author": "Kate Park",
-      "content": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "description": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "author": "Connie Loizos",
+      "content": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -44,41 +44,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
+        "score": 0.7,
+        "confidence": 0.7,
+        "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-14T14:10:19.344483+00:00"
+        "consensus_timestamp": "2026-06-14T17:26:43.347778+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.62,
+        "combined_confidence": 0.62,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-14T14:10:19.344485+00:00"
+        "timestamp": "2026-06-14T17:26:43.347781+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "178953c7a3de4352c1b27633e13cb9e3",
-      "title": "How frontier teams are reinventing AI-native development",
+      "article_id": "c1c76a4022a988e00f11002dda4e2cc7",
+      "title": "It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/",
-      "published_date": "2026-06-11T00:54:42+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/",
+      "published_date": "2026-06-08T16:35:02+00:00",
       "category": "Industry",
-      "description": "Frontier teams are not just using AI to code faster. They’re redesigning how software gets built. The result is 4.5x productivity gains, in some cases more than 10x.",
-      "author": "Swami Sivasubramanian",
-      "content": "Frontier teams are not just using AI to code faster. They’re redesigning how software gets built. The result is 4.5x productivity gains, in some cases more than 10x.",
+      "description": "Amazon Bedrock AgentCore Runtime gives each agent session its own isolated microVM with a persistent workspace, secure tool access through Gateway, and built-in observability—so you can run Claude Code, Codex, Kiro, and Cursor in parallel without sharing secrets, ports, or filesystems. Close the lid, go to dinner, and pick up where you left off tomorrow.",
+      "author": "Evandro Franco",
+      "content": "Amazon Bedrock AgentCore Runtime gives each agent session its own isolated microVM with a persistent workspace, secure tool access through Gateway, and built-in observability—so you can run Claude Code, Codex, Kiro, and Cursor in parallel without sharing secrets, ports, or filesystems. Close the lid, go to dinner, and pick up where you left off tomorrow.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.95,
-        "overall_score": 0.9125000000000001,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-14T17:26:43.346379+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-14T17:26:43.346382+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "980e0e87f88f73929d2fece6027116d1",
+      "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
+      "published_date": "2026-06-04T13:00:27+00:00",
+      "category": "Industry",
+      "description": "June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive into fresh worlds, squad up in new playlists and discover “just one more run” favorites — all streaming from the cloud, no downloads […]",
+      "author": "GeForce NOW Community",
+      "content": "June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive into fresh worlds, squad up in new playlists and discover “just one more run” favorites — all streaming from the cloud, no downloads […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-14T14:10:19.343499+00:00"
+        "consensus_timestamp": "2026-06-14T17:26:43.347026+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,151 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-14T14:10:19.343501+00:00"
+        "timestamp": "2026-06-14T17:26:43.347029+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6c84eaeba137d0c9adf4b536f7c0a49b",
-      "title": "Better decisions at scale: How mathematical optimization delivers where intuition fails",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/",
-      "published_date": "2026-06-08T16:31:17+00:00",
-      "category": "Industry",
-      "description": "In this post, we introduce mathematical optimization, explain how it fits within the broader AI landscape, and showcase real-world success stories where the Innovation Center has partnered with customers to deliver concrete results.",
-      "author": "Sri Elaprolu",
-      "content": "In this post, we introduce mathematical optimization, explain how it fits within the broader AI landscape, and showcase real-world success stories where the Innovation Center has partnered with customers to deliver concrete results.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-14T14:10:19.343799+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-14T14:10:19.343801+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8122ce7622624beeb03b771c466090cf",
-      "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
-      "published_date": "2026-06-03T15:00:35+00:00",
-      "category": "Industry",
-      "description": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — reconstructing real-world scenes, generating edge-case scenarios, training policies, evaluating […]",
-      "author": "Pranjali Joshi",
-      "content": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — reconstructing real-world scenes, generating edge-case scenarios, training policies, evaluating […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-14T14:10:19.344270+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-14T14:10:19.344272+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c2c9e0f026164b83ec84650c9f8d79be",
-      "title": "DARPA invites first wave of Lift Challenge competitors",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/darpa-invites-first-wave-of-lift-challenge-competitors",
-      "published_date": "2026-06-08T14:51:15+00:00",
+      "article_id": "5825cc0ff024815ce4ab3181a732223d",
+      "title": "AI to speed up cancer diagnosis for millions of NHS patients",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/ai-to-speed-up-cancer-diagnosis-for-millions-of-nhs-patients",
+      "published_date": "2026-06-10T21:31:00+00:00",
       "category": "Government",
-      "description": "First tranche of teams have been invited to compete for $6.5M in prizes.",
-      "author": "outreach@darpa.mil",
-      "content": "First tranche of teams have been invited to compete for $6.5M in prizes.",
+      "description": "Government invests in artificial intelligence (AI) technologies to modernise the NHS and reduce waiting times.",
+      "author": "",
+      "content": "Government invests in artificial intelligence (AI) technologies to modernise the NHS and reduce waiting times.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.891,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +234,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-14T14:10:19.341618+00:00"
+        "consensus_timestamp": "2026-06-14T17:26:43.343980+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-14T14:10:19.341620+00:00"
+        "timestamp": "2026-06-14T17:26:43.343983+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fc0e64596ca106677d3c97b3b791d831",
+      "title": "Biodefense in the Intelligence Age",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "published_date": "2026-06-04T00:00:00+00:00",
+      "category": "Industry",
+      "description": "An action plan for AI-powered biological resilience",
+      "author": "",
+      "content": "An action plan for AI-powered biological resilience",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-14T17:26:43.345168+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-14T17:26:43.345171+00:00"
       },
       "article_type": "article"
     }
