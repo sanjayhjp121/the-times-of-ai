@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T22:18:49.182014+00:00",
+  "updated": "2026-06-17T04:20:15.262092+00:00",
   "top_stories": [
     {
       "article_id": "287071ad26f5f6aca61f8e5286b69e1b",
@@ -14,9 +14,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-16T22:18:49.135280+00:00"
+        "consensus_timestamp": "2026-06-17T04:20:15.217215+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-16T22:18:49.135284+00:00"
+        "timestamp": "2026-06-17T04:20:15.217218+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "c192883b4da446f39d1d3280ba19c667",
-      "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+      "article_id": "d4f16776af7d661106078074383c9fce",
+      "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
-      "published_date": "2026-06-16T15:00:36+00:00",
+      "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+      "published_date": "2026-06-09T22:34:27+00:00",
       "category": "Industry",
-      "description": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising. In […]",
-      "author": "Shruti Koparkar",
-      "content": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising. In […]",
+      "description": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]",
+      "author": "Avinash Ahuja",
+      "content": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-17T04:20:15.219611+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-17T04:20:15.219613+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2471ea4309136c111682ee447ce93c64",
+      "title": "DARPA celebrates 20 years of Young Faculty Awards, announces Director’s Fellows",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/darpa-celebrates-20-years-young-faculty-awards",
+      "published_date": "2026-06-11T15:01:44+00:00",
+      "category": "Government",
+      "description": "The YFA program has supported over 500 rising research stars from more than 60 institutions.",
+      "author": "outreach@darpa.mil",
+      "content": "The YFA program has supported over 500 rising research stars from more than 60 institutions.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-16T22:18:49.137411+00:00"
+        "consensus_timestamp": "2026-06-17T04:20:15.216984+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,26 +183,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-16T22:18:49.137414+00:00"
+        "timestamp": "2026-06-17T04:20:15.216988+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d35d0791e9ef9d44fb13ece874045c97",
-      "title": "Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/",
-      "published_date": "2026-06-16T08:18:58+00:00",
+      "article_id": "729895262a6d95507cbc4e13568e26a7",
+      "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+      "published_date": "2026-06-16T22:30:41+00:00",
       "category": "Industry",
-      "description": "We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a directory of markdown files with YAML frontmatter, where each concept needs only a type field. We cover the three design principles, the reference tools Google shipped, and how OKF differs from RAG. We include a working Python consumer and an interactive bundle explorer you can embed. The post Google Cloud Introduces Open Knowledge Format (OKF): A...",
-      "author": "Asif Razzaq",
-      "content": "We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a directory of markdown files with YAML frontmatter, where each concept needs only a type field. We cover the three design principles, the reference tools Google shipped, and how OKF differs from RAG. We include a working Python consumer and an interactive bundle explorer you can embed. The post Google Cloud Introduces Open Knowledge Format (OKF): A...",
+      "description": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
+      "author": "David Chu",
+      "content": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-16T22:18:49.139896+00:00"
+        "consensus_timestamp": "2026-06-17T04:20:15.219255+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-16T22:18:49.139898+00:00"
+        "timestamp": "2026-06-17T04:20:15.219257+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c2c9e0f026164b83ec84650c9f8d79be",
-      "title": "DARPA invites first wave of Lift Challenge competitors",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/darpa-invites-first-wave-of-lift-challenge-competitors",
-      "published_date": "2026-06-08T14:51:15+00:00",
+      "article_id": "36fc0e5aa58e287d942fa7dd0056b946",
+      "title": "Growing up in the online world: a national consultation",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/consultations/growing-up-in-the-online-world-a-national-consultation",
+      "published_date": "2026-06-15T09:07:45+00:00",
       "category": "Government",
-      "description": "First tranche of teams have been invited to compete for $6.5M in prizes.",
-      "author": "outreach@darpa.mil",
-      "content": "First tranche of teams have been invited to compete for $6.5M in prizes.",
+      "description": "We consulted on further measures to prepare children for the future in an age of rapid technological change. This includes potential age restrictions on social media and other services such as gaming sites and AI chatbots, restrictions on addictive design features and risky functionalities, and better support for parents and families.",
+      "author": "",
+      "content": "We consulted on further measures to prepare children for the future in an age of rapid technological change. This includes potential age restrictions on social media and other services such as gaming sites and AI chatbots, restrictions on addictive design features and risky functionalities, and better support for parents and families.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-16T22:18:49.135076+00:00"
+        "consensus_timestamp": "2026-06-17T04:20:15.217455+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-16T22:18:49.135080+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "6b6f069066eb1021e9e0138039dd3af6",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/nextdoor",
-      "published_date": "2026-06-09T12:00:00+00:00",
-      "category": "Industry",
-      "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "author": "",
-      "content": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-16T22:18:49.136281+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-16T22:18:49.136283+00:00"
+        "timestamp": "2026-06-17T04:20:15.217458+00:00"
       },
       "article_type": "article"
     }
