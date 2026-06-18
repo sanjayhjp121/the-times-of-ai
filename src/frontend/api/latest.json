@@ -1,22 +1,84 @@
 {
-  "generated_at": "2026-06-18T15:33:18.798371+00:00",
+  "generated_at": "2026-06-18T18:32:18.400540+00:00",
   "articles": [
     {
-      "article_id": "88bd3a106838d6eb31d57bbe83eae9c6",
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+      "article_id": "ff846557224976c087076949f31ef0be",
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-      "published_date": "2026-06-18T15:13:21+00:00",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "published_date": "2026-06-18T17:49:23+00:00",
       "category": "Industry",
-      "description": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-      "author": "Rebecca Bellan",
-      "content": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+      "description": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+      "author": "Tim De Chant",
+      "content": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-18T18:32:18.365292+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-18T18:32:18.365295+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "92d9563cf1ec00e11461c86a8557358a",
+      "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
+      "published_date": "2026-06-11T19:40:33+00:00",
+      "category": "Industry",
+      "description": "This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bedrock to enable the flexibility on the document processing time and cost.",
+      "author": "Tim Shear",
+      "content": "This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bedrock to enable the flexibility on the document processing time and cost.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.761137+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.364175+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +121,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.761140+00:00"
+        "timestamp": "2026-06-18T18:32:18.364178+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "68dd85c93efc8b1d71148302d92f9cee",
-      "title": "The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache",
+      "article_id": "6f15a56c689a18064fe30fc5b7df64e5",
+      "title": "NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports",
       "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/06/18/the-kv-cache-compression-race-turboquant-vs-oscar-vs-epicache/",
-      "published_date": "2026-06-18T09:14:31+00:00",
+      "url": "https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/",
+      "published_date": "2026-06-18T01:35:19+00:00",
       "category": "Industry",
-      "description": "The KV cache now outweighs model weights at long context. Here's how TurboQuant, OSCAR, and EpiCache each attack that memory bottleneck — and why they're more complementary than competitive. The post The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache appeared first on MarkTechPost.",
-      "author": "Arnav Rai",
-      "content": "The KV cache now outweighs model weights at long context. Here's how TurboQuant, OSCAR, and EpiCache each attack that memory bottleneck — and why they're more complementary than competitive. The post The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache appeared first on MarkTechPost.",
+      "description": "In this tutorial, we use NVIDIA SkillSpector to evaluate AI skills for security risks before deployment. We build a corpus of benign and deliberately vulnerable skills, then scan them through SkillSpector's programmatic LangGraph workflow. We organize the risk scores and findings with pandas, then visualize severity and category distributions. We export results in SARIF format, register a custom analyzer, and optionally apply an LLM-based semantic pass. The post NVIDIA SkillSpector Guide:...",
+      "author": "Sana Hassan",
+      "content": "In this tutorial, we use NVIDIA SkillSpector to evaluate AI skills for security risks before deployment. We build a corpus of benign and deliberately vulnerable skills, then scan them through SkillSpector's programmatic LangGraph workflow. We organize the risk scores and findings with pandas, then visualize severity and category distributions. We export results in SARIF format, register a custom analyzer, and optionally apply an LLM-based semantic pass. The post NVIDIA SkillSpector Guide:...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-18T18:32:18.367669+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-18T18:32:18.367672+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "790be3b70581202ebb9c65af657749c4",
+      "title": "Investing in multi-agent AI safety research",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "published_date": "2026-06-10T10:21:19+00:00",
+      "category": "Industry",
+      "description": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "author": "",
+      "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.95,
+        "impact_score": 0.9,
+        "overall_score": 0.8975000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +234,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.763177+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.367066+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,88 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.763180+00:00"
+        "timestamp": "2026-06-18T18:32:18.367068+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "097fe51538715e4a51cdf99a0b18e685",
-      "title": "Evaluate AI agents systematically with Agent-EvalKit",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
-      "published_date": "2026-06-11T15:49:47+00:00",
-      "category": "Industry",
-      "description": "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Claude Code, Kiro CLI, and Kilo Code. This post walks through how Agent-EvalKit works across its six evaluation phases, using a travel research agent built with the Strands Agents SDK and Amazon Bedrock as a running example.",
-      "author": "Ishan Singh",
-      "content": "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Claude Code, Kiro CLI, and Kilo Code. This post walks through how Agent-EvalKit works across its six evaluation phases, using a travel research agent built with the Strands Agents SDK and Amazon Bedrock as a running example.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.760309+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-18T15:33:18.760311+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "aaf728155785e0275d8a6ef758f32a62",
-      "title": "Official Statistics: UK Business Data Survey 2026",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/statistics/uk-business-data-survey-2026",
-      "published_date": "2026-06-18T08:30:03+00:00",
+      "article_id": "2471ea4309136c111682ee447ce93c64",
+      "title": "DARPA celebrates 20 years of Young Faculty Awards, announces Director’s Fellows",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/darpa-celebrates-20-years-young-faculty-awards",
+      "published_date": "2026-06-11T15:01:44+00:00",
       "category": "Government",
-      "description": "The UK Business Data Survey gathers evidence on the importance and awareness of digital data use for UK businesses. This is the 2025 to 2026 release.",
-      "author": "",
-      "content": "The UK Business Data Survey gathers evidence on the importance and awareness of digital data use for UK businesses. This is the 2025 to 2026 release.",
+      "description": "The YFA program has supported over 500 rising research stars from more than 60 institutions.",
+      "author": "outreach@darpa.mil",
+      "content": "The YFA program has supported over 500 rising research stars from more than 60 institutions.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -231,41 +293,41 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.758049+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.361499+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.758053+00:00"
+        "timestamp": "2026-06-18T18:32:18.361503+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6f88bb0a961ad7649e8901d76ae2fb30",
-      "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
-      "published_date": "2026-06-09T16:35:08+00:00",
-      "category": "Industry",
-      "description": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a...",
-      "author": "Holger Roth",
-      "content": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a...",
+      "article_id": "287071ad26f5f6aca61f8e5286b69e1b",
+      "title": "World’s first national framework for quantum standards to boost UK leadership and trade in groundbreaking future tech",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/worlds-first-national-network-for-quantum-standards-to-boost-uk-leadership-and-trade-in-groundbreaking-future-tech",
+      "published_date": "2026-06-16T08:30:00+00:00",
+      "category": "Government",
+      "description": "A new national network to coordinate standards for the quantum technologies that will revolutionise everything from medicine to banking and transport.",
+      "author": "",
+      "content": "A new national network to coordinate standards for the quantum technologies that will revolutionise everything from medicine to banking and transport.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -293,21 +355,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.762395+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.361986+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.762397+00:00"
+        "timestamp": "2026-06-18T18:32:18.361989+00:00"
       },
       "article_type": "article"
     },
@@ -354,22 +416,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.99,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.762012+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.366296+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.794,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.762014+00:00"
+        "timestamp": "2026-06-18T18:32:18.366300+00:00"
       },
       "article_type": "article"
     },
@@ -417,40 +479,102 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.762185+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.366484+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.762188+00:00"
+        "timestamp": "2026-06-18T18:32:18.366486+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a732c3a62b4d106819866584d35aa63f",
-      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-      "published_date": "2026-06-08T03:00:50+00:00",
+      "article_id": "92427b0e8b41b4a811f2c98d21517f28",
+      "title": "Real-world grounding in agentic AI",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/real-world-grounding-in-agentic-ai",
+      "published_date": "2026-06-08T19:00:00+00:00",
       "category": "Industry",
-      "description": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings […]",
-      "author": "Madison Huang",
-      "content": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings […]",
+      "description": "Four approaches can dramatically improve the performance and trustworthiness of AI agents in operational environments.",
+      "author": "",
+      "content": "Four approaches can dramatically improve the performance and trustworthiness of AI agents in operational environments.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-18T18:32:18.367293+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-18T18:32:18.367296+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e846a82745e90e585515869946875762",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "published_date": "2026-06-16T21:29:50+00:00",
+      "category": "Industry",
+      "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "author": "",
+      "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -482,7 +606,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.760925+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.366977+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,20 +617,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.760927+00:00"
+        "timestamp": "2026-06-18T18:32:18.366980+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6c0b64e80073eda4b5ce686bd093a294",
-      "title": "OpenAI to acquire Ona",
+      "article_id": "ea9b1e38f630c0a0e6afd19eef1156eb",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "source": "openai_blog",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "published_date": "2026-06-11T00:00:00+00:00",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "published_date": "2026-06-10T20:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "author": "",
-      "content": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "content": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-18T18:32:18.363168+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-18T18:32:18.363171+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5d2c2dd6ba747cf9c00d68139b1b2eea",
+      "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
+      "published_date": "2026-06-12T14:49:40+00:00",
+      "category": "Industry",
+      "description": "This post shows how to build a custom meeting prep and follow-up assistant using Amazon Quick and Cisco Webex MCP servers. From a single prompt, the agent finds an upcoming Webex meeting, reviews prior meeting summaries and transcripts, and pulls related Vidcast highlights and transcript context. It then searches Webex message threads for unresolved follow-ups and creates a concise prep brief. After the meeting, the same assistant can summarize the discussion and identify action items. It can...",
+      "author": "Ebbey Thomas",
+      "content": "This post shows how to build a custom meeting prep and follow-up assistant using Amazon Quick and Cisco Webex MCP servers. From a single prompt, the agent finds an upcoming Webex meeting, reviews prior meeting summaries and transcripts, and pulls related Vidcast highlights and transcript context. It then searches Webex message threads for unresolved follow-ups and creates a concise prep brief. After the meeting, the same assistant can summarize the discussion and identify action items. It can...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -544,7 +730,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.759089+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.364038+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,26 +741,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.759092+00:00"
+        "timestamp": "2026-06-18T18:32:18.364041+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "287071ad26f5f6aca61f8e5286b69e1b",
-      "title": "World’s first national framework for quantum standards to boost UK leadership and trade in groundbreaking future tech",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/news/worlds-first-national-network-for-quantum-standards-to-boost-uk-leadership-and-trade-in-groundbreaking-future-tech",
-      "published_date": "2026-06-16T08:30:00+00:00",
-      "category": "Government",
-      "description": "A new national network to coordinate standards for the quantum technologies that will revolutionise everything from medicine to banking and transport.",
-      "author": "",
-      "content": "A new national network to coordinate standards for the quantum technologies that will revolutionise everything from medicine to banking and transport.",
+      "article_id": "087b99c0fd17d0919b80b0b770c6db5d",
+      "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
+      "published_date": "2026-06-11T15:36:31+00:00",
+      "category": "Industry",
+      "description": "Today, we’re excited to announce two new capabilities that make Quick Sight dashboards even more expressive and business-aligned: sparklines and custom sort for controls. In this post, we walk through both features, what they are, when to use them, and how to configure them, with real-world scenarios that bring them together in a practical, decision-ready dashboard.",
+      "author": "Salim Khan",
+      "content": "Today, we’re excited to announce two new capabilities that make Quick Sight dashboards even more expressive and business-aligned: sparklines and custom sort for controls. In this post, we walk through both features, what they are, when to use them, and how to configure them, with real-world scenarios that bring them together in a practical, decision-ready dashboard.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.87,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -603,34 +789,96 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.758284+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.364267+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-18T18:32:18.364269+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2d3b7bc969ad0397785f3a37daddd70b",
+      "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech/",
+      "published_date": "2026-06-09T15:00:00+00:00",
+      "category": "Industry",
+      "description": "Training a speech AI model to correctly recognize or synthesize clinical terminology is surprisingly difficult. Drug names like Acetaminophen, Amlodipine,...",
+      "author": "John Jahanipour",
+      "content": "Training a speech AI model to correctly recognize or synthesize clinical terminology is surprisingly difficult. Drug names like Acetaminophen, Amlodipine,...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-18T18:32:18.366779+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.758287+00:00"
+        "timestamp": "2026-06-18T18:32:18.366782+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6b62445ed8e2e9ebb90d7f0ec0285486",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "article_id": "f8e36bd349524b74c274a9e6553b9688",
+      "title": "Predicting model behavior before release by simulating deployment",
       "source": "openai_blog",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "published_date": "2026-06-11T00:00:00+00:00",
+      "url": "https://openai.com/index/deployment-simulation",
+      "published_date": "2026-06-16T00:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "author": "",
-      "content": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "content": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -668,7 +916,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.758965+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.362795+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,255 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.758968+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "250cf524e9886e6e7f4b063e1b3953c2",
-      "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
-      "published_date": "2026-06-17T20:56:36+00:00",
-      "category": "Industry",
-      "description": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removing the need to upload input data to Amazon Simple Storage Service (Amazon S3) before each invocation.",
-      "author": "Dan Ferguson",
-      "content": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removing the need to upload input data to Amazon Simple Storage Service (Amazon S3) before each invocation.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.759593+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-18T15:33:18.759597+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "35d1d07bbfcba757f847add0632d7973",
-      "title": "When AI Leaves the Lab: Testing Frontier Models in Government Cyber Defence",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/case-studies/when-ai-leaves-the-lab-testing-frontier-models-in-government-cyber-defence",
-      "published_date": "2026-06-12T14:42:00+00:00",
-      "category": "Government",
-      "description": "The Government Cyber Action Plan aims to boost cyber resilience across the UK public sector by using emerging technologies to manage risk. The Government Cyber Coordination Centre (GC3) - a partnership between the NCSC and the Department for Science, Innovation and Technology - is leading this work, exploring how frontier AI can be applied safely to cyber defence across government.",
-      "author": "",
-      "content": "The Government Cyber Action Plan aims to boost cyber resilience across the UK public sector by using emerging technologies to manage risk. The Government Cyber Coordination Centre (GC3) - a partnership between the NCSC and the Department for Science, Innovation and Technology - is leading this work, exploring how frontier AI can be applied safely to cyber defence across government.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.758548+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-18T15:33:18.758681+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e846a82745e90e585515869946875762",
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "published_date": "2026-06-16T21:29:50+00:00",
-      "category": "Industry",
-      "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-      "author": "",
-      "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.762639+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-18T15:33:18.762642+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4b63b4c1443f74b6cb799f61b76846af",
-      "title": "Securing the future of AI agents",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "published_date": "2026-06-16T15:46:31+00:00",
-      "category": "Industry",
-      "description": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-      "author": "",
-      "content": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.85,
-        "overall_score": 0.8400000000000001,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.762702+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-18T15:33:18.762706+00:00"
+        "timestamp": "2026-06-18T18:32:18.362798+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 237.13419580459595,
+    "processing_time": 262.9468193054199,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 117,
+      "total_processed": 125,
       "candidates": {
         "headlines": 11,
-        "articles": 106,
+        "articles": 114,
         "research_papers": 0
       },
       "selected": {

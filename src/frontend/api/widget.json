@@ -1,22 +1,84 @@
 {
-  "updated": "2026-06-18T15:33:18.801432+00:00",
+  "updated": "2026-06-18T18:32:18.403295+00:00",
   "top_stories": [
     {
-      "article_id": "88bd3a106838d6eb31d57bbe83eae9c6",
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+      "article_id": "ff846557224976c087076949f31ef0be",
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-      "published_date": "2026-06-18T15:13:21+00:00",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "published_date": "2026-06-18T17:49:23+00:00",
       "category": "Industry",
-      "description": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-      "author": "Rebecca Bellan",
-      "content": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+      "description": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+      "author": "Tim De Chant",
+      "content": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-18T18:32:18.365292+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-18T18:32:18.365295+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "92d9563cf1ec00e11461c86a8557358a",
+      "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
+      "published_date": "2026-06-11T19:40:33+00:00",
+      "category": "Industry",
+      "description": "This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bedrock to enable the flexibility on the document processing time and cost.",
+      "author": "Tim Shear",
+      "content": "This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bedrock to enable the flexibility on the document processing time and cost.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.85,
         "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "overall_score": 0.9185000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.761137+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.364175+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +121,89 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.761140+00:00"
+        "timestamp": "2026-06-18T18:32:18.364178+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "68dd85c93efc8b1d71148302d92f9cee",
-      "title": "The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache",
+      "article_id": "6f15a56c689a18064fe30fc5b7df64e5",
+      "title": "NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports",
       "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/06/18/the-kv-cache-compression-race-turboquant-vs-oscar-vs-epicache/",
-      "published_date": "2026-06-18T09:14:31+00:00",
+      "url": "https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/",
+      "published_date": "2026-06-18T01:35:19+00:00",
       "category": "Industry",
-      "description": "The KV cache now outweighs model weights at long context. Here's how TurboQuant, OSCAR, and EpiCache each attack that memory bottleneck — and why they're more complementary than competitive. The post The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache appeared first on MarkTechPost.",
-      "author": "Arnav Rai",
-      "content": "The KV cache now outweighs model weights at long context. Here's how TurboQuant, OSCAR, and EpiCache each attack that memory bottleneck — and why they're more complementary than competitive. The post The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache appeared first on MarkTechPost.",
+      "description": "In this tutorial, we use NVIDIA SkillSpector to evaluate AI skills for security risks before deployment. We build a corpus of benign and deliberately vulnerable skills, then scan them through SkillSpector's programmatic LangGraph workflow. We organize the risk scores and findings with pandas, then visualize severity and category distributions. We export results in SARIF format, register a custom analyzer, and optionally apply an LLM-based semantic pass. The post NVIDIA SkillSpector Guide:...",
+      "author": "Sana Hassan",
+      "content": "In this tutorial, we use NVIDIA SkillSpector to evaluate AI skills for security risks before deployment. We build a corpus of benign and deliberately vulnerable skills, then scan them through SkillSpector's programmatic LangGraph workflow. We organize the risk scores and findings with pandas, then visualize severity and category distributions. We export results in SARIF format, register a custom analyzer, and optionally apply an LLM-based semantic pass. The post NVIDIA SkillSpector Guide:...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8975,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-18T18:32:18.367669+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-18T18:32:18.367672+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "790be3b70581202ebb9c65af657749c4",
+      "title": "Investing in multi-agent AI safety research",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "published_date": "2026-06-10T10:21:19+00:00",
+      "category": "Industry",
+      "description": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "author": "",
+      "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.85,
+        "quality_score": 0.9,
+        "novelty_score": 0.95,
+        "impact_score": 0.9,
+        "overall_score": 0.8975000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +234,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.763177+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.367066+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,88 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.763180+00:00"
+        "timestamp": "2026-06-18T18:32:18.367068+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "097fe51538715e4a51cdf99a0b18e685",
-      "title": "Evaluate AI agents systematically with Agent-EvalKit",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
-      "published_date": "2026-06-11T15:49:47+00:00",
-      "category": "Industry",
-      "description": "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Claude Code, Kiro CLI, and Kilo Code. This post walks through how Agent-EvalKit works across its six evaluation phases, using a travel research agent built with the Strands Agents SDK and Amazon Bedrock as a running example.",
-      "author": "Ishan Singh",
-      "content": "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Claude Code, Kiro CLI, and Kilo Code. This post walks through how Agent-EvalKit works across its six evaluation phases, using a travel research agent built with the Strands Agents SDK and Amazon Bedrock as a running example.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.760309+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-18T15:33:18.760311+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "aaf728155785e0275d8a6ef758f32a62",
-      "title": "Official Statistics: UK Business Data Survey 2026",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/statistics/uk-business-data-survey-2026",
-      "published_date": "2026-06-18T08:30:03+00:00",
+      "article_id": "2471ea4309136c111682ee447ce93c64",
+      "title": "DARPA celebrates 20 years of Young Faculty Awards, announces Director’s Fellows",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/darpa-celebrates-20-years-young-faculty-awards",
+      "published_date": "2026-06-11T15:01:44+00:00",
       "category": "Government",
-      "description": "The UK Business Data Survey gathers evidence on the importance and awareness of digital data use for UK businesses. This is the 2025 to 2026 release.",
-      "author": "",
-      "content": "The UK Business Data Survey gathers evidence on the importance and awareness of digital data use for UK businesses. This is the 2025 to 2026 release.",
+      "description": "The YFA program has supported over 500 rising research stars from more than 60 institutions.",
+      "author": "outreach@darpa.mil",
+      "content": "The YFA program has supported over 500 rising research stars from more than 60 institutions.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -231,83 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.758049+00:00"
+        "consensus_timestamp": "2026-06-18T18:32:18.361499+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-18T15:33:18.758053+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "6f88bb0a961ad7649e8901d76ae2fb30",
-      "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
-      "published_date": "2026-06-09T16:35:08+00:00",
-      "category": "Industry",
-      "description": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a...",
-      "author": "Holger Roth",
-      "content": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-18T15:33:18.762395+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-18T15:33:18.762397+00:00"
+        "timestamp": "2026-06-18T18:32:18.361503+00:00"
       },
       "article_type": "article"
     }
