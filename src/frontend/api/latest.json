@@ -1,22 +1,394 @@
 {
-  "generated_at": "2026-06-22T04:27:28.253249+00:00",
+  "generated_at": "2026-06-22T13:47:28.430804+00:00",
   "articles": [
     {
-      "article_id": "053a9a52e47ed479f5d703a63dce75d1",
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "published_date": "2026-06-20T20:32:29+00:00",
+      "article_id": "da75228adacf2212994291da0c1ec32f",
+      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
+      "published_date": "2026-06-16T15:11:13+00:00",
       "category": "Industry",
-      "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-      "author": "Anthony Ha",
-      "content": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "description": "NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium....",
+      "author": "Farshad Ghodsian",
+      "content": "NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium....",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T13:47:28.405757+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T13:47:28.405760+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "91a2310e567b308a2b21558f46e8e37f",
+      "title": "Introducing LifeSciBench",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "published_date": "2026-06-17T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "author": "",
+      "content": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.89,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T13:47:28.402339+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T13:47:28.402342+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ac39faa489d1b9ff126e713a25d8b82e",
+      "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/",
+      "published_date": "2026-06-09T18:27:52+00:00",
+      "category": "Industry",
+      "description": "Converting a quantized checkpoint into an NVIDIA TensorRT engine bridges the gap between model optimization and production deployment, enabling faster...",
+      "author": "Ruixiang Wang",
+      "content": "Converting a quantized checkpoint into an NVIDIA TensorRT engine bridges the gap between model optimization and production deployment, enabling faster...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.99,
+        "overall_score": 0.8955,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.99,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T13:47:28.406214+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.794,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T13:47:28.406217+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "287071ad26f5f6aca61f8e5286b69e1b",
+      "title": "World’s first national framework for quantum standards to boost UK leadership and trade in groundbreaking future tech",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/worlds-first-national-network-for-quantum-standards-to-boost-uk-leadership-and-trade-in-groundbreaking-future-tech",
+      "published_date": "2026-06-16T08:30:00+00:00",
+      "category": "Government",
+      "description": "A new national network to coordinate standards for the quantum technologies that will revolutionise everything from medicine to banking and transport.",
+      "author": "",
+      "content": "A new national network to coordinate standards for the quantum technologies that will revolutionise everything from medicine to banking and transport.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T13:47:28.401873+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T13:47:28.401876+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "250cf524e9886e6e7f4b063e1b3953c2",
+      "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
+      "published_date": "2026-06-17T20:56:36+00:00",
+      "category": "Industry",
+      "description": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removing the need to upload input data to Amazon Simple Storage Service (Amazon S3) before each invocation.",
+      "author": "Dan Ferguson",
+      "content": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removing the need to upload input data to Amazon Simple Storage Service (Amazon S3) before each invocation.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T13:47:28.403437+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T13:47:28.403440+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fbd10d1642d0ded6697ca1296d07422e",
+      "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/",
+      "published_date": "2026-06-17T15:29:36+00:00",
+      "category": "Industry",
+      "description": "Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in production; and enforcing controls that scale as agents grow more capable. Together, they help you build more capable agents faster, govern them with controls that scale, and improve them continuously.",
+      "author": "Madhu Parthasarathy",
+      "content": "Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in production; and enforcing controls that scale as agents grow more capable. Together, they help you build more capable agents faster, govern them with controls that scale, and improve them continuously.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T13:47:28.403580+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T13:47:28.403583+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2e035d256cc7aa715a3181cf28f653f3",
+      "title": "AI tool to slash planning decision times as government accelerates push to build 1.5 million homes",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/ai-tool-to-slash-planning-decision-times-as-government-accelerates-push-to-build-15-million-homes",
+      "published_date": "2026-06-16T21:30:00+00:00",
+      "category": "Government",
+      "description": "Millions of homeowners could benefit from faster planning decisions, as 2 new AI tools are unveiled to modernise England’s planning permission system.",
+      "author": "",
+      "content": "Millions of homeowners could benefit from faster planning decisions, as 2 new AI tools are unveiled to modernise England’s planning permission system.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
         "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8250000000000001,
+        "overall_score": 0.85,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +420,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.225975+00:00"
+        "consensus_timestamp": "2026-06-22T13:47:28.401776+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,212 +431,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-22T04:27:28.225978+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "02c4d55a6d120d00c430df2ade7018ed",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/bbva",
-      "published_date": "2026-06-11T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "author": "",
-      "content": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.224165+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-22T04:27:28.224172+00:00"
+        "timestamp": "2026-06-22T13:47:28.401779+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6f88bb0a961ad7649e8901d76ae2fb30",
-      "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
-      "published_date": "2026-06-09T16:35:08+00:00",
-      "category": "Industry",
-      "description": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a...",
-      "author": "Holger Roth",
-      "content": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.227218+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-22T04:27:28.227220+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "74bee9967f198e6030b48c8d956bceff",
-      "title": "Research: Shaping Tomorrow: the UK's Digital Standards Strategy (2026 to 2030)",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/shaping-tomorrow-the-uks-digital-standards-strategy-2026-to-2030",
-      "published_date": "2026-06-17T16:30:01+00:00",
+      "article_id": "2471ea4309136c111682ee447ce93c64",
+      "title": "DARPA celebrates 20 years of Young Faculty Awards, announces Director’s Fellows",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/darpa-celebrates-20-years-young-faculty-awards",
+      "published_date": "2026-06-11T15:01:44+00:00",
       "category": "Government",
-      "description": "The Digital Standards Strategy sets out how the UK will lead on standards for AI, cybersecurity, quantum and advanced connectivity.",
-      "author": "",
-      "content": "The Digital Standards Strategy sets out how the UK will lead on standards for AI, cybersecurity, quantum and advanced connectivity.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.223008+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-22T04:27:28.223011+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a6b99f4ffa34cd0602f781fb652f8aee",
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "published_date": "2026-06-19T00:51:11+00:00",
-      "category": "Industry",
-      "description": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "author": "Marina Temkin",
-      "content": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "description": "The YFA program has supported over 500 rising research stars from more than 60 institutions.",
+      "author": "outreach@darpa.mil",
+      "content": "The YFA program has supported over 500 rising research stars from more than 60 institutions.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -292,73 +478,11 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.226388+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-22T04:27:28.226390+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e547b071779760c2681fea966558e86b",
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "published_date": "2026-06-18T19:59:22+00:00",
-      "category": "Industry",
-      "description": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-      "author": "Rebecca Bellan",
-      "content": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
         "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.226528+00:00"
+        "consensus_timestamp": "2026-06-22T13:47:28.401251+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,255 +493,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-22T04:27:28.226531+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f15abaab0f575fc587b64935020ba919",
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "source": "deepmind_research",
-      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "published_date": "2026-06-09T15:16:25+00:00",
-      "category": "Industry",
-      "description": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-      "author": "",
-      "content": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.227598+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-22T04:27:28.227601+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "61723eb70bfda818621616ed67bfa525",
-      "title": "Get back hours every day with autonomous agents in Amazon Quick",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
-      "published_date": "2026-06-17T20:35:39+00:00",
-      "category": "Industry",
-      "description": "Today, Quick gets even more powerful: new autonomous agents that work continuously on your behalf, an activity feed that helps you prioritize your most important work, and the ability to find insights across every data source your business runs on from a single question.",
-      "author": "Spencer Martenson",
-      "content": "Today, Quick gets even more powerful: new autonomous agents that work continuously on your behalf, an activity feed that helps you prioritize your most important work, and the ability to find insights across every data source your business runs on from a single question.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.224913+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-22T04:27:28.224917+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b75b8878823071f43ec4ac70b1e44d48",
-      "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
-      "published_date": "2026-06-10T19:00:12+00:00",
-      "category": "Industry",
-      "description": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem […]",
-      "author": "Riccardo Mariani",
-      "content": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.225718+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-22T04:27:28.225721+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "604c32c0b95d3a2e8af76cda98a54ad0",
-      "title": "From pixels to planning: Earth AI for nature restoration",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
-      "published_date": "2026-06-16T17:30:00+00:00",
-      "category": "Industry",
-      "description": "Climate & Sustainability",
-      "author": "",
-      "content": "Climate & Sustainability",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.227362+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-22T04:27:28.227364+00:00"
+        "timestamp": "2026-06-22T13:47:28.401255+00:00"
       },
       "article_type": "article"
     },
@@ -634,133 +510,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.223968+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-22T04:27:28.223974+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "efa78bec3c07687c96b3c087c30dd191",
-      "title": "Guidance: Online Safety Act: Draft amendments (No.2) to the Illegal content Codes of Practice",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/online-safety-act-draft-amendments-no2-to-the-illegal-content-codes-of-practice",
-      "published_date": "2026-06-18T10:09:38+00:00",
-      "category": "Government",
-      "description": "Draft of amendments prepared under section 41 of the Online Safety Act 2023 and submitted to the Secretary of State in accordance with section 43(1) on 12 June 2026.",
-      "author": "",
-      "content": "Draft of amendments prepared under section 41 of the Online Safety Act 2023 and submitted to the Secretary of State in accordance with section 43(1) on 12 June 2026.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8375,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.222881+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-22T04:27:28.222884+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "250f7e5398791d6c10658f214db9788a",
-      "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/",
-      "published_date": "2026-06-16T22:30:00+00:00",
-      "category": "Industry",
-      "description": "Developers building for AR glasses and wearable devices face an infrastructure gap. The hardware is ready, but creating AI experiences requires integrating live...",
-      "author": "Greg Barbone",
-      "content": "Developers building for AR glasses and wearable devices face an infrastructure gap. The hardware is ready, but creating AI experiences requires integrating live...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -789,38 +541,224 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.226768+00:00"
+        "consensus_timestamp": "2026-06-22T13:47:28.402709+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-22T04:27:28.226771+00:00"
+        "timestamp": "2026-06-22T13:47:28.402711+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "502432380128c8b08ef8e8dbebe4c858",
-      "title": "Graviton5&#8217;s improved design increases speed and energy efficiency &#8212; beyond Moore&#8217;s law",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/graviton5s-improved-design-increases-speed-and-energy-efficiency-beyond-moores-law",
-      "published_date": "2026-06-10T15:00:00+00:00",
+      "article_id": "13ffb97cf9380ba03bb43dec3fe281bd",
+      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "published_date": "2026-06-09T17:00:00+00:00",
       "category": "Industry",
-      "description": "A new chiplet architecture, custom die-to-die connectivity, and support for DDR5-8800 memory and the latest PCIe gen6 interconnects improve performance by 25% for general-purpose and agentic AI workloads.",
-      "author": "",
-      "content": "A new chiplet architecture, custom die-to-die connectivity, and support for DDR5-8800 memory and the latest PCIe gen6 interconnects improve performance by 25% for general-purpose and agentic AI workloads.",
+      "description": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog.",
+      "author": "The Microsoft Foundry Team",
+      "content": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.75,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T13:47:28.403202+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T13:47:28.403205+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "39253ac43c3970c2c910bdf9bf5d79ce",
+      "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/",
+      "published_date": "2026-06-08T18:18:06+00:00",
+      "category": "Industry",
+      "description": "Pre-training frontier LLMs comes down to throughput. When training spans trillions of tokens across thousands of accelerators, every percentage point of step...",
+      "author": "Max Xu",
+      "content": "Pre-training frontier LLMs comes down to throughput. When training spans trillions of tokens across thousands of accelerators, every percentage point of step...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T13:47:28.406309+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T13:47:28.406312+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e846a82745e90e585515869946875762",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "published_date": "2026-06-16T21:29:50+00:00",
+      "category": "Industry",
+      "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "author": "",
+      "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-22T13:47:28.406446+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-22T13:47:28.406449+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ac819c3f5c4d32595b8078b2d4cc43b6",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "published_date": "2026-06-18T08:00:00+00:00",
+      "category": "Industry",
+      "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "author": "",
+      "content": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
         "overall_score": 0.8474999999999999,
         "confidence_mean": 0.9
@@ -850,42 +788,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.92,
+        "score": 0.8,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.227734+00:00"
+        "consensus_timestamp": "2026-06-22T13:47:28.402245+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.752,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-22T04:27:28.227736+00:00"
+        "timestamp": "2026-06-22T13:47:28.402248+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f4b0e982e8ad862c5babc3aefd839baa",
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "article_id": "812d18546b6a04584e7a13116bfd1fb1",
+      "title": "Industrial policy for the Intelligence Age",
       "source": "openai_blog",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "published_date": "2026-06-10T12:00:00+00:00",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "published_date": "2026-06-09T00:00:00+00:00",
       "category": "Industry",
-      "description": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "description": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
       "author": "",
-      "content": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "content": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8225000000000001,
-        "confidence_mean": 0.85
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -913,29 +851,29 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-22T04:27:28.224270+00:00"
+        "consensus_timestamp": "2026-06-22T13:47:28.403027+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-22T04:27:28.224273+00:00"
+        "timestamp": "2026-06-22T13:47:28.403029+00:00"
       },
       "article_type": "article"
     }
   ],
-  "count": 15,
+  "count": 14,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 222.3094198703766,
+    "processing_time": 542.8885180950165,
     "components": [
       "collection",
       "bulk_scoring",
@@ -948,19 +886,19 @@
       "deep_intelligence_agents": 2
     },
     "content_breakdown": {
-      "headline": 1,
+      "headline": 0,
       "articles": 14,
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 110,
+      "total_processed": 111,
       "candidates": {
-        "headlines": 2,
-        "articles": 108,
+        "headlines": 0,
+        "articles": 111,
         "research_papers": 0
       },
       "selected": {
-        "headlines": 1,
+        "headlines": 0,
         "articles": 14,
         "research_papers": 0
       }
