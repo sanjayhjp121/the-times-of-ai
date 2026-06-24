@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-24T18:01:02.193099+00:00",
+  "generated_at": "2026-06-24T21:29:15.522839+00:00",
   "articles": [
     {
-      "article_id": "3a1de536fcf81d90bc50b6e8f2ec7689",
-      "title": "Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/",
-      "published_date": "2026-06-23T07:20:44+00:00",
+      "article_id": "5a56fc32bc9de07d561158a1943d2c6e",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "published_date": "2026-06-24T14:54:46+00:00",
       "category": "Industry",
-      "description": "Prime Intellect has released prime-rl 0.6.0, an open framework for asynchronous reinforcement learning on trillion-parameter Mixture-of-Experts models. It trained GLM-5 on SWE tasks at up to 131k sequence length, with sub-5-minute step times and 256 rollouts, on 28 H200 nodes. This breakdown covers the inference and training optimizations behind those numbers — FP8 inference, Wide Expert Parallelism, prefill/decode disaggregation, router replay, and 3-D parallelism (FSDP, EP, CP). The post...",
-      "author": "Asif Razzaq",
-      "content": "Prime Intellect has released prime-rl 0.6.0, an open framework for asynchronous reinforcement learning on trillion-parameter Mixture-of-Experts models. It trained GLM-5 on SWE tasks at up to 131k sequence length, with sub-5-minute step times and 256 rollouts, on 28 H200 nodes. This breakdown covers the inference and training optimizations behind those numbers — FP8 inference, Wide Expert Parallelism, prefill/decode disaggregation, router replay, and 3-D parallelism (FSDP, EP, CP). The post...",
+      "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
+      "author": "Russell Brandom",
+      "content": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -44,41 +44,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.164878+00:00"
+        "consensus_timestamp": "2026-06-24T21:29:15.492737+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-24T21:29:15.492740+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "d51918b0fa4e0132bd5b3d0229d12dd6",
+      "title": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/06/23/anthropic-debuts-claude-tag-capable-ai-teammate-lives-within-slack/",
+      "published_date": "2026-06-24T01:25:21+00:00",
+      "category": "Industry",
+      "description": "Anthropic PBC today unveiled a new version of its chatbot Claude that lives inside Slack, where it operates like a virtual employee. It’s called Claude Tag, and it’s designed to work across entire organizations, helping multiple employees complete tasks for related projects. It builds on existing agentic artificial intelligence tools offered by Anthropic, including Claude Code […] The post Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack appeared first on...",
+      "author": "Mike Wheatley",
+      "content": "Anthropic PBC today unveiled a new version of its chatbot Claude that lives inside Slack, where it operates like a virtual employee. It’s called Claude Tag, and it’s designed to work across entire organizations, helping multiple employees complete tasks for related projects. It builds on existing agentic artificial intelligence tools offered by Anthropic, including Claude Code […] The post Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack appeared first on...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-24T21:29:15.494439+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T18:01:02.164880+00:00"
+        "timestamp": "2026-06-24T21:29:15.494441+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "ca1011ea7e64ced2943d94611017ae65",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "published_date": "2026-06-24T06:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "article_id": "db6a81af0476d5c3498f54e4e07386a7",
+      "title": "Policy paper: Telecoms Consumer Charter",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/telecoms-consumer-charter",
+      "published_date": "2026-06-19T10:00:01+00:00",
+      "category": "Government",
+      "description": "This charter sets out a clear and strong commitment from industry to deliver great outcomes for consumers across the UK.",
       "author": "",
-      "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "content": "This charter sets out a clear and strong commitment from industry to deliver great outcomes for consumers across the UK.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -107,10 +169,134 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-24T21:29:15.489211+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-24T21:29:15.489214+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ed4275481b9d511399e179f6e37a9f99",
+      "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/",
+      "published_date": "2026-06-24T16:30:00+00:00",
+      "category": "Industry",
+      "description": "An increasingly common design pattern for autonomous vehicles (AVs), robotics, and spatial AI systems is bird's-eye-view (BEV) perception. BEV models project...",
+      "author": "John Yang",
+      "content": "An increasingly common design pattern for autonomous vehicles (AVs), robotics, and spatial AI systems is bird's-eye-view (BEV) perception. BEV models project...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-24T21:29:15.493286+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-24T21:29:15.493288+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ca1011ea7e64ced2943d94611017ae65",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "published_date": "2026-06-24T06:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "author": "",
+      "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.160902+00:00"
+        "consensus_timestamp": "2026-06-24T21:29:15.489678+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,26 +307,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T18:01:02.160904+00:00"
+        "timestamp": "2026-06-24T21:29:15.489681+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d51918b0fa4e0132bd5b3d0229d12dd6",
-      "title": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/06/23/anthropic-debuts-claude-tag-capable-ai-teammate-lives-within-slack/",
-      "published_date": "2026-06-24T01:25:21+00:00",
-      "category": "Industry",
-      "description": "Anthropic PBC today unveiled a new version of its chatbot Claude that lives inside Slack, where it operates like a virtual employee. It’s called Claude Tag, and it’s designed to work across entire organizations, helping multiple employees complete tasks for related projects. It builds on existing agentic artificial intelligence tools offered by Anthropic, including Claude Code […] The post Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack appeared first on...",
-      "author": "Mike Wheatley",
-      "content": "Anthropic PBC today unveiled a new version of its chatbot Claude that lives inside Slack, where it operates like a virtual employee. It’s called Claude Tag, and it’s designed to work across entire organizations, helping multiple employees complete tasks for related projects. It builds on existing agentic artificial intelligence tools offered by Anthropic, including Claude Code […] The post Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack appeared first on...",
+      "article_id": "2e035d256cc7aa715a3181cf28f653f3",
+      "title": "AI tool to slash planning decision times as government accelerates push to build 1.5 million homes",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/ai-tool-to-slash-planning-decision-times-as-government-accelerates-push-to-build-15-million-homes",
+      "published_date": "2026-06-16T21:30:00+00:00",
+      "category": "Government",
+      "description": "Millions of homeowners could benefit from faster planning decisions, as 2 new AI tools are unveiled to modernise England’s planning permission system.",
+      "author": "",
+      "content": "Millions of homeowners could benefit from faster planning decisions, as 2 new AI tools are unveiled to modernise England’s planning permission system.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.89,
+        "overall_score": 0.8775000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +358,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.164993+00:00"
+        "consensus_timestamp": "2026-06-24T21:29:15.489577+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,27 +369,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T18:01:02.164995+00:00"
+        "timestamp": "2026-06-24T21:29:15.489583+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c5a7f20bf772ee6749cc8b10aaee0dda",
-      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
-      "published_date": "2026-06-16T16:30:27+00:00",
+      "article_id": "ea847590cac3081777a9bfd5bdbf4fe8",
+      "title": "Introducing the OpenAI Partner Network",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "published_date": "2026-06-14T17:00:00+00:00",
       "category": "Industry",
-      "description": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit […]",
-      "author": "Chris Marriott",
-      "content": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit […]",
+      "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "author": "",
+      "content": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +420,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.163056+00:00"
+        "consensus_timestamp": "2026-06-24T21:29:15.490336+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,212 +431,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T18:01:02.163072+00:00"
+        "timestamp": "2026-06-24T21:29:15.490339+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "a4c1fabb5bb7e962bbb9c1c062127002",
-      "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
-      "published_date": "2026-06-19T14:05:04+00:00",
-      "category": "Industry",
-      "description": "This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration, authenticate using your Adobe credentials, and get the latest insights in Amazon Quick. The sample workflow returns audience rankings, loyalty segment summaries, journey usage, and conflict recommendations.",
-      "author": "Ebbey Thomas",
-      "content": "This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration, authenticate using your Adobe credentials, and get the latest insights in Amazon Quick. The sample workflow returns audience rankings, loyalty segment summaries, journey usage, and conflict recommendations.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.162005+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-24T18:01:02.162007+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "61723eb70bfda818621616ed67bfa525",
-      "title": "Get back hours every day with autonomous agents in Amazon Quick",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
-      "published_date": "2026-06-17T20:35:39+00:00",
-      "category": "Industry",
-      "description": "Today, Quick gets even more powerful: new autonomous agents that work continuously on your behalf, an activity feed that helps you prioritize your most important work, and the ability to find insights across every data source your business runs on from a single question.",
-      "author": "Spencer Martenson",
-      "content": "Today, Quick gets even more powerful: new autonomous agents that work continuously on your behalf, an activity feed that helps you prioritize your most important work, and the ability to find insights across every data source your business runs on from a single question.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.162174+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-24T18:01:02.162176+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "14487c70e25333b0a82259ae787626c0",
-      "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
-      "published_date": "2026-06-18T13:00:32+00:00",
-      "category": "Industry",
-      "description": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get […]",
-      "author": "GeForce NOW Community",
-      "content": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.162910+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-24T18:01:02.162912+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1142ff8b126590073b891f9837ac854c",
-      "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
+      "article_id": "742c8da9d681a4be704eae07a8bc9fdc",
+      "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
-      "published_date": "2026-06-22T16:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
+      "published_date": "2026-06-16T20:30:08+00:00",
       "category": "Industry",
-      "description": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...",
-      "author": "Piotr Ciolkosz",
-      "content": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...",
+      "description": "Every swipe, transfer, and payment on a modern financial network encodes a pattern of human behavior. Transaction data is one of the richest signals an...",
+      "author": "Benjamin Wu",
+      "content": "Every swipe, transfer, and payment on a modern financial network encodes a pattern of human behavior. Transaction data is one of the richest signals an...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.8674999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -482,7 +482,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.163888+00:00"
+        "consensus_timestamp": "2026-06-24T21:29:15.493686+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,69 +493,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T18:01:02.163891+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "97afb2250179bf9d66861eaed622b3f3",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "published_date": "2026-06-21T23:00:00+00:00",
-      "category": "Industry",
-      "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "author": "",
-      "content": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.161231+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-24T18:01:02.161234+00:00"
+        "timestamp": "2026-06-24T21:29:15.493689+00:00"
       },
       "article_type": "article"
     },
@@ -570,259 +508,73 @@
       "author": "Suhas Hariharapura Sheshadri",
       "content": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.164007+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-24T18:01:02.164015+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9b46ca8ab28ecf5f8224c143461e9ec2",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "published_date": "2026-06-23T17:00:00+00:00",
-      "category": "Industry",
-      "description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "author": "",
-      "content": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.161025+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-24T18:01:02.161028+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4c134afd42927abb283a7efa0b61c434",
-      "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-      "published_date": "2026-06-22T13:00:38+00:00",
-      "category": "Industry",
-      "description": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a […]",
-      "author": "Zoe Kessler",
-      "content": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.162689+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-24T18:01:02.162691+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "58e13258fe1720ea880bf0cafbdfb641",
-      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "published_date": "2026-06-22T05:00:22+00:00",
-      "category": "Industry",
-      "description": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. […]",
-      "author": "Josh Parker",
-      "content": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.162801+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-06-24T18:01:02.162803+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b7966dc453785b9b5c87f7951f0e96a9",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "published_date": "2026-06-12T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "author": "",
-      "content": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-24T21:29:15.493595+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-24T21:29:15.493597+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "729895262a6d95507cbc4e13568e26a7",
+      "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+      "published_date": "2026-06-16T22:30:41+00:00",
+      "category": "Industry",
+      "description": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
+      "author": "David Chu",
+      "content": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -851,41 +603,227 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.161528+00:00"
+        "consensus_timestamp": "2026-06-24T21:29:15.492338+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T18:01:02.161530+00:00"
+        "timestamp": "2026-06-24T21:29:15.492341+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "74bee9967f198e6030b48c8d956bceff",
-      "title": "Research: Shaping Tomorrow: the UK's Digital Standards Strategy (2026 to 2030)",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/shaping-tomorrow-the-uks-digital-standards-strategy-2026-to-2030",
-      "published_date": "2026-06-17T16:30:01+00:00",
-      "category": "Government",
-      "description": "The Digital Standards Strategy sets out how the UK will lead on standards for AI, cybersecurity, quantum and advanced connectivity.",
-      "author": "",
-      "content": "The Digital Standards Strategy sets out how the UK will lead on standards for AI, cybersecurity, quantum and advanced connectivity.",
+      "article_id": "26bc0e99c212b88a6c87b04b9c96ed57",
+      "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+      "published_date": "2026-06-16T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Transformer architectures are the backbone of many modern large language and generative AI models. As these models grow in size, training runs consume more GPU...",
+      "author": "Jonathan Mitchell",
+      "content": "Transformer architectures are the backbone of many modern large language and generative AI models. As these models grow in size, training runs consume more GPU...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-24T21:29:15.493777+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-24T21:29:15.493779+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "75bf0308d31306af8832e6a499f5a49f",
+      "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
+      "published_date": "2026-06-24T14:20:39+00:00",
+      "category": "Industry",
+      "description": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a …...",
+      "author": "Margaret Jackson",
+      "content": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a …...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-24T21:29:15.494353+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-24T21:29:15.494355+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "38c01134c53a3460bb67e415526babc4",
+      "title": "Official Statistics: Economic Estimates: Employment in the Digital Sector, January 2025 to December 2025",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/statistics/announcements/economic-estimates-employment-in-the-digital-sector-january-2025-to-december-2025",
+      "published_date": "2026-06-23T12:21:31+00:00",
+      "category": "Government",
+      "description": "Official Statistics in Development estimating the number of filled jobs in the Digital Sector, derived from the Office for National Statistics (ONS) Annual Population Survey (APS). This includes both employed and self-employed individuals, and part-time and full-time employment.",
+      "author": "",
+      "content": "Official Statistics in Development estimating the number of filled jobs in the Digital Sector, derived from the Office for National Statistics (ONS) Annual Population Survey (APS). This includes both employed and self-employed individuals, and part-time and full-time employment.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-24T21:29:15.488952+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-24T21:29:15.488956+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f68ed0b1194cb93bef2577cc8d9f0c57",
+      "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+      "published_date": "2026-06-18T13:00:43+00:00",
+      "category": "Industry",
+      "description": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands. At Cannes Lions, running […]",
+      "author": "Jamie Allan",
+      "content": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands. At Cannes Lions, running […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
         "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.95
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -916,7 +854,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-06-24T18:01:02.160754+00:00"
+        "consensus_timestamp": "2026-06-24T21:29:15.492175+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +865,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-06-24T18:01:02.160756+00:00"
+        "timestamp": "2026-06-24T21:29:15.492177+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e1aacfff08c908392930a12829fdbe75",
+      "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/",
+      "published_date": "2026-06-12T14:43:17+00:00",
+      "category": "Industry",
+      "description": "As enterprise AI adoption scales, developers are increasingly forced to stitch together fragmented pipelines—separate models for text, vision, and...",
+      "author": "Anu Srivastava",
+      "content": "As enterprise AI adoption scales, developers are increasingly forced to stitch together fragmented pipelines—separate models for text, vision, and...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-06-24T21:29:15.493956+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-06-24T21:29:15.493959+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 272.5314824581146,
+    "processing_time": 253.17238020896912,
     "components": [
       "collection",
       "bulk_scoring",
@@ -955,8 +955,8 @@
     "classification_metadata": {
       "total_processed": 123,
       "candidates": {
-        "headlines": 10,
-        "articles": 113,
+        "headlines": 7,
+        "articles": 116,
         "research_papers": 0
       },
       "selected": {
