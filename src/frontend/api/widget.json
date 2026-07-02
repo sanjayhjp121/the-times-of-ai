@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-02T03:46:54.903619+00:00",
+  "updated": "2026-07-02T07:38:46.090633+00:00",
   "top_stories": [
     {
-      "article_id": "17c4ff4d8a3bb486275550c291ee90b9",
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "article_id": "8a8c8224f7bbc87144a869597dd250d8",
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "published_date": "2026-06-30T15:00:00+00:00",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "published_date": "2026-06-30T17:00:00+00:00",
       "category": "Industry",
-      "description": "Users will be able use AI to create newsletters based on their recordings.",
-      "author": "Ivan Mehta",
-      "content": "Users will be able use AI to create newsletters based on their recordings.",
+      "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+      "author": "Rebecca Bellan",
+      "content": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.6,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8125000000000001,
-        "confidence_mean": 0.95
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,41 +44,103 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.82,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-02T03:46:54.867519+00:00"
+        "consensus_timestamp": "2026-07-02T07:38:46.055577+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.692,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-02T07:38:46.055580+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "d94679bd0dbe4a04c0abb9feb258e043",
+      "title": "Guidance: Logical Reference Model for Person Standard",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/logical-reference-model-for-person-standard",
+      "published_date": "2026-06-30T16:14:29+00:00",
+      "category": "Government",
+      "description": "This document proposes a Logical Model to describe the core attributes of a person.",
+      "author": "",
+      "content": "This document proposes a Logical Model to describe the core attributes of a person.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-02T07:38:46.052155+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-02T03:46:54.867521+00:00"
+        "timestamp": "2026-07-02T07:38:46.052158+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "69341e9db3326edff7940a7e2d14bf89",
-      "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
-      "published_date": "2026-06-22T13:00:00+00:00",
+      "article_id": "ca1011ea7e64ced2943d94611017ae65",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "published_date": "2026-06-24T06:00:00+00:00",
       "category": "Industry",
-      "description": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...",
-      "author": "Suhas Hariharapura Sheshadri",
-      "content": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...",
+      "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "author": "",
+      "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
         "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
+        "overall_score": 0.881,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-02T03:46:54.868268+00:00"
+        "consensus_timestamp": "2026-07-02T07:38:46.052723+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,89 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-02T03:46:54.868270+00:00"
+        "timestamp": "2026-07-02T07:38:46.052726+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "77f5fe618266f0f92cc6002eb2f48acc",
-      "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS",
+      "article_id": "06d4df530bbfcf8d36da71e7ca0fde12",
+      "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
-      "published_date": "2026-06-29T17:39:29+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
+      "published_date": "2026-07-01T18:01:32+00:00",
       "category": "Industry",
-      "description": "In this post, we show you how PAR built a production-ready multi-tenant LLM analytics system that enforces row-level security through a three-layer architecture: cryptographic request signing with AWS SigV4, semantic validation on Amazon Bedrock, and programmatic data isolation via Split-Plane SQL. We demonstrate how each layer operates independently to reduce the risk of cross-tenant data exposure, even when the LLM itself is compromised or manipulated.",
-      "author": "Anuranjan Mondal",
-      "content": "In this post, we show you how PAR built a production-ready multi-tenant LLM analytics system that enforces row-level security through a three-layer architecture: cryptographic request signing with AWS SigV4, semantic validation on Amazon Bedrock, and programmatic data isolation via Split-Plane SQL. We demonstrate how each layer operates independently to reduce the risk of cross-tenant data exposure, even when the LLM itself is compromised or manipulated.",
+      "description": "In this post, we demonstrate how to implement HippoRAG using a comprehensive AWS stack. We use Amazon Bedrock for LLM capabilities, Amazon Neptune for graph database functionality, Amazon Neptune Analytics for advanced graph algorithms including Personalized PageRank, and Amazon Titan Embeddings for vector representations. This implementation showcases how to build and deploy HippoRAG within AWS infrastructure for enterprise-scale applications.",
+      "author": "Tanay Chowdhury",
+      "content": "In this post, we demonstrate how to implement HippoRAG using a comprehensive AWS stack. We use Amazon Bedrock for LLM capabilities, Amazon Neptune for graph database functionality, Amazon Neptune Analytics for advanced graph algorithms including Personalized PageRank, and Amazon Titan Embeddings for vector representations. This implementation showcases how to build and deploy HippoRAG within AWS infrastructure for enterprise-scale applications.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-02T03:46:54.865862+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-02T03:46:54.865865+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4fec5dcfec734a0a657b48136d3ccdde",
-      "title": "Q&amp;A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
-      "published_date": "2026-06-25T16:38:18+00:00",
-      "category": "Industry",
-      "description": "AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI...",
-      "author": "Elizabeth Goodman",
-      "content": "AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -231,41 +231,41 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.9,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-02T03:46:54.867906+00:00"
+        "consensus_timestamp": "2026-07-02T07:38:46.053534+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-02T03:46:54.867909+00:00"
+        "timestamp": "2026-07-02T07:38:46.053537+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b34e8c8169c955193b66b6321ed73b00",
-      "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
-      "published_date": "2026-07-01T17:04:02+00:00",
+      "article_id": "7b56a684f70b3d760172910cd8ae725b",
+      "title": "OpenAI, Broadcom debut custom Jalapeño chip for AI inference",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/06/24/openai-broadcom-debut-custom-jalapeno-chip-llm-inference/",
+      "published_date": "2026-06-24T20:30:46+00:00",
       "category": "Industry",
-      "description": "Reinforcement learning (RL) is central to aligning language models, from reinforcement learning with human feedback (RLHF) within AI assistants to newer...",
-      "author": "Elizabeth Goodman",
-      "content": "Reinforcement learning (RL) is central to aligning language models, from reinforcement learning with human feedback (RLHF) within AI assistants to newer...",
+      "description": "OpenAI Group PBC today revealed a custom chip called Jalapeño that it will use to power its large language models. The processor is the fruit of a collaboration with Broadcom Inc., which is no stranger to custom silicon design. The company helped Google LLC develop its TPU line of artificial intelligence accelerators. In April, the […] The post OpenAI, Broadcom debut custom Jalapeño chip for AI inference appeared first on SiliconANGLE.",
+      "author": "Maria Deutscher",
+      "content": "OpenAI Group PBC today revealed a custom chip called Jalapeño that it will use to power its large language models. The processor is the fruit of a collaboration with Broadcom Inc., which is no stranger to custom silicon design. The company helped Google LLC develop its TPU line of artificial intelligence accelerators. In April, the […] The post OpenAI, Broadcom debut custom Jalapeño chip for AI inference appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-02T03:46:54.867608+00:00"
+        "consensus_timestamp": "2026-07-02T07:38:46.057329+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-02T03:46:54.867611+00:00"
+        "timestamp": "2026-07-02T07:38:46.057332+00:00"
       },
       "article_type": "article"
     }
