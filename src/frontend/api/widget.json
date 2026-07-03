@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T03:28:32.254958+00:00",
+  "updated": "2026-07-03T07:26:55.140640+00:00",
   "top_stories": [
     {
       "article_id": "d5ed226730b521f56d92e384d95a8dba",
@@ -12,12 +12,12 @@
       "author": "Russell Brandom",
       "content": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.8,
         "overall_score": 0.8250000000000001,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -45,102 +45,40 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.8,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-03T03:28:32.220481+00:00"
+        "consensus_timestamp": "2026-07-03T07:26:55.108271+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.6799999999999999,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-03T03:28:32.220485+00:00"
+        "timestamp": "2026-07-03T07:26:55.108274+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "5e579e803b023d75e172b2f938753156",
-      "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
-      "published_date": "2026-06-30T18:40:09+00:00",
-      "category": "Industry",
-      "description": "Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Claude Sonnet 5 is the first Sonnet model of Anthropic’s latest generation and represents a meaningful step forward. It delivers top-tier intelligence at Sonnet pricing for coding, agents, and everyday professional […]",
-      "author": "Aamna Najmi",
-      "content": "Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Claude Sonnet 5 is the first Sonnet model of Anthropic’s latest generation and represents a meaningful step forward. It delivers top-tier intelligence at Sonnet pricing for coding, agents, and everyday professional […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-03T03:28:32.219113+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-03T03:28:32.219116+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1142ff8b126590073b891f9837ac854c",
-      "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
+      "article_id": "80e8833aca0e8a8dabdcdc840a994d81",
+      "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
-      "published_date": "2026-06-22T16:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
+      "published_date": "2026-06-26T16:00:35+00:00",
       "category": "Industry",
-      "description": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...",
-      "author": "Piotr Ciolkosz",
-      "content": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...",
+      "description": "As context windows grow longer, moving large model weights efficiently becomes critical to performance. A common way to address this is quantization, an...",
+      "author": "Michelle Horton",
+      "content": "As context windows grow longer, moving large model weights efficiently becomes critical to performance. A common way to address this is quantization, an...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-03T03:28:32.221915+00:00"
+        "consensus_timestamp": "2026-07-03T07:26:55.109233+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-03T03:28:32.221917+00:00"
+        "timestamp": "2026-07-03T07:26:55.109236+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "652752199957bbf40be55956ec95fbec",
-      "title": "Structured memory filtering with metadata in AgentCore Memory",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
-      "published_date": "2026-07-01T18:03:10+00:00",
+      "article_id": "1142ff8b126590073b891f9837ac854c",
+      "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
+      "published_date": "2026-06-22T16:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, you will learn how metadata works across configuration, ingestion, and retrieval, explore enterprise use cases including multi-agent and multi-tenant architectures, and discover best practices for implementation.",
-      "author": "Akarsha Sehwag",
-      "content": "In this post, you will learn how metadata works across configuration, ingestion, and retrieval, explore enterprise use cases including multi-agent and multi-tenant architectures, and discover best practices for implementation.",
+      "description": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...",
+      "author": "Piotr Ciolkosz",
+      "content": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-03T03:28:32.218839+00:00"
+        "consensus_timestamp": "2026-07-03T07:26:55.109656+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,20 +183,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-03T03:28:32.218841+00:00"
+        "timestamp": "2026-07-03T07:26:55.109659+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "30c9b2b99bab6b47699c487a6538ff72",
-      "title": "Corporate report: DSIT's equalities objectives 2026 to 2030",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/dsits-equalities-objectives-2026-to-2030",
-      "published_date": "2026-06-29T13:01:30+00:00",
-      "category": "Government",
-      "description": "Equality, diversity and inclusion objectives that the Department for Science, Innovation and Technology (DSIT) will focus on from 2026 to 2030.",
+      "article_id": "97afb2250179bf9d66861eaed622b3f3",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "published_date": "2026-06-21T23:00:00+00:00",
+      "category": "Industry",
+      "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "author": "",
-      "content": "Equality, diversity and inclusion objectives that the Department for Science, Innovation and Technology (DSIT) will focus on from 2026 to 2030.",
+      "content": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-03T07:26:55.106222+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-03T07:26:55.106225+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "07ff8d4bdd62b44182ea58239ea1bb6d",
+      "title": "Expanding our Heat Resilience data to 50+ global cities",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
+      "published_date": "2026-06-30T17:03:00+00:00",
+      "category": "Industry",
+      "description": "Climate & Sustainability",
+      "author": "",
+      "content": "Climate & Sustainability",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-03T03:28:32.216724+00:00"
+        "consensus_timestamp": "2026-07-03T07:26:55.109839+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-03T03:28:32.216727+00:00"
+        "timestamp": "2026-07-03T07:26:55.109842+00:00"
       },
       "article_type": "article"
     }
