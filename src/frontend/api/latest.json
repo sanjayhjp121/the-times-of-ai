@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-07T18:06:19.039797+00:00",
+  "generated_at": "2026-07-08T02:52:12.195898+00:00",
   "articles": [
     {
-      "article_id": "017a8adbc5cdc7e745a5bca2a9b499a0",
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "article_id": "5b383012254877ece56792cbc5b84526",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "published_date": "2026-07-06T18:35:00+00:00",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "published_date": "2026-07-07T09:00:00+00:00",
       "category": "Industry",
-      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "author": "Rebecca Bellan, Connie Loizos",
-      "content": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "description": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+      "author": "Tim Fernholz",
+      "content": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -45,41 +45,103 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.004226+00:00"
+        "consensus_timestamp": "2026-07-08T02:52:12.163360+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-07T18:06:19.004229+00:00"
+        "timestamp": "2026-07-08T02:52:12.163363+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "c7153b27efe8788f2cd2cca28140c28f",
-      "title": "Spark a connection with DARPA’s Multi X Office",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/mxo-spark-tank-pitch-day",
-      "published_date": "2026-06-26T12:48:05+00:00",
-      "category": "Government",
-      "description": "Innovators and out-of-the-box thinkers invited to engage at MXO Spark Tank and Pitch Day.",
-      "author": "outreach@darpa.mil",
-      "content": "Innovators and out-of-the-box thinkers invited to engage at MXO Spark Tank and Pitch Day.",
+      "article_id": "afcf5c25ea598348a802c9d66f5dafcd",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "published_date": "2026-06-26T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "author": "",
+      "content": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
+        "novelty_score": 0.85,
+        "impact_score": 0.98,
+        "overall_score": 0.9185000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-08T02:52:12.161383+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-08T02:52:12.161386+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "1f51941e8e83170fc36b9fa1ea6d0b32",
+      "title": "Data modeling best practices for Amazon Quick Sight multi-dataset relationships",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
+      "published_date": "2026-07-07T17:07:49+00:00",
+      "category": "Industry",
+      "description": "Today, we are excited to announce Multi-Dataset Relationships in Amazon Quick Sight. This new capability lets you define logical relationships between Quick Sight datasets and perform runtime joins at query time. Instead of flattening tables ahead of time, you keep each table as its own Quick Sight dataset and declare how those datasets relate to one another inside a Quick Sight Topic.",
+      "author": "Ying Wang",
+      "content": "Today, we are excited to announce Multi-Dataset Relationships in Amazon Quick Sight. This new capability lets you define logical relationships between Quick Sight datasets and perform runtime joins at query time. Instead of flattening tables ahead of time, you keep each table as its own Quick Sight dataset and declare how those datasets relate to one another inside a Quick Sight Topic.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.9
+        "overall_score": 0.8975,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.001021+00:00"
+        "consensus_timestamp": "2026-07-08T02:52:12.161922+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-07T18:06:19.001025+00:00"
+        "timestamp": "2026-07-08T02:52:12.161925+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "256bfc0b998ecc13773b389ca8f6fcd0",
+      "title": "How Open Models Are Driving AI Research",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+      "published_date": "2026-07-06T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately […]",
+      "author": "JJ Kim",
+      "content": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-08T02:52:12.162760+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-08T02:52:12.162763+00:00"
       },
       "article_type": "article"
     },
@@ -136,74 +260,12 @@
       "author": "Sandeep Raveesh-Babu",
       "content": "Implementing a data and model monitoring solution is necessary to maintain prediction accuracy and help achieve the best outcome for your machine learning use case. This post shows how you can use open source Evidently together with Amazon SageMaker AI to generate monitoring reports, organize and compare the results in MLflow, scale through pipelines, and trigger drift notifications.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.002687+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-07T18:06:19.002691+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "13bc85a959535b2b36b5c1261c487f47",
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "published_date": "2026-07-04T18:00:05+00:00",
-      "category": "Industry",
-      "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "author": "Anthony Ha",
-      "content": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.9,
         "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.004528+00:00"
+        "consensus_timestamp": "2026-07-08T02:52:12.162128+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,275 +307,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-07T18:06:19.004532+00:00"
+        "timestamp": "2026-07-08T02:52:12.162131+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "ca1011ea7e64ced2943d94611017ae65",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "published_date": "2026-06-24T06:00:00+00:00",
+      "article_id": "251cb15f5290a7536587fe187eded370",
+      "title": "How Amazon tracks carbon intensity across its operations",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/news/how-amazon-tracks-carbon-intensity-across-its-operations",
+      "published_date": "2026-07-01T15:56:42+00:00",
       "category": "Industry",
-      "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "description": "Amazon is developing precise, sector-specific approaches to measuring decarbonization progress — starting with emissions per unit shipped.",
       "author": "",
-      "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.002096+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-07T18:06:19.002099+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b4afb9a8146ea818b450d91555a9d1c5",
-      "title": "Best practices for multi-turn reinforcement learning in Amazon SageMaker AI",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/",
-      "published_date": "2026-07-02T17:50:23+00:00",
-      "category": "Industry",
-      "description": "In this post, we share best practices for reliable multi-turn RL training. We cover how to build a training environment you can trust, set up an external evaluation, design a reward aligned with the end task, manage what changes once the agent runs for multiple turns, and monitor the metrics that tell you when to iterate.",
-      "author": "Sapana Chaudhary",
-      "content": "In this post, we share best practices for reliable multi-turn RL training. We cover how to build a training environment you can trust, set up an external evaluation, design a reward aligned with the end task, manage what changes once the agent runs for multiple turns, and monitor the metrics that tell you when to iterate.",
+      "content": "Amazon is developing precise, sector-specific approaches to measuring decarbonization progress — starting with emissions per unit shipped.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.003105+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-07T18:06:19.003108+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b2bd8ad0d807f319089ddf9b34afaa10",
-      "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/",
-      "published_date": "2026-07-07T17:05:42+00:00",
-      "category": "Industry",
-      "description": "As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids...",
-      "author": "Elizabeth Goodman",
-      "content": "As more teams move from humanoid robot bring-up to task-specific skill development, the need for repeatable development workflows is growing. Building humanoids...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.004810+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-07T18:06:19.004813+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e0512ec60eaff6c02f14e695f6d5d0cb",
-      "title": "The fuel of the future is already here: Why TRISO matters",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/the-fuel-of-the-future-is-already-here-why-triso-matters",
-      "published_date": "2026-06-24T19:57:09+00:00",
-      "category": "Industry",
-      "description": "Millimeter-scale particles of nuclear-reactor fuel are encased in four layers of different materials that act as a “miniature containment system”.",
-      "author": "",
-      "content": "Millimeter-scale particles of nuclear-reactor fuel are encased in four layers of different materials that act as a “miniature containment system”.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.005596+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-07T18:06:19.005598+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fd18a55f3a5ff162c63c1e94302179c9",
-      "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/",
-      "published_date": "2026-06-30T16:00:00+00:00",
-      "category": "Industry",
-      "description": "NVIDIA Omniverse NuRec is a neural reconstruction pipeline for building high-fidelity 3D representations of real-world environments from multisensor data such...",
-      "author": "Tanya Lenz",
-      "content": "NVIDIA Omniverse NuRec is a neural reconstruction pipeline for building high-fidelity 3D representations of real-world environments from multisensor data such...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
+        "overall_score": 0.875,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -544,7 +358,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.005174+00:00"
+        "consensus_timestamp": "2026-07-08T02:52:12.164690+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,69 +369,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-07T18:06:19.005177+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "80e8833aca0e8a8dabdcdc840a994d81",
-      "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
-      "published_date": "2026-06-26T16:00:35+00:00",
-      "category": "Industry",
-      "description": "As context windows grow longer, moving large model weights efficiently becomes critical to performance. A common way to address this is quantization, an...",
-      "author": "Michelle Horton",
-      "content": "As context windows grow longer, moving large model weights efficiently becomes critical to performance. A common way to address this is quantization, an...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.005307+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-07T18:06:19.005310+00:00"
+        "timestamp": "2026-07-08T02:52:12.164693+00:00"
       },
       "article_type": "article"
     },
@@ -631,6 +383,440 @@
       "description": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "author": "",
       "content": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-08T02:52:12.161293+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-08T02:52:12.161296+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4bd8e3c1edd3475e6dbc0c939484adef",
+      "title": "Research: The Economic Impact of Equal Opportunities in the Digital Economy",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/the-economic-impact-of-equal-opportunities-in-the-digital-economy",
+      "published_date": "2026-07-05T23:01:00+00:00",
+      "category": "Government",
+      "description": "Research estimating the potential economic gains from fully removing barriers, unrelated to skills or productivity, faced by under-represented groups in the UK digital economy.",
+      "author": "",
+      "content": "Research estimating the potential economic gains from fully removing barriers, unrelated to skills or productivity, faced by under-represented groups in the UK digital economy.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-08T02:52:12.160618+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-08T02:52:12.160621+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bb33332a757d65838de3eed7d670c2f0",
+      "title": "Automatically redact PII in images with Amazon Nova",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/",
+      "published_date": "2026-07-06T16:55:02+00:00",
+      "category": "Industry",
+      "description": "In this post, we present a multi-step pipeline directed by Amazon Nova, which uses its contextual vision reasoning to coordinate complementary tools, including Meta’s open-source Segment Anything Model (SAM 3) deployed on Amazon SageMaker AI for pixel-level segmentation, and Amazon Textract for optical character recognition (OCR). This pipeline is designed to provide comprehensive and compliant PII redaction even for challenging edge cases such as fingerprints, ID cards, or license plates in...",
+      "author": "Caroline Des Rochers",
+      "content": "In this post, we present a multi-step pipeline directed by Amazon Nova, which uses its contextual vision reasoning to coordinate complementary tools, including Meta’s open-source Segment Anything Model (SAM 3) deployed on Amazon SageMaker AI for pixel-level segmentation, and Amazon Textract for optical character recognition (OCR). This pipeline is designed to provide comprehensive and compliant PII redaction even for challenging edge cases such as fingerprints, ID cards, or license plates in...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-08T02:52:12.162400+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-08T02:52:12.162403+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "23e9bb15f83216c03d2384d1d1807744",
+      "title": "Dell/Microsoft partnership: Three insights you may have missed from theCUBE’s coverage of Dell Technologies World",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/07/02/dell-microsoft-partnership-hybrid-cloud-insights-delltechworld/",
+      "published_date": "2026-07-02T17:41:05+00:00",
+      "category": "Industry",
+      "description": "For more than 35 years, Dell Technologies Inc. and Microsoft Corp. have collaborated on a wide range of enterprise technology offerings. From support for Azure hybrid cloud to server-based Windows solutions, Dell has a lengthy history of supplying co-developed and integrated products and services with Microsoft. This alliance has become even more important as organizations […] The post Dell/Microsoft partnership: Three insights you may have missed from theCUBE’s coverage of Dell Technologies...",
+      "author": "Mark Albertson",
+      "content": "For more than 35 years, Dell Technologies Inc. and Microsoft Corp. have collaborated on a wide range of enterprise technology offerings. From support for Azure hybrid cloud to server-based Windows solutions, Dell has a lengthy history of supplying co-developed and integrated products and services with Microsoft. This alliance has become even more important as organizations […] The post Dell/Microsoft partnership: Three insights you may have missed from theCUBE’s coverage of Dell Technologies...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-08T02:52:12.165652+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-08T02:52:12.165655+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "c98f23a55a3425700bd42079cb42ee6b",
+      "title": "Operating a spaceport: rules and regulations",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/guidance/operating-a-spaceport-rules-and-regulations",
+      "published_date": "2026-07-03T13:30:06+00:00",
+      "category": "Government",
+      "description": "Regulations you must comply with when operating a spaceport.",
+      "author": "",
+      "content": "Regulations you must comply with when operating a spaceport.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.7,
+        "impact_score": 0.8,
+        "overall_score": 0.83,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-08T02:52:12.160757+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-08T02:52:12.160760+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fd48540d795533886300622049910907",
+      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "published_date": "2026-06-30T16:00:00+00:00",
+      "category": "Industry",
+      "description": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog.",
+      "author": "Maria Bledsoe",
+      "content": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.85
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-08T02:52:12.161607+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-08T02:52:12.161610+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "663dc9cd04c58226194f4b292c1abf97",
+      "title": "Context Graphs vs Vector RAG vs Raw Context - Agentic memory benchmark",
+      "source": "nanonets_blog",
+      "url": "https://nanonets.com/blog/context-graphs-vs-vector-rag-vs-raw-context/",
+      "published_date": "2026-07-01T14:50:58+00:00",
+      "category": "Industry",
+      "description": "We benchmark context graphs against other methods of agentic memory, and discuss what each method got right and wrong.",
+      "author": "Karan",
+      "content": "We benchmark context graphs against other methods of agentic memory, and discuss what each method got right and wrong.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-08T02:52:12.164959+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-08T02:52:12.164962+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "652752199957bbf40be55956ec95fbec",
+      "title": "Structured memory filtering with metadata in AgentCore Memory",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
+      "published_date": "2026-07-01T18:03:10+00:00",
+      "category": "Industry",
+      "description": "In this post, you will learn how metadata works across configuration, ingestion, and retrieval, explore enterprise use cases including multi-agent and multi-tenant architectures, and discover best practices for implementation.",
+      "author": "Akarsha Sehwag",
+      "content": "In this post, you will learn how metadata works across configuration, ingestion, and retrieval, explore enterprise use cases including multi-agent and multi-tenant architectures, and discover best practices for implementation.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -664,103 +850,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.001786+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-07T18:06:19.001789+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "99cb91174df82947e6b4e42a46b39461",
-      "title": "Guidance: Women in Research Charter",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/women-in-research-charter",
-      "published_date": "2026-07-02T09:56:59+00:00",
-      "category": "Government",
-      "description": "A voluntary commitment to improve outcomes for women across the UK research system, with actions for research funders and research performing organisations.",
-      "author": "",
-      "content": "A voluntary commitment to improve outcomes for women across the UK research system, with actions for research funders and research performing organisations.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
+        "score": 0.9,
         "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.001473+00:00"
+        "consensus_timestamp": "2026-07-08T02:52:12.162626+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
+        "weighted_score": 0.74,
         "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-07T18:06:19.001476+00:00"
+        "timestamp": "2026-07-08T02:52:12.162629+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cfb74e454128b5a5622ef7bf8b4c7ed7",
-      "title": "NIST Launches Center to Drive the Manufacture of Quantum Technologies",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
-      "published_date": "2026-06-29T12:00:00+00:00",
-      "category": "Government",
-      "description": "NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).",
-      "author": "Sarah Henderson",
-      "content": "NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).",
+      "article_id": "92d6a97c1119fcc0eeac32f0ef714e33",
+      "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+      "published_date": "2026-06-30T15:00:49+00:00",
+      "category": "Industry",
+      "description": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]",
+      "author": "NVIDIA Writers",
+      "content": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8375,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -789,145 +913,21 @@
           }
         },
         "score": 0.8,
-        "confidence": 0.9,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.000898+00:00"
+        "consensus_timestamp": "2026-07-08T02:52:12.162989+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-07T18:06:19.000903+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4bd8e3c1edd3475e6dbc0c939484adef",
-      "title": "Research: The Economic Impact of Equal Opportunities in the Digital Economy",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/the-economic-impact-of-equal-opportunities-in-the-digital-economy",
-      "published_date": "2026-07-05T23:01:00+00:00",
-      "category": "Government",
-      "description": "Research estimating the potential economic gains from fully removing barriers, unrelated to skills or productivity, faced by under-represented groups in the UK digital economy.",
-      "author": "",
-      "content": "Research estimating the potential economic gains from fully removing barriers, unrelated to skills or productivity, faced by under-represented groups in the UK digital economy.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.6,
-        "impact_score": 0.9,
-        "overall_score": 0.8125000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.001282+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-07T18:06:19.001286+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fd48540d795533886300622049910907",
-      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-      "published_date": "2026-06-30T16:00:00+00:00",
-      "category": "Industry",
-      "description": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog.",
-      "author": "Maria Bledsoe",
-      "content": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.6,
-        "impact_score": 0.9,
-        "overall_score": 0.8125000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-07T18:06:19.002240+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-07T18:06:19.002242+00:00"
+        "timestamp": "2026-07-08T02:52:12.162992+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 253.38907098770142,
+    "processing_time": 234.1588318347931,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 120,
+      "total_processed": 118,
       "candidates": {
-        "headlines": 13,
-        "articles": 107,
+        "headlines": 10,
+        "articles": 108,
         "research_papers": 0
       },
       "selected": {
