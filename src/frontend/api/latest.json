@@ -1,23 +1,85 @@
 {
-  "generated_at": "2026-07-09T07:43:32.644237+00:00",
+  "generated_at": "2026-07-09T11:01:08.323966+00:00",
   "articles": [
     {
-      "article_id": "85178fc1f5dd2403a1ab0a2d38e5e668",
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "article_id": "a45de75d0dab8e5e998826cabcd432e7",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "published_date": "2026-07-07T22:18:10+00:00",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "published_date": "2026-07-08T08:00:00+00:00",
       "category": "Industry",
-      "description": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-      "author": "Lucas Ropek",
-      "content": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+      "description": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "author": "Anna Heim",
+      "content": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
         "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-09T11:01:08.291562+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-09T11:01:08.291565+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "2c2b00a2ca01e1705715dff70514a419",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
+      "published_date": "2026-07-06T22:35:55+00:00",
+      "category": "Industry",
+      "description": "Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.",
+      "author": "Hazim Qudah",
+      "content": "Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.925,
+        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.604284+00:00"
+        "consensus_timestamp": "2026-07-09T11:01:08.290149+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,82 +121,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T07:43:32.604286+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "050fdbd1abe27ef94e369936a18e47b9",
-      "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/",
-      "published_date": "2026-07-07T16:51:29+00:00",
-      "category": "Industry",
-      "description": "This post walks through building a serverless image editor where users upload a photo, describe an edit in plain English, and receive the result in seconds. The agent runs on AgentCore harness without custom orchestration code. We deploy the full solution, including authentication, encrypted storage, three image editing tools, and a React frontend, with a single deployment command. The infrastructure is defined using AWS Cloud Development Kit (AWS CDK).",
-      "author": "Salman Ahmed",
-      "content": "This post walks through building a serverless image editor where users upload a photo, describe an edit in plain English, and receive the result in seconds. The agent runs on AgentCore harness without custom orchestration code. We deploy the full solution, including authentication, encrypted storage, three image editing tools, and a React frontend, with a single deployment command. The infrastructure is defined using AWS Cloud Development Kit (AWS CDK).",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.95,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.9375,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.602579+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-09T07:43:32.602582+00:00"
+        "timestamp": "2026-07-09T11:01:08.290152+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1abefc8d400fbca47296720ab62e95e4",
-      "title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/",
-      "published_date": "2026-07-08T16:57:12+00:00",
+      "article_id": "d47d9472c0151240a76b678ac66bbe0e",
+      "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+      "published_date": "2026-06-30T13:00:27+00:00",
       "category": "Industry",
-      "description": "In this post, we explore how Graph-based Retrieval Augmented Generation (GraphRAG) is transforming scientific research by combining graph databases with generative AI. With this approach, you can accelerate discovery processes without compromising scientific integrity.",
-      "author": "Jasmine Rasheed Syed",
-      "content": "In this post, we explore how Graph-based Retrieval Augmented Generation (GraphRAG) is transforming scientific research by combining graph databases with generative AI. With this approach, you can accelerate discovery processes without compromising scientific integrity.",
+      "description": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from the physical world into operational intelligence in factories, […]",
+      "author": "Esther Lee",
+      "content": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from the physical world into operational intelligence in factories, […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -172,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.602141+00:00"
+        "consensus_timestamp": "2026-07-09T11:01:08.290797+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,20 +183,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T07:43:32.602144+00:00"
+        "timestamp": "2026-07-09T11:01:08.290799+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "bcf6df186a98620fc884f1dda0927c51",
-      "title": "Research: Digital Identity Sectoral Analysis Report 2026",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/digital-identity-sectoral-analysis-report-2026",
-      "published_date": "2026-07-08T08:30:00+00:00",
-      "category": "Government",
-      "description": "Findings from OfDIA's 2026 research on the UK's digital identity sector.",
-      "author": "",
-      "content": "Findings from OfDIA's 2026 research on the UK's digital identity sector.",
+      "article_id": "4fec5dcfec734a0a657b48136d3ccdde",
+      "title": "Q&amp;A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
+      "published_date": "2026-06-25T16:38:18+00:00",
+      "category": "Industry",
+      "description": "AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI...",
+      "author": "Elizabeth Goodman",
+      "content": "AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -231,72 +231,10 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.600742+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-09T07:43:32.600745+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "835e19cfde62282dd77b54f4e8789759",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/mufg",
-      "published_date": "2026-07-07T00:00:00+00:00",
-      "category": "Industry",
-      "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "author": "",
-      "content": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.8955,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.601398+00:00"
+        "consensus_timestamp": "2026-07-09T11:01:08.292694+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T07:43:32.601400+00:00"
+        "timestamp": "2026-07-09T11:01:08.292696+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "1f51941e8e83170fc36b9fa1ea6d0b32",
-      "title": "Data modeling best practices for Amazon Quick Sight multi-dataset relationships",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
-      "published_date": "2026-07-07T17:07:49+00:00",
+      "article_id": "b43fecd4492a45b4669b70be575f2c00",
+      "title": "Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/",
+      "published_date": "2026-07-08T16:05:25+00:00",
       "category": "Industry",
-      "description": "Today, we are excited to announce Multi-Dataset Relationships in Amazon Quick Sight. This new capability lets you define logical relationships between Quick Sight datasets and perform runtime joins at query time. Instead of flattening tables ahead of time, you keep each table as its own Quick Sight dataset and declare how those datasets relate to one another inside a Quick Sight Topic.",
-      "author": "Ying Wang",
-      "content": "Today, we are excited to announce Multi-Dataset Relationships in Amazon Quick Sight. This new capability lets you define logical relationships between Quick Sight datasets and perform runtime joins at query time. Instead of flattening tables ahead of time, you keep each table as its own Quick Sight dataset and declare how those datasets relate to one another inside a Quick Sight Topic.",
+      "description": "Presto is an open source, distributed SQL engine for running fast, interactive queries on very large datasets. On NVIDIA GPUs, Presto delivers peak performance...",
+      "author": "Tanya Lenz",
+      "content": "Presto is an open source, distributed SQL engine for running fast, interactive queries on very large datasets. On NVIDIA GPUs, Presto delivers peak performance...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.89,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -358,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.602441+00:00"
+        "consensus_timestamp": "2026-07-09T11:01:08.291959+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,275 +307,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T07:43:32.602444+00:00"
+        "timestamp": "2026-07-09T11:01:08.291962+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "663dc9cd04c58226194f4b292c1abf97",
-      "title": "Context Graphs vs Vector RAG vs Raw Context - Agentic memory benchmark",
-      "source": "nanonets_blog",
-      "url": "https://nanonets.com/blog/context-graphs-vs-vector-rag-vs-raw-context/",
-      "published_date": "2026-07-01T14:50:58+00:00",
-      "category": "Industry",
-      "description": "We benchmark context graphs against other methods of agentic memory, and discuss what each method got right and wrong.",
-      "author": "Karan",
-      "content": "We benchmark context graphs against other methods of agentic memory, and discuss what each method got right and wrong.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.606393+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-09T07:43:32.606396+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d69fbbde4aec954e10713fb9f2c519a0",
-      "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
-      "published_date": "2026-07-07T16:50:50+00:00",
-      "category": "Industry",
-      "description": "Liquid AI released Antidoom, an open-source method that targets doom loops in reasoning models. A doom loop repeats a span until the context window is exhausted. Antidoom finds the token that starts the loop and retrains only that position using Final Token Preference Optimization (FTPO). On LFM2.5-2.6B, doom-loop rates fell from 10.2% to 1.4%; on Qwen3.5-4B, from 22.9% to 1%. Generation, detection, and the FTPO trainer are open source. The post Liquid AI Open-Sources Antidoom: A Final Token...",
-      "author": "Asif Razzaq",
-      "content": "Liquid AI released Antidoom, an open-source method that targets doom loops in reasoning models. A doom loop repeats a span until the context window is exhausted. Antidoom finds the token that starts the loop and retrains only that position using Final Token Preference Optimization (FTPO). On LFM2.5-2.6B, doom-loop rates fell from 10.2% to 1.4%; on Qwen3.5-4B, from 22.9% to 1%. Generation, detection, and the FTPO trainer are open source. The post Liquid AI Open-Sources Antidoom: A Final Token...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.606725+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-09T07:43:32.606727+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f4c3a20bad2a2708e72e32a7bfd1ef09",
-      "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/",
-      "published_date": "2026-06-30T17:36:43+00:00",
-      "category": "Industry",
-      "description": "GPU-accelerated query engines are often constrained by memory and I/O bandwidth. NVIDIA hardware advances—including high bandwidth memory (HBM), NVIDIA...",
-      "author": "Michelle Horton",
-      "content": "GPU-accelerated query engines are often constrained by memory and I/O bandwidth. NVIDIA hardware advances—including high bandwidth memory (HBM), NVIDIA...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.605682+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-09T07:43:32.605688+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2ae3e6776591a7f3e88281158ea1b354",
-      "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
-      "published_date": "2026-06-25T16:43:48+00:00",
-      "category": "Industry",
-      "description": "Generative AI workloads are rapidly outgrowing the memory and compute budget of single GPUs. For inference developers building media generation pipelines, the...",
-      "author": "Peter Kisfaludi",
-      "content": "Generative AI workloads are rapidly outgrowing the memory and compute budget of single GPUs. For inference developers building media generation pipelines, the...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.92,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.605984+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-09T07:43:32.605986+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "fd196854266089a3340588ab361b1546",
-      "title": "Alex Karp, frontier models and the real fight for Enterprise AI",
+      "article_id": "a3541f5986b0305209d0b2af3dd22506",
+      "title": "AI post-training startup Bespoke Labs raises $40M in funding",
       "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/07/05/alex-karp-frontier-models-real-fight-enterprise-ai/",
-      "published_date": "2026-07-05T15:59:07+00:00",
+      "url": "https://siliconangle.com/2026/07/06/ai-post-training-startup-bespoke-labs-raises-40m-funding/",
+      "published_date": "2026-07-06T23:22:48+00:00",
       "category": "Industry",
-      "description": "Palantir Technologies Inc. Chief Executive Alex Karp’s recent broadside against the frontier model vendors put a knife to the throat of the central enterprise artificial intelligence debate. Karp’s argument is that frontier model vendors (he didn’t mention Anthropic and OpenAI by name) intend to suck the knowledge out of enterprises and destroy the “alpha” companies enjoy through […] The post Alex Karp, frontier models and the real fight for Enterprise AI appeared first on SiliconANGLE.",
-      "author": "Dave Vellante",
-      "content": "Palantir Technologies Inc. Chief Executive Alex Karp’s recent broadside against the frontier model vendors put a knife to the throat of the central enterprise artificial intelligence debate. Karp’s argument is that frontier model vendors (he didn’t mention Anthropic and OpenAI by name) intend to suck the knowledge out of enterprises and destroy the “alpha” companies enjoy through […] The post Alex Karp, frontier models and the real fight for Enterprise AI appeared first on SiliconANGLE.",
+      "description": "Bespoke Labs Inc., a startup working to streamline the post-training phase of artificial intelligence projects, has raised $40 million in funding. The company stated today that the capital arrived in two tranches. Bespoke Labs raised the bulk of the funds, $31.75 million, through a Series A round led by Wing VC. The firm was joined […] The post AI post-training startup Bespoke Labs raises $40M in funding appeared first on SiliconANGLE.",
+      "author": "Maria Deutscher",
+      "content": "Bespoke Labs Inc., a startup working to streamline the post-training phase of artificial intelligence projects, has raised $40 million in funding. The company stated today that the capital arrived in two tranches. Bespoke Labs raised the bulk of the funds, $31.75 million, through a Series A round led by Wing VC. The firm was joined […] The post AI post-training startup Bespoke Labs raises $40M in funding appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -664,35 +354,221 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.88,
+        "confidence": 0.92,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.606957+00:00"
+        "consensus_timestamp": "2026-07-09T11:01:08.292941+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.728,
+        "combined_confidence": 0.752,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-09T11:01:08.292943+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bcf6df186a98620fc884f1dda0927c51",
+      "title": "Research: Digital Identity Sectoral Analysis Report 2026",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/digital-identity-sectoral-analysis-report-2026",
+      "published_date": "2026-07-08T08:30:00+00:00",
+      "category": "Government",
+      "description": "Findings from OfDIA's 2026 research on the UK's digital identity sector.",
+      "author": "",
+      "content": "Findings from OfDIA's 2026 research on the UK's digital identity sector.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-09T11:01:08.288226+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-09T11:01:08.288230+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "218c62a081e958ca9e18046493f39e90",
+      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
+      "published_date": "2026-07-07T15:10:10+00:00",
+      "category": "Industry",
+      "description": "Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and...",
+      "author": "Michelle Horton",
+      "content": "Agentic systems turn model reasoning into action through multi-step workflows that combine inference, tool use, code execution, retrieval, orchestration, and...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-09T11:01:08.292190+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-09T11:01:08.292193+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "21edfb5c356153e6d2bda869ebbf4cec",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "published_date": "2026-06-30T00:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "author": "",
+      "content": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-09T11:01:08.289102+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T07:43:32.606960+00:00"
+        "timestamp": "2026-07-09T11:01:08.289106+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "cfb74e454128b5a5622ef7bf8b4c7ed7",
-      "title": "NIST Launches Center to Drive the Manufacture of Quantum Technologies",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies",
-      "published_date": "2026-06-29T12:00:00+00:00",
-      "category": "Government",
-      "description": "NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).",
-      "author": "Sarah Henderson",
-      "content": "NIST has announced an agreement with SRI International to establish the Quantum Manufacturing Engineering Center (QMEC).",
+      "article_id": "afcf5c25ea598348a802c9d66f5dafcd",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "published_date": "2026-06-26T10:00:00+00:00",
+      "category": "Industry",
+      "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "author": "",
+      "content": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -726,42 +602,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.600241+00:00"
+        "consensus_timestamp": "2026-07-09T11:01:08.289250+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T07:43:32.600247+00:00"
+        "timestamp": "2026-07-09T11:01:08.289254+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f46036c04db0ccfde4fc8f10cafc3406",
-      "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore",
+      "article_id": "1bbd88af53df301a43d49fb00368062f",
+      "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/",
-      "published_date": "2026-07-07T16:46:43+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/",
+      "published_date": "2026-07-07T16:49:09+00:00",
       "category": "Industry",
-      "description": "In this post, you build an AWS Support Companion using Amazon Bedrock AgentCore. The agent uses Strands Agents as the orchestration framework and connects to AWS services through the Model Context Protocol (MCP). By the end, you have a working agent that can analyze CloudWatch logs, search AWS documentation, query community knowledge from AWS re:Post, and create support cases, all from a single conversational interface. The solution deploys with a single script using AWS CloudFormation and...",
-      "author": "Jose Soto",
-      "content": "In this post, you build an AWS Support Companion using Amazon Bedrock AgentCore. The agent uses Strands Agents as the orchestration framework and connects to AWS services through the Model Context Protocol (MCP). By the end, you have a working agent that can analyze CloudWatch logs, search AWS documentation, query community knowledge from AWS re:Post, and create support cases, all from a single conversational interface. The solution deploys with a single script using AWS CloudFormation and...",
+      "description": "Implementing a data and model monitoring solution is necessary to maintain prediction accuracy and help achieve the best outcome for your machine learning use case. This post shows how you can use open source Evidently together with Amazon SageMaker AI to generate monitoring reports, organize and compare the results in MLflow, scale through pipelines, and trigger drift notifications.",
+      "author": "Sandeep Raveesh-Babu",
+      "content": "Implementing a data and model monitoring solution is necessary to maintain prediction accuracy and help achieve the best outcome for your machine learning use case. This post shows how you can use open source Evidently together with Amazon SageMaker AI to generate monitoring reports, organize and compare the results in MLflow, scale through pipelines, and trigger drift notifications.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
         "overall_score": 0.8625000000000002,
-        "confidence_mean": 0.96
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -788,35 +664,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.95,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.602673+00:00"
+        "consensus_timestamp": "2026-07-09T11:01:08.290009+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T07:43:32.602676+00:00"
+        "timestamp": "2026-07-09T11:01:08.290012+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d15f74006029f4ff41ad3e984fb8ec58",
-      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
-      "published_date": "2026-07-08T15:00:27+00:00",
+      "article_id": "2848c3be49c40a882da71ab4a2b70c19",
+      "title": "Run MiniMax models on Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
+      "published_date": "2026-07-06T17:00:44+00:00",
       "category": "Industry",
-      "description": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
-      "author": "Adel El Hallak",
-      "content": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
+      "description": "In this post, we walk through how to get started with MiniMax models on Amazon Bedrock, including the capabilities supported by these models, the service tiers available, how on-demand inference scales to handle your workloads, and the different APIs you can use to access them. Using these models, customers can build agentic applications, long-context document analysis pipelines, and software engineering workflows, all backed by the security and operational guarantees of AWS.",
+      "author": "Zohreh Norouzi",
+      "content": "In this post, we walk through how to get started with MiniMax models on Amazon Bedrock, including the capabilities supported by these models, the service tiers available, how on-demand inference scales to handle your workloads, and the different APIs you can use to access them. Using these models, customers can build agentic applications, long-context document analysis pipelines, and software engineering workflows, all backed by the security and operational guarantees of AWS.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -851,10 +727,72 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-09T11:01:08.290195+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-09T11:01:08.290198+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5bdcd6ee08180c5d1eaf44e27a212ab5",
+      "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial/",
+      "published_date": "2026-07-07T17:00:00+00:00",
+      "category": "Industry",
+      "description": "Spectrum is one of the most valuable assets in wireless communications. Over the last 30 years, telecom operators in the US have spent more than $240B to...",
+      "author": "Michelle Horton",
+      "content": "Spectrum is one of the most valuable assets in wireless communications. Over the last 30 years, telecom operators in the US have spent more than $240B to...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.602950+00:00"
+        "consensus_timestamp": "2026-07-09T11:01:08.292098+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,20 +803,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T07:43:32.602953+00:00"
+        "timestamp": "2026-07-09T11:01:08.292101+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "92d6a97c1119fcc0eeac32f0ef714e33",
-      "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+      "article_id": "256bfc0b998ecc13773b389ca8f6fcd0",
+      "title": "How Open Models Are Driving AI Research",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
-      "published_date": "2026-06-30T15:00:49+00:00",
+      "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+      "published_date": "2026-07-06T16:00:00+00:00",
       "category": "Industry",
-      "description": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]",
-      "author": "NVIDIA Writers",
-      "content": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]",
+      "description": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately […]",
+      "author": "JJ Kim",
+      "content": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -912,22 +850,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-09T07:43:32.603421+00:00"
+        "consensus_timestamp": "2026-07-09T11:01:08.290424+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-09T07:43:32.603424+00:00"
+        "timestamp": "2026-07-09T11:01:08.290427+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4bd8e3c1edd3475e6dbc0c939484adef",
+      "title": "Research: The Economic Impact of Equal Opportunities in the Digital Economy",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/the-economic-impact-of-equal-opportunities-in-the-digital-economy",
+      "published_date": "2026-07-05T23:01:00+00:00",
+      "category": "Government",
+      "description": "Research estimating the potential economic gains from fully removing barriers, unrelated to skills or productivity, faced by under-represented groups in the UK digital economy.",
+      "author": "",
+      "content": "Research estimating the potential economic gains from fully removing barriers, unrelated to skills or productivity, faced by under-represented groups in the UK digital economy.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-09T11:01:08.288579+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-09T11:01:08.288582+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 263.2843973636627,
+    "processing_time": 255.4981415271759,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 124,
+      "total_processed": 114,
       "candidates": {
-        "headlines": 15,
-        "articles": 109,
+        "headlines": 11,
+        "articles": 103,
         "research_papers": 0
       },
       "selected": {
