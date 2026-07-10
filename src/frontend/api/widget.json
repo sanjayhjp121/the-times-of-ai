@@ -1,209 +1,23 @@
 {
-  "updated": "2026-07-10T07:42:57.124183+00:00",
+  "updated": "2026-07-10T11:00:35.229023+00:00",
   "top_stories": [
     {
-      "article_id": "5ecf10a0a7f00cf91edcc06e4171ad84",
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "article_id": "f75895837b8f226e3e59135b72118a1a",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "published_date": "2026-07-09T18:22:39+00:00",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "published_date": "2026-07-10T00:16:54+00:00",
       "category": "Industry",
-      "description": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "author": "Tim Fernholz",
-      "content": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.925,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.8,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-10T07:42:57.084796+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-10T07:42:57.084798+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "18ef1b1b348dc0afc32c507b157818fe",
-      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
-      "published_date": "2026-07-07T15:00:52+00:00",
-      "category": "Industry",
-      "description": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
-      "author": "Ian Buck",
-      "content": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.9059999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-10T07:42:57.083792+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-10T07:42:57.083794+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1abefc8d400fbca47296720ab62e95e4",
-      "title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/",
-      "published_date": "2026-07-08T16:57:12+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore how Graph-based Retrieval Augmented Generation (GraphRAG) is transforming scientific research by combining graph databases with generative AI. With this approach, you can accelerate discovery processes without compromising scientific integrity.",
-      "author": "Jasmine Rasheed Syed",
-      "content": "In this post, we explore how Graph-based Retrieval Augmented Generation (GraphRAG) is transforming scientific research by combining graph databases with generative AI. With this approach, you can accelerate discovery processes without compromising scientific integrity.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-10T07:42:57.082954+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-10T07:42:57.082957+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "086fd13e24dedcf4c3ef1d97514fdf97",
-      "title": "Building a future tech sector that works for everyone",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/calls-for-evidence/building-a-future-tech-sector-that-works-for-everyone",
-      "published_date": "2026-07-05T23:01:03+00:00",
-      "category": "Government",
-      "description": "Women In Tech Taskforce are seeking evidence on the interventions needed to help build a tech sector that works for everyone.",
-      "author": "",
-      "content": "Women In Tech Taskforce are seeking evidence on the interventions needed to help build a tech sector that works for everyone.",
+      "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "author": "Lucas Ropek",
+      "content": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.835,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -230,24 +44,24 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.8,
+        "score": 0.8,
+        "confidence": 0.85,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-10T07:42:57.081600+00:00"
+        "consensus_timestamp": "2026-07-10T11:00:35.190187+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.6799999999999999,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-10T07:42:57.081602+00:00"
+        "timestamp": "2026-07-10T11:00:35.190189+00:00"
       },
-      "article_type": "article"
+      "article_type": "headline"
     },
     {
       "article_id": "596dabfff763b2211b0574e2f507d837",
@@ -293,10 +107,196 @@
           }
         },
         "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-10T11:00:35.189917+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-10T11:00:35.189920+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "21028582c5b3e1f12fcc27bb171d57bd",
+      "title": "Ring it on: Rural Scots get mobile signal boost as 50th UK Government-funded mast goes live",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/news/ring-it-on-rural-scots-get-mobile-signal-boost-as-50th-uk-government-funded-mast-goes-live",
+      "published_date": "2026-07-08T23:01:00+00:00",
+      "category": "Government",
+      "description": "50 UK Government-funded 4G masts have been switched on to boost signal in some of Scotland's hardest-to-reach communities.",
+      "author": "",
+      "content": "50 UK Government-funded 4G masts have been switched on to boost signal in some of Scotland's hardest-to-reach communities.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-10T11:00:35.186409+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-10T11:00:35.186414+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "6ec32ae5390b15192b675ca40d041811",
+      "title": "Guidance: Cloud Challenge Book 2026",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/cloud-challenge-book-2026",
+      "published_date": "2026-07-07T09:00:00+00:00",
+      "category": "Government",
+      "description": "DSIT’s first Cloud Challenge Book sets out challenges across the UK cloud infrastructure, and invites industry partners to innovate at a national scale.",
+      "author": "",
+      "content": "DSIT’s first Cloud Challenge Book sets out challenges across the UK cloud infrastructure, and invites industry partners to innovate at a national scale.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-10T11:00:35.186724+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-10T11:00:35.186727+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "1abefc8d400fbca47296720ab62e95e4",
+      "title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/",
+      "published_date": "2026-07-08T16:57:12+00:00",
+      "category": "Industry",
+      "description": "In this post, we explore how Graph-based Retrieval Augmented Generation (GraphRAG) is transforming scientific research by combining graph databases with generative AI. With this approach, you can accelerate discovery processes without compromising scientific integrity.",
+      "author": "Jasmine Rasheed Syed",
+      "content": "In this post, we explore how Graph-based Retrieval Augmented Generation (GraphRAG) is transforming scientific research by combining graph databases with generative AI. With this approach, you can accelerate discovery processes without compromising scientific integrity.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-10T07:42:57.084056+00:00"
+        "consensus_timestamp": "2026-07-10T11:00:35.188958+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-10T07:42:57.084058+00:00"
+        "timestamp": "2026-07-10T11:00:35.188961+00:00"
       },
       "article_type": "article"
     }
