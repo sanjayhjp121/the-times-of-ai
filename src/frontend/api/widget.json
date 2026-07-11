@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-11T06:19:17.296369+00:00",
+  "updated": "2026-07-11T09:43:39.496655+00:00",
   "top_stories": [
     {
-      "article_id": "4554ebf4d4660a16792b74b03a7323a1",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "article_id": "7a5c04b73b42ac574cf17e6b968502bc",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "published_date": "2026-07-10T21:00:29+00:00",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "published_date": "2026-07-09T19:05:58+00:00",
       "category": "Industry",
-      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "author": "Sarah Perez",
-      "content": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "author": "Rebecca Bellan",
+      "content": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.98
+        "overall_score": 0.835,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -44,24 +44,86 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
+        "score": 0.65,
+        "confidence": 0.7,
+        "recommendation": "REJECT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-11T06:19:17.253092+00:00"
+        "consensus_timestamp": "2026-07-11T09:43:39.452301+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.5900000000000001,
+        "combined_confidence": 0.62,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-11T06:19:17.253095+00:00"
+        "timestamp": "2026-07-11T09:43:39.452304+00:00"
       },
       "article_type": "headline"
+    },
+    {
+      "article_id": "8a8467a35b1d84897ea1f4ea430879d5",
+      "title": "Guidance: Manchester Prize",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/manchester-prize",
+      "published_date": "2026-07-10T08:30:02+00:00",
+      "category": "Government",
+      "description": "A landmark challenge prize representing a decade-long UK commitment to AI for public good innovation.",
+      "author": "",
+      "content": "A landmark challenge prize representing a decade-long UK commitment to AI for public good innovation.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9035,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-11T09:43:39.448705+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-11T09:43:39.448708+00:00"
+      },
+      "article_type": "article"
     },
     {
       "article_id": "9ca800bb30f0cc58ac0ac4be74383bfe",
@@ -110,7 +172,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-11T06:19:17.251571+00:00"
+        "consensus_timestamp": "2026-07-11T09:43:39.450301+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,69 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-11T06:19:17.251574+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9385e8bd773a22b7599fe9e93f6abc75",
-      "title": "Researchers discover single-cell brain activity that underlies human speech",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech",
-      "published_date": "2026-07-11T06:14:39.285302+00:00",
-      "category": "Government",
-      "description": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
-      "author": "",
-      "content": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-11T06:19:17.249065+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-11T06:19:17.249069+00:00"
+        "timestamp": "2026-07-11T09:43:39.450304+00:00"
       },
       "article_type": "article"
     },
@@ -199,72 +199,10 @@
       "content": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services. Emerging AI companies historically have […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.98,
-        "overall_score": 0.8935,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-11T06:19:17.252649+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-11T06:19:17.252652+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "115aaf324390ab85d2441f091568764e",
-      "title": "Claude in Microsoft Foundry is now generally available",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-      "published_date": "2026-06-29T17:00:00+00:00",
-      "category": "Industry",
-      "description": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog.",
-      "author": "Steve Sweetman",
-      "content": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "overall_score": 0.8999999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-11T06:19:17.251340+00:00"
+        "consensus_timestamp": "2026-07-11T09:43:39.451342+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-11T06:19:17.251342+00:00"
+        "timestamp": "2026-07-11T09:43:39.451345+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "18ef1b1b348dc0afc32c507b157818fe",
+      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+      "published_date": "2026-07-07T15:00:52+00:00",
+      "category": "Industry",
+      "description": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
+      "author": "Ian Buck",
+      "content": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-11T09:43:39.451159+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-11T09:43:39.451162+00:00"
       },
       "article_type": "article"
     }
