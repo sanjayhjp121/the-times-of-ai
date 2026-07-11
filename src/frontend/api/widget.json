@@ -1,84 +1,22 @@
 {
-  "updated": "2026-07-11T02:48:38.768718+00:00",
+  "updated": "2026-07-11T06:19:17.296369+00:00",
   "top_stories": [
     {
-      "article_id": "24c46cfd1b48f7cde3ed4946dfbe6e8c",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "article_id": "4554ebf4d4660a16792b74b03a7323a1",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "published_date": "2026-07-10T23:55:07+00:00",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "published_date": "2026-07-10T21:00:29+00:00",
       "category": "Industry",
-      "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-      "author": "Lucas Ropek",
-      "content": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.8,
-        "overall_score": 0.85,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.8,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-11T02:48:38.728286+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.6799999999999999,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-11T02:48:38.728290+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "c42d41aeacd03b4faf093e2e51692417",
-      "title": "NVIDIA and Partners Build in America, for America",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "published_date": "2026-07-01T13:00:47+00:00",
-      "category": "Industry",
-      "description": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
-      "author": "NVIDIA",
-      "content": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "author": "Sarah Perez",
+      "content": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
@@ -107,34 +45,34 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.9,
+        "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-11T02:48:38.727927+00:00"
+        "consensus_timestamp": "2026-07-11T06:19:17.253092+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.788,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-11T02:48:38.727929+00:00"
+        "timestamp": "2026-07-11T06:19:17.253095+00:00"
       },
-      "article_type": "article"
+      "article_type": "headline"
     },
     {
-      "article_id": "21edfb5c356153e6d2bda869ebbf4cec",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "published_date": "2026-06-30T00:00:00+00:00",
+      "article_id": "9ca800bb30f0cc58ac0ac4be74383bfe",
+      "title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/",
+      "published_date": "2026-07-10T15:31:12+00:00",
       "category": "Industry",
-      "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "author": "",
-      "content": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "description": "In this post we show how to build a semantic layer on AWS using Stardog’s Semantic AI Application over Amazon Aurora and Amazon Redshift, and how to run a Strands Agents agent on Amazon Bedrock AgentCore that queries the layer to answer customer 360 questions across both sources without extract, transform, and load (ETL). The same Stardog deployment works behind AWS computes (Amazon Elastic Kubernetes Service (Amazon EKS), Amazon Elastic Container Service (Amazon ECS), and AWS Lambda). We use...",
+      "author": "Navin Sharma",
+      "content": "In this post we show how to build a semantic layer on AWS using Stardog’s Semantic AI Application over Amazon Aurora and Amazon Redshift, and how to run a Strands Agents agent on Amazon Bedrock AgentCore that queries the layer to answer customer 360 questions across both sources without extract, transform, and load (ETL). The same Stardog deployment works behind AWS computes (Amazon Elastic Kubernetes Service (Amazon EKS), Amazon Elastic Container Service (Amazon ECS), and AWS Lambda). We use...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
@@ -172,7 +110,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-11T02:48:38.726201+00:00"
+        "consensus_timestamp": "2026-07-11T06:19:17.251571+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-11T02:48:38.726203+00:00"
+        "timestamp": "2026-07-11T06:19:17.251574+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "d5ade04ed1f37473b271787241aa8a41",
-      "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
-      "published_date": "2026-06-29T15:50:13+00:00",
-      "category": "Industry",
-      "description": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...",
-      "author": "Michelle Horton",
-      "content": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...",
+      "article_id": "9385e8bd773a22b7599fe9e93f6abc75",
+      "title": "Researchers discover single-cell brain activity that underlies human speech",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech",
+      "published_date": "2026-07-11T06:14:39.285302+00:00",
+      "category": "Government",
+      "description": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
+      "author": "",
+      "content": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -230,22 +168,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.99,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-11T02:48:38.729814+00:00"
+        "consensus_timestamp": "2026-07-11T06:19:17.249065+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.794,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-11T02:48:38.729816+00:00"
+        "timestamp": "2026-07-11T06:19:17.249069+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "5b3f6b58c4591191803b2c83fbd8276c",
+      "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+      "published_date": "2026-07-02T03:34:48+00:00",
+      "category": "Industry",
+      "description": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services. Emerging AI companies historically have […]",
+      "author": "Raj Mirpuri",
+      "content": "As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services. Emerging AI companies historically have […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-11T06:19:17.252649+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-11T06:19:17.252652+00:00"
       },
       "article_type": "article"
     },
@@ -293,21 +293,21 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-11T02:48:38.726706+00:00"
+        "consensus_timestamp": "2026-07-11T06:19:17.251340+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-11T02:48:38.726708+00:00"
+        "timestamp": "2026-07-11T06:19:17.251342+00:00"
       },
       "article_type": "article"
     }
