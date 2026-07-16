@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T02:47:14.970409+00:00",
+  "generated_at": "2026-07-16T06:25:30.647572+00:00",
   "articles": [
     {
       "article_id": "eeaa5762e7ee75d3818e8c8b8d6a95b8",
@@ -45,145 +45,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.928549+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-16T02:47:14.928551+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "8deb586254e469496430bef450569397",
-      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
-      "published_date": "2026-07-14T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve...",
-      "author": "Tanya Lenz",
-      "content": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.929042+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-16T02:47:14.929044+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "abd9c9dcd1be33aa1579657d75423275",
-      "title": "Building a Gin Config Controlled PyTorch Pipeline with Configurable MLP Variants, Cosine Scheduling, and Runtime Parameter Overrides",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/07/15/building-a-gin-config-controlled-pytorch-pipeline-with-configurable-mlp-variants-cosine-scheduling-and-runtime-parameter-overrides/",
-      "published_date": "2026-07-15T18:03:38+00:00",
-      "category": "Industry",
-      "description": "We build a Gin Config controlled PyTorch pipeline where the training code stays fixed and the experiment variables move into .gin files. We construct a nonlinear spiral binary classification task and define a configurable MLP with scoped architectural variants. We expose the optimizer, scheduler, loss, batching, seeding, and training loop through @gin.configurable bindings. We then run two scoped experiments, apply runtime overrides without editing source, and export the operative config for...",
-      "author": "Sana Hassan",
-      "content": "We build a Gin Config controlled PyTorch pipeline where the training code stays fixed and the experiment variables move into .gin files. We construct a nonlinear spiral binary classification task and define a configurable MLP with scoped architectural variants. We expose the optimizer, scheduler, loss, batching, seeding, and training loop through @gin.configurable bindings. We then run two scoped experiments, apply runtime overrides without editing source, and export the operative config for...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.930105+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.609224+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.930108+00:00"
+        "timestamp": "2026-07-16T06:25:30.609229+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "6216afa330c488af906c84434f800044",
+      "title": "Amazon and University of Michigan give robots a sense of touch",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/amazon-and-university-of-michigan-give-robots-a-sense-of-touch",
+      "published_date": "2026-07-10T17:13:31+00:00",
+      "category": "Industry",
+      "description": "HydroShear, a new physics-based simulator, teaches robots how to use their sense of touch to perform complex manipulation tasks, in a way that transfers seamlessly to the real world.",
+      "author": "",
+      "content": "HydroShear, a new physics-based simulator, teaches robots how to use their sense of touch to perform complex manipulation tasks, in a way that transfers seamlessly to the real world.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-16T06:25:30.610885+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-16T06:25:30.610893+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.923405+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.604847+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.923410+00:00"
+        "timestamp": "2026-07-16T06:25:30.604852+00:00"
       },
       "article_type": "article"
     },
@@ -254,7 +192,7 @@
       "title": "Researchers discover single-cell brain activity that underlies human speech",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech",
-      "published_date": "2026-07-16T02:41:19.211266+00:00",
+      "published_date": "2026-07-16T06:19:52.964313+00:00",
       "category": "Government",
       "description": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
       "author": "",
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.923526+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.604968+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.923531+00:00"
+        "timestamp": "2026-07-16T06:25:30.604973+00:00"
       },
       "article_type": "article"
     },
@@ -358,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.925831+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.606568+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.925834+00:00"
+        "timestamp": "2026-07-16T06:25:30.606572+00:00"
       },
       "article_type": "article"
     },
@@ -420,7 +358,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.926054+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.606756+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,88 +369,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.926057+00:00"
+        "timestamp": "2026-07-16T06:25:30.606759+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2e143b4895ee13b6b975ca2f132b4179",
-      "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
-      "published_date": "2026-07-14T16:33:08+00:00",
+      "article_id": "8deb586254e469496430bef450569397",
+      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "published_date": "2026-07-14T16:00:00+00:00",
       "category": "Industry",
-      "description": "In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a production-grade, AI-powered medical content review and generation system built on Amazon Bedrock. T",
-      "author": "Konstantin Lekh",
-      "content": "In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a production-grade, AI-powered medical content review and generation system built on Amazon Bedrock. T",
+      "description": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve...",
+      "author": "Tanya Lenz",
+      "content": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.926701+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-16T02:47:14.926704+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e0cedfe59b76ec67d22c2a6e88f6cdaa",
-      "title": "Built to bounce back: How Azure resiliency evolved",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
-      "published_date": "2026-07-08T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints. The post Built to bounce back: How Azure resiliency evolved appeared first on Microsoft Azure Blog.",
-      "author": "Rochak Mittal, Amit Ganguli, Surya Sripathi Raju and Molina Sharma",
-      "content": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints. The post Built to bounce back: How Azure resiliency evolved appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -540,146 +416,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
+        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.926284+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.609632+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
+        "weighted_score": 0.71,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.926287+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "f75b2182cffd0d1e942cccd01001f549",
-      "title": "Capturing token IDs during agentic interactions for better reinforcement learning",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/capturing-token-ids-during-agentic-interactions-for-better-reinforcement-learning",
-      "published_date": "2026-07-09T12:46:00+00:00",
-      "category": "Industry",
-      "description": "A new Rust proxy called Turnstile sits between the model backend and the agent harness to capture information lost in mere text transcripts.",
-      "author": "",
-      "content": "A new Rust proxy called Turnstile sits between the model backend and the agent harness to capture information lost in mere text transcripts.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.929846+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-16T02:47:14.929848+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b21f6fd54c4f2aeac50ddb87990b54a7",
-      "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/",
-      "published_date": "2026-07-10T18:17:40+00:00",
-      "category": "Industry",
-      "description": "Large language model (LLM) training workloads increasingly run into GPU memory limits before compute is fully used. Model weights, gradients, optimizer states,...",
-      "author": "Tanya Lenz",
-      "content": "Large language model (LLM) training workloads increasingly run into GPU memory limits before compute is fully used. Model weights, gradients, optimizer states,...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.929311+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-16T02:47:14.929314+00:00"
+        "timestamp": "2026-07-16T06:25:30.609635+00:00"
       },
       "article_type": "article"
     },
@@ -696,9 +448,71 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-16T06:25:30.609896+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-16T06:25:30.609898+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "570ad23d6d2eb7d2c3bebc393975254a",
+      "title": "Meet the DARPA Lift Challenge teams",
+      "source": "darpa_ai_research",
+      "url": "https://www.darpa.mil/news/2026/meet-lift-challenge-teams",
+      "published_date": "2026-07-08T13:31:54+00:00",
+      "category": "Government",
+      "description": "Over 120 teams to compete for $6.5 million in prizes and test novel, heavy-lift drone designs.",
+      "author": "outreach@darpa.mil",
+      "content": "Over 120 teams to compete for $6.5 million in prizes and test novel, heavy-lift drone designs.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -730,7 +544,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.929452+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.605423+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,20 +555,144 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.929455+00:00"
+        "timestamp": "2026-07-16T06:25:30.605426+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "b43fecd4492a45b4669b70be575f2c00",
-      "title": "Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72/",
-      "published_date": "2026-07-08T16:05:25+00:00",
+      "article_id": "c0a0775ec2cd15871943c772f2d1b42b",
+      "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
+      "published_date": "2026-07-10T15:35:05+00:00",
       "category": "Industry",
-      "description": "Presto is an open source, distributed SQL engine for running fast, interactive queries on very large datasets. On NVIDIA GPUs, Presto delivers peak performance...",
-      "author": "Tanya Lenz",
-      "content": "Presto is an open source, distributed SQL engine for running fast, interactive queries on very large datasets. On NVIDIA GPUs, Presto delivers peak performance...",
+      "description": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.",
+      "author": "Sandeep Raveesh-Babu",
+      "content": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-16T06:25:30.607736+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-16T06:25:30.607739+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ed0fe64474878f2e0052a063bdfc9454",
+      "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
+      "published_date": "2026-07-10T15:28:54+00:00",
+      "category": "Industry",
+      "description": "In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and explore the lifecycle of cases in an agentic workflow from case creation through processing to resolution. We cover how to create and manage single or multiple cases, automatically track and update status, handle exceptions, and incorporate Human-in-the-loop (HITL) steps within workflows. We also show the case creator-processor pattern that enables...",
+      "author": "Sumit Wasuja",
+      "content": "In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and explore the lifecycle of cases in an agentic workflow from case creation through processing to resolution. We cover how to create and manage single or multiple cases, automatically track and update status, handle exceptions, and incorporate Human-in-the-loop (HITL) steps within workflows. We also show the case creator-processor pattern that enables...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-16T06:25:30.607871+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-16T06:25:30.607874+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "cb3bc9b15bc0816f1ff750de0d18705c",
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "published_date": "2026-07-15T10:51:37+00:00",
+      "category": "Industry",
+      "description": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest advancements. Check back here for updates.",
+      "author": "NVIDIA Writers",
+      "content": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. This week NVIDIA and its partners in Japan are showcasing the AI ecosystem’s latest advancements. Check back here for updates.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -788,22 +726,146 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.8,
+        "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.929592+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.608100+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.6799999999999999,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.929595+00:00"
+        "timestamp": "2026-07-16T06:25:30.608103+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "41dd9a9fe03b7c45ec22c2ec2ed4ae06",
+      "title": "NIH research establishes new framework for the role of senescence in aging",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nih-research-establishes-new-framework-role-senescence-aging",
+      "published_date": "2026-07-16T06:19:52.964615+00:00",
+      "category": "Government",
+      "description": "First large-scale atlas of senescent cells could help inform future therapies for age-related diseases.",
+      "author": "",
+      "content": "First large-scale atlas of senescent cells could help inform future therapies for age-related diseases.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-16T06:25:30.605125+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-16T06:25:30.605128+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "3a8d18aa8a902e2554b2e5b188e9a7a1",
+      "title": "Independent report: Children's wellbeing online: social media quantitative and qualitative report",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/childrens-wellbeing-online-social-media-quantitative-and-qualitative-report",
+      "published_date": "2026-07-15T11:20:37+00:00",
+      "category": "Government",
+      "description": "Research into parents' and children's views on social media use, potential restrictions, and the possible introduction of an under-16 ban.",
+      "author": "",
+      "content": "Research into parents' and children's views on social media use, potential restrictions, and the possible introduction of an under-16 ban.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8450000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.8,
+        "confidence": 0.85,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-16T06:25:30.605470+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6799999999999999,
+        "combined_confidence": 0.71,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-16T06:25:30.605473+00:00"
       },
       "article_type": "article"
     },
@@ -854,7 +916,7 @@
         "confidence": 0.8,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.925181+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.605882+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,69 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.925189+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "841253bbf631c8c9f9e3a74f952402db",
-      "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
-      "published_date": "2026-07-15T21:57:23+00:00",
-      "category": "Industry",
-      "description": "OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation...",
-      "author": "Michelle Horton",
-      "content": "OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.928913+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-16T02:47:14.928915+00:00"
+        "timestamp": "2026-07-16T06:25:30.605885+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 289.84304428100586,
+    "processing_time": 267.5685257911682,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 121,
+      "total_processed": 115,
       "candidates": {
-        "headlines": 16,
-        "articles": 105,
+        "headlines": 15,
+        "articles": 100,
         "research_papers": 0
       },
       "selected": {

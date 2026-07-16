@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T02:47:14.973345+00:00",
+  "updated": "2026-07-16T06:25:30.650370+00:00",
   "top_stories": [
     {
       "article_id": "eeaa5762e7ee75d3818e8c8b8d6a95b8",
@@ -45,145 +45,83 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.85,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.928549+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.71,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-16T02:47:14.928551+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "8deb586254e469496430bef450569397",
-      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
-      "published_date": "2026-07-14T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve...",
-      "author": "Tanya Lenz",
-      "content": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.929042+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-16T02:47:14.929044+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "abd9c9dcd1be33aa1579657d75423275",
-      "title": "Building a Gin Config Controlled PyTorch Pipeline with Configurable MLP Variants, Cosine Scheduling, and Runtime Parameter Overrides",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/07/15/building-a-gin-config-controlled-pytorch-pipeline-with-configurable-mlp-variants-cosine-scheduling-and-runtime-parameter-overrides/",
-      "published_date": "2026-07-15T18:03:38+00:00",
-      "category": "Industry",
-      "description": "We build a Gin Config controlled PyTorch pipeline where the training code stays fixed and the experiment variables move into .gin files. We construct a nonlinear spiral binary classification task and define a configurable MLP with scoped architectural variants. We expose the optimizer, scheduler, loss, batching, seeding, and training loop through @gin.configurable bindings. We then run two scoped experiments, apply runtime overrides without editing source, and export the operative config for...",
-      "author": "Sana Hassan",
-      "content": "We build a Gin Config controlled PyTorch pipeline where the training code stays fixed and the experiment variables move into .gin files. We construct a nonlinear spiral binary classification task and define a configurable MLP with scoped architectural variants. We expose the optimizer, scheduler, loss, batching, seeding, and training loop through @gin.configurable bindings. We then run two scoped experiments, apply runtime overrides without editing source, and export the operative config for...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.85,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.930105+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.609224+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.930108+00:00"
+        "timestamp": "2026-07-16T06:25:30.609229+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "6216afa330c488af906c84434f800044",
+      "title": "Amazon and University of Michigan give robots a sense of touch",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/amazon-and-university-of-michigan-give-robots-a-sense-of-touch",
+      "published_date": "2026-07-10T17:13:31+00:00",
+      "category": "Industry",
+      "description": "HydroShear, a new physics-based simulator, teaches robots how to use their sense of touch to perform complex manipulation tasks, in a way that transfers seamlessly to the real world.",
+      "author": "",
+      "content": "HydroShear, a new physics-based simulator, teaches robots how to use their sense of touch to perform complex manipulation tasks, in a way that transfers seamlessly to the real world.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.98,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-16T06:25:30.610885+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.788,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-16T06:25:30.610893+00:00"
       },
       "article_type": "article"
     },
@@ -234,7 +172,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.923405+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.604847+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.923410+00:00"
+        "timestamp": "2026-07-16T06:25:30.604852+00:00"
       },
       "article_type": "article"
     },
@@ -254,7 +192,7 @@
       "title": "Researchers discover single-cell brain activity that underlies human speech",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech",
-      "published_date": "2026-07-16T02:41:19.211266+00:00",
+      "published_date": "2026-07-16T06:19:52.964313+00:00",
       "category": "Government",
       "description": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
       "author": "",
@@ -296,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T02:47:14.923526+00:00"
+        "consensus_timestamp": "2026-07-16T06:25:30.604968+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T02:47:14.923531+00:00"
+        "timestamp": "2026-07-16T06:25:30.604973+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "199f3a79b3a22fee695e6bbb31f37b9e",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/gpt-5-6",
+      "published_date": "2026-07-09T10:00:00+00:00",
+      "category": "Industry",
+      "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "author": "",
+      "content": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-16T06:25:30.606568+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-16T06:25:30.606572+00:00"
       },
       "article_type": "article"
     }
