@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T06:25:30.650370+00:00",
+  "updated": "2026-07-16T10:14:51.537227+00:00",
   "top_stories": [
     {
       "article_id": "eeaa5762e7ee75d3818e8c8b8d6a95b8",
@@ -48,7 +48,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T06:25:30.609224+00:00"
+        "consensus_timestamp": "2026-07-16T10:14:51.506964+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,151 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T06:25:30.609229+00:00"
+        "timestamp": "2026-07-16T10:14:51.506966+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "6216afa330c488af906c84434f800044",
-      "title": "Amazon and University of Michigan give robots a sense of touch",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/blog/amazon-and-university-of-michigan-give-robots-a-sense-of-touch",
-      "published_date": "2026-07-10T17:13:31+00:00",
+      "article_id": "7d6c9aaab4f3ba3f1ad6de2a5b5fa80d",
+      "title": "The US is advancing AI safety through state and federal action",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "published_date": "2026-07-15T12:00:00+00:00",
       "category": "Industry",
-      "description": "HydroShear, a new physics-based simulator, teaches robots how to use their sense of touch to perform complex manipulation tasks, in a way that transfers seamlessly to the real world.",
+      "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "author": "",
-      "content": "HydroShear, a new physics-based simulator, teaches robots how to use their sense of touch to perform complex manipulation tasks, in a way that transfers seamlessly to the real world.",
+      "content": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.95
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-16T10:14:51.504903+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-16T10:14:51.504905+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "2e143b4895ee13b6b975ca2f132b4179",
+      "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
+      "published_date": "2026-07-14T16:33:08+00:00",
+      "category": "Industry",
+      "description": "In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a production-grade, AI-powered medical content review and generation system built on Amazon Bedrock. T",
+      "author": "Konstantin Lekh",
+      "content": "In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a production-grade, AI-powered medical content review and generation system built on Amazon Bedrock. T",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-16T10:14:51.505688+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-16T10:14:51.505691+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "29a214b3bb8f0041da3d6a4df23af948",
+      "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit/",
+      "published_date": "2026-07-10T13:00:00+00:00",
+      "category": "Industry",
+      "description": "Biomolecular structure prediction and co-folding with models like OpenFold3 are now mainstream, large-scale workloads powering drug discovery and protein...",
+      "author": "Elizabeth Goodman",
+      "content": "Biomolecular structure prediction and co-folding with models like OpenFold3 are now mainstream, large-scale workloads powering drug discovery and protein...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +234,7 @@
         "confidence": 0.98,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T06:25:30.610885+00:00"
+        "consensus_timestamp": "2026-07-16T10:14:51.507545+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,150 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T06:25:30.610893+00:00"
+        "timestamp": "2026-07-16T10:14:51.507547+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "59d663906b7710f1d43b531a23e09621",
-      "title": "Arvind Raman Confirmed as the 18th NIST Director",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/07/arvind-raman-confirmed-18th-nist-director",
-      "published_date": "2026-07-06T12:00:00+00:00",
-      "category": "Government",
-      "description": "Raman comes to NIST from Purdue University, where he was the dean of engineering.",
-      "author": "Sarah Henderson",
-      "content": "Raman comes to NIST from Purdue University, where he was the dean of engineering.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T06:25:30.604847+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-16T06:25:30.604852+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "9385e8bd773a22b7599fe9e93f6abc75",
-      "title": "Researchers discover single-cell brain activity that underlies human speech",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/researchers-discover-single-cell-brain-activity-underlies-human-speech",
-      "published_date": "2026-07-16T06:19:52.964313+00:00",
-      "category": "Government",
-      "description": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
-      "author": "",
-      "content": "With neuronal data, AI models predicted grammar, meaning, and context of spoken sentences.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.8
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T06:25:30.604968+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-16T06:25:30.604973+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "199f3a79b3a22fee695e6bbb31f37b9e",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/gpt-5-6",
-      "published_date": "2026-07-09T10:00:00+00:00",
+      "article_id": "8deb586254e469496430bef450569397",
+      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "published_date": "2026-07-14T16:00:00+00:00",
       "category": "Industry",
-      "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "author": "",
-      "content": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "description": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve...",
+      "author": "Tanya Lenz",
+      "content": "Coding AI agents are becoming practical operators for long-running machine learning (ML) workflows. They can inspect repositories, set up runtimes, resolve...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +296,7 @@
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-16T06:25:30.606568+00:00"
+        "consensus_timestamp": "2026-07-16T10:14:51.507310+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-16T06:25:30.606572+00:00"
+        "timestamp": "2026-07-16T10:14:51.507311+00:00"
       },
       "article_type": "article"
     }
