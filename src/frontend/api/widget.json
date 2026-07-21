@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-21T17:27:46.913599+00:00",
+  "updated": "2026-07-21T21:16:02.990956+00:00",
   "top_stories": [
     {
-      "article_id": "cf62c6a4d83f38d8b5067ab29e61cdbb",
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "article_id": "0a4d00be569fbc5a58367c20472be513",
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "published_date": "2026-07-20T15:23:06+00:00",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "published_date": "2026-07-21T15:37:05+00:00",
       "category": "Industry",
-      "description": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "author": "Sarah Perez",
-      "content": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "description": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+      "author": "Rebecca Bellan",
+      "content": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-21T17:27:46.874475+00:00"
+        "consensus_timestamp": "2026-07-21T21:16:02.947461+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,213 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-21T17:27:46.874477+00:00"
+        "timestamp": "2026-07-21T21:16:02.947465+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "2340ab7ec761a51f1ddf71767edf6fcb",
-      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
-      "published_date": "2026-07-21T15:00:00+00:00",
+      "article_id": "af6b145aafd06de47290b77d8387ba98",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/cars24",
+      "published_date": "2026-07-16T00:00:00+00:00",
       "category": "Industry",
-      "description": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with...",
-      "author": "Michelle Horton",
-      "content": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with...",
+      "description": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "author": "",
+      "content": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-21T21:16:02.945123+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-21T21:16:02.945126+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4d76baaebe907d506b61a63f551e15ae",
+      "title": "Guidance: AI Research Resource",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/ai-research-resource",
+      "published_date": "2026-07-17T15:00:03+00:00",
+      "category": "Government",
+      "description": "The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to researchers, academia, and industry.",
+      "author": "",
+      "content": "The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to researchers, academia, and industry.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8999999999999999,
+        "confidence_mean": 0.98
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-21T21:16:02.944543+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-21T21:16:02.944546+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "17d0ba49a11eea9400224dc6f69f56ae",
+      "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/money/filecoin-price-prediction",
+      "published_date": "2026-07-21T14:20:41+00:00",
+      "category": "Industry",
+      "description": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
+      "author": "Ishan Jain",
+      "content": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you’re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been …...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.95,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8875000000000001,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.75,
+        "confidence": 0.8,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-21T21:16:02.950188+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.6499999999999999,
+        "combined_confidence": 0.6799999999999999,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-21T21:16:02.950191+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "62df8e0a6a40e7ddf0bf9eb2319250f4",
+      "title": "Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/",
+      "published_date": "2026-07-20T01:18:46+00:00",
+      "category": "Industry",
+      "description": "A single 24GB GPU is the practical floor for serious local inference. This guide compares six open-weight models that fit one card at Q4_K_M. It covers Qwen3.6, Gemma 4, Mistral Small, gpt-oss-20b, and DeepSeek-R1-Distill. Each entry lists VRAM fit, licensing, and the job it does best. The post Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared appeared first on MarkTechPost.",
+      "author": "Michal Sutter",
+      "content": "A single 24GB GPU is the practical floor for serious local inference. This guide compares six open-weight models that fit one card at Q4_K_M. It covers Qwen3.6, Gemma 4, Mistral Small, gpt-oss-20b, and DeepSeek-R1-Distill. Each entry lists VRAM fit, licensing, and the job it does best. The post Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +296,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-21T17:27:46.874797+00:00"
+        "consensus_timestamp": "2026-07-21T21:16:02.950521+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,193 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-21T17:27:46.874800+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e0cedfe59b76ec67d22c2a6e88f6cdaa",
-      "title": "Built to bounce back: How Azure resiliency evolved",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
-      "published_date": "2026-07-08T16:00:00+00:00",
-      "category": "Industry",
-      "description": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints. The post Built to bounce back: How Azure resiliency evolved appeared first on Microsoft Azure Blog.",
-      "author": "Rochak Mittal, Amit Ganguli, Surya Sripathi Raju and Molina Sharma",
-      "content": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints. The post Built to bounce back: How Azure resiliency evolved appeared first on Microsoft Azure Blog.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-21T17:27:46.871759+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-21T17:27:46.871762+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d48a477486052128423d04af6758b10f",
-      "title": "DARPA and U.S. Air Force fly AI-controlled F-16, paving the way for autonomous air combat",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "published_date": "2026-07-16T13:42:00+00:00",
-      "category": "Government",
-      "description": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
-      "author": "outreach@darpa.mil",
-      "content": "Historic VENOM milestone demonstrates scalable AI development capabilities for the operational fleet.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-21T17:27:46.869974+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-21T17:27:46.869977+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "725362db573c929ed2b331ce4d663e12",
-      "title": "Helping K–12 educators build practical AI skills",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "published_date": "2026-07-08T10:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "author": "",
-      "content": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-21T17:27:46.871620+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-21T17:27:46.871623+00:00"
+        "timestamp": "2026-07-21T21:16:02.950524+00:00"
       },
       "article_type": "article"
     }
