@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T21:03:56.880638+00:00",
+  "updated": "2026-07-27T03:21:32.517765+00:00",
   "top_stories": [
     {
       "article_id": "d5b7a08dd31ad2aecde9d1c6b508fe36",
@@ -13,10 +13,72 @@
       "content": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-27T03:21:32.490738+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-27T03:21:32.490740+00:00"
+      },
+      "article_type": "headline"
+    },
+    {
+      "article_id": "dcbb7302a878d51c21e4f07355034996",
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "source": "nvidia_blog",
+      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "published_date": "2026-07-23T02:00:46+00:00",
+      "category": "Industry",
+      "description": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
+      "author": "NVIDIA Writers",
+      "content": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "novelty_score": 0.85,
+        "impact_score": 0.95,
+        "overall_score": 0.9125000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +110,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-26T21:03:56.856281+00:00"
+        "consensus_timestamp": "2026-07-27T03:21:32.490083+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,26 +121,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-26T21:03:56.856283+00:00"
+        "timestamp": "2026-07-27T03:21:32.490085+00:00"
       },
-      "article_type": "headline"
+      "article_type": "article"
     },
     {
-      "article_id": "35a81546b924196eae9f1fb7a14fc985",
-      "title": "Towards a quantum computer that learns from its errors",
-      "source": "google_research_blog",
-      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
-      "published_date": "2026-07-22T18:40:21+00:00",
+      "article_id": "734944eecf2d6f7cc68ddf2ff600696e",
+      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "published_date": "2026-07-21T18:30:00+00:00",
       "category": "Industry",
-      "description": "Machine Intelligence",
-      "author": "",
-      "content": "Machine Intelligence",
+      "description": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token...",
+      "author": "Kirthi Devleker",
+      "content": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
-        "quality_score": 0.85,
+        "quality_score": 0.9,
         "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.8935,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -107,40 +169,40 @@
           }
         },
         "score": 0.95,
-        "confidence": 0.99,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-26T21:03:56.857463+00:00"
+        "consensus_timestamp": "2026-07-27T03:21:32.491569+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.77,
-        "combined_confidence": 0.794,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-26T21:03:56.857465+00:00"
+        "timestamp": "2026-07-27T03:21:32.491571+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c50e860dad0551e1e586dc35f386d631",
-      "title": "Advancing the next era of national science",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "published_date": "2026-07-22T12:00:00+00:00",
+      "article_id": "f427635d68be4e9a7fb8748eaeb07d24",
+      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+      "published_date": "2026-07-24T14:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "author": "",
-      "content": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "description": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
+      "author": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
+      "content": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -148,15 +210,15 @@
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -168,104 +230,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-26T21:03:56.854773+00:00"
+        "consensus_timestamp": "2026-07-27T03:21:32.491063+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-26T21:03:56.854774+00:00"
+        "timestamp": "2026-07-27T03:21:32.491065+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "eccf6b9465e81fce474340e3d6e50dd4",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/ntt-data",
-      "published_date": "2026-07-22T00:00:00+00:00",
-      "category": "Industry",
-      "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "author": "",
-      "content": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-26T21:03:56.854830+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-26T21:03:56.854832+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b43cfb30b72f0922c1e5ea7d7ccb0547",
-      "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
+      "article_id": "e0dd1f31a41ff2b5db066aea08f41bf4",
+      "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
       "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
-      "published_date": "2026-07-23T17:00:20+00:00",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+      "published_date": "2026-07-24T17:59:03+00:00",
       "category": "Industry",
-      "description": "Together, Motorway and AWS built an end-to-end evaluation pipeline that reduced incorrect results from 1 in 8 queries to 1 in 50 and cut issue detection time from few hours to few minutes. The pipeline combines the Strands Agents SDK with Amazon Bedrock AgentCore, a fully managed service for deploying and operating AI agents at scale. In this post, you will learn how to build this pipeline for your own agents.",
-      "author": "Amit Deol",
-      "content": "Together, Motorway and AWS built an end-to-end evaluation pipeline that reduced incorrect results from 1 in 8 queries to 1 in 50 and cut issue detection time from few hours to few minutes. The pipeline combines the Strands Agents SDK with Amazon Bedrock AgentCore, a fully managed service for deploying and operating AI agents at scale. In this post, you will learn how to build this pipeline for your own agents.",
+      "description": "This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock. See the documentation for Claude Platform on AWS.",
+      "author": "Aamna Najmi",
+      "content": "This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock. See the documentation for Claude Platform on AWS.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-26T21:03:56.855371+00:00"
+        "consensus_timestamp": "2026-07-27T03:21:32.489391+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-26T21:03:56.855372+00:00"
+        "timestamp": "2026-07-27T03:21:32.489393+00:00"
       },
       "article_type": "article"
     }
