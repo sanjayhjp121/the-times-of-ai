@@ -1,22 +1,22 @@
 {
-  "updated": "2026-07-27T21:17:33.950976+00:00",
+  "updated": "2026-07-28T02:41:29.549687+00:00",
   "top_stories": [
     {
-      "article_id": "ff145b71aca353a04c36ec38bed19ac5",
-      "title": "NIH launches new office to advance human-based research and reduce animal use",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use",
-      "published_date": "2026-07-27T21:11:34.187191+00:00",
-      "category": "Government",
-      "description": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
-      "author": "",
-      "content": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
+      "article_id": "3eabbd68153b96b52ebca476ada3ec78",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "published_date": "2026-07-27T20:19:42+00:00",
+      "category": "Industry",
+      "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "content": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.913266+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.512645+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.913271+00:00"
+        "timestamp": "2026-07-28T02:41:29.512647+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "3c70a940b31ee9a98c8d3ea8f8271faf",
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      "article_id": "dca48333195205d28f7170ba951330d6",
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "published_date": "2026-07-27T09:00:07+00:00",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "published_date": "2026-07-17T15:00:14+00:00",
       "category": "Industry",
-      "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
-      "author": "NVIDIA",
-      "content": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
+      "description": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+      "author": "Kirthi Develeker",
+      "content": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.98
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +110,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.916103+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.512289+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +121,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.916105+00:00"
+        "timestamp": "2026-07-28T02:41:29.512292+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "eb1b339abd256b2191a4c2d0fdc82598",
+      "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
+      "published_date": "2026-07-20T16:58:52+00:00",
+      "category": "Industry",
+      "description": "This post describes how Couchbase adopted Amazon Bedrock to power Capella iQ with Anthropic’s Claude family of models, the architectural decisions behind their multi-model approach, and the operational benefits realized in production.",
+      "author": "Tushar Madaan",
+      "content": "This post describes how Couchbase adopted Amazon Bedrock to power Capella iQ with Anthropic’s Claude family of models, the architectural decisions behind their multi-model approach, and the operational benefits realized in production.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-28T02:41:29.511598+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-28T02:41:29.511601+00:00"
       },
       "article_type": "article"
     },
@@ -130,7 +192,7 @@
       "title": "New Alzheimer’s blood test may tell when symptoms are around the corner",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/new-alzheimers-blood-test-may-tell-when-symptoms-are-around-corner",
-      "published_date": "2026-07-27T21:11:34.186947+00:00",
+      "published_date": "2026-07-28T02:36:11.044677+00:00",
       "category": "Government",
       "description": "A novel biomarker beats the leading diagnostic blood test at predicting disease progression.",
       "author": "",
@@ -138,9 +200,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.913123+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.508756+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,88 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.913126+00:00"
+        "timestamp": "2026-07-28T02:41:29.508759+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "41dd9a9fe03b7c45ec22c2ec2ed4ae06",
-      "title": "NIH research establishes new framework for the role of senescence in aging",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-research-establishes-new-framework-role-senescence-aging",
-      "published_date": "2026-07-27T21:11:34.187291+00:00",
-      "category": "Government",
-      "description": "First large-scale atlas of senescent cells could help inform future therapies for age-related diseases.",
-      "author": "",
-      "content": "First large-scale atlas of senescent cells could help inform future therapies for age-related diseases.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.913696+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-27T21:17:33.913699+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "eccf6b9465e81fce474340e3d6e50dd4",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/ntt-data",
-      "published_date": "2026-07-22T00:00:00+00:00",
+      "article_id": "35a81546b924196eae9f1fb7a14fc985",
+      "title": "Towards a quantum computer that learns from its errors",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+      "published_date": "2026-07-22T18:40:21+00:00",
       "category": "Industry",
-      "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "description": "Machine Intelligence",
       "author": "",
-      "content": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "content": "Machine Intelligence",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -272,15 +272,15 @@
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -292,22 +292,22 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.914579+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.514379+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.914582+00:00"
+        "timestamp": "2026-07-28T02:41:29.514381+00:00"
       },
       "article_type": "article"
     }

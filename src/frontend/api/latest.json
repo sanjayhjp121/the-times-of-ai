@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-27T21:17:33.948007+00:00",
+  "generated_at": "2026-07-28T02:41:29.546705+00:00",
   "articles": [
     {
-      "article_id": "ff145b71aca353a04c36ec38bed19ac5",
-      "title": "NIH launches new office to advance human-based research and reduce animal use",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-launches-new-office-advance-human-based-research-reduce-animal-use",
-      "published_date": "2026-07-27T21:11:34.187191+00:00",
-      "category": "Government",
-      "description": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
-      "author": "",
-      "content": "New office will coordinate efforts to develop, validate and scale animal-free research models.",
+      "article_id": "3eabbd68153b96b52ebca476ada3ec78",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "source": "techcrunch_ai",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "published_date": "2026-07-27T20:19:42+00:00",
+      "category": "Industry",
+      "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "content": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.913266+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.512645+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,27 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.913271+00:00"
+        "timestamp": "2026-07-28T02:41:29.512647+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "3c70a940b31ee9a98c8d3ea8f8271faf",
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      "article_id": "dca48333195205d28f7170ba951330d6",
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "published_date": "2026-07-27T09:00:07+00:00",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "published_date": "2026-07-17T15:00:14+00:00",
       "category": "Industry",
-      "description": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
-      "author": "NVIDIA",
-      "content": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance — building on the leadership of […]",
+      "description": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+      "author": "Kirthi Develeker",
+      "content": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.98
+        "impact_score": 0.99,
+        "overall_score": 0.9079999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -110,7 +110,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.916103+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.512289+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -121,7 +121,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.916105+00:00"
+        "timestamp": "2026-07-28T02:41:29.512292+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "eb1b339abd256b2191a4c2d0fdc82598",
+      "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
+      "published_date": "2026-07-20T16:58:52+00:00",
+      "category": "Industry",
+      "description": "This post describes how Couchbase adopted Amazon Bedrock to power Capella iQ with Anthropic’s Claude family of models, the architectural decisions behind their multi-model approach, and the operational benefits realized in production.",
+      "author": "Tushar Madaan",
+      "content": "This post describes how Couchbase adopted Amazon Bedrock to power Capella iQ with Anthropic’s Claude family of models, the architectural decisions behind their multi-model approach, and the operational benefits realized in production.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-28T02:41:29.511598+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-28T02:41:29.511601+00:00"
       },
       "article_type": "article"
     },
@@ -130,7 +192,7 @@
       "title": "New Alzheimer’s blood test may tell when symptoms are around the corner",
       "source": "nih_ai_news",
       "url": "https://www.nih.gov/news-events/news-releases/new-alzheimers-blood-test-may-tell-when-symptoms-are-around-corner",
-      "published_date": "2026-07-27T21:11:34.186947+00:00",
+      "published_date": "2026-07-28T02:36:11.044677+00:00",
       "category": "Government",
       "description": "A novel biomarker beats the leading diagnostic blood test at predicting disease progression.",
       "author": "",
@@ -138,9 +200,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.913123+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.508756+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,88 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.913126+00:00"
+        "timestamp": "2026-07-28T02:41:29.508759+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "41dd9a9fe03b7c45ec22c2ec2ed4ae06",
-      "title": "NIH research establishes new framework for the role of senescence in aging",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-research-establishes-new-framework-role-senescence-aging",
-      "published_date": "2026-07-27T21:11:34.187291+00:00",
-      "category": "Government",
-      "description": "First large-scale atlas of senescent cells could help inform future therapies for age-related diseases.",
-      "author": "",
-      "content": "First large-scale atlas of senescent cells could help inform future therapies for age-related diseases.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.913696+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-27T21:17:33.913699+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "eccf6b9465e81fce474340e3d6e50dd4",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/ntt-data",
-      "published_date": "2026-07-22T00:00:00+00:00",
+      "article_id": "35a81546b924196eae9f1fb7a14fc985",
+      "title": "Towards a quantum computer that learns from its errors",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+      "published_date": "2026-07-22T18:40:21+00:00",
       "category": "Industry",
-      "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "description": "Machine Intelligence",
       "author": "",
-      "content": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "content": "Machine Intelligence",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "impact_score": 0.95,
+        "overall_score": 0.8975,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -272,15 +272,15 @@
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -292,35 +292,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.914579+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.514379+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.914582+00:00"
+        "timestamp": "2026-07-28T02:41:29.514381+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c42d41aeacd03b4faf093e2e51692417",
-      "title": "NVIDIA and Partners Build in America, for America",
+      "article_id": "dcbb7302a878d51c21e4f07355034996",
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "published_date": "2026-07-21T13:00:47+00:00",
+      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "published_date": "2026-07-23T02:00:46+00:00",
       "category": "Industry",
-      "description": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
-      "author": "NVIDIA",
-      "content": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "description": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
+      "author": "NVIDIA Writers",
+      "content": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platforms fully online for the students, researchers and faculty at the U.S. military’s flagship graduate university. “Our nation depends on our men and women […]",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -358,7 +358,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.916503+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.511918+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,27 +369,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.916506+00:00"
+        "timestamp": "2026-07-28T02:41:29.511920+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "734944eecf2d6f7cc68ddf2ff600696e",
-      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
+      "article_id": "0402f73fc1f08d7e5ab077b6662b6300",
+      "title": "Start Customizing NVIDIA Nemotron 3 Nano with Prime Intellect Lab in Minutes",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
-      "published_date": "2026-07-21T18:30:00+00:00",
+      "url": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes/",
+      "published_date": "2026-07-23T16:00:00+00:00",
       "category": "Industry",
-      "description": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token...",
-      "author": "Kirthi Devleker",
-      "content": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token...",
+      "description": "Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a...",
+      "author": "Michelle Horton",
+      "content": "Customization is what enables developers to take a general model and tailor it to use cases, domains, languages, and more. However, customization comes with a...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.95
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -416,165 +416,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.95,
-        "confidence": 0.98,
+        "score": 0.88,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.917687+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.513583+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
+        "weighted_score": 0.728,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.917690+00:00"
+        "timestamp": "2026-07-28T02:41:29.513586+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "fb2358f933aeeb98ba1f8331f74bff23",
-      "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
-      "published_date": "2026-07-24T15:40:08+00:00",
+      "article_id": "47dda6794550d3bff38a114d9ece05a6",
+      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "published_date": "2026-07-21T18:15:00+00:00",
       "category": "Industry",
-      "description": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock. Learn how to select a model, run inference through the Responses API on the bedrock-mantle endpoint, reduce cost with prompt caching, connect the OpenAI Codex coding agent, and plan for quotas and scaling.",
-      "author": "Zohreh Norouzi",
-      "content": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock. Learn how to select a model, run inference through the Responses API on the bedrock-mantle endpoint, reduce cost with prompt caching, connect the OpenAI Codex coding agent, and plan for quotas and scaling.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8599999999999999,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.915440+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-27T21:17:33.915442+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ebdc87d8e099be515105f6d2ff715d71",
-      "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/",
-      "published_date": "2026-07-21T16:23:12+00:00",
-      "category": "Industry",
-      "description": "In this post, we explore an idea for generating thinking tokens for datasets that lack reasoning traces in SFT customization. We first examine the reasoning suppression problem, then introduce Self-Distilled Reasoning (SDR), validate it across three benchmarks, and provide practical recommendations.",
-      "author": "Rushil Anirudh",
-      "content": "In this post, we explore an idea for generating thinking tokens for datasets that lack reasoning traces in SFT customization. We first examine the reasoning suppression problem, then introduce Self-Distilled Reasoning (SDR), validate it across three benchmarks, and provide practical recommendations.",
+      "description": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale....",
+      "author": "Eduardo Alvarez",
+      "content": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale....",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.915799+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-27T21:17:33.915801+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "647855e793f04c35f5e49e1496629e07",
-      "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning/",
-      "published_date": "2026-07-14T18:20:32+00:00",
-      "category": "Industry",
-      "description": "The NVIDIA Nemotron Model Reasoning Challenge invited the Kaggle community to explore a focused question: What techniques can improve reasoning accuracy when...",
-      "author": "Elizabeth Goodman",
-      "content": "The NVIDIA Nemotron Model Reasoning Challenge invited the Kaggle community to explore a focused question: What techniques can improve reasoning accuracy when...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8625000000000002,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -603,40 +479,40 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.918181+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.513715+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.918183+00:00"
+        "timestamp": "2026-07-28T02:41:29.513718+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "08b9c8851c29af9bce4842722269d78d",
-      "title": "NIST Receives New Patent for Microbe-Killing Water Heater",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater",
-      "published_date": "2026-07-14T12:00:00+00:00",
-      "category": "Government",
-      "description": "Warm water in household pipes can be a breeding ground for harmful bacteria.",
-      "author": "Sarah Henderson",
-      "content": "Warm water in household pipes can be a breeding ground for harmful bacteria.",
+      "article_id": "aa0303f4b04a081a237bf6a9a2c76233",
+      "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/",
+      "published_date": "2026-07-16T16:03:35+00:00",
+      "category": "Industry",
+      "description": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and...",
+      "author": "Tanya Lenz",
+      "content": "A video analytics AI agent that can perceive, reason, and act based on massive amounts of video footage must be integrated with existing workflows and...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -644,15 +520,15 @@
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -664,22 +540,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.912875+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.513934+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.912888+00:00"
+        "timestamp": "2026-07-28T02:41:29.513936+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "841253bbf631c8c9f9e3a74f952402db",
+      "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents/",
+      "published_date": "2026-07-15T21:57:23+00:00",
+      "category": "Industry",
+      "description": "OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation...",
+      "author": "Michelle Horton",
+      "content": "OpenUSD is an open, extensible framework that provides a common scene description language for physical AI. It enables teams to bring CAD data, simulation...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-28T02:41:29.514099+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-28T02:41:29.514101+00:00"
       },
       "article_type": "article"
     },
@@ -696,9 +634,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "overall_score": 0.87,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -730,7 +668,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.913802+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.509090+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,26 +679,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.913805+00:00"
+        "timestamp": "2026-07-28T02:41:29.509093+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "9c1837de6dd15f1bb5e33bc2e1cb9937",
-      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "published_date": "2026-07-24T04:34:27+00:00",
+      "article_id": "97757b67050b8a348f24a02f6d32e6ba",
+      "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
+      "published_date": "2026-07-27T16:07:44+00:00",
       "category": "Industry",
-      "description": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, this week’s discussions and announcements advance […]",
-      "author": "NVIDIA Writers",
-      "content": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, this week’s discussions and announcements advance […]",
+      "description": "In this post, we cover why Deepgram built on IAM temporary delegation, how the integration works end-to-end, and what it unlocks for customers running Deepgram speech models on SageMaker AI. With this integration, Deepgram has reduced the time for initial investigation on a SageMaker AI support ticket from days to minutes.",
+      "author": "Victor Wang",
+      "content": "In this post, we cover why Deepgram built on IAM temporary delegation, how the integration works end-to-end, and what it unlocks for customers running Deepgram speech models on SageMaker AI. With this integration, Deepgram has reduced the time for initial investigation on a SageMaker AI support ticket from days to minutes.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.75,
-        "impact_score": 0.85,
-        "overall_score": 0.8400000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -792,7 +730,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.916190+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.510954+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,26 +741,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.916192+00:00"
+        "timestamp": "2026-07-28T02:41:29.510956+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "f9ddd78d072a77336d956b0ca1d8cff5",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "published_date": "2026-07-22T13:00:00+00:00",
+      "article_id": "681f3e6f73feaaab81c87ae5162b6c05",
+      "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
+      "published_date": "2026-07-23T23:03:44+00:00",
       "category": "Industry",
-      "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "author": "",
-      "content": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "description": "In this post, we explain how Amazon Bedrock Guardrails can be configured for code generation workflows with coding assistants to overcome these constraints. With these best practices, you can build an efficient blueprint helping you with effective capacity planning with robust safety coverage.",
+      "author": "Sandeep Singh",
+      "content": "In this post, we explain how Amazon Bedrock Guardrails can be configured for code generation workflows with coding assistants to overcome these constraints. With these best practices, you can build an efficient blueprint helping you with effective capacity planning with robust safety coverage.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.6,
         "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
+        "overall_score": 0.8250000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -854,7 +792,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.914448+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.511175+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,26 +803,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.914450+00:00"
+        "timestamp": "2026-07-28T02:41:29.511177+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c77349bdb8e0ed812b865df151d6c28e",
-      "title": "Policy paper: Telecoms Modernisation: Critical National Infrastructure Charter",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/telecoms-modernisation-critical-national-infrastructure-charter",
-      "published_date": "2026-07-21T15:05:07+00:00",
-      "category": "Government",
-      "description": "This document sets out telecoms companies’ approach to protect CNI during telecoms modernisations.",
-      "author": "",
-      "content": "This document sets out telecoms companies’ approach to protect CNI during telecoms modernisations.",
+      "article_id": "826c762cef18d7b40653a442175b8176",
+      "title": "Custom OS installation now available on AWS DeepRacer devices",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
+      "published_date": "2026-07-20T17:25:24+00:00",
+      "category": "Industry",
+      "description": "With the stock firmware and software, developers couldn't modify their AWS DeepRacer devices to use the latest operating systems. Now, developers can upgrade or install a custom operating system (OS) by using a newly released bootloader, which extends the life of these hardware devices. In this post, we introduce the bootloader, discuss how to use it, and share links to a community distribution that uses it.",
+      "author": "Don Barber",
+      "content": "With the stock firmware and software, developers couldn't modify their AWS DeepRacer devices to use the latest operating systems. Now, developers can upgrade or install a custom operating system (OS) by using a newly released bootloader, which extends the life of these hardware devices. In this post, we introduce the bootloader, discuss how to use it, and share links to a community distribution that uses it.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
         "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.82,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -916,7 +854,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-27T21:17:33.914061+00:00"
+        "consensus_timestamp": "2026-07-28T02:41:29.511507+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +865,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-27T21:17:33.914064+00:00"
+        "timestamp": "2026-07-28T02:41:29.511510+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "27417bf7e25ba2f156fb45e768289dea",
+      "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
+      "published_date": "2026-07-17T18:42:36+00:00",
+      "category": "Industry",
+      "description": "In this post, we walk through a few ways that Quick delivers on this promise. We cover the entire sales cycle, from identifying your highest-priority prospect, contacting them, working the deal to close, and keeping the CRM up to date as the account matures, while protecting your scarcest resource: your time.",
+      "author": "Spencer Martenson",
+      "content": "In this post, we walk through a few ways that Quick delivers on this promise. We cover the entire sales cycle, from identifying your highest-priority prospect, contacting them, working the deal to close, and keeping the CRM up to date as the account matures, while protecting your scarcest resource: your time.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-28T02:41:29.511692+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-28T02:41:29.511695+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 266.3298351764679,
+    "processing_time": 251.58436679840088,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 119,
+      "total_processed": 123,
       "candidates": {
-        "headlines": 7,
-        "articles": 112,
+        "headlines": 10,
+        "articles": 113,
         "research_papers": 0
       },
       "selected": {
