@@ -1,22 +1,22 @@
 {
-  "updated": "2026-07-31T02:59:19.777915+00:00",
+  "updated": "2026-07-31T06:50:22.347857+00:00",
   "top_stories": [
     {
-      "article_id": "5a9bef1d06174741d076cf1eb4fb01fe",
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "published_date": "2026-07-30T18:05:21+00:00",
+      "article_id": "b77b2fea49fa7bcaa53d7bf0dd43e1df",
+      "title": "PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
+      "published_date": "2026-07-31T05:06:43+00:00",
       "category": "Industry",
-      "description": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "author": "Sarah Perez",
-      "content": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+      "description": "PolyAI has introduced Dialog-RSN-1, a dialog model that perceives caller audio directly instead of reading an ASR transcript. It fuses turn-taking, speech recognition, function calling, and response generation into a single audio-native model, keeps TTS separate so the output voice stays controllable, and runs as a request-based LLM rather than an always-on stream. PolyAI reports sub-300ms responses in live deployments. The post PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That...",
+      "author": "Michal Sutter",
+      "content": "PolyAI has introduced Dialog-RSN-1, a dialog model that perceives caller audio directly instead of reading an ASR transcript. It fuses turn-taking, speech recognition, function calling, and response generation into a single audio-native model, keeps TTS separate so the output voice stays controllable, and runs as a request-based LLM rather than an always-on stream. PolyAI reports sub-300ms responses in live deployments. The post PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
+        "quality_score": 0.95,
+        "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
+        "overall_score": 0.9225000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -24,15 +24,15 @@
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -44,103 +44,165 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-31T02:59:19.734060+00:00"
+        "consensus_timestamp": "2026-07-31T06:50:22.306242+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-31T02:59:19.734062+00:00"
+        "timestamp": "2026-07-31T06:50:22.306244+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "71f969c024b371f6e2548b27989c2665",
-      "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python/",
-      "published_date": "2026-07-30T22:43:04+00:00",
+      "article_id": "93d9f1a1022306e2eaf08bda865fbf06",
+      "title": "Building a Policy-Governed Multi-Agent Financial Research Workflow with Omnigent",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/",
+      "published_date": "2026-07-31T04:44:12+00:00",
       "category": "Industry",
-      "description": "NVIDIA nvmath-python is a library designed to bridge the gap between the Python scientific community and NVIDIA CUDA-X math libraries. It gives Python users...",
-      "author": "Michelle Horton",
-      "content": "NVIDIA nvmath-python is a library designed to bridge the gap between the Python scientific community and NVIDIA CUDA-X math libraries. It gives Python users...",
+      "description": "In this tutorial, we demonstrate how to build and execute a multi-agent workflow with Omnigent in a secure, isolated Python environment. Learn to integrate live exchange-rate data, implement hierarchical agent delegation for financial text auditing, and apply hard governance policies—such as cost budgets and tool call limits—to your research pipeline directly from Google Colab. The post Building a Policy-Governed Multi-Agent Financial Research Workflow with Omnigent appeared first on...",
+      "author": "Sana Hassan",
+      "content": "In this tutorial, we demonstrate how to build and execute a multi-agent workflow with Omnigent in a secure, isolated Python environment. Learn to integrate live exchange-rate data, implement hierarchical agent delegation for financial text auditing, and apply hard governance policies—such as cost budgets and tool call limits—to your research pipeline directly from Google Colab. The post Building a Policy-Governed Multi-Agent Financial Research Workflow with Omnigent appeared first on...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.95,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8875000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.95,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-31T02:59:19.734613+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-31T02:59:19.734616+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "d3bbcf0c4ee3677b320e99ad896fe571",
-      "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/",
-      "published_date": "2026-07-28T20:49:21+00:00",
-      "category": "Industry",
-      "description": "Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation....",
-      "author": "Michelle Horton",
-      "content": "Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation....",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
         "novelty_score": 0.9,
         "impact_score": 0.95,
-        "overall_score": 0.9099999999999999,
+        "overall_score": 0.9225000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-31T06:50:22.306286+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-31T06:50:22.306288+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8ca4cd48163d4f4340b9e35ba5fe6473",
+      "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/",
+      "published_date": "2026-07-30T15:58:32+00:00",
+      "category": "Industry",
+      "description": "Amazon Bedrock Advanced Prompt Optimization optimizes your prompts for up to 5 models at once and compares original versus optimized performance across quality, latency, and cost. Migrate to a new model or improve your current one in minutes instead of weeks.",
+      "author": "Jesse Manders",
+      "content": "Amazon Bedrock Advanced Prompt Optimization optimizes your prompts for up to 5 models at once and compares original versus optimized performance across quality, latency, and cost. Migrate to a new model or improve your current one in minutes instead of weeks.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.98,
+        "overall_score": 0.931,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-31T06:50:22.302639+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-31T06:50:22.302642+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "35a81546b924196eae9f1fb7a14fc985",
+      "title": "Towards a quantum computer that learns from its errors",
+      "source": "google_research_blog",
+      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+      "published_date": "2026-07-22T18:40:21+00:00",
+      "category": "Industry",
+      "description": "Machine Intelligence",
+      "author": "",
+      "content": "Machine Intelligence",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.885,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -172,7 +234,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-31T02:59:19.734883+00:00"
+        "consensus_timestamp": "2026-07-31T06:50:22.305783+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +245,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-31T02:59:19.734887+00:00"
+        "timestamp": "2026-07-31T06:50:22.305786+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "6f5af3d76efca7cf0a9a908e4dad0006",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "published_date": "2026-07-30T10:00:00+00:00",
-      "category": "Industry",
-      "description": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "article_id": "412e45ac2b2c1d5b7b94fb77f0f03ccb",
+      "title": "NIH's All of Us Research Program is now the largest integrated genomics and health database in the world",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nihs-all-us-research-program-now-largest-integrated-genomics-health-database-world",
+      "published_date": "2026-07-31T06:44:49.784943+00:00",
+      "category": "Government",
+      "description": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
       "author": "",
-      "content": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "content": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.9,
+        "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-31T02:59:19.731125+00:00"
+        "consensus_timestamp": "2026-07-31T06:50:22.300534+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-31T02:59:19.731128+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "abe5204f768dec8ce331b679aeb8f719",
-      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-      "published_date": "2026-07-30T16:02:32+00:00",
-      "category": "Industry",
-      "description": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to get started, set up explicit caching, and migrate existing GPT workloads to reduce inference cost.",
-      "author": "Melanie Li",
-      "content": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to get started, set up explicit caching, and migrate existing GPT workloads to reduce inference cost.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-31T02:59:19.732191+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-31T02:59:19.732194+00:00"
+        "timestamp": "2026-07-31T06:50:22.300537+00:00"
       },
       "article_type": "article"
     }
