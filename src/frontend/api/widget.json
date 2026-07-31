@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T10:45:58.051150+00:00",
+  "updated": "2026-07-31T14:14:03.667579+00:00",
   "top_stories": [
     {
       "article_id": "5b74062fb86923715fb1db206287dd75",
@@ -15,8 +15,8 @@
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-31T10:45:58.005244+00:00"
+        "consensus_timestamp": "2026-07-31T14:14:03.621141+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,82 +59,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-31T10:45:58.005246+00:00"
+        "timestamp": "2026-07-31T14:14:03.621144+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "9f2bef2c9339c7395d26aec2bb1b65fa",
-      "title": "Introducing OpenAI Presence",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "published_date": "2026-07-22T05:30:00+00:00",
-      "category": "Industry",
-      "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "author": "",
-      "content": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.99,
-        "overall_score": 0.9079999999999999,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-07-31T10:45:58.002861+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-07-31T10:45:58.002864+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "b3aae225d8c97a7bf2134d84ab94700a",
-      "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+      "article_id": "444f428f2bcc0dd2c286351cc168f1f5",
+      "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
-      "published_date": "2026-07-30T16:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
+      "published_date": "2026-07-29T16:46:45+00:00",
       "category": "Industry",
-      "description": "Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We...",
-      "author": "Elizabeth Goodman",
-      "content": "Two AI computing clusters built from identical NVIDIA H100, GB200 NVL72, or GB300 NVL72 systems can deliver materially different training throughput. We...",
+      "description": "Deploying an AI coding assistant in a regulated, sovereign, or source-sensitive environment, often comes with challenges. Three common issues are: the source...",
+      "author": "Tanya Lenz",
+      "content": "Deploying an AI coding assistant in a regulated, sovereign, or source-sensitive environment, often comes with challenges. Three common issues are: the source...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -168,41 +106,41 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.92,
-        "confidence": 0.95,
+        "score": 0.9,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-31T10:45:58.006033+00:00"
+        "consensus_timestamp": "2026-07-31T14:14:03.621948+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.752,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-31T10:45:58.006036+00:00"
+        "timestamp": "2026-07-31T14:14:03.621951+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "412e45ac2b2c1d5b7b94fb77f0f03ccb",
-      "title": "NIH's All of Us Research Program is now the largest integrated genomics and health database in the world",
-      "source": "nih_ai_news",
-      "url": "https://www.nih.gov/news-events/news-releases/nihs-all-us-research-program-now-largest-integrated-genomics-health-database-world",
-      "published_date": "2026-07-31T10:40:29.141517+00:00",
+      "article_id": "27be516785f1edfb31f8f2d967edbbac",
+      "title": "Notice: Expression of Interest: AIRR Heterogeneous Supercomputer Host Site Selection",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/expression-of-interest-airr-heterogeneous-supercomputer-host-site-selection",
+      "published_date": "2026-07-29T13:26:52+00:00",
       "category": "Government",
-      "description": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
+      "description": "Expression of interest to host the UK’s next AI supercomputer.",
       "author": "",
-      "content": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
+      "content": "Expression of interest to host the UK’s next AI supercomputer.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.9,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.9,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -234,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-31T10:45:58.001186+00:00"
+        "consensus_timestamp": "2026-07-31T14:14:03.617513+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,27 +183,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-31T10:45:58.001190+00:00"
+        "timestamp": "2026-07-31T14:14:03.617516+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c42d41aeacd03b4faf093e2e51692417",
-      "title": "NVIDIA and Partners Build in America, for America",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "published_date": "2026-07-21T13:00:47+00:00",
-      "category": "Industry",
-      "description": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
-      "author": "NVIDIA",
-      "content": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "article_id": "134a92baaea2df552d6b7de1a69050af",
+      "title": "New blood-based biomarkers predict when ALS symptoms will emerge",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/new-blood-based-biomarkers-predict-when-als-symptoms-will-emerge",
+      "published_date": "2026-07-31T14:08:48.596677+00:00",
+      "category": "Government",
+      "description": "A panel of proteins could help match ideal candidates with preventative trials.",
+      "author": "",
+      "content": "A panel of proteins could help match ideal candidates with preventative trials.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.98,
-        "overall_score": 0.881,
-        "confidence_mean": 0.95
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-07-31T10:45:58.004777+00:00"
+        "consensus_timestamp": "2026-07-31T14:14:03.616873+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +245,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-07-31T10:45:58.004780+00:00"
+        "timestamp": "2026-07-31T14:14:03.616877+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "412e45ac2b2c1d5b7b94fb77f0f03ccb",
+      "title": "NIH's All of Us Research Program is now the largest integrated genomics and health database in the world",
+      "source": "nih_ai_news",
+      "url": "https://www.nih.gov/news-events/news-releases/nihs-all-us-research-program-now-largest-integrated-genomics-health-database-world",
+      "published_date": "2026-07-31T14:08:48.596992+00:00",
+      "category": "Government",
+      "description": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
+      "author": "",
+      "content": "Data from more than 747,000 participants&nbsp;is&nbsp;now available to&nbsp;scientists, powering next-generation discoveries in precision medicine.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-07-31T14:14:03.617100+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-07-31T14:14:03.617103+00:00"
       },
       "article_type": "article"
     }
