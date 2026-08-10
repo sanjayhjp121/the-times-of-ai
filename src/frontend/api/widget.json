@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T20:37:55.111218+00:00",
+  "updated": "2026-08-10T01:57:42.113589+00:00",
   "top_stories": [
     {
       "article_id": "d7e7633011e66f5738bf0e5b22706956",
@@ -12,12 +12,12 @@
       "author": "Rebecca Bellan",
       "content": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.084905+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.081845+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,88 +59,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.084907+00:00"
+        "timestamp": "2026-08-10T01:57:42.081847+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "06be4d41d3d77853668054daab5347d7",
-      "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
-      "published_date": "2026-08-06T18:57:55+00:00",
-      "category": "Industry",
-      "description": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
-      "author": "Sean Eichenberger",
-      "content": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.083622+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-09T20:37:55.083624+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "308e6c41580834191551ce0d3eaec262",
-      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+      "article_id": "e3f155a13ab6886cf75c68b726f1f0e1",
+      "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-      "published_date": "2026-08-04T15:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+      "published_date": "2026-07-31T15:13:02+00:00",
       "category": "Industry",
-      "description": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
+      "description": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,...",
       "author": "Elizabeth Goodman",
-      "content": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
+      "content": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -148,15 +86,15 @@
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -168,41 +106,165 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.085572+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.082690+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.085575+00:00"
+        "timestamp": "2026-08-10T01:57:42.082693+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "c8a85a1732f1c69e9565e9d0e7971862",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "published_date": "2026-07-29T15:00:00+00:00",
+      "article_id": "b76545e0535b89d9d89067d13cd09f73",
+      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
+      "published_date": "2026-07-27T16:00:00+00:00",
       "category": "Industry",
-      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "author": "",
-      "content": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "description": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they...",
+      "author": "Tanya Lenz",
+      "content": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T01:57:42.082958+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T01:57:42.082961+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bb2fde3ad0f67e0a4d41bd98768d1216",
+      "title": "A new benchmark for evaluating patient-facing health AI agents",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents",
+      "published_date": "2026-07-29T15:16:52+00:00",
+      "category": "Industry",
+      "description": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has to do.",
+      "author": "",
+      "content": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has to do.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T01:57:42.083311+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T01:57:42.083314+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bf66736cc256220802cf18d8adfba470",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published_date": "2026-08-03T07:00:00+00:00",
+      "category": "Industry",
+      "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "author": "",
+      "content": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "overall_score": 0.8775000000000001,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.083275+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.079453+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,69 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.083277+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7cb273a55a7db26f21e7f25242585c77",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "published_date": "2026-08-06T13:00:00+00:00",
-      "category": "Industry",
-      "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "author": "Lauren Forristal",
-      "content": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.085441+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-09T20:37:55.085444+00:00"
+        "timestamp": "2026-08-10T01:57:42.079456+00:00"
       },
       "article_type": "article"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T20:37:55.108252+00:00",
+  "generated_at": "2026-08-10T01:57:42.110839+00:00",
   "articles": [
     {
       "article_id": "d7e7633011e66f5738bf0e5b22706956",
@@ -12,12 +12,12 @@
       "author": "Rebecca Bellan",
       "content": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.835,
-        "confidence_mean": 0.9
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.084905+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.081845+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,274 +59,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.084907+00:00"
+        "timestamp": "2026-08-10T01:57:42.081847+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "06be4d41d3d77853668054daab5347d7",
-      "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
-      "published_date": "2026-08-06T18:57:55+00:00",
-      "category": "Industry",
-      "description": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
-      "author": "Sean Eichenberger",
-      "content": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.083622+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-09T20:37:55.083624+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "308e6c41580834191551ce0d3eaec262",
-      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+      "article_id": "e3f155a13ab6886cf75c68b726f1f0e1",
+      "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
       "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-      "published_date": "2026-08-04T15:00:00+00:00",
+      "url": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/",
+      "published_date": "2026-07-31T15:13:02+00:00",
       "category": "Industry",
-      "description": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
+      "description": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,...",
       "author": "Elizabeth Goodman",
-      "content": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
+      "content": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.085572+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-09T20:37:55.085575+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "c8a85a1732f1c69e9565e9d0e7971862",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "published_date": "2026-07-29T15:00:00+00:00",
-      "category": "Industry",
-      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "author": "",
-      "content": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.083275+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-09T20:37:55.083277+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7cb273a55a7db26f21e7f25242585c77",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "published_date": "2026-08-06T13:00:00+00:00",
-      "category": "Industry",
-      "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "author": "Lauren Forristal",
-      "content": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.085441+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-09T20:37:55.085444+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "7459f908d1487d5d3546912025a38a90",
-      "title": "HappyRobot raises $150M at $1.2B valuation to bring AI agents to critical enterprise work",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/08/04/happyrobot-raises-150m-1-2b-valuation-bring-ai-agents-critical-enterprise-work/",
-      "published_date": "2026-08-04T15:30:20+00:00",
-      "category": "Industry",
-      "description": "HappyRobot Inc., a San Francisco-based artificial intelligence startup that automates enterprise operations, said today it raised $150 million, led by Prysm Capital and co-led by Eurazeo, bringing the company’s post-money valuation to $1.2 billion. Existing investors a16z, Base10, Y Combinator joined venture capital firms Koch Disruptive Technologies, Orange, T.Capital, Bankinter, Endeavor Catalyst, Kfund and Wave-X […] The post HappyRobot raises $150M at $1.2B valuation to bring AI agents to...",
-      "author": "Kyt Dotson",
-      "content": "HappyRobot Inc., a San Francisco-based artificial intelligence startup that automates enterprise operations, said today it raised $150 million, led by Prysm Capital and co-led by Eurazeo, bringing the company’s post-money valuation to $1.2 billion. Existing investors a16z, Base10, Y Combinator joined venture capital firms Koch Disruptive Technologies, Orange, T.Capital, Bankinter, Endeavor Catalyst, Kfund and Wave-X […] The post HappyRobot raises $150M at $1.2B valuation to bring AI agents to...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -358,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.086610+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.082690+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,20 +121,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.086612+00:00"
+        "timestamp": "2026-08-10T01:57:42.082693+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "3b562177a492668fde28d6a23c57a645",
-      "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
-      "published_date": "2026-08-03T17:24:15+00:00",
+      "article_id": "b76545e0535b89d9d89067d13cd09f73",
+      "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning/",
+      "published_date": "2026-07-27T16:00:00+00:00",
       "category": "Industry",
-      "description": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 cut data source onboarding from up to 8 weeks to about 40 minutes, automated schema evolution, and gained end-to-end observability across its fan-engagement data estate.",
-      "author": "Subhro Bose",
-      "content": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 cut data source onboarding from up to 8 weeks to about 40 minutes, automated schema evolution, and gained end-to-end observability across its fan-engagement data estate.",
+      "description": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they...",
+      "author": "Tanya Lenz",
+      "content": "NVIDIA Ising Calibration is an open source vision language model (VLM) designed to interpret diagnostic outputs from quantum processors and determine how they...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
@@ -390,6 +142,130 @@
         "impact_score": 0.95,
         "overall_score": 0.8875,
         "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.95,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T01:57:42.082958+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.77,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T01:57:42.082961+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bb2fde3ad0f67e0a4d41bd98768d1216",
+      "title": "A new benchmark for evaluating patient-facing health AI agents",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/blog/a-new-benchmark-for-evaluating-patient-facing-health-ai-agents",
+      "published_date": "2026-07-29T15:16:52+00:00",
+      "category": "Industry",
+      "description": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has to do.",
+      "author": "",
+      "content": "PatientAgentBench generates a synthetic patient health record, a realistic clinical vignette, and a patient agent that converses with the AI system under evaluation, to capture what a patient-facing agent actually has to do.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.98,
+        "overall_score": 0.881,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.92,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T01:57:42.083311+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.752,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T01:57:42.083314+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "bf66736cc256220802cf18d8adfba470",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published_date": "2026-08-03T07:00:00+00:00",
+      "category": "Industry",
+      "description": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "author": "",
+      "content": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8775000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -420,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.084257+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.079453+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.084259+00:00"
+        "timestamp": "2026-08-10T01:57:42.079456+00:00"
       },
       "article_type": "article"
     },
@@ -482,7 +358,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.084646+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.081520+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,26 +369,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.084648+00:00"
+        "timestamp": "2026-08-10T01:57:42.081523+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "fda90416c933ed22dd1de42f39df642f",
-      "title": "Research: Cyber security breaches survey: 2026/2027",
-      "source": "uk_dsit_ai",
-      "url": "https://www.gov.uk/government/publications/cyber-security-breaches-survey",
-      "published_date": "2026-08-07T08:19:49+00:00",
-      "category": "Government",
-      "description": "An annual survey about the experience and impacts of cyber breaches and attacks on organisations.",
+      "article_id": "c8a85a1732f1c69e9565e9d0e7971862",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "published_date": "2026-07-29T15:00:00+00:00",
+      "category": "Industry",
+      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "author": "",
-      "content": "An annual survey about the experience and impacts of cyber breaches and attacks on organisations.",
+      "content": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.9,
-        "overall_score": 0.8524999999999999,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -544,7 +420,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.081997+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.079887+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,89 +431,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.082000+00:00"
+        "timestamp": "2026-08-10T01:57:42.079890+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "50eb850c0e1d39988e98b67bc59c9546",
-      "title": "34 Amazon Research Awards Build on Trainium recipients announced",
-      "source": "amazon_science",
-      "url": "https://www.amazon.science/research-awards/latest-news/34-amazon-research-awards-build-on-trainium-recipients-announced",
-      "published_date": "2026-08-05T15:00:00+00:00",
+      "article_id": "944339cba662446db18f1ce0a625e33c",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+      "published_date": "2026-08-06T15:00:00+00:00",
       "category": "Industry",
-      "description": "Amazon announces 34 recipients of the Build on Trainium program, a $110 million credit initiative supporting AI research at 30 universities including Stanford, UC Berkeley, UIUC, UCLA, CMU, and MIT, with a focus on Responsible AI.",
-      "author": "",
-      "content": "Amazon announces 34 recipients of the Build on Trainium program, a $110 million credit initiative supporting AI research at 30 universities including Stanford, UC Berkeley, UIUC, UCLA, CMU, and MIT, with a focus on Responsible AI.",
+      "description": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog.",
+      "author": "Mike Hulme",
+      "content": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.75,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.85
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.98,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.086268+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.788,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-09T20:37:55.086271+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "a0fd0f2f7ba443574b62dcca4bb9269e",
-      "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
-      "published_date": "2026-08-05T12:00:00+00:00",
-      "category": "Government",
-      "description": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
-      "author": "Sarah Henderson",
-      "content": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.85,
         "impact_score": 0.95,
-        "overall_score": 0.8725,
-        "confidence_mean": 0.95
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -668,7 +482,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.081787+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.080064+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,7 +493,131 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.081792+00:00"
+        "timestamp": "2026-08-10T01:57:42.080067+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a0fd0f2f7ba443574b62dcca4bb9269e",
+      "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
+      "source": "nist_ai_news",
+      "url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
+      "published_date": "2026-08-05T12:00:00+00:00",
+      "category": "Government",
+      "description": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
+      "author": "Sarah Henderson",
+      "content": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T01:57:42.078212+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T01:57:42.078217+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "43dc847663c714616ca296fea6ebf0b9",
+      "title": "Telecommunications Modernisation: Connectivity Timeline",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/guidance/telecommunications-modernisation-connectivity-timeline",
+      "published_date": "2026-07-29T11:59:18+00:00",
+      "category": "Government",
+      "description": "This connectivity timeline lists current dates for telecommunications modernisations supplied by network operators.",
+      "author": "",
+      "content": "This connectivity timeline lists current dates for telecommunications modernisations supplied by network operators.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T01:57:42.078715+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T01:57:42.078718+00:00"
       },
       "article_type": "article"
     },
@@ -696,9 +634,9 @@
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.8,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
+        "novelty_score": 0.7,
         "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
+        "overall_score": 0.82,
         "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
@@ -730,7 +668,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.082646+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.078909+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,82 +679,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.082649+00:00"
+        "timestamp": "2026-08-10T01:57:42.078912+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "37c36871caceb2381cefc8f5d446b811",
-      "title": "It’s about time for quantum manufacturing",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/its-about-time",
-      "published_date": "2026-08-05T19:48:55+00:00",
-      "category": "Government",
-      "description": "Piloting a pipeline to build and integrate optical clocks at scale.",
-      "author": "outreach@darpa.mil",
-      "content": "Piloting a pipeline to build and integrate optical clocks at scale.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.8,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8500000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.081897+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-09T20:37:55.081901+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "927f7ece4fcf49cdd177a69def018e60",
-      "title": "Apple is getting this wrong",
+      "article_id": "f9e2201e0e3c04850c59b45f2ee2bccf",
+      "title": "Disrupting a Criminal Scam Operation",
       "source": "openai_blog",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "published_date": "2026-08-03T22:00:00+00:00",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "published_date": "2026-07-31T00:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "author": "",
-      "content": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "content": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -854,7 +730,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.082909+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.079742+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,20 +741,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.082911+00:00"
+        "timestamp": "2026-08-10T01:57:42.079745+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "8b3a8685e15a675a2b92fbc66dc5d473",
-      "title": "Convex reels in $57M for its AI-optimized application backend",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/08/04/convex-reels-57m-ai-optimized-application-backend/",
-      "published_date": "2026-08-04T13:00:27+00:00",
+      "article_id": "deb5eafa5ac91722a788a22957b27843",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "published_date": "2026-07-30T15:00:59+00:00",
       "category": "Industry",
-      "description": "Developer tooling startup Convex Inc. today disclosed that it has closed a $57 million funding round led by Insight Partners. Etna Labs, Andreessen Horowitz and Spark Capital also contributed to the Series B investment. It brings Convex’s total outside funding to $110.5 million. Convex was founded in 2021 by former members of Dropbox Inc.’s infrastructure […] The post Convex reels in $57M for its AI-optimized application backend appeared first on SiliconANGLE.",
-      "author": "Maria Deutscher",
-      "content": "Developer tooling startup Convex Inc. today disclosed that it has closed a $57 million funding round led by Insight Partners. Etna Labs, Andreessen Horowitz and Spark Capital also contributed to the Series B investment. It brings Convex’s total outside funding to $110.5 million. Convex was founded in 2021 by former members of Dropbox Inc.’s infrastructure […] The post Convex reels in $57M for its AI-optimized application backend appeared first on SiliconANGLE.",
+      "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "author": "",
+      "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
@@ -912,22 +788,146 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
-        "confidence": 0.9,
+        "score": 0.9,
+        "confidence": 0.92,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-09T20:37:55.086736+00:00"
+        "consensus_timestamp": "2026-08-10T01:57:42.083139+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
-        "combined_confidence": 0.74,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.752,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-09T20:37:55.086739+00:00"
+        "timestamp": "2026-08-10T01:57:42.083142+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "fda90416c933ed22dd1de42f39df642f",
+      "title": "Research: Cyber security breaches survey: 2026/2027",
+      "source": "uk_dsit_ai",
+      "url": "https://www.gov.uk/government/publications/cyber-security-breaches-survey",
+      "published_date": "2026-08-07T08:19:49+00:00",
+      "category": "Government",
+      "description": "An annual survey about the experience and impacts of cyber breaches and attacks on organisations.",
+      "author": "",
+      "content": "An annual survey about the experience and impacts of cyber breaches and attacks on organisations.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T01:57:42.078393+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T01:57:42.078397+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "415a9c73f08d03ae30d5a82789438666",
+      "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+      "published_date": "2026-07-27T15:00:00+00:00",
+      "category": "Industry",
+      "description": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog.",
+      "author": "Shireesh Thota",
+      "content": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.7,
+        "impact_score": 0.9,
+        "overall_score": 0.8250000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-10T01:57:42.080115+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-10T01:57:42.080118+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 210.52474761009216,
+    "processing_time": 231.32796025276184,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 110,
+      "total_processed": 115,
       "candidates": {
-        "headlines": 4,
-        "articles": 106,
+        "headlines": 8,
+        "articles": 107,
         "research_papers": 0
       },
       "selected": {
