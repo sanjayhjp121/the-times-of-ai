@@ -1,146 +1,22 @@
 {
-  "updated": "2026-08-13T20:50:09.035108+00:00",
+  "updated": "2026-08-14T02:05:32.785799+00:00",
   "top_stories": [
     {
-      "article_id": "fbf419734c18ac4fa564ba46d5b01f32",
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "article_id": "e63d718f635d184b937c7df8714ffcac",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "published_date": "2026-08-12T14:20:33+00:00",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "published_date": "2026-08-12T20:10:40+00:00",
       "category": "Industry",
-      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "author": "Lauren Forristal",
-      "content": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "author": "Amanda Silberling",
+      "content": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.7,
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
         "impact_score": 0.95,
-        "overall_score": 0.875,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-13T20:50:08.996995+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-13T20:50:08.996998+00:00"
-      },
-      "article_type": "headline"
-    },
-    {
-      "article_id": "2edd27655f79a0ed94bee3571c627191",
-      "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
-      "published_date": "2026-08-11T13:01:07+00:00",
-      "category": "Industry",
-      "description": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning...",
-      "author": "Tanya Lenz",
-      "content": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-13T20:50:08.997228+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-13T20:50:08.997231+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "06be4d41d3d77853668054daab5347d7",
-      "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
-      "published_date": "2026-08-06T18:57:55+00:00",
-      "category": "Industry",
-      "description": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
-      "author": "Sean Eichenberger",
-      "content": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8999999999999999,
+        "overall_score": 0.8600000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -172,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-13T20:50:08.995436+00:00"
+        "consensus_timestamp": "2026-08-14T02:05:32.750707+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,26 +59,26 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-13T20:50:08.995439+00:00"
+        "timestamp": "2026-08-14T02:05:32.750709+00:00"
       },
-      "article_type": "article"
+      "article_type": "headline"
     },
     {
-      "article_id": "2488dd57d685b86886c30e89f08de0d0",
-      "title": "The canary test AI agents  keep failing",
-      "source": "ai_accelerator_institute",
-      "url": "https://www.aiacceleratorinstitute.com/the-canary-test-ai-agents-keep-failing/",
-      "published_date": "2026-08-10T14:25:09+00:00",
+      "article_id": "5c8ce263dca8c8ce8d5782c8188e4486",
+      "title": "Palantir shares jump 12% as revenue nearly doubles and guidance climbs again",
+      "source": "siliconangle_bigdata",
+      "url": "https://siliconangle.com/2026/08/03/palantir-shares-jump-12-revenue-nearly-doubles-guidance-climbs/",
+      "published_date": "2026-08-03T22:17:59+00:00",
       "category": "Industry",
-      "description": "Every agent evaluation tells you the model picked the wrong tool. Almost none tell you why. A new paper solves that by planting diagnostic \"canary\" tools inside an agent's toolkit, each one built to expose a specific blind spot, then watching what the agent grabs. The results are brutal...",
-      "author": "Andrew Lovell",
-      "content": "Every agent evaluation tells you the model picked the wrong tool. Almost none tell you why. A new paper solves that by planting diagnostic \"canary\" tools inside an agent's toolkit, each one built to expose a specific blind spot, then watching what the agent grabs. The results are brutal...",
+      "description": "Shares in Palantir Technologies Inc. surged more than 12% in late trading today after the big data analytics company crushed second-quarter expectations and raised its full-year guidance for the third consecutive quarter. For its fiscal 2026 second quarter that ended on June 30, Palantir reported adjusted earnings per share of 41 cents, up from 16 […] The post Palantir shares jump 12% as revenue nearly doubles and guidance climbs again appeared first on SiliconANGLE.",
+      "author": "Duncan Riley",
+      "content": "Shares in Palantir Technologies Inc. surged more than 12% in late trading today after the big data analytics company crushed second-quarter expectations and raised its full-year guidance for the third consecutive quarter. For its fiscal 2026 second quarter that ended on June 30, Palantir reported adjusted earnings per share of 41 cents, up from 16 […] The post Palantir shares jump 12% as revenue nearly doubles and guidance climbs again appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
+        "impact_score": 0.98,
+        "overall_score": 0.9059999999999999,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -234,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-13T20:50:08.999229+00:00"
+        "consensus_timestamp": "2026-08-14T02:05:32.752737+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,26 +121,150 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-13T20:50:08.999232+00:00"
+        "timestamp": "2026-08-14T02:05:32.752740+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "664ae819447917f9fb3171e244960623",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "published_date": "2026-08-07T15:20:00+00:00",
+      "article_id": "548d79637093e81667bc39200c96010f",
+      "title": "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/",
+      "published_date": "2026-08-10T13:27:19+00:00",
       "category": "Industry",
-      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "author": "",
-      "content": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "description": "Meta returns to the open source ecosystem with the release of Muse Glimmer, a 30B open-weight dense model with a 120K+ context window built for local AI...",
+      "author": "Michelle Horton",
+      "content": "Meta returns to the open source ecosystem with the release of Muse Glimmer, a 30B open-weight dense model with a 120K+ context window built for local AI...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-14T02:05:32.751318+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-14T02:05:32.751320+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "e655894c8230b6143d952a56f0087813",
+      "title": "6 mistakes AI leaders keep   making with agentic deployments",
+      "source": "ai_accelerator_institute",
+      "url": "https://www.aiacceleratorinstitute.com/6-mistakes-ai-leaders-keep-making-with-agentic-deployments/",
+      "published_date": "2026-08-10T16:04:52+00:00",
+      "category": "Industry",
+      "description": "Agentic AI moved from slide deck to production system faster than most governance committees could schedule a meeting about it. That speed feels thrilling right up until an agent with real credentials makes a judgment call at 2am, and the room realizes the guardrails were still a work in progress…",
+      "author": "Andrew Lovell",
+      "content": "Agentic AI moved from slide deck to production system faster than most governance committees could schedule a meeting about it. That speed feels thrilling right up until an agent with real credentials makes a judgment call at 2am, and the room realizes the guardrails were still a work in progress…",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-14T02:05:32.752947+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-14T02:05:32.752949+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4715d9e89bd14ceda5b5d84cf238f2aa",
+      "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
+      "published_date": "2026-08-03T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,...",
+      "author": "Elizabeth Goodman",
+      "content": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -296,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-13T20:50:08.994182+00:00"
+        "consensus_timestamp": "2026-08-14T02:05:32.751499+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-13T20:50:08.994185+00:00"
+        "timestamp": "2026-08-14T02:05:32.751501+00:00"
       },
       "article_type": "article"
     }
