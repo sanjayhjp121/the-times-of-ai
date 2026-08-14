@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-14T05:43:22.836760+00:00",
+  "updated": "2026-08-14T09:12:53.230769+00:00",
   "top_stories": [
     {
-      "article_id": "e63d718f635d184b937c7df8714ffcac",
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "article_id": "e5f498a2cee57c08d939de0d58163c27",
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "published_date": "2026-08-12T20:10:40+00:00",
+      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "published_date": "2026-08-13T14:34:43+00:00",
       "category": "Industry",
-      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "author": "Amanda Silberling",
-      "content": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "author": "Aisha Malik",
+      "content": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.95,
         "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8750000000000001,
+        "novelty_score": 0.95,
+        "impact_score": 0.99,
+        "overall_score": 0.9455,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-14T05:43:22.793679+00:00"
+        "consensus_timestamp": "2026-08-14T09:12:53.190681+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,82 +59,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-14T05:43:22.793681+00:00"
+        "timestamp": "2026-08-14T09:12:53.190683+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "e92bdef26ac68661a247767c22c0aa46",
-      "title": "Agentic AI infrastructure shifts enterprise focus from model choice to platform control",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/08/12/agentic-ai-infrastructure-shifts-enterprise-focus-model-choice-platform-control-cubeconversations/",
-      "published_date": "2026-08-12T13:13:51+00:00",
+      "article_id": "58569b2f8088d083c8eb5d503e66beb5",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "published_date": "2026-08-13T09:00:00+00:00",
       "category": "Industry",
-      "description": "As agentic AI infrastructure moves from experimentation into production, enterprises are confronting a more complex question than which model to use: how to control the cost, data exposure and infrastructure supporting production AI applications. That shift is pushing organizations to rethink how much they should rely on public cloud AI services alone, especially as agentic […] The post Agentic AI infrastructure shifts enterprise focus from model choice to platform control appeared first on...",
-      "author": "Victoria Gayton",
-      "content": "As agentic AI infrastructure moves from experimentation into production, enterprises are confronting a more complex question than which model to use: how to control the cost, data exposure and infrastructure supporting production AI applications. That shift is pushing organizations to rethink how much they should rely on public cloud AI services alone, especially as agentic […] The post Agentic AI infrastructure shifts enterprise focus from model choice to platform control appeared first on...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.9,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-14T05:43:22.795855+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-14T05:43:22.795857+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "2edd27655f79a0ed94bee3571c627191",
-      "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
-      "published_date": "2026-08-11T13:01:07+00:00",
-      "category": "Industry",
-      "description": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning...",
-      "author": "Tanya Lenz",
-      "content": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning...",
+      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "author": "",
+      "content": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.9,
@@ -172,7 +110,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-14T05:43:22.794357+00:00"
+        "consensus_timestamp": "2026-08-14T09:12:53.188081+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -183,27 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-14T05:43:22.794360+00:00"
+        "timestamp": "2026-08-14T09:12:53.188083+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "308e6c41580834191551ce0d3eaec262",
-      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
-      "published_date": "2026-08-04T15:00:00+00:00",
+      "article_id": "5aa49eee6545ad50fcd89702cd899d26",
+      "title": "Putting sign language AI into users’ hands",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "published_date": "2026-08-12T14:01:59+00:00",
       "category": "Industry",
-      "description": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
-      "author": "Elizabeth Goodman",
-      "content": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
+      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "author": "",
+      "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.85,
         "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
+        "impact_score": 0.98,
+        "overall_score": 0.8935,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -234,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-14T05:43:22.794584+00:00"
+        "consensus_timestamp": "2026-08-14T09:12:53.191752+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -245,7 +183,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-14T05:43:22.794587+00:00"
+        "timestamp": "2026-08-14T09:12:53.191755+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "ad7ef0bb095cfe7f8c69ff24ffff98b0",
+      "title": "Google debuts SL2T, an AI model that’s designed to understand sign language",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/12/google-debuts-sl2t-ai-model-thats-designed-understand-sign-language/",
+      "published_date": "2026-08-12T14:00:50+00:00",
+      "category": "Industry",
+      "description": "Google DeepMind said today it wants to bring the artificial intelligence revolution to the estimated 70 million people across the world who are either deaf or hard of hearing with the launch of sign-language-to-text or SL2T. In a blog post, Google’s AI researchers said SL2T is a multilingual translation model that’s making its debut on […] The post Google debuts SL2T, an AI model that’s designed to understand sign language appeared first on SiliconANGLE.",
+      "author": "Mike Wheatley",
+      "content": "Google DeepMind said today it wants to bring the artificial intelligence revolution to the estimated 70 million people across the world who are either deaf or hard of hearing with the launch of sign-language-to-text or SL2T. In a blog post, Google’s AI researchers said SL2T is a multilingual translation model that’s making its debut on […] The post Google debuts SL2T, an AI model that’s designed to understand sign language appeared first on SiliconANGLE.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8875,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-14T09:12:53.192647+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-14T09:12:53.192649+00:00"
       },
       "article_type": "article"
     },
@@ -296,7 +296,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-14T05:43:22.791331+00:00"
+        "consensus_timestamp": "2026-08-14T09:12:53.188684+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,7 +307,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-14T05:43:22.791333+00:00"
+        "timestamp": "2026-08-14T09:12:53.188686+00:00"
       },
       "article_type": "article"
     }
