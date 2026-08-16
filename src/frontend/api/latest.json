@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-15T20:27:35.433149+00:00",
+  "generated_at": "2026-08-16T01:25:13.305986+00:00",
   "articles": [
     {
-      "article_id": "7458008b3572d792e7cf3147204af65c",
-      "title": "SpaceX officially closes its Cursor acquisition",
+      "article_id": "9bc3a38e64bc56a87ccc7d8eb10ba578",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "published_date": "2026-08-15T16:30:00+00:00",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "published_date": "2026-08-14T14:05:00+00:00",
       "category": "Industry",
-      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "author": "Anthony Ha",
-      "content": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "author": "Tim De Chant",
+      "content": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8725,
+        "novelty_score": 0.75,
+        "impact_score": 0.9,
+        "overall_score": 0.8500000000000001,
         "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.406008+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.281205+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,213 +59,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.406015+00:00"
+        "timestamp": "2026-08-16T01:25:13.281208+00:00"
       },
       "article_type": "headline"
     },
     {
-      "article_id": "e5f498a2cee57c08d939de0d58163c27",
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "published_date": "2026-08-13T14:34:43+00:00",
+      "article_id": "5aa49eee6545ad50fcd89702cd899d26",
+      "title": "Putting sign language AI into users’ hands",
+      "source": "deepmind_research",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "published_date": "2026-08-12T14:01:59+00:00",
       "category": "Industry",
-      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-      "author": "Aisha Malik",
-      "content": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "author": "",
+      "content": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.95,
         "quality_score": 0.9,
         "novelty_score": 0.95,
-        "impact_score": 0.99,
-        "overall_score": 0.9455,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.406676+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-15T20:27:35.406679+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "8ccaf6371595fc8cf2efe24a9e4baf2b",
-      "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
-      "source": "aws_ml_blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
-      "published_date": "2026-08-13T15:56:07+00:00",
-      "category": "Industry",
-      "description": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
-      "author": "Salman Moghal",
-      "content": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
         "impact_score": 0.98,
-        "overall_score": 0.931,
-        "confidence_mean": 0.98
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.404471+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-15T20:27:35.404474+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "bb43badabaec1015c674b2fd44e18e22",
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "published_date": "2026-08-04T13:00:47+00:00",
-      "category": "Industry",
-      "description": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
-      "author": "Justin Boitano",
-      "content": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.85,
-        "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
+        "overall_score": 0.9435,
         "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.405914+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-15T20:27:35.405917+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "ad7ef0bb095cfe7f8c69ff24ffff98b0",
-      "title": "Google debuts SL2T, an AI model that’s designed to understand sign language",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/08/12/google-debuts-sl2t-ai-model-thats-designed-understand-sign-language/",
-      "published_date": "2026-08-12T14:00:50+00:00",
-      "category": "Industry",
-      "description": "Google DeepMind said today it wants to bring the artificial intelligence revolution to the estimated 70 million people across the world who are either deaf or hard of hearing with the launch of sign-language-to-text or SL2T. In a blog post, Google’s AI researchers said SL2T is a multilingual translation model that’s making its debut on […] The post Google debuts SL2T, an AI model that’s designed to understand sign language appeared first on SiliconANGLE.",
-      "author": "Mike Wheatley",
-      "content": "Google DeepMind said today it wants to bring the artificial intelligence revolution to the estimated 70 million people across the world who are either deaf or hard of hearing with the launch of sign-language-to-text or SL2T. In a blog post, Google’s AI researchers said SL2T is a multilingual translation model that’s making its debut on […] The post Google debuts SL2T, an AI model that’s designed to understand sign language appeared first on SiliconANGLE.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.89,
-        "confidence_mean": 0.98
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -296,7 +110,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.408197+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.282404+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -307,27 +121,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.408200+00:00"
+        "timestamp": "2026-08-16T01:25:13.282407+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4dc2185cfdeec1a796fb83f82ba075e6",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "published_date": "2026-08-13T20:14:39+00:00",
+      "article_id": "2edd27655f79a0ed94bee3571c627191",
+      "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/",
+      "published_date": "2026-08-11T13:01:07+00:00",
       "category": "Industry",
-      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "author": "Julie Bort",
-      "content": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "description": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning...",
+      "author": "Tanya Lenz",
+      "content": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
         "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.895,
-        "confidence_mean": 0.85
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -358,7 +172,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.406349+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.282080+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -369,7 +183,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.406352+00:00"
+        "timestamp": "2026-08-16T01:25:13.282083+00:00"
       },
       "article_type": "article"
     },
@@ -420,7 +234,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.404011+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.279163+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -431,42 +245,42 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.404014+00:00"
+        "timestamp": "2026-08-16T01:25:13.279166+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "944339cba662446db18f1ce0a625e33c",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
-      "source": "azure_ai_blog",
-      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
-      "published_date": "2026-08-06T15:00:00+00:00",
+      "article_id": "308e6c41580834191551ce0d3eaec262",
+      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/",
+      "published_date": "2026-08-04T15:00:00+00:00",
       "category": "Industry",
-      "description": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog.",
-      "author": "Mike Hulme",
-      "content": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog.",
+      "description": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
+      "author": "Elizabeth Goodman",
+      "content": "Autonomous vehicle (AV) development often relies on separate models for trajectory generation, high-level intent prediction, scene understanding, and data...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
           "fact_verification": {
             "verified_claims": [],
             "unverified_claims": [],
-            "fact_check_confidence": 0.7
+            "fact_check_confidence": 0.5
           },
           "bias_detection": {
             "bias_indicators": [],
-            "bias_detection_score": 0.3
+            "bias_detection_score": 0.5
           },
           "credibility_assessment": {
             "credibility_factors": [],
-            "credibility_score": 0.7
+            "credibility_score": 0.5
           },
           "impact_analysis": {
             "impact_areas": [],
@@ -478,22 +292,84 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.404289+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.282270+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.404292+00:00"
+        "timestamp": "2026-08-16T01:25:13.282272+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4715d9e89bd14ceda5b5d84cf238f2aa",
+      "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
+      "source": "nvidia_developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
+      "published_date": "2026-08-03T16:00:00+00:00",
+      "category": "Industry",
+      "description": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,...",
+      "author": "Elizabeth Goodman",
+      "content": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,...",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.8,
+        "quality_score": 0.9,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.87,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-16T01:25:13.282359+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-16T01:25:13.282362+00:00"
       },
       "article_type": "article"
     },
@@ -544,7 +420,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.405552+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.280746+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -555,20 +431,20 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.405555+00:00"
+        "timestamp": "2026-08-16T01:25:13.280749+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "0bc94f15aa837ab0157af61ced5c9528",
-      "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
-      "published_date": "2026-08-11T13:00:00+00:00",
+      "article_id": "0da3b686b238f5a7afdc18870136e2d6",
+      "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+      "published_date": "2026-08-15T11:28:29+00:00",
       "category": "Industry",
-      "description": "Building an AI agent does not end with choosing a single model. Each model has its own strengths, weaknesses, and cost profile, which can shift from one...",
-      "author": "Michelle Horton",
-      "content": "Building an AI agent does not end with choosing a single model. Each model has its own strengths, weaknesses, and cost profile, which can shift from one...",
+      "description": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3 appeared first on MarkTechPost.",
+      "author": "Sana Hassan",
+      "content": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3 appeared first on MarkTechPost.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -606,7 +482,7 @@
         "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.407110+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.282639+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -617,27 +493,151 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.407112+00:00"
+        "timestamp": "2026-08-16T01:25:13.282642+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "5feddf699d118b4111e780084b818713",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "published_date": "2026-08-13T17:07:13+00:00",
+      "article_id": "8103856a401ec13b794c8443bdf94b58",
+      "title": "Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video",
+      "source": "marktechpost",
+      "url": "https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/",
+      "published_date": "2026-08-13T07:42:02+00:00",
       "category": "Industry",
-      "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "author": "Tim Fernholz",
-      "content": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+      "description": "Dyna Robotics has released Dyna-2, a world-action model pre-trained on more than one million hours of egocentric human video. The technical report establishes three results: a scaling law on human data to 1M hours, the first transfer of that law to unseen robot data, and evidence that video co-training drives cross-embodiment generalization. The post Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video appeared first on MarkTechPost.",
+      "author": "Asif Razzaq",
+      "content": "Dyna Robotics has released Dyna-2, a world-action model pre-trained on more than one million hours of egocentric human video. The technical report establishes three results: a scaling law on human data to 1M hours, the first transfer of that law to unseen robot data, and evidence that video co-training drives cross-embodiment generalization. The post Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video appeared first on MarkTechPost.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8625000000000002,
+        "confidence_mean": 0.95
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.85,
+        "confidence": 0.9,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-16T01:25:13.282912+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-16T01:25:13.282915+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "f7f4618ef945ea7b72dae16c16b388bc",
+      "title": "Ahrefs launches AI agent workspace Letaido for marketers and agencies",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/12/ahrefs-launches-ai-agent-workspace-letaido-marketers-agencies/",
+      "published_date": "2026-08-12T13:00:25+00:00",
+      "category": "Industry",
+      "description": "Marketing intelligence company Ahrefs Pte. Ltd. today launched Letaido, an agent-powered marketing workspace built to take over the recurring research, reporting and monitoring work that fills up a marketing team’s week. In most marketing departments, generative artificial intelligence is still something people use on their own. A writer drafts with it. An analyst pulls numbers. […] The post Ahrefs launches AI agent workspace Letaido for marketers and agencies appeared first on SiliconANGLE.",
+      "author": "Duncan Riley",
+      "content": "Marketing intelligence company Ahrefs Pte. Ltd. today launched Letaido, an agent-powered marketing workspace built to take over the recurring research, reporting and monitoring work that fills up a marketing team’s week. In most marketing departments, generative artificial intelligence is still something people use on their own. A writer drafts with it. An analyst pulls numbers. […] The post Ahrefs launches AI agent workspace Letaido for marketers and agencies appeared first on SiliconANGLE.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.75,
+        "impact_score": 0.95,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-16T01:25:13.283465+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-16T01:25:13.283468+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a0fd0f2f7ba443574b62dcca4bb9269e",
+      "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
+      "source": "nist_ai_news",
+      "url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
+      "published_date": "2026-08-05T12:00:00+00:00",
+      "category": "Government",
+      "description": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
+      "author": "Sarah Henderson",
+      "content": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.8,
         "novelty_score": 0.9,
-        "impact_score": 0.95,
-        "overall_score": 0.885,
-        "confidence_mean": 0.9
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.8
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -668,7 +668,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.406535+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.277719+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -679,7 +679,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.406538+00:00"
+        "timestamp": "2026-08-16T01:25:13.277724+00:00"
       },
       "article_type": "article"
     },
@@ -730,7 +730,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.405418+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.280607+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -741,27 +741,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.405421+00:00"
+        "timestamp": "2026-08-16T01:25:13.280610+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "4715d9e89bd14ceda5b5d84cf238f2aa",
-      "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
-      "source": "nvidia_developer",
-      "url": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/",
-      "published_date": "2026-08-03T16:00:00+00:00",
+      "article_id": "4a2c89052b8bbc1d3c55f74615dee7dc",
+      "title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
+      "published_date": "2026-08-10T20:23:04+00:00",
       "category": "Industry",
-      "description": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,...",
-      "author": "Elizabeth Goodman",
-      "content": "Storage is an active part of every agentic AI workflow. As agents retrieve enterprise knowledge, access persistent memory, reuse key-value (KV) cache data,...",
+      "description": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
+      "author": "",
+      "content": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
+        "relevance_score": 0.85,
         "quality_score": 0.85,
-        "novelty_score": 0.7,
-        "impact_score": 0.95,
-        "overall_score": 0.8474999999999999,
-        "confidence_mean": 0.9
+        "novelty_score": 0.85,
+        "impact_score": 0.9,
+        "overall_score": 0.8600000000000001,
+        "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -788,42 +788,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.407290+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.282496+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.407292+00:00"
+        "timestamp": "2026-08-16T01:25:13.282498+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "2dec422b65e04fc3582e70292a31ac63",
-      "title": "NIST Researchers Correct Common Error Confounding Nanotech Measurements",
-      "source": "nist_ai_news",
-      "url": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
-      "published_date": "2026-08-06T12:00:00+00:00",
-      "category": "Government",
-      "description": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products.",
-      "author": "Sarah Henderson",
-      "content": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products.",
+      "article_id": "944339cba662446db18f1ce0a625e33c",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+      "published_date": "2026-08-06T15:00:00+00:00",
+      "category": "Industry",
+      "description": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog.",
+      "author": "Mike Hulme",
+      "content": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -854,7 +854,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.402690+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.279442+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,27 +865,27 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.402702+00:00"
+        "timestamp": "2026-08-16T01:25:13.279445+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "37c36871caceb2381cefc8f5d446b811",
-      "title": "It’s about time for quantum manufacturing",
-      "source": "darpa_ai_research",
-      "url": "https://www.darpa.mil/news/2026/its-about-time",
-      "published_date": "2026-08-05T19:48:55+00:00",
-      "category": "Government",
-      "description": "Piloting a pipeline to build and integrate optical clocks at scale.",
-      "author": "outreach@darpa.mil",
-      "content": "Piloting a pipeline to build and integrate optical clocks at scale.",
+      "article_id": "8ccaf6371595fc8cf2efe24a9e4baf2b",
+      "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
+      "published_date": "2026-08-13T15:56:07+00:00",
+      "category": "Industry",
+      "description": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
+      "author": "Salman Moghal",
+      "content": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8450000000000001,
-        "confidence_mean": 0.9
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -916,7 +916,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-15T20:27:35.402989+00:00"
+        "consensus_timestamp": "2026-08-16T01:25:13.279656+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +927,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-15T20:27:35.402995+00:00"
+        "timestamp": "2026-08-16T01:25:13.279659+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 189.9877486228943,
+    "processing_time": 217.72410941123962,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 112,
+      "total_processed": 118,
       "candidates": {
-        "headlines": 6,
-        "articles": 106,
+        "headlines": 4,
+        "articles": 114,
         "research_papers": 0
       },
       "selected": {
