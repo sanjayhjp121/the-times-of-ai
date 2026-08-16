@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T16:30:45.063855+00:00",
+  "generated_at": "2026-08-16T20:27:32.574049+00:00",
   "articles": [
     {
       "article_id": "4cc95b17500681d3267d3d104054243b",
@@ -12,11 +12,11 @@
       "author": "Anthony Ha",
       "content": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.6,
-        "quality_score": 0.8,
-        "novelty_score": 0.9,
-        "impact_score": 0.7,
-        "overall_score": 0.745,
+        "relevance_score": 0.85,
+        "quality_score": 0.75,
+        "novelty_score": 0.65,
+        "impact_score": 0.9,
+        "overall_score": 0.785,
         "confidence_mean": 0.85
       },
       "combined_deep_intelligence": {
@@ -48,7 +48,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.048461+00:00"
+        "consensus_timestamp": "2026-08-16T20:27:32.551741+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -59,7 +59,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:30:45.048464+00:00"
+        "timestamp": "2026-08-16T20:27:32.551743+00:00"
       },
       "article_type": "headline"
     },
@@ -74,11 +74,73 @@
       "author": "Tanya Lenz",
       "content": "Long-running AI agents spend most of their time on high-volume execution: tool calls, result validation, and subagent delegation. Using a frontier reasoning...",
       "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
+        "relevance_score": 0.9,
         "quality_score": 0.9,
-        "novelty_score": 0.85,
+        "novelty_score": 0.9,
+        "impact_score": 0.9,
+        "overall_score": 0.9,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.5
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.5
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.5
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.9,
+        "confidence": 0.95,
+        "recommendation": "ACCEPT",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-16T20:27:32.552732+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.74,
+        "combined_confidence": 0.77,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-16T20:27:32.552734+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "4a2c89052b8bbc1d3c55f74615dee7dc",
+      "title": "AWS Trainium Frontier competition: Co-design models and kernels on purpose-built AI chips",
+      "source": "amazon_science",
+      "url": "https://www.amazon.science/news/aws-trainium-frontier-competition-co-design-models-and-kernels-on-purpose-built-ai-chips",
+      "published_date": "2026-08-10T20:23:04+00:00",
+      "category": "Industry",
+      "description": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
+      "author": "",
+      "content": "A competition with a finalist ceremony during NeurIPS 2026, challenging researchers to train language models from scratch on Trainium, exploring what optimal architectures look like when the hardware changes.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.95,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
         "impact_score": 0.98,
-        "overall_score": 0.9185000000000001,
+        "overall_score": 0.8935,
         "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
@@ -106,352 +168,166 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.9,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.049181+00:00"
+        "consensus_timestamp": "2026-08-16T20:27:32.553064+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.74,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:30:45.049183+00:00"
+        "timestamp": "2026-08-16T20:27:32.553067+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "58569b2f8088d083c8eb5d503e66beb5",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "published_date": "2026-08-13T09:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "author": "",
-      "content": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.046722+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-16T16:30:45.046724+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "4c06f48c9a9fa91a9c8a93c0ad09e2dd",
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "source": "techcrunch_ai",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "published_date": "2026-08-14T16:13:40+00:00",
-      "category": "Industry",
-      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "author": "Ivan Mehta",
-      "content": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.9,
-        "quality_score": 0.9,
-        "novelty_score": 0.9,
-        "impact_score": 0.9,
-        "overall_score": 0.9,
-        "confidence_mean": 0.95
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.048495+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-16T16:30:45.048497+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "afdd9b67df53cbf248ad8322f1ec61fb",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "published_date": "2026-08-10T00:00:00+00:00",
-      "category": "Industry",
-      "description": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "author": "",
-      "content": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8875,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.047080+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-16T16:30:45.047082+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1172598f0720e3a6d69d44e2d3a793b5",
-      "title": "CodeRabbit bags $143M to help companies get a grip on the explosion of AI-generated code",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/08/12/coderabbit-bags-143m-help-companies-get-grip-explosion-ai-generated-code/",
-      "published_date": "2026-08-12T13:00:46+00:00",
-      "category": "Industry",
-      "description": "CodeRabbit Inc., the creator of a popular tool that automatically reviews artificial intelligence-generated code, is becoming more ambitious after closing on its latest $143 million Series C round of funding. Alongside the round, it announced the launch of a new Agentic Change Management layer that’s meant to help companies govern, evaluate and prioritize code changes […] The post CodeRabbit bags $143M to help companies get a grip on the explosion of AI-generated code appeared first on...",
-      "author": "Mike Wheatley",
-      "content": "CodeRabbit Inc., the creator of a popular tool that automatically reviews artificial intelligence-generated code, is becoming more ambitious after closing on its latest $143 million Series C round of funding. Alongside the round, it announced the launch of a new Agentic Change Management layer that’s meant to help companies govern, evaluate and prioritize code changes […] The post CodeRabbit bags $143M to help companies get a grip on the explosion of AI-generated code appeared first on...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.95,
-        "quality_score": 0.85,
-        "novelty_score": 0.8,
-        "impact_score": 0.9,
-        "overall_score": 0.8775000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.5
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.5
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.5
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.95,
-        "confidence": 0.9,
-        "recommendation": "ACCEPT",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.050129+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.77,
-        "combined_confidence": 0.74,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-16T16:30:45.050130+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "e3cd2a868987401ae56830204130439a",
-      "title": "What building an AI-native finance function taught me",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "published_date": "2026-08-10T17:00:00+00:00",
-      "category": "Industry",
-      "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "author": "",
-      "content": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.85,
-        "quality_score": 0.9,
-        "novelty_score": 0.8,
-        "impact_score": 0.95,
-        "overall_score": 0.8699999999999999,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.046963+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-16T16:30:45.046965+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "1fdc448b909a03a319f6ccd0e8827edd",
-      "title": "As AI Increases Demands on Memory, Storage Steps Up",
+      "article_id": "63b133ebb6356757a0e7da0230e5be19",
+      "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
       "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-      "published_date": "2026-08-04T15:00:47+00:00",
+      "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+      "published_date": "2026-08-04T16:00:56+00:00",
       "category": "Industry",
-      "description": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of […]",
-      "author": "Jason Hardy",
-      "content": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of […]",
+      "description": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups […]",
+      "author": "John Josephakis",
+      "content": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups […]",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-16T20:27:32.551653+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-16T20:27:32.551655+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "80f994d4bfd7ed343754a74f8541c221",
+      "title": "The Ultimate Guide to FLUX 3",
+      "source": "replicate_blog",
+      "url": "https://replicate.com/blog/flux-3",
+      "published_date": "2026-08-04T00:00:00+00:00",
+      "category": "Industry",
+      "description": "Black Forest Labs' first video model generates audio and video from the same pass, and it takes direction like nothing else we've tried.",
+      "author": "",
+      "content": "Black Forest Labs' first video model generates audio and video from the same pass, and it takes direction like nothing else we've tried.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.9,
+        "novelty_score": 0.8,
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-16T20:27:32.552532+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-16T20:27:32.552536+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "25e7c6fe94705e32e5227aa07deb4cd9",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/model-ml",
+      "published_date": "2026-08-10T12:00:00+00:00",
+      "category": "Industry",
+      "description": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "author": "",
+      "content": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
         "novelty_score": 0.8,
         "impact_score": 0.95,
         "overall_score": 0.8725,
-        "confidence_mean": 0.95
+        "confidence_mean": 0.9
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -482,7 +358,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.048396+00:00"
+        "consensus_timestamp": "2026-08-16T20:27:32.549736+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -493,20 +369,82 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:30:45.048398+00:00"
+        "timestamp": "2026-08-16T20:27:32.549739+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7d616e27c023ee551c7cdca2d83fc4fb",
-      "title": "Vertical AI pushes infrastructure beyond one-size-fits-all",
-      "source": "siliconangle_ai",
-      "url": "https://siliconangle.com/2026/08/12/ai-deployment-supermicros-partners-vertical-supermicroopenstoragesummit/",
-      "published_date": "2026-08-12T18:07:46+00:00",
+      "article_id": "664ae819447917f9fb3171e244960623",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "source": "openai_blog",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "published_date": "2026-08-07T15:20:00+00:00",
       "category": "Industry",
-      "description": "While infrastructure requirements may be commonly shared in enterprise IT, the path for AI deployment can vary significantly depending on the organization. Healthcare, financial services, manufacturing, telecommunications and public sector organizations bring unique data, governance and operational challenges to the table when it comes to AI implementation. This means that the future of AI is […] The post Vertical AI pushes infrastructure beyond one-size-fits-all appeared first on SiliconANGLE.",
-      "author": "Mark Albertson",
-      "content": "While infrastructure requirements may be commonly shared in enterprise IT, the path for AI deployment can vary significantly depending on the organization. Healthcare, financial services, manufacturing, telecommunications and public sector organizations bring unique data, governance and operational challenges to the table when it comes to AI implementation. This means that the future of AI is […] The post Vertical AI pushes infrastructure beyond one-size-fits-all appeared first on SiliconANGLE.",
+      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "author": "",
+      "content": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.8,
+        "impact_score": 0.95,
+        "overall_score": 0.8725,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-16T20:27:32.550032+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-16T20:27:32.550035+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "b7b23700199184caadffd024d82c1729",
+      "title": "OpenWALDO launches to build collaborative community for open-source AI",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/11/openwaldo-launches-build-collaborative-community-open-source-ai/",
+      "published_date": "2026-08-11T16:00:22+00:00",
+      "category": "Industry",
+      "description": "OpenWALDO, a new open-source artificial intelligence project sponsored by Ctrl IQ Inc., launched today, led by Gregory Kutzer, the founder of Rocky Linux, CentOS and Apptainer. The project aims to build a community-led, open-source-governed corpus of AI training data. It will provide a space similar to Hugging Face Inc., which primarily distributes open-weight models, where […] The post OpenWALDO launches to build collaborative community for open-source AI appeared first on SiliconANGLE.",
+      "author": "Kyt Dotson",
+      "content": "OpenWALDO, a new open-source artificial intelligence project sponsored by Ctrl IQ Inc., launched today, led by Gregory Kutzer, the founder of Rocky Linux, CentOS and Apptainer. The project aims to build a community-led, open-source-governed corpus of AI training data. It will provide a space similar to Hugging Face Inc., which primarily distributes open-weight models, where […] The post OpenWALDO launches to build collaborative community for open-source AI appeared first on SiliconANGLE.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -541,34 +479,34 @@
           }
         },
         "score": 0.9,
-        "confidence": 0.9,
+        "confidence": 0.95,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.049984+00:00"
+        "consensus_timestamp": "2026-08-16T20:27:32.553957+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
         "weighted_score": 0.74,
-        "combined_confidence": 0.74,
+        "combined_confidence": 0.77,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:30:45.049986+00:00"
+        "timestamp": "2026-08-16T20:27:32.553959+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "239078c58eae01811950292b2be1dd90",
-      "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
-      "published_date": "2026-08-14T03:09:45+00:00",
+      "article_id": "bc903a52f6e6c70005eec98dbf547dec",
+      "title": "Nebius shares jump 34% on continued AI infrastructure demand",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/12/nebius-shares-jump-34-continued-ai-infrastructure-demand/",
+      "published_date": "2026-08-12T23:57:07+00:00",
       "category": "Industry",
-      "description": "This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline—from dataset analysis and heuristic cleaning to efficient training and inference—enabling the development of specialized small models without excessive resource requirements The post...",
-      "author": "Sana Hassan",
-      "content": "This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline—from dataset analysis and heuristic cleaning to efficient training and inference—enabling the development of specialized small models without excessive resource requirements The post...",
+      "description": "Shares of Nebius Group NV closed 34% higher today after it reported second-quarter earnings that topped expectations across the board. The Netherlands-based company operates a cloud platform optimized for artificial intelligence workloads. It also has two business units called Avride and TripleTen that offer autonomous driving software and programming courses, respectively. Nebius’ revenue surged 454% […] The post Nebius shares jump 34% on continued AI infrastructure demand appeared first on...",
+      "author": "Maria Deutscher",
+      "content": "Shares of Nebius Group NV closed 34% higher today after it reported second-quarter earnings that topped expectations across the board. The Netherlands-based company operates a cloud platform optimized for artificial intelligence workloads. It also has two business units called Avride and TripleTen that offer autonomous driving software and programming courses, respectively. Nebius’ revenue surged 454% […] The post Nebius shares jump 34% on continued AI infrastructure demand appeared first on...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -602,104 +540,42 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.9,
-        "confidence": 0.95,
+        "score": 0.85,
+        "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.049608+00:00"
+        "consensus_timestamp": "2026-08-16T20:27:32.553191+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.74,
-        "combined_confidence": 0.77,
+        "weighted_score": 0.71,
+        "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:30:45.049610+00:00"
+        "timestamp": "2026-08-16T20:27:32.553193+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "7efa902d2b80e407fb75db568724cca4",
-      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-      "source": "nvidia_blog",
-      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-      "published_date": "2026-08-08T10:24:54+00:00",
+      "article_id": "a5519597f06f3cce8c48daa97437ba5b",
+      "title": "Three insights you may have missed from theCUBE’s coverage of the Neo4j GraphTalk event",
+      "source": "siliconangle_ai",
+      "url": "https://siliconangle.com/2026/08/12/graph-intelligence-grounds-reliable-enterprise-ai-neo4jgraphtalk/",
+      "published_date": "2026-08-12T21:13:22+00:00",
       "category": "Industry",
-      "description": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]",
-      "author": "Rev Lebaredian",
-      "content": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]",
+      "description": "Graph intelligence is fast becoming the enterprise’s missing connective tissue — the knowledge layer that lets models move from clever prototypes to reliable, decision‑grade systems. By preserving relationships across fragmented data, it gives artificial intelligence the context needed to produce more accurate answers and support informed action. At the Neo4j GraphTalk event, the conversation wasn’t […] The post Three insights you may have missed from theCUBE’s coverage of the Neo4j GraphTalk...",
+      "author": "Victoria Gayton",
+      "content": "Graph intelligence is fast becoming the enterprise’s missing connective tissue — the knowledge layer that lets models move from clever prototypes to reliable, decision‑grade systems. By preserving relationships across fragmented data, it gives artificial intelligence the context needed to produce more accurate answers and support informed action. At the Neo4j GraphTalk event, the conversation wasn’t […] The post Three insights you may have missed from theCUBE’s coverage of the Neo4j GraphTalk...",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
-        "quality_score": 0.85,
-        "novelty_score": 0.75,
-        "impact_score": 0.95,
-        "overall_score": 0.8600000000000001,
-        "confidence_mean": 0.9
-      },
-      "combined_deep_intelligence": {
-        "analysis": {
-          "fact_verification": {
-            "verified_claims": [],
-            "unverified_claims": [],
-            "fact_check_confidence": 0.7
-          },
-          "bias_detection": {
-            "bias_indicators": [],
-            "bias_detection_score": 0.3
-          },
-          "credibility_assessment": {
-            "credibility_factors": [],
-            "credibility_score": 0.7
-          },
-          "impact_analysis": {
-            "impact_areas": [],
-            "impact_potential": 0.5
-          },
-          "synthesis": {
-            "key_insights": [],
-            "risk_factors": [],
-            "enhancement_suggestions": []
-          }
-        },
-        "score": 0.5,
-        "confidence": 0.5,
-        "recommendation": "CONDITIONAL",
-        "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.048228+00:00"
-      },
-      "final_consensus": {
-        "algorithm": "weighted_combination",
-        "weighted_score": 0.5,
-        "combined_confidence": 0.5,
-        "decision": "ACCEPT",
-        "weights": {
-          "initial_consensus": 0.4,
-          "deep_intelligence": 0.6
-        },
-        "timestamp": "2026-08-16T16:30:45.048230+00:00"
-      },
-      "article_type": "article"
-    },
-    {
-      "article_id": "967765522b256151bdf1dbe9b807ac18",
-      "title": "Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device",
-      "source": "marktechpost",
-      "url": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
-      "published_date": "2026-08-13T15:56:03+00:00",
-      "category": "Industry",
-      "description": "Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts RefCOCO grounding from 57.1 to 87.9. Function calling is new to the VL line, with ToolSandbox moving from 26.4 to 59.5. The model fits in roughly 3 GB and decodes 228 tokens/s on an Apple M5 Max. The post Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device appeared first on...",
-      "author": "Asif Razzaq",
-      "content": "Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts RefCOCO grounding from 57.1 to 87.9. Function calling is new to the VL line, with ToolSandbox moving from 26.4 to 59.5. The model fits in roughly 3 GB and decodes 228 tokens/s on an Apple M5 Max. The post Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device appeared first on...",
-      "consensus_multi_dimensional_score": {
-        "relevance_score": 0.8,
-        "quality_score": 0.9,
+        "quality_score": 0.8,
         "novelty_score": 0.9,
-        "impact_score": 0.8,
-        "overall_score": 0.85,
-        "confidence_mean": 0.9
+        "impact_score": 0.9,
+        "overall_score": 0.8750000000000001,
+        "confidence_mean": 0.95
       },
       "combined_deep_intelligence": {
         "analysis": {
@@ -726,35 +602,35 @@
             "enhancement_suggestions": []
           }
         },
-        "score": 0.85,
+        "score": 0.92,
         "confidence": 0.9,
         "recommendation": "ACCEPT",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.049678+00:00"
+        "consensus_timestamp": "2026-08-16T20:27:32.553314+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
-        "weighted_score": 0.71,
+        "weighted_score": 0.752,
         "combined_confidence": 0.74,
         "decision": "ACCEPT",
         "weights": {
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:30:45.049680+00:00"
+        "timestamp": "2026-08-16T20:27:32.553317+00:00"
       },
       "article_type": "article"
     },
     {
-      "article_id": "764052258094eb627489dadf9522ccfb",
-      "title": "Testing ads in ChatGPT",
-      "source": "openai_blog",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "published_date": "2026-08-11T10:00:00+00:00",
+      "article_id": "944339cba662446db18f1ce0a625e33c",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
+      "source": "azure_ai_blog",
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+      "published_date": "2026-08-06T15:00:00+00:00",
       "category": "Industry",
-      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "author": "",
-      "content": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "description": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog.",
+      "author": "Mike Hulme",
+      "content": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog.",
       "consensus_multi_dimensional_score": {
         "relevance_score": 0.9,
         "quality_score": 0.85,
@@ -792,7 +668,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.046824+00:00"
+        "consensus_timestamp": "2026-08-16T20:27:32.550285+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -803,7 +679,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:30:45.046826+00:00"
+        "timestamp": "2026-08-16T20:27:32.550287+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "8ccaf6371595fc8cf2efe24a9e4baf2b",
+      "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
+      "source": "aws_ml_blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
+      "published_date": "2026-08-13T15:56:07+00:00",
+      "category": "Industry",
+      "description": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
+      "author": "Salman Moghal",
+      "content": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.85,
+        "novelty_score": 0.7,
+        "impact_score": 0.95,
+        "overall_score": 0.8474999999999999,
+        "confidence_mean": 0.9
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-16T20:27:32.550449+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-16T20:27:32.550452+00:00"
       },
       "article_type": "article"
     },
@@ -854,7 +792,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.046032+00:00"
+        "consensus_timestamp": "2026-08-16T20:27:32.547783+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -865,7 +803,7 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:30:45.046053+00:00"
+        "timestamp": "2026-08-16T20:27:32.547796+00:00"
       },
       "article_type": "article"
     },
@@ -916,7 +854,7 @@
         "confidence": 0.5,
         "recommendation": "CONDITIONAL",
         "agents_count": 1,
-        "consensus_timestamp": "2026-08-16T16:30:45.046240+00:00"
+        "consensus_timestamp": "2026-08-16T20:27:32.549184+00:00"
       },
       "final_consensus": {
         "algorithm": "weighted_combination",
@@ -927,7 +865,69 @@
           "initial_consensus": 0.4,
           "deep_intelligence": 0.6
         },
-        "timestamp": "2026-08-16T16:30:45.046243+00:00"
+        "timestamp": "2026-08-16T20:27:32.549188+00:00"
+      },
+      "article_type": "article"
+    },
+    {
+      "article_id": "a0fd0f2f7ba443574b62dcca4bb9269e",
+      "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
+      "source": "nist_ai_news",
+      "url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
+      "published_date": "2026-08-05T12:00:00+00:00",
+      "category": "Government",
+      "description": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
+      "author": "Sarah Henderson",
+      "content": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
+      "consensus_multi_dimensional_score": {
+        "relevance_score": 0.9,
+        "quality_score": 0.8,
+        "novelty_score": 0.9,
+        "impact_score": 0.8,
+        "overall_score": 0.8550000000000001,
+        "confidence_mean": 0.8
+      },
+      "combined_deep_intelligence": {
+        "analysis": {
+          "fact_verification": {
+            "verified_claims": [],
+            "unverified_claims": [],
+            "fact_check_confidence": 0.7
+          },
+          "bias_detection": {
+            "bias_indicators": [],
+            "bias_detection_score": 0.3
+          },
+          "credibility_assessment": {
+            "credibility_factors": [],
+            "credibility_score": 0.7
+          },
+          "impact_analysis": {
+            "impact_areas": [],
+            "impact_potential": 0.5
+          },
+          "synthesis": {
+            "key_insights": [],
+            "risk_factors": [],
+            "enhancement_suggestions": []
+          }
+        },
+        "score": 0.5,
+        "confidence": 0.5,
+        "recommendation": "CONDITIONAL",
+        "agents_count": 1,
+        "consensus_timestamp": "2026-08-16T20:27:32.547868+00:00"
+      },
+      "final_consensus": {
+        "algorithm": "weighted_combination",
+        "weighted_score": 0.5,
+        "combined_confidence": 0.5,
+        "decision": "ACCEPT",
+        "weights": {
+          "initial_consensus": 0.4,
+          "deep_intelligence": 0.6
+        },
+        "timestamp": "2026-08-16T20:27:32.547872+00:00"
       },
       "article_type": "article"
     }
@@ -935,7 +935,7 @@
   "count": 15,
   "pipeline_info": {
     "version": "3.0_with_deep_intelligence",
-    "processing_time": 221.51904153823853,
+    "processing_time": 222.25861167907715,
     "components": [
       "collection",
       "bulk_scoring",
@@ -953,10 +953,10 @@
       "research_papers": 0
     },
     "classification_metadata": {
-      "total_processed": 114,
+      "total_processed": 113,
       "candidates": {
         "headlines": 1,
-        "articles": 113,
+        "articles": 112,
         "research_papers": 0
       },
       "selected": {
